@@ -1,0 +1,63 @@
+[
+  {
+    "id": 801,
+    "root": "photon",
+    "phonetic": "/ˈfoʊtɑːn/",
+    "partOfSpeech": "n.",
+    "frequency": 1,
+    "category": "电力",
+    "words": [
+      {
+        "word": "photon",
+        "phonetic": "/ˈfoʊtɑːn/",
+        "partOfSpeech": "n.",
+        "meaning": "光子",
+        "memoryTip": "photo光 + on粒子 → 光子",
+        "root": "photon",
+        "rootPhonetic": "/ˈfoʊtɑːn/",
+        "rootMeaning": "光子",
+        "rootPhrases": ["photon energy", "photon flux", "single photon", "photon detector"],
+        "wordPhrases": ["photon energy", "photon flux", "single photon", "photon detector"]
+      },
+      {
+        "word": "photonic",
+        "phonetic": "/foʊˈtɑːnɪk/",
+        "partOfSpeech": "adj.",
+        "meaning": "光子的",
+        "memoryTip": "photon + ic → 光子的",
+        "root": "photon",
+        "rootPhonetic": "/ˈfoʊtɑːn/",
+        "rootMeaning": "光子",
+        "rootPhrases": ["photon energy", "photon flux", "single photon", "photon detector"],
+        "wordPhrases": ["photonic crystal", "photonic device", "photonic circuit", "photonic chip"]
+      },
+      {
+        "word": "photonics",
+        "phonetic": "/foʊˈtɑːnɪks/",
+        "partOfSpeech": "n.",
+        "meaning": "光子学",
+        "memoryTip": "photon + ics学科 → 光子学",
+        "root": "photon",
+        "rootPhonetic": "/ˈfoʊtɑːn/",
+        "rootMeaning": "光子",
+        "rootPhrases": ["photon energy", "photon flux", "single photon", "photon detector"],
+        "wordPhrases": ["photonics industry", "silicon photonics", "quantum photonics", "integrated photonics"]
+      },
+      {
+        "word": "photovoltaic",
+        "phonetic": "/ˌfoʊtoʊvɒlˈteɪɪk/",
+        "partOfSpeech": "adj.",
+        "meaning": "光伏的",
+        "memoryTip": "photo光 + voltaic电压的 → 光伏的",
+        "root": "photon",
+        "rootPhonetic": "/ˈfoʊtɑːn/",
+        "rootMeaning": "光子",
+        "rootPhrases": ["photon energy", "photon flux", "single photon", "photon detector"],
+        "wordPhrases": ["photovoltaic cell", "photovoltaic panel", "photovoltaic system", "photovoltaic power"]
+      }
+    ],
+    "phrases": ["photon energy", "photon flux", "single photon", "photon detector"],
+    "mnemonic": "photo光 + on粒子 → 光子",
+    "meaning": "光子"
+  }
+]

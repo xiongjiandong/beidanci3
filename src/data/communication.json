@@ -57327,5 +57327,5205 @@
       "analog_29 phrase 短语"
     ],
     "mnemonic": "记忆analog_29"
+  },
+  {
+    "id": 801,
+    "root": "tele",
+    "phonetic": "/ˈteli/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tele",
+        "phonetic": "/ˈteli/",
+        "partOfSpeech": "root",
+        "meaning": "远，远程",
+        "memoryTip": "词根 tele 表示 '远，远程'",
+        "root": "tele",
+        "rootPhonetic": "/ˈteli/",
+        "rootMeaning": "远，远程",
+        "rootPhrases": [
+          "tele 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tele 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "root": "phon",
+    "phonetic": "/fɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "phon",
+        "phonetic": "/fɒn/",
+        "partOfSpeech": "root",
+        "meaning": "声音，电话",
+        "memoryTip": "词根 phon 表示 '声音，电话'",
+        "root": "phon",
+        "rootPhonetic": "/fɒn/",
+        "rootMeaning": "声音，电话",
+        "rootPhrases": [
+          "phon 词根例句占位"
+        ],
+        "wordPhrases": [
+          "phon 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "root": "graph",
+    "phonetic": "/ɡræf/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "graph",
+        "phonetic": "/ɡræf/",
+        "partOfSpeech": "root",
+        "meaning": "写，记录",
+        "memoryTip": "词根 graph 表示 '写，记录'",
+        "root": "graph",
+        "rootPhonetic": "/ɡræf/",
+        "rootMeaning": "写，记录",
+        "rootPhrases": [
+          "graph 词根例句占位"
+        ],
+        "wordPhrases": [
+          "graph 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "root": "gram",
+    "phonetic": "/ɡræm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "gram",
+        "phonetic": "/ɡræm/",
+        "partOfSpeech": "root",
+        "meaning": "写，记录",
+        "memoryTip": "词根 gram 表示 '写，记录'",
+        "root": "gram",
+        "rootPhonetic": "/ɡræm/",
+        "rootMeaning": "写，记录",
+        "rootPhrases": [
+          "gram 词根例句占位"
+        ],
+        "wordPhrases": [
+          "gram 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "root": "scribe",
+    "phonetic": "/skraɪb/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "scribe",
+        "phonetic": "/skraɪb/",
+        "partOfSpeech": "root",
+        "meaning": "写",
+        "memoryTip": "词根 scribe 表示 '写'",
+        "root": "scribe",
+        "rootPhonetic": "/skraɪb/",
+        "rootMeaning": "写",
+        "rootPhrases": [
+          "scribe 词根例句占位"
+        ],
+        "wordPhrases": [
+          "scribe 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "root": "miss",
+    "phonetic": "/mɪs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "miss",
+        "phonetic": "/mɪs/",
+        "partOfSpeech": "root",
+        "meaning": "发送，放出",
+        "memoryTip": "词根 miss 表示 '发送，放出'",
+        "root": "miss",
+        "rootPhonetic": "/mɪs/",
+        "rootMeaning": "发送，放出",
+        "rootPhrases": [
+          "miss 词根例句占位"
+        ],
+        "wordPhrases": [
+          "miss 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "root": "mit",
+    "phonetic": "/mɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mit",
+        "phonetic": "/mɪt/",
+        "partOfSpeech": "root",
+        "meaning": "发送",
+        "memoryTip": "词根 mit 表示 '发送'",
+        "root": "mit",
+        "rootPhonetic": "/mɪt/",
+        "rootMeaning": "发送",
+        "rootPhrases": [
+          "mit 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mit 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "root": "port",
+    "phonetic": "/pɔːt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "port",
+        "phonetic": "/pɔːt/",
+        "partOfSpeech": "root",
+        "meaning": "携带",
+        "memoryTip": "词根 port 表示 '携带'",
+        "root": "port",
+        "rootPhonetic": "/pɔːt/",
+        "rootMeaning": "携带",
+        "rootPhrases": [
+          "port 词根例句占位"
+        ],
+        "wordPhrases": [
+          "port 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "root": "fer",
+    "phonetic": "/fɜːr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "fer",
+        "phonetic": "/fɜːr/",
+        "partOfSpeech": "root",
+        "meaning": "携带，运送",
+        "memoryTip": "词根 fer 表示 '携带，运送'",
+        "root": "fer",
+        "rootPhonetic": "/fɜːr/",
+        "rootMeaning": "携带，运送",
+        "rootPhrases": [
+          "fer 词根例句占位"
+        ],
+        "wordPhrases": [
+          "fer 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "root": "lat",
+    "phonetic": "/læt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lat",
+        "phonetic": "/læt/",
+        "partOfSpeech": "root",
+        "meaning": "携带",
+        "memoryTip": "词根 lat 表示 '携带'",
+        "root": "lat",
+        "rootPhonetic": "/læt/",
+        "rootMeaning": "携带",
+        "rootPhrases": [
+          "lat 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lat 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "root": "net",
+    "phonetic": "/net/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "net",
+        "phonetic": "/net/",
+        "partOfSpeech": "root",
+        "meaning": "网",
+        "memoryTip": "词根 net 表示 '网'",
+        "root": "net",
+        "rootPhonetic": "/net/",
+        "rootMeaning": "网",
+        "rootPhrases": [
+          "net 词根例句占位"
+        ],
+        "wordPhrases": [
+          "net 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "root": "work",
+    "phonetic": "/wɜːrk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "work",
+        "phonetic": "/wɜːrk/",
+        "partOfSpeech": "root",
+        "meaning": "工作，网络",
+        "memoryTip": "词根 work 表示 '工作，网络'",
+        "root": "work",
+        "rootPhonetic": "/wɜːrk/",
+        "rootMeaning": "工作，网络",
+        "rootPhrases": [
+          "work 词根例句占位"
+        ],
+        "wordPhrases": [
+          "work 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "root": "cast",
+    "phonetic": "/kɑːst/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "cast",
+        "phonetic": "/kɑːst/",
+        "partOfSpeech": "root",
+        "meaning": "投射，广播",
+        "memoryTip": "词根 cast 表示 '投射，广播'",
+        "root": "cast",
+        "rootPhonetic": "/kɑːst/",
+        "rootMeaning": "投射，广播",
+        "rootPhrases": [
+          "cast 词根例句占位"
+        ],
+        "wordPhrases": [
+          "cast 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "root": "broad",
+    "phonetic": "/brɔːd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "broad",
+        "phonetic": "/brɔːd/",
+        "partOfSpeech": "root",
+        "meaning": "宽",
+        "memoryTip": "词根 broad 表示 '宽'",
+        "root": "broad",
+        "rootPhonetic": "/brɔːd/",
+        "rootMeaning": "宽",
+        "rootPhrases": [
+          "broad 词根例句占位"
+        ],
+        "wordPhrases": [
+          "broad 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "root": "band",
+    "phonetic": "/bænd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "band",
+        "phonetic": "/bænd/",
+        "partOfSpeech": "root",
+        "meaning": "带，波段",
+        "memoryTip": "词根 band 表示 '带，波段'",
+        "root": "band",
+        "rootPhonetic": "/bænd/",
+        "rootMeaning": "带，波段",
+        "rootPhrases": [
+          "band 词根例句占位"
+        ],
+        "wordPhrases": [
+          "band 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "root": "wave",
+    "phonetic": "/weɪv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "wave",
+        "phonetic": "/weɪv/",
+        "partOfSpeech": "root",
+        "meaning": "波",
+        "memoryTip": "词根 wave 表示 '波'",
+        "root": "wave",
+        "rootPhonetic": "/weɪv/",
+        "rootMeaning": "波",
+        "rootPhrases": [
+          "wave 词根例句占位"
+        ],
+        "wordPhrases": [
+          "wave 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "root": "freq",
+    "phonetic": "/friːk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "freq",
+        "phonetic": "/friːk/",
+        "partOfSpeech": "root",
+        "meaning": "频繁，频率",
+        "memoryTip": "词根 freq 表示 '频繁，频率'",
+        "root": "freq",
+        "rootPhonetic": "/friːk/",
+        "rootMeaning": "频繁，频率",
+        "rootPhrases": [
+          "freq 词根例句占位"
+        ],
+        "wordPhrases": [
+          "freq 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "root": "mod",
+    "phonetic": "/mɒd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mod",
+        "phonetic": "/mɒd/",
+        "partOfSpeech": "root",
+        "meaning": "模式，调制",
+        "memoryTip": "词根 mod 表示 '模式，调制'",
+        "root": "mod",
+        "rootPhonetic": "/mɒd/",
+        "rootMeaning": "模式，调制",
+        "rootPhrases": [
+          "mod 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mod 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "root": "cod",
+    "phonetic": "/kɒd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "cod",
+        "phonetic": "/kɒd/",
+        "partOfSpeech": "root",
+        "meaning": "编码",
+        "memoryTip": "词根 cod 表示 '编码'",
+        "root": "cod",
+        "rootPhonetic": "/kɒd/",
+        "rootMeaning": "编码",
+        "rootPhrases": [
+          "cod 词根例句占位"
+        ],
+        "wordPhrases": [
+          "cod 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "root": "crypt",
+    "phonetic": "/krɪpt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "crypt",
+        "phonetic": "/krɪpt/",
+        "partOfSpeech": "root",
+        "meaning": "隐藏，加密",
+        "memoryTip": "词根 crypt 表示 '隐藏，加密'",
+        "root": "crypt",
+        "rootPhonetic": "/krɪpt/",
+        "rootMeaning": "隐藏，加密",
+        "rootPhrases": [
+          "crypt 词根例句占位"
+        ],
+        "wordPhrases": [
+          "crypt 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "root": "press",
+    "phonetic": "/pres/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "press",
+        "phonetic": "/pres/",
+        "partOfSpeech": "root",
+        "meaning": "压，按",
+        "memoryTip": "词根 press 表示 '压，按'",
+        "root": "press",
+        "rootPhonetic": "/pres/",
+        "rootMeaning": "压，按",
+        "rootPhrases": [
+          "press 词根例句占位"
+        ],
+        "wordPhrases": [
+          "press 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "root": "print",
+    "phonetic": "/prɪnt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "print",
+        "phonetic": "/prɪnt/",
+        "partOfSpeech": "root",
+        "meaning": "印",
+        "memoryTip": "词根 print 表示 '印'",
+        "root": "print",
+        "rootPhonetic": "/prɪnt/",
+        "rootMeaning": "印",
+        "rootPhrases": [
+          "print 词根例句占位"
+        ],
+        "wordPhrases": [
+          "print 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "root": "scan",
+    "phonetic": "/skæn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "scan",
+        "phonetic": "/skæn/",
+        "partOfSpeech": "root",
+        "meaning": "扫描",
+        "memoryTip": "词根 scan 表示 '扫描'",
+        "root": "scan",
+        "rootPhonetic": "/skæn/",
+        "rootMeaning": "扫描",
+        "rootPhrases": [
+          "scan 词根例句占位"
+        ],
+        "wordPhrases": [
+          "scan 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "root": "sens",
+    "phonetic": "/sens/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sens",
+        "phonetic": "/sens/",
+        "partOfSpeech": "root",
+        "meaning": "感觉",
+        "memoryTip": "词根 sens 表示 '感觉'",
+        "root": "sens",
+        "rootPhonetic": "/sens/",
+        "rootMeaning": "感觉",
+        "rootPhrases": [
+          "sens 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sens 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "root": "cept",
+    "phonetic": "/sept/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "cept",
+        "phonetic": "/sept/",
+        "partOfSpeech": "root",
+        "meaning": "拿，接收",
+        "memoryTip": "词根 cept 表示 '拿，接收'",
+        "root": "cept",
+        "rootPhonetic": "/sept/",
+        "rootMeaning": "拿，接收",
+        "rootPhrases": [
+          "cept 词根例句占位"
+        ],
+        "wordPhrases": [
+          "cept 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "root": "ceive",
+    "phonetic": "/siːv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ceive",
+        "phonetic": "/siːv/",
+        "partOfSpeech": "root",
+        "meaning": "拿，接收",
+        "memoryTip": "词根 ceive 表示 '拿，接收'",
+        "root": "ceive",
+        "rootPhonetic": "/siːv/",
+        "rootMeaning": "拿，接收",
+        "rootPhrases": [
+          "ceive 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ceive 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "root": "mit",
+    "phonetic": "/maɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mit",
+        "phonetic": "/maɪt/",
+        "partOfSpeech": "root",
+        "meaning": "测量",
+        "memoryTip": "词根 mit 表示 '测量'",
+        "root": "mit",
+        "rootPhonetic": "/maɪt/",
+        "rootMeaning": "测量",
+        "rootPhrases": [
+          "mit 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mit 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "root": "metr",
+    "phonetic": "/miːtr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "metr",
+        "phonetic": "/miːtr/",
+        "partOfSpeech": "root",
+        "meaning": "测量",
+        "memoryTip": "词根 metr 表示 '测量'",
+        "root": "metr",
+        "rootPhonetic": "/miːtr/",
+        "rootMeaning": "测量",
+        "rootPhrases": [
+          "metr 词根例句占位"
+        ],
+        "wordPhrases": [
+          "metr 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "root": "volt",
+    "phonetic": "/voʊlt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "volt",
+        "phonetic": "/voʊlt/",
+        "partOfSpeech": "root",
+        "meaning": "伏特",
+        "memoryTip": "词根 volt 表示 '伏特'",
+        "root": "volt",
+        "rootPhonetic": "/voʊlt/",
+        "rootMeaning": "伏特",
+        "rootPhrases": [
+          "volt 词根例句占位"
+        ],
+        "wordPhrases": [
+          "volt 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "root": "ampli",
+    "phonetic": "/ˈæmplɪ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ampli",
+        "phonetic": "/ˈæmplɪ/",
+        "partOfSpeech": "root",
+        "meaning": "放大",
+        "memoryTip": "词根 ampli 表示 '放大'",
+        "root": "ampli",
+        "rootPhonetic": "/ˈæmplɪ/",
+        "rootMeaning": "放大",
+        "rootPhrases": [
+          "ampli 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ampli 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "root": "trans",
+    "phonetic": "/træns/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "trans",
+        "phonetic": "/træns/",
+        "partOfSpeech": "root",
+        "meaning": "穿过，转移",
+        "memoryTip": "词根 trans 表示 '穿过，转移'",
+        "root": "trans",
+        "rootPhonetic": "/træns/",
+        "rootMeaning": "穿过，转移",
+        "rootPhrases": [
+          "trans 词根例句占位"
+        ],
+        "wordPhrases": [
+          "trans 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "root": "inter",
+    "phonetic": "/ˈɪntər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "inter",
+        "phonetic": "/ˈɪntər/",
+        "partOfSpeech": "root",
+        "meaning": "在...之间",
+        "memoryTip": "词根 inter 表示 '在...之间'",
+        "root": "inter",
+        "rootPhonetic": "/ˈɪntər/",
+        "rootMeaning": "在...之间",
+        "rootPhrases": [
+          "inter 词根例句占位"
+        ],
+        "wordPhrases": [
+          "inter 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "root": "con",
+    "phonetic": "/kɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "con",
+        "phonetic": "/kɒn/",
+        "partOfSpeech": "root",
+        "meaning": "共同",
+        "memoryTip": "词根 con 表示 '共同'",
+        "root": "con",
+        "rootPhonetic": "/kɒn/",
+        "rootMeaning": "共同",
+        "rootPhrases": [
+          "con 词根例句占位"
+        ],
+        "wordPhrases": [
+          "con 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "root": "com",
+    "phonetic": "/kɒm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "com",
+        "phonetic": "/kɒm/",
+        "partOfSpeech": "root",
+        "meaning": "共同",
+        "memoryTip": "词根 com 表示 '共同'",
+        "root": "com",
+        "rootPhonetic": "/kɒm/",
+        "rootMeaning": "共同",
+        "rootPhrases": [
+          "com 词根例句占位"
+        ],
+        "wordPhrases": [
+          "com 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "root": "syn",
+    "phonetic": "/sɪn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "syn",
+        "phonetic": "/sɪn/",
+        "partOfSpeech": "root",
+        "meaning": "同步",
+        "memoryTip": "词根 syn 表示 '同步'",
+        "root": "syn",
+        "rootPhonetic": "/sɪn/",
+        "rootMeaning": "同步",
+        "rootPhrases": [
+          "syn 词根例句占位"
+        ],
+        "wordPhrases": [
+          "syn 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "root": "dia",
+    "phonetic": "/ˈdaɪə/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "dia",
+        "phonetic": "/ˈdaɪə/",
+        "partOfSpeech": "root",
+        "meaning": "通过，穿过",
+        "memoryTip": "词根 dia 表示 '通过，穿过'",
+        "root": "dia",
+        "rootPhonetic": "/ˈdaɪə/",
+        "rootMeaning": "通过，穿过",
+        "rootPhrases": [
+          "dia 词根例句占位"
+        ],
+        "wordPhrases": [
+          "dia 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "root": "per",
+    "phonetic": "/pɜːr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "per",
+        "phonetic": "/pɜːr/",
+        "partOfSpeech": "root",
+        "meaning": "完全，贯穿",
+        "memoryTip": "词根 per 表示 '完全，贯穿'",
+        "root": "per",
+        "rootPhonetic": "/pɜːr/",
+        "rootMeaning": "完全，贯穿",
+        "rootPhrases": [
+          "per 词根例句占位"
+        ],
+        "wordPhrases": [
+          "per 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "root": "pro",
+    "phonetic": "/prəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pro",
+        "phonetic": "/prəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "向前",
+        "memoryTip": "词根 pro 表示 '向前'",
+        "root": "pro",
+        "rootPhonetic": "/prəʊ/",
+        "rootMeaning": "向前",
+        "rootPhrases": [
+          "pro 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pro 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "root": "re",
+    "phonetic": "/riː/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "re",
+        "phonetic": "/riː/",
+        "partOfSpeech": "root",
+        "meaning": "回，再",
+        "memoryTip": "词根 re 表示 '回，再'",
+        "root": "re",
+        "rootPhonetic": "/riː/",
+        "rootMeaning": "回，再",
+        "rootPhrases": [
+          "re 词根例句占位"
+        ],
+        "wordPhrases": [
+          "re 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "root": "de",
+    "phonetic": "/diː/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "de",
+        "phonetic": "/diː/",
+        "partOfSpeech": "root",
+        "meaning": "向下，分离",
+        "memoryTip": "词根 de 表示 '向下，分离'",
+        "root": "de",
+        "rootPhonetic": "/diː/",
+        "rootMeaning": "向下，分离",
+        "rootPhrases": [
+          "de 词根例句占位"
+        ],
+        "wordPhrases": [
+          "de 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "root": "dis",
+    "phonetic": "/dɪs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "dis",
+        "phonetic": "/dɪs/",
+        "partOfSpeech": "root",
+        "meaning": "分离，否定",
+        "memoryTip": "词根 dis 表示 '分离，否定'",
+        "root": "dis",
+        "rootPhonetic": "/dɪs/",
+        "rootMeaning": "分离，否定",
+        "rootPhrases": [
+          "dis 词根例句占位"
+        ],
+        "wordPhrases": [
+          "dis 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "root": "en",
+    "phonetic": "/en/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "en",
+        "phonetic": "/en/",
+        "partOfSpeech": "root",
+        "meaning": "使，进入",
+        "memoryTip": "词根 en 表示 '使，进入'",
+        "root": "en",
+        "rootPhonetic": "/en/",
+        "rootMeaning": "使，进入",
+        "rootPhrases": [
+          "en 词根例句占位"
+        ],
+        "wordPhrases": [
+          "en 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "root": "em",
+    "phonetic": "/em/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "em",
+        "phonetic": "/em/",
+        "partOfSpeech": "root",
+        "meaning": "使，进入",
+        "memoryTip": "词根 em 表示 '使，进入'",
+        "root": "em",
+        "rootPhonetic": "/em/",
+        "rootMeaning": "使，进入",
+        "rootPhrases": [
+          "em 词根例句占位"
+        ],
+        "wordPhrases": [
+          "em 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "root": "auto",
+    "phonetic": "/ˈɔːtəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "auto",
+        "phonetic": "/ˈɔːtəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "自动",
+        "memoryTip": "词根 auto 表示 '自动'",
+        "root": "auto",
+        "rootPhonetic": "/ˈɔːtəʊ/",
+        "rootMeaning": "自动",
+        "rootPhrases": [
+          "auto 词根例句占位"
+        ],
+        "wordPhrases": [
+          "auto 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 845,
+    "root": "bio",
+    "phonetic": "/ˈbaɪəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "bio",
+        "phonetic": "/ˈbaɪəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "生命",
+        "memoryTip": "词根 bio 表示 '生命'",
+        "root": "bio",
+        "rootPhonetic": "/ˈbaɪəʊ/",
+        "rootMeaning": "生命",
+        "rootPhrases": [
+          "bio 词根例句占位"
+        ],
+        "wordPhrases": [
+          "bio 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 846,
+    "root": "geo",
+    "phonetic": "/ˈdʒiːəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "geo",
+        "phonetic": "/ˈdʒiːəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "地球",
+        "memoryTip": "词根 geo 表示 '地球'",
+        "root": "geo",
+        "rootPhonetic": "/ˈdʒiːəʊ/",
+        "rootMeaning": "地球",
+        "rootPhrases": [
+          "geo 词根例句占位"
+        ],
+        "wordPhrases": [
+          "geo 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "root": "astro",
+    "phonetic": "/ˈæstrəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "astro",
+        "phonetic": "/ˈæstrəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "星，天体",
+        "memoryTip": "词根 astro 表示 '星，天体'",
+        "root": "astro",
+        "rootPhonetic": "/ˈæstrəʊ/",
+        "rootMeaning": "星，天体",
+        "rootPhrases": [
+          "astro 词根例句占位"
+        ],
+        "wordPhrases": [
+          "astro 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 848,
+    "root": "photo",
+    "phonetic": "/ˈfəʊtəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "photo",
+        "phonetic": "/ˈfəʊtəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "光",
+        "memoryTip": "词根 photo 表示 '光'",
+        "root": "photo",
+        "rootPhonetic": "/ˈfəʊtəʊ/",
+        "rootMeaning": "光",
+        "rootPhrases": [
+          "photo 词根例句占位"
+        ],
+        "wordPhrases": [
+          "photo 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 849,
+    "root": "radi",
+    "phonetic": "/ˈreɪdi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "radi",
+        "phonetic": "/ˈreɪdi/",
+        "partOfSpeech": "root",
+        "meaning": "射线，辐射",
+        "memoryTip": "词根 radi 表示 '射线，辐射'",
+        "root": "radi",
+        "rootPhonetic": "/ˈreɪdi/",
+        "rootMeaning": "射线，辐射",
+        "rootPhrases": [
+          "radi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "radi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "root": "son",
+    "phonetic": "/sɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "son",
+        "phonetic": "/sɒn/",
+        "partOfSpeech": "root",
+        "meaning": "声音",
+        "memoryTip": "词根 son 表示 '声音'",
+        "root": "son",
+        "rootPhonetic": "/sɒn/",
+        "rootMeaning": "声音",
+        "rootPhrases": [
+          "son 词根例句占位"
+        ],
+        "wordPhrases": [
+          "son 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 851,
+    "root": "audi",
+    "phonetic": "/ˈɔːdi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "audi",
+        "phonetic": "/ˈɔːdi/",
+        "partOfSpeech": "root",
+        "meaning": "听",
+        "memoryTip": "词根 audi 表示 '听'",
+        "root": "audi",
+        "rootPhonetic": "/ˈɔːdi/",
+        "rootMeaning": "听",
+        "rootPhrases": [
+          "audi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "audi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "root": "vid",
+    "phonetic": "/vɪd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "vid",
+        "phonetic": "/vɪd/",
+        "partOfSpeech": "root",
+        "meaning": "看",
+        "memoryTip": "词根 vid 表示 '看'",
+        "root": "vid",
+        "rootPhonetic": "/vɪd/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "vid 词根例句占位"
+        ],
+        "wordPhrases": [
+          "vid 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 853,
+    "root": "vis",
+    "phonetic": "/vɪs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "vis",
+        "phonetic": "/vɪs/",
+        "partOfSpeech": "root",
+        "meaning": "看",
+        "memoryTip": "词根 vis 表示 '看'",
+        "root": "vis",
+        "rootPhonetic": "/vɪs/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "vis 词根例句占位"
+        ],
+        "wordPhrases": [
+          "vis 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 854,
+    "root": "spec",
+    "phonetic": "/spek/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "spec",
+        "phonetic": "/spek/",
+        "partOfSpeech": "root",
+        "meaning": "看",
+        "memoryTip": "词根 spec 表示 '看'",
+        "root": "spec",
+        "rootPhonetic": "/spek/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "spec 词根例句占位"
+        ],
+        "wordPhrases": [
+          "spec 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 855,
+    "root": "spic",
+    "phonetic": "/spɪk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "spic",
+        "phonetic": "/spɪk/",
+        "partOfSpeech": "root",
+        "meaning": "看",
+        "memoryTip": "词根 spic 表示 '看'",
+        "root": "spic",
+        "rootPhonetic": "/spɪk/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "spic 词根例句占位"
+        ],
+        "wordPhrases": [
+          "spic 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 856,
+    "root": "opt",
+    "phonetic": "/ɒpt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "opt",
+        "phonetic": "/ɒpt/",
+        "partOfSpeech": "root",
+        "meaning": "眼睛，光",
+        "memoryTip": "词根 opt 表示 '眼睛，光'",
+        "root": "opt",
+        "rootPhonetic": "/ɒpt/",
+        "rootMeaning": "眼睛，光",
+        "rootPhrases": [
+          "opt 词根例句占位"
+        ],
+        "wordPhrases": [
+          "opt 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "root": "ocul",
+    "phonetic": "/ˈɒkjʊl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ocul",
+        "phonetic": "/ˈɒkjʊl/",
+        "partOfSpeech": "root",
+        "meaning": "眼睛",
+        "memoryTip": "词根 ocul 表示 '眼睛'",
+        "root": "ocul",
+        "rootPhonetic": "/ˈɒkjʊl/",
+        "rootMeaning": "眼睛",
+        "rootPhrases": [
+          "ocul 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ocul 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 858,
+    "root": "lens",
+    "phonetic": "/lenz/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lens",
+        "phonetic": "/lenz/",
+        "partOfSpeech": "root",
+        "meaning": "透镜",
+        "memoryTip": "词根 lens 表示 '透镜'",
+        "root": "lens",
+        "rootPhonetic": "/lenz/",
+        "rootMeaning": "透镜",
+        "rootPhrases": [
+          "lens 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lens 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 859,
+    "root": "mirr",
+    "phonetic": "/mɪr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mirr",
+        "phonetic": "/mɪr/",
+        "partOfSpeech": "root",
+        "meaning": "镜子",
+        "memoryTip": "词根 mirr 表示 '镜子'",
+        "root": "mirr",
+        "rootPhonetic": "/mɪr/",
+        "rootMeaning": "镜子",
+        "rootPhrases": [
+          "mirr 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mirr 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 860,
+    "root": "reflect",
+    "phonetic": "/rɪˈflekt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "reflect",
+        "phonetic": "/rɪˈflekt/",
+        "partOfSpeech": "root",
+        "meaning": "反射",
+        "memoryTip": "词根 reflect 表示 '反射'",
+        "root": "reflect",
+        "rootPhonetic": "/rɪˈflekt/",
+        "rootMeaning": "反射",
+        "rootPhrases": [
+          "reflect 词根例句占位"
+        ],
+        "wordPhrases": [
+          "reflect 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 861,
+    "root": "tract",
+    "phonetic": "/trækt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tract",
+        "phonetic": "/trækt/",
+        "partOfSpeech": "root",
+        "meaning": "拉，引",
+        "memoryTip": "词根 tract 表示 '拉，引'",
+        "root": "tract",
+        "rootPhonetic": "/trækt/",
+        "rootMeaning": "拉，引",
+        "rootPhrases": [
+          "tract 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tract 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 862,
+    "root": "tens",
+    "phonetic": "/tens/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tens",
+        "phonetic": "/tens/",
+        "partOfSpeech": "root",
+        "meaning": "伸展",
+        "memoryTip": "词根 tens 表示 '伸展'",
+        "root": "tens",
+        "rootPhonetic": "/tens/",
+        "rootMeaning": "伸展",
+        "rootPhrases": [
+          "tens 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tens 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 863,
+    "root": "tent",
+    "phonetic": "/tent/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tent",
+        "phonetic": "/tent/",
+        "partOfSpeech": "root",
+        "meaning": "伸展",
+        "memoryTip": "词根 tent 表示 '伸展'",
+        "root": "tent",
+        "rootPhonetic": "/tent/",
+        "rootMeaning": "伸展",
+        "rootPhrases": [
+          "tent 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tent 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 864,
+    "root": "flex",
+    "phonetic": "/fleks/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "flex",
+        "phonetic": "/fleks/",
+        "partOfSpeech": "root",
+        "meaning": "弯曲",
+        "memoryTip": "词根 flex 表示 '弯曲'",
+        "root": "flex",
+        "rootPhonetic": "/fleks/",
+        "rootMeaning": "弯曲",
+        "rootPhrases": [
+          "flex 词根例句占位"
+        ],
+        "wordPhrases": [
+          "flex 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 865,
+    "root": "flect",
+    "phonetic": "/flekt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "flect",
+        "phonetic": "/flekt/",
+        "partOfSpeech": "root",
+        "meaning": "弯曲",
+        "memoryTip": "词根 flect 表示 '弯曲'",
+        "root": "flect",
+        "rootPhonetic": "/flekt/",
+        "rootMeaning": "弯曲",
+        "rootPhrases": [
+          "flect 词根例句占位"
+        ],
+        "wordPhrases": [
+          "flect 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "root": "vers",
+    "phonetic": "/vɜːrs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "vers",
+        "phonetic": "/vɜːrs/",
+        "partOfSpeech": "root",
+        "meaning": "转",
+        "memoryTip": "词根 vers 表示 '转'",
+        "root": "vers",
+        "rootPhonetic": "/vɜːrs/",
+        "rootMeaning": "转",
+        "rootPhrases": [
+          "vers 词根例句占位"
+        ],
+        "wordPhrases": [
+          "vers 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "root": "vert",
+    "phonetic": "/vɜːrt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "vert",
+        "phonetic": "/vɜːrt/",
+        "partOfSpeech": "root",
+        "meaning": "转",
+        "memoryTip": "词根 vert 表示 '转'",
+        "root": "vert",
+        "rootPhonetic": "/vɜːrt/",
+        "rootMeaning": "转",
+        "rootPhrases": [
+          "vert 词根例句占位"
+        ],
+        "wordPhrases": [
+          "vert 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 868,
+    "root": "rot",
+    "phonetic": "/rɒt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "rot",
+        "phonetic": "/rɒt/",
+        "partOfSpeech": "root",
+        "meaning": "转",
+        "memoryTip": "词根 rot 表示 '转'",
+        "root": "rot",
+        "rootPhonetic": "/rɒt/",
+        "rootMeaning": "转",
+        "rootPhrases": [
+          "rot 词根例句占位"
+        ],
+        "wordPhrases": [
+          "rot 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "root": "roll",
+    "phonetic": "/roʊl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "roll",
+        "phonetic": "/roʊl/",
+        "partOfSpeech": "root",
+        "meaning": "滚动",
+        "memoryTip": "词根 roll 表示 '滚动'",
+        "root": "roll",
+        "rootPhonetic": "/roʊl/",
+        "rootMeaning": "滚动",
+        "rootPhrases": [
+          "roll 词根例句占位"
+        ],
+        "wordPhrases": [
+          "roll 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 870,
+    "root": "volv",
+    "phonetic": "/vɒlv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "volv",
+        "phonetic": "/vɒlv/",
+        "partOfSpeech": "root",
+        "meaning": "滚动",
+        "memoryTip": "词根 volv 表示 '滚动'",
+        "root": "volv",
+        "rootPhonetic": "/vɒlv/",
+        "rootMeaning": "滚动",
+        "rootPhrases": [
+          "volv 词根例句占位"
+        ],
+        "wordPhrases": [
+          "volv 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 871,
+    "root": "solu",
+    "phonetic": "/ˈsɒljuː/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "solu",
+        "phonetic": "/ˈsɒljuː/",
+        "partOfSpeech": "root",
+        "meaning": "松开，解决",
+        "memoryTip": "词根 solu 表示 '松开，解决'",
+        "root": "solu",
+        "rootPhonetic": "/ˈsɒljuː/",
+        "rootMeaning": "松开，解决",
+        "rootPhrases": [
+          "solu 词根例句占位"
+        ],
+        "wordPhrases": [
+          "solu 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "root": "solv",
+    "phonetic": "/sɒlv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "solv",
+        "phonetic": "/sɒlv/",
+        "partOfSpeech": "root",
+        "meaning": "松开",
+        "memoryTip": "词根 solv 表示 '松开'",
+        "root": "solv",
+        "rootPhonetic": "/sɒlv/",
+        "rootMeaning": "松开",
+        "rootPhrases": [
+          "solv 词根例句占位"
+        ],
+        "wordPhrases": [
+          "solv 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 873,
+    "root": "lu",
+    "phonetic": "/luː/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lu",
+        "phonetic": "/luː/",
+        "partOfSpeech": "root",
+        "meaning": "松开",
+        "memoryTip": "词根 lu 表示 '松开'",
+        "root": "lu",
+        "rootPhonetic": "/luː/",
+        "rootMeaning": "松开",
+        "rootPhrases": [
+          "lu 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lu 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 874,
+    "root": "lys",
+    "phonetic": "/laɪs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lys",
+        "phonetic": "/laɪs/",
+        "partOfSpeech": "root",
+        "meaning": "松开",
+        "memoryTip": "词根 lys 表示 '松开'",
+        "root": "lys",
+        "rootPhonetic": "/laɪs/",
+        "rootMeaning": "松开",
+        "rootPhrases": [
+          "lys 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lys 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "root": "lyt",
+    "phonetic": "/lɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lyt",
+        "phonetic": "/lɪt/",
+        "partOfSpeech": "root",
+        "meaning": "松开",
+        "memoryTip": "词根 lyt 表示 '松开'",
+        "root": "lyt",
+        "rootPhonetic": "/lɪt/",
+        "rootMeaning": "松开",
+        "rootPhrases": [
+          "lyt 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lyt 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 876,
+    "root": "fract",
+    "phonetic": "/frækt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "fract",
+        "phonetic": "/frækt/",
+        "partOfSpeech": "root",
+        "meaning": "破，碎",
+        "memoryTip": "词根 fract 表示 '破，碎'",
+        "root": "fract",
+        "rootPhonetic": "/frækt/",
+        "rootMeaning": "破，碎",
+        "rootPhrases": [
+          "fract 词根例句占位"
+        ],
+        "wordPhrases": [
+          "fract 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "root": "frag",
+    "phonetic": "/fræɡ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "frag",
+        "phonetic": "/fræɡ/",
+        "partOfSpeech": "root",
+        "meaning": "破，碎",
+        "memoryTip": "词根 frag 表示 '破，碎'",
+        "root": "frag",
+        "rootPhonetic": "/fræɡ/",
+        "rootMeaning": "破，碎",
+        "rootPhrases": [
+          "frag 词根例句占位"
+        ],
+        "wordPhrases": [
+          "frag 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 878,
+    "root": "rupt",
+    "phonetic": "/rʌpt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "rupt",
+        "phonetic": "/rʌpt/",
+        "partOfSpeech": "root",
+        "meaning": "破，断",
+        "memoryTip": "词根 rupt 表示 '破，断'",
+        "root": "rupt",
+        "rootPhonetic": "/rʌpt/",
+        "rootMeaning": "破，断",
+        "rootPhrases": [
+          "rupt 词根例句占位"
+        ],
+        "wordPhrases": [
+          "rupt 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 879,
+    "root": "break",
+    "phonetic": "/breɪk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "break",
+        "phonetic": "/breɪk/",
+        "partOfSpeech": "root",
+        "meaning": "破",
+        "memoryTip": "词根 break 表示 '破'",
+        "root": "break",
+        "rootPhonetic": "/breɪk/",
+        "rootMeaning": "破",
+        "rootPhrases": [
+          "break 词根例句占位"
+        ],
+        "wordPhrases": [
+          "break 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 880,
+    "root": "crack",
+    "phonetic": "/kræk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "crack",
+        "phonetic": "/kræk/",
+        "partOfSpeech": "root",
+        "meaning": "裂",
+        "memoryTip": "词根 crack 表示 '裂'",
+        "root": "crack",
+        "rootPhonetic": "/kræk/",
+        "rootMeaning": "裂",
+        "rootPhrases": [
+          "crack 词根例句占位"
+        ],
+        "wordPhrases": [
+          "crack 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 881,
+    "root": "crash",
+    "phonetic": "/kræʃ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "crash",
+        "phonetic": "/kræʃ/",
+        "partOfSpeech": "root",
+        "meaning": "碰撞",
+        "memoryTip": "词根 crash 表示 '碰撞'",
+        "root": "crash",
+        "rootPhonetic": "/kræʃ/",
+        "rootMeaning": "碰撞",
+        "rootPhrases": [
+          "crash 词根例句占位"
+        ],
+        "wordPhrases": [
+          "crash 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 882,
+    "root": "collid",
+    "phonetic": "/kəˈlaɪd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "collid",
+        "phonetic": "/kəˈlaɪd/",
+        "partOfSpeech": "root",
+        "meaning": "碰撞",
+        "memoryTip": "词根 collid 表示 '碰撞'",
+        "root": "collid",
+        "rootPhonetic": "/kəˈlaɪd/",
+        "rootMeaning": "碰撞",
+        "rootPhrases": [
+          "collid 词根例句占位"
+        ],
+        "wordPhrases": [
+          "collid 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 883,
+    "root": "impact",
+    "phonetic": "/ˈɪmpækt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "impact",
+        "phonetic": "/ˈɪmpækt/",
+        "partOfSpeech": "root",
+        "meaning": "冲击",
+        "memoryTip": "词根 impact 表示 '冲击'",
+        "root": "impact",
+        "rootPhonetic": "/ˈɪmpækt/",
+        "rootMeaning": "冲击",
+        "rootPhrases": [
+          "impact 词根例句占位"
+        ],
+        "wordPhrases": [
+          "impact 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "root": "shock",
+    "phonetic": "/ʃɒk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "shock",
+        "phonetic": "/ʃɒk/",
+        "partOfSpeech": "root",
+        "meaning": "震动",
+        "memoryTip": "词根 shock 表示 '震动'",
+        "root": "shock",
+        "rootPhonetic": "/ʃɒk/",
+        "rootMeaning": "震动",
+        "rootPhrases": [
+          "shock 词根例句占位"
+        ],
+        "wordPhrases": [
+          "shock 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "root": "vibr",
+    "phonetic": "/ˈvaɪbr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "vibr",
+        "phonetic": "/ˈvaɪbr/",
+        "partOfSpeech": "root",
+        "meaning": "振动",
+        "memoryTip": "词根 vibr 表示 '振动'",
+        "root": "vibr",
+        "rootPhonetic": "/ˈvaɪbr/",
+        "rootMeaning": "振动",
+        "rootPhrases": [
+          "vibr 词根例句占位"
+        ],
+        "wordPhrases": [
+          "vibr 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 886,
+    "root": "oscil",
+    "phonetic": "/ˈɒsɪl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "oscil",
+        "phonetic": "/ˈɒsɪl/",
+        "partOfSpeech": "root",
+        "meaning": "振荡",
+        "memoryTip": "词根 oscil 表示 '振荡'",
+        "root": "oscil",
+        "rootPhonetic": "/ˈɒsɪl/",
+        "rootMeaning": "振荡",
+        "rootPhrases": [
+          "oscil 词根例句占位"
+        ],
+        "wordPhrases": [
+          "oscil 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "root": "puls",
+    "phonetic": "/pʌls/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "puls",
+        "phonetic": "/pʌls/",
+        "partOfSpeech": "root",
+        "meaning": "脉冲",
+        "memoryTip": "词根 puls 表示 '脉冲'",
+        "root": "puls",
+        "rootPhonetic": "/pʌls/",
+        "rootMeaning": "脉冲",
+        "rootPhrases": [
+          "puls 词根例句占位"
+        ],
+        "wordPhrases": [
+          "puls 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 888,
+    "root": "beat",
+    "phonetic": "/biːt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "beat",
+        "phonetic": "/biːt/",
+        "partOfSpeech": "root",
+        "meaning": "跳动",
+        "memoryTip": "词根 beat 表示 '跳动'",
+        "root": "beat",
+        "rootPhonetic": "/biːt/",
+        "rootMeaning": "跳动",
+        "rootPhrases": [
+          "beat 词根例句占位"
+        ],
+        "wordPhrases": [
+          "beat 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 889,
+    "root": "rhythm",
+    "phonetic": "/ˈrɪðəm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "rhythm",
+        "phonetic": "/ˈrɪðəm/",
+        "partOfSpeech": "root",
+        "meaning": "节奏",
+        "memoryTip": "词根 rhythm 表示 '节奏'",
+        "root": "rhythm",
+        "rootPhonetic": "/ˈrɪðəm/",
+        "rootMeaning": "节奏",
+        "rootPhrases": [
+          "rhythm 词根例句占位"
+        ],
+        "wordPhrases": [
+          "rhythm 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 890,
+    "root": "temp",
+    "phonetic": "/temp/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "temp",
+        "phonetic": "/temp/",
+        "partOfSpeech": "root",
+        "meaning": "时间，节奏",
+        "memoryTip": "词根 temp 表示 '时间，节奏'",
+        "root": "temp",
+        "rootPhonetic": "/temp/",
+        "rootMeaning": "时间，节奏",
+        "rootPhrases": [
+          "temp 词根例句占位"
+        ],
+        "wordPhrases": [
+          "temp 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 891,
+    "root": "chron",
+    "phonetic": "/krɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "chron",
+        "phonetic": "/krɒn/",
+        "partOfSpeech": "root",
+        "meaning": "时间",
+        "memoryTip": "词根 chron 表示 '时间'",
+        "root": "chron",
+        "rootPhonetic": "/krɒn/",
+        "rootMeaning": "时间",
+        "rootPhrases": [
+          "chron 词根例句占位"
+        ],
+        "wordPhrases": [
+          "chron 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 892,
+    "root": "dur",
+    "phonetic": "/djʊər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "dur",
+        "phonetic": "/djʊər/",
+        "partOfSpeech": "root",
+        "meaning": "持续",
+        "memoryTip": "词根 dur 表示 '持续'",
+        "root": "dur",
+        "rootPhonetic": "/djʊər/",
+        "rootMeaning": "持续",
+        "rootPhrases": [
+          "dur 词根例句占位"
+        ],
+        "wordPhrases": [
+          "dur 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 893,
+    "root": "last",
+    "phonetic": "/lɑːst/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "last",
+        "phonetic": "/lɑːst/",
+        "partOfSpeech": "root",
+        "meaning": "持续",
+        "memoryTip": "词根 last 表示 '持续'",
+        "root": "last",
+        "rootPhonetic": "/lɑːst/",
+        "rootMeaning": "持续",
+        "rootPhrases": [
+          "last 词根例句占位"
+        ],
+        "wordPhrases": [
+          "last 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "root": "tain",
+    "phonetic": "/teɪn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tain",
+        "phonetic": "/teɪn/",
+        "partOfSpeech": "root",
+        "meaning": "保持",
+        "memoryTip": "词根 tain 表示 '保持'",
+        "root": "tain",
+        "rootPhonetic": "/teɪn/",
+        "rootMeaning": "保持",
+        "rootPhrases": [
+          "tain 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tain 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 895,
+    "root": "ten",
+    "phonetic": "/ten/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ten",
+        "phonetic": "/ten/",
+        "partOfSpeech": "root",
+        "meaning": "保持",
+        "memoryTip": "词根 ten 表示 '保持'",
+        "root": "ten",
+        "rootPhonetic": "/ten/",
+        "rootMeaning": "保持",
+        "rootPhrases": [
+          "ten 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ten 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "root": "serv",
+    "phonetic": "/sɜːrv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "serv",
+        "phonetic": "/sɜːrv/",
+        "partOfSpeech": "root",
+        "meaning": "保存，服务",
+        "memoryTip": "词根 serv 表示 '保存，服务'",
+        "root": "serv",
+        "rootPhonetic": "/sɜːrv/",
+        "rootMeaning": "保存，服务",
+        "rootPhrases": [
+          "serv 词根例句占位"
+        ],
+        "wordPhrases": [
+          "serv 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 897,
+    "root": "servat",
+    "phonetic": "/ˈsɜːrvət/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "servat",
+        "phonetic": "/ˈsɜːrvət/",
+        "partOfSpeech": "root",
+        "meaning": "保存",
+        "memoryTip": "词根 servat 表示 '保存'",
+        "root": "servat",
+        "rootPhonetic": "/ˈsɜːrvət/",
+        "rootMeaning": "保存",
+        "rootPhrases": [
+          "servat 词根例句占位"
+        ],
+        "wordPhrases": [
+          "servat 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 898,
+    "root": "stor",
+    "phonetic": "/stɔːr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "stor",
+        "phonetic": "/stɔːr/",
+        "partOfSpeech": "root",
+        "meaning": "存储",
+        "memoryTip": "词根 stor 表示 '存储'",
+        "root": "stor",
+        "rootPhonetic": "/stɔːr/",
+        "rootMeaning": "存储",
+        "rootPhrases": [
+          "stor 词根例句占位"
+        ],
+        "wordPhrases": [
+          "stor 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 899,
+    "root": "stock",
+    "phonetic": "/stɒk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "stock",
+        "phonetic": "/stɒk/",
+        "partOfSpeech": "root",
+        "meaning": "存储",
+        "memoryTip": "词根 stock 表示 '存储'",
+        "root": "stock",
+        "rootPhonetic": "/stɒk/",
+        "rootMeaning": "存储",
+        "rootPhrases": [
+          "stock 词根例句占位"
+        ],
+        "wordPhrases": [
+          "stock 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "root": "stack",
+    "phonetic": "/stæk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "stack",
+        "phonetic": "/stæk/",
+        "partOfSpeech": "root",
+        "meaning": "堆栈",
+        "memoryTip": "词根 stack 表示 '堆栈'",
+        "root": "stack",
+        "rootPhonetic": "/stæk/",
+        "rootMeaning": "堆栈",
+        "rootPhrases": [
+          "stack 词根例句占位"
+        ],
+        "wordPhrases": [
+          "stack 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 901,
+    "root": "heap",
+    "phonetic": "/hiːp/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "heap",
+        "phonetic": "/hiːp/",
+        "partOfSpeech": "root",
+        "meaning": "堆",
+        "memoryTip": "词根 heap 表示 '堆'",
+        "root": "heap",
+        "rootPhonetic": "/hiːp/",
+        "rootMeaning": "堆",
+        "rootPhrases": [
+          "heap 词根例句占位"
+        ],
+        "wordPhrases": [
+          "heap 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 902,
+    "root": "pile",
+    "phonetic": "/paɪl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pile",
+        "phonetic": "/paɪl/",
+        "partOfSpeech": "root",
+        "meaning": "堆",
+        "memoryTip": "词根 pile 表示 '堆'",
+        "root": "pile",
+        "rootPhonetic": "/paɪl/",
+        "rootMeaning": "堆",
+        "rootPhrases": [
+          "pile 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pile 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "root": "bund",
+    "phonetic": "/bʌnd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "bund",
+        "phonetic": "/bʌnd/",
+        "partOfSpeech": "root",
+        "meaning": "捆，束",
+        "memoryTip": "词根 bund 表示 '捆，束'",
+        "root": "bund",
+        "rootPhonetic": "/bʌnd/",
+        "rootMeaning": "捆，束",
+        "rootPhrases": [
+          "bund 词根例句占位"
+        ],
+        "wordPhrases": [
+          "bund 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "root": "batch",
+    "phonetic": "/bætʃ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "batch",
+        "phonetic": "/bætʃ/",
+        "partOfSpeech": "root",
+        "meaning": "批",
+        "memoryTip": "词根 batch 表示 '批'",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批",
+        "rootPhrases": [
+          "batch 词根例句占位"
+        ],
+        "wordPhrases": [
+          "batch 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "root": "pack",
+    "phonetic": "/pæk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pack",
+        "phonetic": "/pæk/",
+        "partOfSpeech": "root",
+        "meaning": "包",
+        "memoryTip": "词根 pack 表示 '包'",
+        "root": "pack",
+        "rootPhonetic": "/pæk/",
+        "rootMeaning": "包",
+        "rootPhrases": [
+          "pack 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pack 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "root": "packet",
+    "phonetic": "/ˈpækɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "packet",
+        "phonetic": "/ˈpækɪt/",
+        "partOfSpeech": "root",
+        "meaning": "小包",
+        "memoryTip": "词根 packet 表示 '小包'",
+        "root": "packet",
+        "rootPhonetic": "/ˈpækɪt/",
+        "rootMeaning": "小包",
+        "rootPhrases": [
+          "packet 词根例句占位"
+        ],
+        "wordPhrases": [
+          "packet 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 907,
+    "root": "parcel",
+    "phonetic": "/ˈpɑːrsl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "parcel",
+        "phonetic": "/ˈpɑːrsl/",
+        "partOfSpeech": "root",
+        "meaning": "包裹",
+        "memoryTip": "词根 parcel 表示 '包裹'",
+        "root": "parcel",
+        "rootPhonetic": "/ˈpɑːrsl/",
+        "rootMeaning": "包裹",
+        "rootPhrases": [
+          "parcel 词根例句占位"
+        ],
+        "wordPhrases": [
+          "parcel 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "root": "cell",
+    "phonetic": "/sel/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "cell",
+        "phonetic": "/sel/",
+        "partOfSpeech": "root",
+        "meaning": "细胞，单元",
+        "memoryTip": "词根 cell 表示 '细胞，单元'",
+        "root": "cell",
+        "rootPhonetic": "/sel/",
+        "rootMeaning": "细胞，单元",
+        "rootPhrases": [
+          "cell 词根例句占位"
+        ],
+        "wordPhrases": [
+          "cell 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 909,
+    "root": "unit",
+    "phonetic": "/ˈjuːnɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "unit",
+        "phonetic": "/ˈjuːnɪt/",
+        "partOfSpeech": "root",
+        "meaning": "单元",
+        "memoryTip": "词根 unit 表示 '单元'",
+        "root": "unit",
+        "rootPhonetic": "/ˈjuːnɪt/",
+        "rootMeaning": "单元",
+        "rootPhrases": [
+          "unit 词根例句占位"
+        ],
+        "wordPhrases": [
+          "unit 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 910,
+    "root": "mon",
+    "phonetic": "/mɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mon",
+        "phonetic": "/mɒn/",
+        "partOfSpeech": "root",
+        "meaning": "单一",
+        "memoryTip": "词根 mon 表示 '单一'",
+        "root": "mon",
+        "rootPhonetic": "/mɒn/",
+        "rootMeaning": "单一",
+        "rootPhrases": [
+          "mon 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mon 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 911,
+    "root": "uni",
+    "phonetic": "/ˈjuːni/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "uni",
+        "phonetic": "/ˈjuːni/",
+        "partOfSpeech": "root",
+        "meaning": "单一",
+        "memoryTip": "词根 uni 表示 '单一'",
+        "root": "uni",
+        "rootPhonetic": "/ˈjuːni/",
+        "rootMeaning": "单一",
+        "rootPhrases": [
+          "uni 词根例句占位"
+        ],
+        "wordPhrases": [
+          "uni 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "root": "sol",
+    "phonetic": "/sɒl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sol",
+        "phonetic": "/sɒl/",
+        "partOfSpeech": "root",
+        "meaning": "单独",
+        "memoryTip": "词根 sol 表示 '单独'",
+        "root": "sol",
+        "rootPhonetic": "/sɒl/",
+        "rootMeaning": "单独",
+        "rootPhrases": [
+          "sol 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sol 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "root": "mult",
+    "phonetic": "/mʌlt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mult",
+        "phonetic": "/mʌlt/",
+        "partOfSpeech": "root",
+        "meaning": "多",
+        "memoryTip": "词根 mult 表示 '多'",
+        "root": "mult",
+        "rootPhonetic": "/mʌlt/",
+        "rootMeaning": "多",
+        "rootPhrases": [
+          "mult 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mult 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "root": "poly",
+    "phonetic": "/ˈpɒli/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "poly",
+        "phonetic": "/ˈpɒli/",
+        "partOfSpeech": "root",
+        "meaning": "多",
+        "memoryTip": "词根 poly 表示 '多'",
+        "root": "poly",
+        "rootPhonetic": "/ˈpɒli/",
+        "rootMeaning": "多",
+        "rootPhrases": [
+          "poly 词根例句占位"
+        ],
+        "wordPhrases": [
+          "poly 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 915,
+    "root": "plur",
+    "phonetic": "/plʊər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "plur",
+        "phonetic": "/plʊər/",
+        "partOfSpeech": "root",
+        "meaning": "多",
+        "memoryTip": "词根 plur 表示 '多'",
+        "root": "plur",
+        "rootPhonetic": "/plʊər/",
+        "rootMeaning": "多",
+        "rootPhrases": [
+          "plur 词根例句占位"
+        ],
+        "wordPhrases": [
+          "plur 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "root": "omni",
+    "phonetic": "/ˈɒmni/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "omni",
+        "phonetic": "/ˈɒmni/",
+        "partOfSpeech": "root",
+        "meaning": "全，总",
+        "memoryTip": "词根 omni 表示 '全，总'",
+        "root": "omni",
+        "rootPhonetic": "/ˈɒmni/",
+        "rootMeaning": "全，总",
+        "rootPhrases": [
+          "omni 词根例句占位"
+        ],
+        "wordPhrases": [
+          "omni 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "root": "pan",
+    "phonetic": "/pæn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pan",
+        "phonetic": "/pæn/",
+        "partOfSpeech": "root",
+        "meaning": "全",
+        "memoryTip": "词根 pan 表示 '全'",
+        "root": "pan",
+        "rootPhonetic": "/pæn/",
+        "rootMeaning": "全",
+        "rootPhrases": [
+          "pan 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pan 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 918,
+    "root": "tot",
+    "phonetic": "/tɒt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tot",
+        "phonetic": "/tɒt/",
+        "partOfSpeech": "root",
+        "meaning": "全",
+        "memoryTip": "词根 tot 表示 '全'",
+        "root": "tot",
+        "rootPhonetic": "/tɒt/",
+        "rootMeaning": "全",
+        "rootPhrases": [
+          "tot 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tot 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "root": "hol",
+    "phonetic": "/hɒl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "hol",
+        "phonetic": "/hɒl/",
+        "partOfSpeech": "root",
+        "meaning": "全",
+        "memoryTip": "词根 hol 表示 '全'",
+        "root": "hol",
+        "rootPhonetic": "/hɒl/",
+        "rootMeaning": "全",
+        "rootPhrases": [
+          "hol 词根例句占位"
+        ],
+        "wordPhrases": [
+          "hol 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 920,
+    "root": "integr",
+    "phonetic": "/ˈɪntɪɡr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "integr",
+        "phonetic": "/ˈɪntɪɡr/",
+        "partOfSpeech": "root",
+        "meaning": "完整",
+        "memoryTip": "词根 integr 表示 '完整'",
+        "root": "integr",
+        "rootPhonetic": "/ˈɪntɪɡr/",
+        "rootMeaning": "完整",
+        "rootPhrases": [
+          "integr 词根例句占位"
+        ],
+        "wordPhrases": [
+          "integr 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 921,
+    "root": "part",
+    "phonetic": "/pɑːrt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "part",
+        "phonetic": "/pɑːrt/",
+        "partOfSpeech": "root",
+        "meaning": "部分",
+        "memoryTip": "词根 part 表示 '部分'",
+        "root": "part",
+        "rootPhonetic": "/pɑːrt/",
+        "rootMeaning": "部分",
+        "rootPhrases": [
+          "part 词根例句占位"
+        ],
+        "wordPhrases": [
+          "part 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 922,
+    "root": "porti",
+    "phonetic": "/ˈpɔːrʃi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "porti",
+        "phonetic": "/ˈpɔːrʃi/",
+        "partOfSpeech": "root",
+        "meaning": "部分",
+        "memoryTip": "词根 porti 表示 '部分'",
+        "root": "porti",
+        "rootPhonetic": "/ˈpɔːrʃi/",
+        "rootMeaning": "部分",
+        "rootPhrases": [
+          "porti 词根例句占位"
+        ],
+        "wordPhrases": [
+          "porti 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 923,
+    "root": "sect",
+    "phonetic": "/sekt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sect",
+        "phonetic": "/sekt/",
+        "partOfSpeech": "root",
+        "meaning": "切，部分",
+        "memoryTip": "词根 sect 表示 '切，部分'",
+        "root": "sect",
+        "rootPhonetic": "/sekt/",
+        "rootMeaning": "切，部分",
+        "rootPhrases": [
+          "sect 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sect 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 924,
+    "root": "seg",
+    "phonetic": "/seɡ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "seg",
+        "phonetic": "/seɡ/",
+        "partOfSpeech": "root",
+        "meaning": "切，部分",
+        "memoryTip": "词根 seg 表示 '切，部分'",
+        "root": "seg",
+        "rootPhonetic": "/seɡ/",
+        "rootMeaning": "切，部分",
+        "rootPhrases": [
+          "seg 词根例句占位"
+        ],
+        "wordPhrases": [
+          "seg 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 925,
+    "root": "divid",
+    "phonetic": "/dɪˈvaɪd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "divid",
+        "phonetic": "/dɪˈvaɪd/",
+        "partOfSpeech": "root",
+        "meaning": "分",
+        "memoryTip": "词根 divid 表示 '分'",
+        "root": "divid",
+        "rootPhonetic": "/dɪˈvaɪd/",
+        "rootMeaning": "分",
+        "rootPhrases": [
+          "divid 词根例句占位"
+        ],
+        "wordPhrases": [
+          "divid 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 926,
+    "root": "divis",
+    "phonetic": "/dɪˈvaɪz/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "divis",
+        "phonetic": "/dɪˈvaɪz/",
+        "partOfSpeech": "root",
+        "meaning": "分",
+        "memoryTip": "词根 divis 表示 '分'",
+        "root": "divis",
+        "rootPhonetic": "/dɪˈvaɪz/",
+        "rootMeaning": "分",
+        "rootPhrases": [
+          "divis 词根例句占位"
+        ],
+        "wordPhrases": [
+          "divis 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 927,
+    "root": "split",
+    "phonetic": "/splɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "split",
+        "phonetic": "/splɪt/",
+        "partOfSpeech": "root",
+        "meaning": "分裂",
+        "memoryTip": "词根 split 表示 '分裂'",
+        "root": "split",
+        "rootPhonetic": "/splɪt/",
+        "rootMeaning": "分裂",
+        "rootPhrases": [
+          "split 词根例句占位"
+        ],
+        "wordPhrases": [
+          "split 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 928,
+    "root": "separ",
+    "phonetic": "/ˈsepər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "separ",
+        "phonetic": "/ˈsepər/",
+        "partOfSpeech": "root",
+        "meaning": "分离",
+        "memoryTip": "词根 separ 表示 '分离'",
+        "root": "separ",
+        "rootPhonetic": "/ˈsepər/",
+        "rootMeaning": "分离",
+        "rootPhrases": [
+          "separ 词根例句占位"
+        ],
+        "wordPhrases": [
+          "separ 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "root": "isol",
+    "phonetic": "/ˈaɪsəl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "isol",
+        "phonetic": "/ˈaɪsəl/",
+        "partOfSpeech": "root",
+        "meaning": "隔离",
+        "memoryTip": "词根 isol 表示 '隔离'",
+        "root": "isol",
+        "rootPhonetic": "/ˈaɪsəl/",
+        "rootMeaning": "隔离",
+        "rootPhrases": [
+          "isol 词根例句占位"
+        ],
+        "wordPhrases": [
+          "isol 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 930,
+    "root": "switch",
+    "phonetic": "/swɪtʃ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "switch",
+        "phonetic": "/swɪtʃ/",
+        "partOfSpeech": "root",
+        "meaning": "开关",
+        "memoryTip": "词根 switch 表示 '开关'",
+        "root": "switch",
+        "rootPhonetic": "/swɪtʃ/",
+        "rootMeaning": "开关",
+        "rootPhrases": [
+          "switch 词根例句占位"
+        ],
+        "wordPhrases": [
+          "switch 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "root": "chang",
+    "phonetic": "/tʃeɪndʒ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "chang",
+        "phonetic": "/tʃeɪndʒ/",
+        "partOfSpeech": "root",
+        "meaning": "改变",
+        "memoryTip": "词根 chang 表示 '改变'",
+        "root": "chang",
+        "rootPhonetic": "/tʃeɪndʒ/",
+        "rootMeaning": "改变",
+        "rootPhrases": [
+          "chang 词根例句占位"
+        ],
+        "wordPhrases": [
+          "chang 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 932,
+    "root": "mut",
+    "phonetic": "/mjuːt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mut",
+        "phonetic": "/mjuːt/",
+        "partOfSpeech": "root",
+        "meaning": "变化",
+        "memoryTip": "词根 mut 表示 '变化'",
+        "root": "mut",
+        "rootPhonetic": "/mjuːt/",
+        "rootMeaning": "变化",
+        "rootPhrases": [
+          "mut 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mut 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "root": "var",
+    "phonetic": "/veər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "var",
+        "phonetic": "/veər/",
+        "partOfSpeech": "root",
+        "meaning": "变化",
+        "memoryTip": "词根 var 表示 '变化'",
+        "root": "var",
+        "rootPhonetic": "/veər/",
+        "rootMeaning": "变化",
+        "rootPhrases": [
+          "var 词根例句占位"
+        ],
+        "wordPhrases": [
+          "var 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "root": "differ",
+    "phonetic": "/ˈdɪfər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "differ",
+        "phonetic": "/ˈdɪfər/",
+        "partOfSpeech": "root",
+        "meaning": "不同",
+        "memoryTip": "词根 differ 表示 '不同'",
+        "root": "differ",
+        "rootPhonetic": "/ˈdɪfər/",
+        "rootMeaning": "不同",
+        "rootPhrases": [
+          "differ 词根例句占位"
+        ],
+        "wordPhrases": [
+          "differ 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 935,
+    "root": "simil",
+    "phonetic": "/ˈsɪmɪl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "simil",
+        "phonetic": "/ˈsɪmɪl/",
+        "partOfSpeech": "root",
+        "meaning": "相似",
+        "memoryTip": "词根 simil 表示 '相似'",
+        "root": "simil",
+        "rootPhonetic": "/ˈsɪmɪl/",
+        "rootMeaning": "相似",
+        "rootPhrases": [
+          "simil 词根例句占位"
+        ],
+        "wordPhrases": [
+          "simil 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 936,
+    "root": "sembl",
+    "phonetic": "/sembl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sembl",
+        "phonetic": "/sembl/",
+        "partOfSpeech": "root",
+        "meaning": "相似",
+        "memoryTip": "词根 sembl 表示 '相似'",
+        "root": "sembl",
+        "rootPhonetic": "/sembl/",
+        "rootMeaning": "相似",
+        "rootPhrases": [
+          "sembl 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sembl 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 937,
+    "root": "lik",
+    "phonetic": "/laɪk/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "lik",
+        "phonetic": "/laɪk/",
+        "partOfSpeech": "root",
+        "meaning": "相似",
+        "memoryTip": "词根 lik 表示 '相似'",
+        "root": "lik",
+        "rootPhonetic": "/laɪk/",
+        "rootMeaning": "相似",
+        "rootPhrases": [
+          "lik 词根例句占位"
+        ],
+        "wordPhrases": [
+          "lik 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 938,
+    "root": "equal",
+    "phonetic": "/ˈiːkwəl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "equal",
+        "phonetic": "/ˈiːkwəl/",
+        "partOfSpeech": "root",
+        "meaning": "相等",
+        "memoryTip": "词根 equal 表示 '相等'",
+        "root": "equal",
+        "rootPhonetic": "/ˈiːkwəl/",
+        "rootMeaning": "相等",
+        "rootPhrases": [
+          "equal 词根例句占位"
+        ],
+        "wordPhrases": [
+          "equal 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "root": "equ",
+    "phonetic": "/iːkw/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "equ",
+        "phonetic": "/iːkw/",
+        "partOfSpeech": "root",
+        "meaning": "相等",
+        "memoryTip": "词根 equ 表示 '相等'",
+        "root": "equ",
+        "rootPhonetic": "/iːkw/",
+        "rootMeaning": "相等",
+        "rootPhrases": [
+          "equ 词根例句占位"
+        ],
+        "wordPhrases": [
+          "equ 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 940,
+    "root": "par",
+    "phonetic": "/pɑːr/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "par",
+        "phonetic": "/pɑːr/",
+        "partOfSpeech": "root",
+        "meaning": "相等",
+        "memoryTip": "词根 par 表示 '相等'",
+        "root": "par",
+        "rootPhonetic": "/pɑːr/",
+        "rootMeaning": "相等",
+        "rootPhrases": [
+          "par 词根例句占位"
+        ],
+        "wordPhrases": [
+          "par 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 941,
+    "root": "peer",
+    "phonetic": "/pɪər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "peer",
+        "phonetic": "/pɪər/",
+        "partOfSpeech": "root",
+        "meaning": "对等",
+        "memoryTip": "词根 peer 表示 '对等'",
+        "root": "peer",
+        "rootPhonetic": "/pɪər/",
+        "rootMeaning": "对等",
+        "rootPhrases": [
+          "peer 词根例句占位"
+        ],
+        "wordPhrases": [
+          "peer 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 942,
+    "root": "pair",
+    "phonetic": "/peər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pair",
+        "phonetic": "/peər/",
+        "partOfSpeech": "root",
+        "meaning": "一对",
+        "memoryTip": "词根 pair 表示 '一对'",
+        "root": "pair",
+        "rootPhonetic": "/peər/",
+        "rootMeaning": "一对",
+        "rootPhrases": [
+          "pair 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pair 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "root": "coupl",
+    "phonetic": "/kʌpl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "coupl",
+        "phonetic": "/kʌpl/",
+        "partOfSpeech": "root",
+        "meaning": "一对",
+        "memoryTip": "词根 coupl 表示 '一对'",
+        "root": "coupl",
+        "rootPhonetic": "/kʌpl/",
+        "rootMeaning": "一对",
+        "rootPhrases": [
+          "coupl 词根例句占位"
+        ],
+        "wordPhrases": [
+          "coupl 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 944,
+    "root": "du",
+    "phonetic": "/djuː/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "du",
+        "phonetic": "/djuː/",
+        "partOfSpeech": "root",
+        "meaning": "双",
+        "memoryTip": "词根 du 表示 '双'",
+        "root": "du",
+        "rootPhonetic": "/djuː/",
+        "rootMeaning": "双",
+        "rootPhrases": [
+          "du 词根例句占位"
+        ],
+        "wordPhrases": [
+          "du 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 945,
+    "root": "bi",
+    "phonetic": "/baɪ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "bi",
+        "phonetic": "/baɪ/",
+        "partOfSpeech": "root",
+        "meaning": "双",
+        "memoryTip": "词根 bi 表示 '双'",
+        "root": "bi",
+        "rootPhonetic": "/baɪ/",
+        "rootMeaning": "双",
+        "rootPhrases": [
+          "bi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "bi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 946,
+    "root": "tw",
+    "phonetic": "/tw/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tw",
+        "phonetic": "/tw/",
+        "partOfSpeech": "root",
+        "meaning": "双",
+        "memoryTip": "词根 tw 表示 '双'",
+        "root": "tw",
+        "rootPhonetic": "/tw/",
+        "rootMeaning": "双",
+        "rootPhrases": [
+          "tw 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tw 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "root": "ambi",
+    "phonetic": "/ˈæmbi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ambi",
+        "phonetic": "/ˈæmbi/",
+        "partOfSpeech": "root",
+        "meaning": "两者",
+        "memoryTip": "词根 ambi 表示 '两者'",
+        "root": "ambi",
+        "rootPhonetic": "/ˈæmbi/",
+        "rootMeaning": "两者",
+        "rootPhrases": [
+          "ambi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ambi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 948,
+    "root": "amphi",
+    "phonetic": "/ˈæmfi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "amphi",
+        "phonetic": "/ˈæmfi/",
+        "partOfSpeech": "root",
+        "meaning": "两者",
+        "memoryTip": "词根 amphi 表示 '两者'",
+        "root": "amphi",
+        "rootPhonetic": "/ˈæmfi/",
+        "rootMeaning": "两者",
+        "rootPhrases": [
+          "amphi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "amphi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "root": "tri",
+    "phonetic": "/traɪ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tri",
+        "phonetic": "/traɪ/",
+        "partOfSpeech": "root",
+        "meaning": "三",
+        "memoryTip": "词根 tri 表示 '三'",
+        "root": "tri",
+        "rootPhonetic": "/traɪ/",
+        "rootMeaning": "三",
+        "rootPhrases": [
+          "tri 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tri 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "root": "quad",
+    "phonetic": "/kwɒd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "quad",
+        "phonetic": "/kwɒd/",
+        "partOfSpeech": "root",
+        "meaning": "四",
+        "memoryTip": "词根 quad 表示 '四'",
+        "root": "quad",
+        "rootPhonetic": "/kwɒd/",
+        "rootMeaning": "四",
+        "rootPhrases": [
+          "quad 词根例句占位"
+        ],
+        "wordPhrases": [
+          "quad 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 951,
+    "root": "quart",
+    "phonetic": "/kwɔːrt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "quart",
+        "phonetic": "/kwɔːrt/",
+        "partOfSpeech": "root",
+        "meaning": "四",
+        "memoryTip": "词根 quart 表示 '四'",
+        "root": "quart",
+        "rootPhonetic": "/kwɔːrt/",
+        "rootMeaning": "四",
+        "rootPhrases": [
+          "quart 词根例句占位"
+        ],
+        "wordPhrases": [
+          "quart 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "root": "pent",
+    "phonetic": "/pent/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "pent",
+        "phonetic": "/pent/",
+        "partOfSpeech": "root",
+        "meaning": "五",
+        "memoryTip": "词根 pent 表示 '五'",
+        "root": "pent",
+        "rootPhonetic": "/pent/",
+        "rootMeaning": "五",
+        "rootPhrases": [
+          "pent 词根例句占位"
+        ],
+        "wordPhrases": [
+          "pent 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "root": "quint",
+    "phonetic": "/kwɪnt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "quint",
+        "phonetic": "/kwɪnt/",
+        "partOfSpeech": "root",
+        "meaning": "五",
+        "memoryTip": "词根 quint 表示 '五'",
+        "root": "quint",
+        "rootPhonetic": "/kwɪnt/",
+        "rootMeaning": "五",
+        "rootPhrases": [
+          "quint 词根例句占位"
+        ],
+        "wordPhrases": [
+          "quint 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "root": "hex",
+    "phonetic": "/heks/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "hex",
+        "phonetic": "/heks/",
+        "partOfSpeech": "root",
+        "meaning": "六",
+        "memoryTip": "词根 hex 表示 '六'",
+        "root": "hex",
+        "rootPhonetic": "/heks/",
+        "rootMeaning": "六",
+        "rootPhrases": [
+          "hex 词根例句占位"
+        ],
+        "wordPhrases": [
+          "hex 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 955,
+    "root": "sex",
+    "phonetic": "/seks/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sex",
+        "phonetic": "/seks/",
+        "partOfSpeech": "root",
+        "meaning": "六",
+        "memoryTip": "词根 sex 表示 '六'",
+        "root": "sex",
+        "rootPhonetic": "/seks/",
+        "rootMeaning": "六",
+        "rootPhrases": [
+          "sex 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sex 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "root": "sept",
+    "phonetic": "/sept/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "sept",
+        "phonetic": "/sept/",
+        "partOfSpeech": "root",
+        "meaning": "七",
+        "memoryTip": "词根 sept 表示 '七'",
+        "root": "sept",
+        "rootPhonetic": "/sept/",
+        "rootMeaning": "七",
+        "rootPhrases": [
+          "sept 词根例句占位"
+        ],
+        "wordPhrases": [
+          "sept 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 957,
+    "root": "hept",
+    "phonetic": "/hept/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "hept",
+        "phonetic": "/hept/",
+        "partOfSpeech": "root",
+        "meaning": "七",
+        "memoryTip": "词根 hept 表示 '七'",
+        "root": "hept",
+        "rootPhonetic": "/hept/",
+        "rootMeaning": "七",
+        "rootPhrases": [
+          "hept 词根例句占位"
+        ],
+        "wordPhrases": [
+          "hept 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 958,
+    "root": "oct",
+    "phonetic": "/ɒkt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "oct",
+        "phonetic": "/ɒkt/",
+        "partOfSpeech": "root",
+        "meaning": "八",
+        "memoryTip": "词根 oct 表示 '八'",
+        "root": "oct",
+        "rootPhonetic": "/ɒkt/",
+        "rootMeaning": "八",
+        "rootPhrases": [
+          "oct 词根例句占位"
+        ],
+        "wordPhrases": [
+          "oct 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "root": "nov",
+    "phonetic": "/nɒv/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "nov",
+        "phonetic": "/nɒv/",
+        "partOfSpeech": "root",
+        "meaning": "九",
+        "memoryTip": "词根 nov 表示 '九'",
+        "root": "nov",
+        "rootPhonetic": "/nɒv/",
+        "rootMeaning": "九",
+        "rootPhrases": [
+          "nov 词根例句占位"
+        ],
+        "wordPhrases": [
+          "nov 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 960,
+    "root": "non",
+    "phonetic": "/nɒn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "non",
+        "phonetic": "/nɒn/",
+        "partOfSpeech": "root",
+        "meaning": "九",
+        "memoryTip": "词根 non 表示 '九'",
+        "root": "non",
+        "rootPhonetic": "/nɒn/",
+        "rootMeaning": "九",
+        "rootPhrases": [
+          "non 词根例句占位"
+        ],
+        "wordPhrases": [
+          "non 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 961,
+    "root": "dec",
+    "phonetic": "/dek/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "dec",
+        "phonetic": "/dek/",
+        "partOfSpeech": "root",
+        "meaning": "十",
+        "memoryTip": "词根 dec 表示 '十'",
+        "root": "dec",
+        "rootPhonetic": "/dek/",
+        "rootMeaning": "十",
+        "rootPhrases": [
+          "dec 词根例句占位"
+        ],
+        "wordPhrases": [
+          "dec 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "root": "deci",
+    "phonetic": "/ˈdesɪ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "deci",
+        "phonetic": "/ˈdesɪ/",
+        "partOfSpeech": "root",
+        "meaning": "十",
+        "memoryTip": "词根 deci 表示 '十'",
+        "root": "deci",
+        "rootPhonetic": "/ˈdesɪ/",
+        "rootMeaning": "十",
+        "rootPhrases": [
+          "deci 词根例句占位"
+        ],
+        "wordPhrases": [
+          "deci 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "root": "cent",
+    "phonetic": "/sent/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "cent",
+        "phonetic": "/sent/",
+        "partOfSpeech": "root",
+        "meaning": "百",
+        "memoryTip": "词根 cent 表示 '百'",
+        "root": "cent",
+        "rootPhonetic": "/sent/",
+        "rootMeaning": "百",
+        "rootPhrases": [
+          "cent 词根例句占位"
+        ],
+        "wordPhrases": [
+          "cent 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "root": "hec",
+    "phonetic": "/hek/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "hec",
+        "phonetic": "/hek/",
+        "partOfSpeech": "root",
+        "meaning": "百",
+        "memoryTip": "词根 hec 表示 '百'",
+        "root": "hec",
+        "rootPhonetic": "/hek/",
+        "rootMeaning": "百",
+        "rootPhrases": [
+          "hec 词根例句占位"
+        ],
+        "wordPhrases": [
+          "hec 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 965,
+    "root": "kilo",
+    "phonetic": "/ˈkɪləʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "kilo",
+        "phonetic": "/ˈkɪləʊ/",
+        "partOfSpeech": "root",
+        "meaning": "千",
+        "memoryTip": "词根 kilo 表示 '千'",
+        "root": "kilo",
+        "rootPhonetic": "/ˈkɪləʊ/",
+        "rootMeaning": "千",
+        "rootPhrases": [
+          "kilo 词根例句占位"
+        ],
+        "wordPhrases": [
+          "kilo 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 966,
+    "root": "mill",
+    "phonetic": "/mɪl/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mill",
+        "phonetic": "/mɪl/",
+        "partOfSpeech": "root",
+        "meaning": "千，毫",
+        "memoryTip": "词根 mill 表示 '千，毫'",
+        "root": "mill",
+        "rootPhonetic": "/mɪl/",
+        "rootMeaning": "千，毫",
+        "rootPhrases": [
+          "mill 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mill 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 967,
+    "root": "meg",
+    "phonetic": "/meɡ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "meg",
+        "phonetic": "/meɡ/",
+        "partOfSpeech": "root",
+        "meaning": "兆，百万",
+        "memoryTip": "词根 meg 表示 '兆，百万'",
+        "root": "meg",
+        "rootPhonetic": "/meɡ/",
+        "rootMeaning": "兆，百万",
+        "rootPhrases": [
+          "meg 词根例句占位"
+        ],
+        "wordPhrases": [
+          "meg 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "root": "giga",
+    "phonetic": "/ˈɡɪɡə/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "giga",
+        "phonetic": "/ˈɡɪɡə/",
+        "partOfSpeech": "root",
+        "meaning": "千兆",
+        "memoryTip": "词根 giga 表示 '千兆'",
+        "root": "giga",
+        "rootPhonetic": "/ˈɡɪɡə/",
+        "rootMeaning": "千兆",
+        "rootPhrases": [
+          "giga 词根例句占位"
+        ],
+        "wordPhrases": [
+          "giga 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 969,
+    "root": "tera",
+    "phonetic": "/ˈterə/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "tera",
+        "phonetic": "/ˈterə/",
+        "partOfSpeech": "root",
+        "meaning": "万亿",
+        "memoryTip": "词根 tera 表示 '万亿'",
+        "root": "tera",
+        "rootPhonetic": "/ˈterə/",
+        "rootMeaning": "万亿",
+        "rootPhrases": [
+          "tera 词根例句占位"
+        ],
+        "wordPhrases": [
+          "tera 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "root": "peta",
+    "phonetic": "/ˈpetə/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "peta",
+        "phonetic": "/ˈpetə/",
+        "partOfSpeech": "root",
+        "meaning": "千万亿",
+        "memoryTip": "词根 peta 表示 '千万亿'",
+        "root": "peta",
+        "rootPhonetic": "/ˈpetə/",
+        "rootMeaning": "千万亿",
+        "rootPhrases": [
+          "peta 词根例句占位"
+        ],
+        "wordPhrases": [
+          "peta 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 971,
+    "root": "micro",
+    "phonetic": "/ˈmaɪkrəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "micro",
+        "phonetic": "/ˈmaɪkrəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "微",
+        "memoryTip": "词根 micro 表示 '微'",
+        "root": "micro",
+        "rootPhonetic": "/ˈmaɪkrəʊ/",
+        "rootMeaning": "微",
+        "rootPhrases": [
+          "micro 词根例句占位"
+        ],
+        "wordPhrases": [
+          "micro 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 972,
+    "root": "mini",
+    "phonetic": "/ˈmɪni/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "mini",
+        "phonetic": "/ˈmɪni/",
+        "partOfSpeech": "root",
+        "meaning": "小",
+        "memoryTip": "词根 mini 表示 '小'",
+        "root": "mini",
+        "rootPhonetic": "/ˈmɪni/",
+        "rootMeaning": "小",
+        "rootPhrases": [
+          "mini 词根例句占位"
+        ],
+        "wordPhrases": [
+          "mini 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 973,
+    "root": "max",
+    "phonetic": "/mæks/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "max",
+        "phonetic": "/mæks/",
+        "partOfSpeech": "root",
+        "meaning": "大",
+        "memoryTip": "词根 max 表示 '大'",
+        "root": "max",
+        "rootPhonetic": "/mæks/",
+        "rootMeaning": "大",
+        "rootPhrases": [
+          "max 词根例句占位"
+        ],
+        "wordPhrases": [
+          "max 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 974,
+    "root": "magn",
+    "phonetic": "/mæɡn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "magn",
+        "phonetic": "/mæɡn/",
+        "partOfSpeech": "root",
+        "meaning": "大",
+        "memoryTip": "词根 magn 表示 '大'",
+        "root": "magn",
+        "rootPhonetic": "/mæɡn/",
+        "rootMeaning": "大",
+        "rootPhrases": [
+          "magn 词根例句占位"
+        ],
+        "wordPhrases": [
+          "magn 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "root": "maj",
+    "phonetic": "/meɪdʒ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "maj",
+        "phonetic": "/meɪdʒ/",
+        "partOfSpeech": "root",
+        "meaning": "大",
+        "memoryTip": "词根 maj 表示 '大'",
+        "root": "maj",
+        "rootPhonetic": "/meɪdʒ/",
+        "rootMeaning": "大",
+        "rootPhrases": [
+          "maj 词根例句占位"
+        ],
+        "wordPhrases": [
+          "maj 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 976,
+    "root": "majori",
+    "phonetic": "/məˈdʒɒrɪ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "majori",
+        "phonetic": "/məˈdʒɒrɪ/",
+        "partOfSpeech": "root",
+        "meaning": "主要",
+        "memoryTip": "词根 majori 表示 '主要'",
+        "root": "majori",
+        "rootPhonetic": "/məˈdʒɒrɪ/",
+        "rootMeaning": "主要",
+        "rootPhrases": [
+          "majori 词根例句占位"
+        ],
+        "wordPhrases": [
+          "majori 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "root": "minor",
+    "phonetic": "/ˈmaɪnər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "minor",
+        "phonetic": "/ˈmaɪnər/",
+        "partOfSpeech": "root",
+        "meaning": "小，次要",
+        "memoryTip": "词根 minor 表示 '小，次要'",
+        "root": "minor",
+        "rootPhonetic": "/ˈmaɪnər/",
+        "rootMeaning": "小，次要",
+        "rootPhrases": [
+          "minor 词根例句占位"
+        ],
+        "wordPhrases": [
+          "minor 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "root": "minim",
+    "phonetic": "/ˈmɪnɪm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "minim",
+        "phonetic": "/ˈmɪnɪm/",
+        "partOfSpeech": "root",
+        "meaning": "最小",
+        "memoryTip": "词根 minim 表示 '最小'",
+        "root": "minim",
+        "rootPhonetic": "/ˈmɪnɪm/",
+        "rootMeaning": "最小",
+        "rootPhrases": [
+          "minim 词根例句占位"
+        ],
+        "wordPhrases": [
+          "minim 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "root": "optim",
+    "phonetic": "/ˈɒptɪm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "optim",
+        "phonetic": "/ˈɒptɪm/",
+        "partOfSpeech": "root",
+        "meaning": "最优",
+        "memoryTip": "词根 optim 表示 '最优'",
+        "root": "optim",
+        "rootPhonetic": "/ˈɒptɪm/",
+        "rootMeaning": "最优",
+        "rootPhrases": [
+          "optim 词根例句占位"
+        ],
+        "wordPhrases": [
+          "optim 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 980,
+    "root": "prim",
+    "phonetic": "/prɪm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "prim",
+        "phonetic": "/prɪm/",
+        "partOfSpeech": "root",
+        "meaning": "第一",
+        "memoryTip": "词根 prim 表示 '第一'",
+        "root": "prim",
+        "rootPhonetic": "/prɪm/",
+        "rootMeaning": "第一",
+        "rootPhrases": [
+          "prim 词根例句占位"
+        ],
+        "wordPhrases": [
+          "prim 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "root": "prin",
+    "phonetic": "/prɪn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "prin",
+        "phonetic": "/prɪn/",
+        "partOfSpeech": "root",
+        "meaning": "第一",
+        "memoryTip": "词根 prin 表示 '第一'",
+        "root": "prin",
+        "rootPhonetic": "/prɪn/",
+        "rootMeaning": "第一",
+        "rootPhrases": [
+          "prin 词根例句占位"
+        ],
+        "wordPhrases": [
+          "prin 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 982,
+    "root": "first",
+    "phonetic": "/fɜːrst/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "first",
+        "phonetic": "/fɜːrst/",
+        "partOfSpeech": "root",
+        "meaning": "第一",
+        "memoryTip": "词根 first 表示 '第一'",
+        "root": "first",
+        "rootPhonetic": "/fɜːrst/",
+        "rootMeaning": "第一",
+        "rootPhrases": [
+          "first 词根例句占位"
+        ],
+        "wordPhrases": [
+          "first 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "root": "init",
+    "phonetic": "/ɪˈnɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "init",
+        "phonetic": "/ɪˈnɪt/",
+        "partOfSpeech": "root",
+        "meaning": "开始",
+        "memoryTip": "词根 init 表示 '开始'",
+        "root": "init",
+        "rootPhonetic": "/ɪˈnɪt/",
+        "rootMeaning": "开始",
+        "rootPhrases": [
+          "init 词根例句占位"
+        ],
+        "wordPhrases": [
+          "init 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 984,
+    "root": "ori",
+    "phonetic": "/ˈɔːri/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ori",
+        "phonetic": "/ˈɔːri/",
+        "partOfSpeech": "root",
+        "meaning": "开始",
+        "memoryTip": "词根 ori 表示 '开始'",
+        "root": "ori",
+        "rootPhonetic": "/ˈɔːri/",
+        "rootMeaning": "开始",
+        "rootPhrases": [
+          "ori 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ori 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 985,
+    "root": "fin",
+    "phonetic": "/fɪn/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "fin",
+        "phonetic": "/fɪn/",
+        "partOfSpeech": "root",
+        "meaning": "结束",
+        "memoryTip": "词根 fin 表示 '结束'",
+        "root": "fin",
+        "rootPhonetic": "/fɪn/",
+        "rootMeaning": "结束",
+        "rootPhrases": [
+          "fin 词根例句占位"
+        ],
+        "wordPhrases": [
+          "fin 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 986,
+    "root": "term",
+    "phonetic": "/tɜːrm/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "term",
+        "phonetic": "/tɜːrm/",
+        "partOfSpeech": "root",
+        "meaning": "界限，结束",
+        "memoryTip": "词根 term 表示 '界限，结束'",
+        "root": "term",
+        "rootPhonetic": "/tɜːrm/",
+        "rootMeaning": "界限，结束",
+        "rootPhrases": [
+          "term 词根例句占位"
+        ],
+        "wordPhrases": [
+          "term 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 987,
+    "root": "clos",
+    "phonetic": "/kləʊz/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "clos",
+        "phonetic": "/kləʊz/",
+        "partOfSpeech": "root",
+        "meaning": "关闭",
+        "memoryTip": "词根 clos 表示 '关闭'",
+        "root": "clos",
+        "rootPhonetic": "/kləʊz/",
+        "rootMeaning": "关闭",
+        "rootPhrases": [
+          "clos 词根例句占位"
+        ],
+        "wordPhrases": [
+          "clos 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 988,
+    "root": "clud",
+    "phonetic": "/kluːd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "clud",
+        "phonetic": "/kluːd/",
+        "partOfSpeech": "root",
+        "meaning": "关闭",
+        "memoryTip": "词根 clud 表示 '关闭'",
+        "root": "clud",
+        "rootPhonetic": "/kluːd/",
+        "rootMeaning": "关闭",
+        "rootPhrases": [
+          "clud 词根例句占位"
+        ],
+        "wordPhrases": [
+          "clud 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "root": "clus",
+    "phonetic": "/kluːs/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "clus",
+        "phonetic": "/kluːs/",
+        "partOfSpeech": "root",
+        "meaning": "关闭",
+        "memoryTip": "词根 clus 表示 '关闭'",
+        "root": "clus",
+        "rootPhonetic": "/kluːs/",
+        "rootMeaning": "关闭",
+        "rootPhrases": [
+          "clus 词根例句占位"
+        ],
+        "wordPhrases": [
+          "clus 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 990,
+    "root": "open",
+    "phonetic": "/ˈəʊpən/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "open",
+        "phonetic": "/ˈəʊpən/",
+        "partOfSpeech": "root",
+        "meaning": "打开",
+        "memoryTip": "词根 open 表示 '打开'",
+        "root": "open",
+        "rootPhonetic": "/ˈəʊpən/",
+        "rootMeaning": "打开",
+        "rootPhrases": [
+          "open 词根例句占位"
+        ],
+        "wordPhrases": [
+          "open 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 991,
+    "root": "access",
+    "phonetic": "/ˈækses/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "access",
+        "phonetic": "/ˈækses/",
+        "partOfSpeech": "root",
+        "meaning": "接近",
+        "memoryTip": "词根 access 表示 '接近'",
+        "root": "access",
+        "rootPhonetic": "/ˈækses/",
+        "rootMeaning": "接近",
+        "rootPhrases": [
+          "access 词根例句占位"
+        ],
+        "wordPhrases": [
+          "access 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 992,
+    "root": "enter",
+    "phonetic": "/ˈentər/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "enter",
+        "phonetic": "/ˈentər/",
+        "partOfSpeech": "root",
+        "meaning": "进入",
+        "memoryTip": "词根 enter 表示 '进入'",
+        "root": "enter",
+        "rootPhonetic": "/ˈentər/",
+        "rootMeaning": "进入",
+        "rootPhrases": [
+          "enter 词根例句占位"
+        ],
+        "wordPhrases": [
+          "enter 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 993,
+    "root": "intro",
+    "phonetic": "/ˈɪntrəʊ/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "intro",
+        "phonetic": "/ˈɪntrəʊ/",
+        "partOfSpeech": "root",
+        "meaning": "进入",
+        "memoryTip": "词根 intro 表示 '进入'",
+        "root": "intro",
+        "rootPhonetic": "/ˈɪntrəʊ/",
+        "rootMeaning": "进入",
+        "rootPhrases": [
+          "intro 词根例句占位"
+        ],
+        "wordPhrases": [
+          "intro 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 994,
+    "root": "exit",
+    "phonetic": "/ˈeksɪt/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "exit",
+        "phonetic": "/ˈeksɪt/",
+        "partOfSpeech": "root",
+        "meaning": "出口",
+        "memoryTip": "词根 exit 表示 '出口'",
+        "root": "exit",
+        "rootPhonetic": "/ˈeksɪt/",
+        "rootMeaning": "出口",
+        "rootPhrases": [
+          "exit 词根例句占位"
+        ],
+        "wordPhrases": [
+          "exit 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "root": "egress",
+    "phonetic": "/ˈiːɡres/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "egress",
+        "phonetic": "/ˈiːɡres/",
+        "partOfSpeech": "root",
+        "meaning": "外出",
+        "memoryTip": "词根 egress 表示 '外出'",
+        "root": "egress",
+        "rootPhonetic": "/ˈiːɡres/",
+        "rootMeaning": "外出",
+        "rootPhrases": [
+          "egress 词根例句占位"
+        ],
+        "wordPhrases": [
+          "egress 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 996,
+    "root": "gress",
+    "phonetic": "/ɡres/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "gress",
+        "phonetic": "/ɡres/",
+        "partOfSpeech": "root",
+        "meaning": "行走",
+        "memoryTip": "词根 gress 表示 '行走'",
+        "root": "gress",
+        "rootPhonetic": "/ɡres/",
+        "rootMeaning": "行走",
+        "rootPhrases": [
+          "gress 词根例句占位"
+        ],
+        "wordPhrases": [
+          "gress 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 997,
+    "root": "grad",
+    "phonetic": "/ɡræd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "grad",
+        "phonetic": "/ɡræd/",
+        "partOfSpeech": "root",
+        "meaning": "步，级",
+        "memoryTip": "词根 grad 表示 '步，级'",
+        "root": "grad",
+        "rootPhonetic": "/ɡræd/",
+        "rootMeaning": "步，级",
+        "rootPhrases": [
+          "grad 词根例句占位"
+        ],
+        "wordPhrases": [
+          "grad 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 998,
+    "root": "step",
+    "phonetic": "/step/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "step",
+        "phonetic": "/step/",
+        "partOfSpeech": "root",
+        "meaning": "步",
+        "memoryTip": "词根 step 表示 '步'",
+        "root": "step",
+        "rootPhonetic": "/step/",
+        "rootMeaning": "步",
+        "rootPhrases": [
+          "step 词根例句占位"
+        ],
+        "wordPhrases": [
+          "step 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "root": "gressi",
+    "phonetic": "/ˈɡresi/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "gressi",
+        "phonetic": "/ˈɡresi/",
+        "partOfSpeech": "root",
+        "meaning": "行走",
+        "memoryTip": "词根 gressi 表示 '行走'",
+        "root": "gressi",
+        "rootPhonetic": "/ˈɡresi/",
+        "rootMeaning": "行走",
+        "rootPhrases": [
+          "gressi 词根例句占位"
+        ],
+        "wordPhrases": [
+          "gressi 例句占位"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "root": "ced",
+    "phonetic": "/siːd/",
+    "partOfSpeech": "词根",
+    "frequency": 1,
+    "category": "通信",
+    "words": [
+      {
+        "word": "ced",
+        "phonetic": "/siːd/",
+        "partOfSpeech": "root",
+        "meaning": "走",
+        "memoryTip": "词根 ced 表示 '走'",
+        "root": "ced",
+        "rootPhonetic": "/siːd/",
+        "rootMeaning": "走",
+        "rootPhrases": [
+          "ced 词根例句占位"
+        ],
+        "wordPhrases": [
+          "ced 例句占位"
+        ]
+      }
+    ]
   }
 ]

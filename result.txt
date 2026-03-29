@@ -1,0 +1,15 @@
+Total entries: 1020
+Min ID: 1, Max ID: 1000
+New entries (ID >= 801): 220
+
+First new entry (ID 801):
+  Root: steel
+  Meaning: 钢
+  Category: 机械
+
+Last new entry (ID 1000):
+  Root: ratchet
+  Meaning: 棘轮
+  Category: 机械
+
+All new entries have category "机械": True
