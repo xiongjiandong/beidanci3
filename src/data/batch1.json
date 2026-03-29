@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "f:\claudeanli\beidanci3\generate_tourism.py", line 94, in <module>
-    print(output)
-    ~~~~~^^^^^^^^
-UnicodeEncodeError: 'gbk' codec can't encode character '\u026a' in position 59: illegal multibyte sequence

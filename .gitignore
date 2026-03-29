@@ -38,4 +38,17 @@ coverage
 temp
 .tmp
 *.tmp
-node_modules
+
+# Generated scripts (not needed after data generation)
+*.py
+*.cjs
+*.mjs
+add-*.js
+generate*.js
+append*.js
+check*.js
+fix*.js
+repair*.js
+new_entries*.json
+new_roots*.json
+result.txt
