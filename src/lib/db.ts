@@ -1,38 +1,9 @@
 import { openDB, DBSchema, IDBPDatabase } from 'idb'
 import type { RootLesson, Progress, Meta, Category } from '@/types'
 
-// 直接导入所有数据
-import internetSoftwareData from '@/data/internet-software.json'
-import web3Data from '@/data/web3.json'
-import communicationData from '@/data/communication.json'
-import seniorHighData from '@/data/senior-high.json'
-import civilEngineeringData from '@/data/civil-engineering.json'
-import tourismData from '@/data/tourism.json'
-import semiconductorData from '@/data/semiconductor.json'
-import chemicalData from '@/data/chemical.json'
-import electricPowerData from '@/data/electric-power.json'
-import mechanicalData from '@/data/mechanical.json'
-import cet4Data from '@/data/cet-4.json'
-import cet6Data from '@/data/cet-6.json'
-
-// 合并所有数据 - 直接从JSON读取，不存IndexedDB
-const allLessonsData: RootLesson[] = [
-  ...(internetSoftwareData as RootLesson[]),
-  ...(web3Data as RootLesson[]),
-  ...(communicationData as RootLesson[]),
-  ...(seniorHighData as RootLesson[]),
-  ...(civilEngineeringData as RootLesson[]),
-  ...(tourismData as RootLesson[]),
-  ...(semiconductorData as RootLesson[]),
-  ...(chemicalData as RootLesson[]),
-  ...(electricPowerData as RootLesson[]),
-  ...(mechanicalData as RootLesson[]),
-  ...(cet4Data as RootLesson[]),
-  ...(cet6Data as RootLesson[]),
-]
-
-console.log('[DEBUG] Total lessons loaded:', allLessonsData.length)
-console.log('[DEBUG] Categories:', [...new Set(allLessonsData.map(l => l.category))])
+// 数据缓存
+let cachedLessons: RootLesson[] = []
+let dataLoadPromise: Promise<RootLesson[]> | null = null
 
 interface FunWordsDB extends DBSchema {
   progress: {
@@ -51,36 +22,98 @@ export async function getDB() {
   if (!dbPromise) {
     dbPromise = openDB<FunWordsDB>('funwords-progress', 1, {
       upgrade(db) {
-        // 只存储进度和元数据，不存储词根
-        db.createObjectStore('progress', { keyPath: 'rootId' })
-        db.createObjectStore('meta')
+        // 只存储进度和元数据
+        if (!db.objectStoreNames.contains('progress')) {
+          db.createObjectStore('progress', { keyPath: 'rootId' })
+        }
+        if (!db.objectStoreNames.contains('meta')) {
+          db.createObjectStore('meta')
+        }
       },
     })
   }
   return dbPromise
 }
 
-// 获取所有词根课程 - 直接返回JSON数据
-export async function getAllRootLessons(): Promise<RootLesson[]> {
-  return allLessonsData
+// 异步加载数据（从public目录）
+async function loadAllData(): Promise<RootLesson[]> {
+  if (cachedLessons.length > 0) {
+    return cachedLessons
+  }
+
+  const categories = [
+    { file: 'internet-software.json', category: '互联网和软件' },
+    { file: 'web3.json', category: 'Web3.0' },
+    { file: 'communication.json', category: '通信' },
+    { file: 'mechanical.json', category: '机械' },
+    { file: 'civil-engineering.json', category: '土木' },
+    { file: 'tourism.json', category: '旅游' },
+    { file: 'semiconductor.json', category: '半导体' },
+    { file: 'chemical.json', category: '化工' },
+    { file: 'electric-power.json', category: '电力' },
+    { file: 'senior-high.json', category: '高中' },
+    { file: 'cet-4.json', category: '四级' },
+    { file: 'cet-6.json', category: '六级' },
+  ]
+
+  const allData: RootLesson[] = []
+
+  // 并行加载所有数据
+  const promises = categories.map(async ({ file }) => {
+    try {
+      const response = await fetch(`/data/${file}`)
+      if (!response.ok) {
+        console.error(`Failed to load ${file}`)
+        return []
+      }
+      const data = await response.json()
+      return data as RootLesson[]
+    } catch (error) {
+      console.error(`Error loading ${file}:`, error)
+      return []
+    }
+  })
+
+  const results = await Promise.all(promises)
+  for (const data of results) {
+    allData.push(...data)
+  }
+
+  cachedLessons = allData
+  console.log('[DEBUG] Loaded', allData.length, 'lessons')
+  return allData
 }
 
-// 按类目获取词根课程 - 直接过滤JSON数据
+// 获取所有词根课程
+export async function getAllRootLessons(): Promise<RootLesson[]> {
+  if (cachedLessons.length > 0) {
+    return cachedLessons
+  }
+
+  if (!dataLoadPromise) {
+    dataLoadPromise = loadAllData()
+  }
+
+  return dataLoadPromise
+}
+
+// 按类目获取词根课程
 export async function getRootLessonsByCategory(category: Category): Promise<RootLesson[]> {
-  console.log('[DEBUG] Filtering category:', category)
-  const filtered = allLessonsData.filter(l => l.category === category)
-  console.log('[DEBUG] Result count:', filtered.length)
+  const all = await getAllRootLessons()
+  const filtered = all.filter(l => l.category === category)
   return filtered.sort((a, b) => a.frequency - b.frequency)
 }
 
 // 获取单个词根课程
 export async function getRootLesson(id: number): Promise<RootLesson | undefined> {
-  return allLessonsData.find(l => l.id === id)
+  const all = await getAllRootLessons()
+  return all.find(l => l.id === id)
 }
 
 // 获取所有类目
 export async function getCategories(): Promise<Category[]> {
-  const categories = [...new Set(allLessonsData.map(l => l.category))]
+  const all = await getAllRootLessons()
+  const categories = [...new Set(all.map(l => l.category))]
   return categories as Category[]
 }
 
@@ -143,17 +176,18 @@ export async function setHighScore(score: number): Promise<void> {
   await db.put('meta', { highScore: score }, 'highScore')
 }
 
-// 初始化 - 不再需要，数据直接从JSON读取
+// 初始化（现在只是预加载数据）
 export async function initializeData(_lessons: RootLesson[]): Promise<void> {
-  // 数据已经从JSON直接加载，无需初始化IndexedDB
-  console.log('[DEBUG] initializeData - using direct JSON data')
+  // 预加载数据
+  await getAllRootLessons()
 }
 
 // 获取所有单词（用于测试）
 export async function getAllWords(): Promise<{ word: string; meaning: string; phonetic: string; rootLesson: RootLesson }[]> {
+  const lessons = await getAllRootLessons()
   const words: { word: string; meaning: string; phonetic: string; rootLesson: RootLesson }[] = []
 
-  for (const lesson of allLessonsData) {
+  for (const lesson of lessons) {
     for (const w of lesson.words) {
       words.push({
         word: w.word,
