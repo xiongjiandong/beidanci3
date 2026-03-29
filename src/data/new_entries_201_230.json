@@ -1,0 +1,3182 @@
+[
+  {
+    "id": 201,
+    "root": "wafer",
+    "phonetic": "/ˈweɪfər/",
+    "partOfSpeech": "n.",
+    "frequency": 201,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "wafer",
+        "phonetic": "/ˈweɪfər/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆",
+        "memoryTip": "wafer薄片 → 半导体晶圆",
+        "root": "wafer",
+        "rootPhonetic": "/ˈweɪfər/",
+        "rootMeaning": "晶圆",
+        "rootPhrases": [
+          "wafer fabrication",
+          "wafer processing",
+          "wafer inspection",
+          "wafer bonding"
+        ],
+        "wordPhrases": [
+          "wafer technology",
+          "wafer process",
+          "wafer equipment",
+          "wafer application"
+        ]
+      },
+      {
+        "word": "wafer fab",
+        "phonetic": "/ˈweɪfər fæb/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆厂",
+        "memoryTip": "wafer晶圆 + fab工厂 → 晶圆厂",
+        "root": "wafer",
+        "rootPhonetic": "/ˈweɪfər/",
+        "rootMeaning": "晶圆",
+        "rootPhrases": [
+          "wafer fabrication",
+          "wafer processing",
+          "wafer inspection",
+          "wafer bonding"
+        ],
+        "wordPhrases": [
+          "wafer fab technology",
+          "wafer fab process",
+          "wafer fab equipment",
+          "wafer fab application"
+        ]
+      },
+      {
+        "word": "wafer sort",
+        "phonetic": "/ˈweɪfər sɔːrt/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆测试",
+        "memoryTip": "wafer晶圆 + sort分类 → 晶圆测试",
+        "root": "wafer",
+        "rootPhonetic": "/ˈweɪfər/",
+        "rootMeaning": "晶圆",
+        "rootPhrases": [
+          "wafer fabrication",
+          "wafer processing",
+          "wafer inspection",
+          "wafer bonding"
+        ],
+        "wordPhrases": [
+          "wafer sort technology",
+          "wafer sort process",
+          "wafer sort equipment",
+          "wafer sort application"
+        ]
+      },
+      {
+        "word": "wafer dicing",
+        "phonetic": "/ˈweɪfər ˈdaɪsɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆切割",
+        "memoryTip": "wafer晶圆 + dicing切割 → 晶圆切割",
+        "root": "wafer",
+        "rootPhonetic": "/ˈweɪfər/",
+        "rootMeaning": "晶圆",
+        "rootPhrases": [
+          "wafer fabrication",
+          "wafer processing",
+          "wafer inspection",
+          "wafer bonding"
+        ],
+        "wordPhrases": [
+          "wafer dicing technology",
+          "wafer dicing process",
+          "wafer dicing equipment",
+          "wafer dicing application"
+        ]
+      }
+    ],
+    "phrases": [
+      "wafer fabrication (晶圆制造)",
+      "wafer processing (晶圆加工)",
+      "wafer inspection (晶圆检测)",
+      "wafer bonding (晶圆键合)"
+    ],
+    "mnemonic": "wafer（晶圆）→ 半导体的基础材料薄片 → 晶圆",
+    "meaning": "晶圆"
+  },
+  {
+    "id": 202,
+    "root": "fab",
+    "phonetic": "/fæb/",
+    "partOfSpeech": "n.",
+    "frequency": 202,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "fab",
+        "phonetic": "/fæb/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆厂",
+        "memoryTip": "fabrication缩写 → 晶圆厂",
+        "root": "fab",
+        "rootPhonetic": "/fæb/",
+        "rootMeaning": "晶圆厂",
+        "rootPhrases": [
+          "fab capacity",
+          "fab utilization",
+          "foundry service",
+          "fabless company"
+        ],
+        "wordPhrases": [
+          "fab technology",
+          "fab process",
+          "fab equipment",
+          "fab application"
+        ]
+      },
+      {
+        "word": "foundry",
+        "phonetic": "/ˈfaʊndri/",
+        "partOfSpeech": "n.",
+        "meaning": "代工厂",
+        "memoryTip": "found铸造 + -ry场所 → 代工厂",
+        "root": "fab",
+        "rootPhonetic": "/fæb/",
+        "rootMeaning": "晶圆厂",
+        "rootPhrases": [
+          "fab capacity",
+          "fab utilization",
+          "foundry service",
+          "fabless company"
+        ],
+        "wordPhrases": [
+          "foundry technology",
+          "foundry process",
+          "foundry equipment",
+          "foundry application"
+        ]
+      },
+      {
+        "word": "IDM",
+        "phonetic": "/ˌaɪ diː ˈem/",
+        "partOfSpeech": "n.",
+        "meaning": "集成器件制造商",
+        "memoryTip": "Integrated Device Manufacturer → 垂直整合制造",
+        "root": "fab",
+        "rootPhonetic": "/fæb/",
+        "rootMeaning": "晶圆厂",
+        "rootPhrases": [
+          "fab capacity",
+          "fab utilization",
+          "foundry service",
+          "fabless company"
+        ],
+        "wordPhrases": [
+          "IDM technology",
+          "IDM process",
+          "IDM equipment",
+          "IDM application"
+        ]
+      },
+      {
+        "word": "fabless",
+        "phonetic": "/ˈfeɪbləs/",
+        "partOfSpeech": "n.",
+        "meaning": "无晶圆厂的",
+        "memoryTip": "fab + -less无 → 无晶圆厂的",
+        "root": "fab",
+        "rootPhonetic": "/fæb/",
+        "rootMeaning": "晶圆厂",
+        "rootPhrases": [
+          "fab capacity",
+          "fab utilization",
+          "foundry service",
+          "fabless company"
+        ],
+        "wordPhrases": [
+          "fabless technology",
+          "fabless process",
+          "fabless equipment",
+          "fabless application"
+        ]
+      }
+    ],
+    "phrases": [
+      "fab capacity (晶圆厂产能)",
+      "fab utilization (晶圆厂利用率)",
+      "foundry service (代工服务)",
+      "fabless company (无晶圆厂公司)"
+    ],
+    "mnemonic": "fab（晶圆厂）→ fabrication facility → 半导体制造工厂",
+    "meaning": "晶圆厂"
+  },
+  {
+    "id": 203,
+    "root": "lithography",
+    "phonetic": "/lɪˈθɒɡrəfi/",
+    "partOfSpeech": "n.",
+    "frequency": 203,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "lithography",
+        "phonetic": "/lɪˈθɒɡrəfi/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻",
+        "memoryTip": "litho石 + graphy写 → 光刻",
+        "root": "lithography",
+        "rootPhonetic": "/lɪˈθɒɡrəfi/",
+        "rootMeaning": "光刻",
+        "rootPhrases": [
+          "optical lithography",
+          "EUV lithography",
+          "immersion lithography",
+          "lithography machine"
+        ],
+        "wordPhrases": [
+          "lithography technology",
+          "lithography process",
+          "lithography equipment",
+          "lithography application"
+        ]
+      },
+      {
+        "word": "photolithography",
+        "phonetic": "/ˌfəʊtəʊlɪˈθɒɡrəfi/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻技术",
+        "memoryTip": "photo光 + lithography光刻 → 光刻技术",
+        "root": "lithography",
+        "rootPhonetic": "/lɪˈθɒɡrəfi/",
+        "rootMeaning": "光刻",
+        "rootPhrases": [
+          "optical lithography",
+          "EUV lithography",
+          "immersion lithography",
+          "lithography machine"
+        ],
+        "wordPhrases": [
+          "photolithography technology",
+          "photolithography process",
+          "photolithography equipment",
+          "photolithography application"
+        ]
+      },
+      {
+        "word": "EUV",
+        "phonetic": "/ˌiː juː ˈviː/",
+        "partOfSpeech": "n.",
+        "meaning": "极紫外光刻",
+        "memoryTip": "Extreme Ultraviolet → 极紫外光刻",
+        "root": "lithography",
+        "rootPhonetic": "/lɪˈθɒɡrəfi/",
+        "rootMeaning": "光刻",
+        "rootPhrases": [
+          "optical lithography",
+          "EUV lithography",
+          "immersion lithography",
+          "lithography machine"
+        ],
+        "wordPhrases": [
+          "EUV technology",
+          "EUV process",
+          "EUV equipment",
+          "EUV application"
+        ]
+      },
+      {
+        "word": "scanner",
+        "phonetic": "/ˈskænər/",
+        "partOfSpeech": "n.",
+        "meaning": "扫描仪",
+        "memoryTip": "scan扫描 + -er器 → 光刻扫描仪",
+        "root": "lithography",
+        "rootPhonetic": "/lɪˈθɒɡrəfi/",
+        "rootMeaning": "光刻",
+        "rootPhrases": [
+          "optical lithography",
+          "EUV lithography",
+          "immersion lithography",
+          "lithography machine"
+        ],
+        "wordPhrases": [
+          "scanner technology",
+          "scanner process",
+          "scanner equipment",
+          "scanner application"
+        ]
+      }
+    ],
+    "phrases": [
+      "optical lithography (光学光刻)",
+      "EUV lithography (EUV光刻)",
+      "immersion lithography (浸没式光刻)",
+      "lithography machine (光刻机)"
+    ],
+    "mnemonic": "lithography（光刻）→ 用光在硅片上刻画电路图案 → 光刻技术",
+    "meaning": "光刻"
+  },
+  {
+    "id": 204,
+    "root": "etch",
+    "phonetic": "/etʃ/",
+    "partOfSpeech": "v.",
+    "frequency": 204,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "etch",
+        "phonetic": "/etʃ/",
+        "partOfSpeech": "v.",
+        "meaning": "刻蚀",
+        "memoryTip": "etch腐蚀 → 刻蚀",
+        "root": "etch",
+        "rootPhonetic": "/etʃ/",
+        "rootMeaning": "刻蚀",
+        "rootPhrases": [
+          "plasma etching",
+          "reactive ion etching",
+          "etch rate",
+          "etch selectivity"
+        ],
+        "wordPhrases": [
+          "etch technology",
+          "etch process",
+          "etch equipment",
+          "etch application"
+        ]
+      },
+      {
+        "word": "etching",
+        "phonetic": "/ˈetʃɪŋ/",
+        "partOfSpeech": "v.",
+        "meaning": "刻蚀工艺",
+        "memoryTip": "etch + -ing → 刻蚀工艺",
+        "root": "etch",
+        "rootPhonetic": "/etʃ/",
+        "rootMeaning": "刻蚀",
+        "rootPhrases": [
+          "plasma etching",
+          "reactive ion etching",
+          "etch rate",
+          "etch selectivity"
+        ],
+        "wordPhrases": [
+          "etching technology",
+          "etching process",
+          "etching equipment",
+          "etching application"
+        ]
+      },
+      {
+        "word": "dry etch",
+        "phonetic": "/draɪ etʃ/",
+        "partOfSpeech": "v.",
+        "meaning": "干法刻蚀",
+        "memoryTip": "dry干 + etch刻蚀 → 干法刻蚀",
+        "root": "etch",
+        "rootPhonetic": "/etʃ/",
+        "rootMeaning": "刻蚀",
+        "rootPhrases": [
+          "plasma etching",
+          "reactive ion etching",
+          "etch rate",
+          "etch selectivity"
+        ],
+        "wordPhrases": [
+          "dry etch technology",
+          "dry etch process",
+          "dry etch equipment",
+          "dry etch application"
+        ]
+      },
+      {
+        "word": "wet etch",
+        "phonetic": "/wet etʃ/",
+        "partOfSpeech": "v.",
+        "meaning": "湿法刻蚀",
+        "memoryTip": "wet湿 + etch刻蚀 → 湿法刻蚀",
+        "root": "etch",
+        "rootPhonetic": "/etʃ/",
+        "rootMeaning": "刻蚀",
+        "rootPhrases": [
+          "plasma etching",
+          "reactive ion etching",
+          "etch rate",
+          "etch selectivity"
+        ],
+        "wordPhrases": [
+          "wet etch technology",
+          "wet etch process",
+          "wet etch equipment",
+          "wet etch application"
+        ]
+      }
+    ],
+    "phrases": [
+      "plasma etching (等离子刻蚀)",
+      "reactive ion etching (反应离子刻蚀)",
+      "etch rate (刻蚀速率)",
+      "etch selectivity (刻蚀选择比)"
+    ],
+    "mnemonic": "etch（刻蚀）→ 用化学或物理方法去除材料 → 刻蚀工艺",
+    "meaning": "刻蚀"
+  },
+  {
+    "id": 205,
+    "root": "dope",
+    "phonetic": "/dəʊp/",
+    "partOfSpeech": "v.",
+    "frequency": 205,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "dope",
+        "phonetic": "/dəʊp/",
+        "partOfSpeech": "v.",
+        "meaning": "掺杂",
+        "memoryTip": "dope掺杂 → 半导体掺杂",
+        "root": "dope",
+        "rootPhonetic": "/dəʊp/",
+        "rootMeaning": "掺杂",
+        "rootPhrases": [
+          "ion implantation",
+          "doping concentration",
+          "n-type doping",
+          "p-type doping"
+        ],
+        "wordPhrases": [
+          "dope technology",
+          "dope process",
+          "dope equipment",
+          "dope application"
+        ]
+      },
+      {
+        "word": "doping",
+        "phonetic": "/ˈdəʊpɪŋ/",
+        "partOfSpeech": "v.",
+        "meaning": "掺杂工艺",
+        "memoryTip": "dope + -ing → 掺杂工艺",
+        "root": "dope",
+        "rootPhonetic": "/dəʊp/",
+        "rootMeaning": "掺杂",
+        "rootPhrases": [
+          "ion implantation",
+          "doping concentration",
+          "n-type doping",
+          "p-type doping"
+        ],
+        "wordPhrases": [
+          "doping technology",
+          "doping process",
+          "doping equipment",
+          "doping application"
+        ]
+      },
+      {
+        "word": "implant",
+        "phonetic": "/ɪmˈplɑːnt/",
+        "partOfSpeech": "v.",
+        "meaning": "离子注入",
+        "memoryTip": "im进入 + plant种植 → 离子注入",
+        "root": "dope",
+        "rootPhonetic": "/dəʊp/",
+        "rootMeaning": "掺杂",
+        "rootPhrases": [
+          "ion implantation",
+          "doping concentration",
+          "n-type doping",
+          "p-type doping"
+        ],
+        "wordPhrases": [
+          "implant technology",
+          "implant process",
+          "implant equipment",
+          "implant application"
+        ]
+      },
+      {
+        "word": "diffusion",
+        "phonetic": "/dɪˈfjuːʒn/",
+        "partOfSpeech": "v.",
+        "meaning": "扩散",
+        "memoryTip": "dif分开 + fus流 + ion → 扩散",
+        "root": "dope",
+        "rootPhonetic": "/dəʊp/",
+        "rootMeaning": "掺杂",
+        "rootPhrases": [
+          "ion implantation",
+          "doping concentration",
+          "n-type doping",
+          "p-type doping"
+        ],
+        "wordPhrases": [
+          "diffusion technology",
+          "diffusion process",
+          "diffusion equipment",
+          "diffusion application"
+        ]
+      }
+    ],
+    "phrases": [
+      "ion implantation (离子注入)",
+      "doping concentration (掺杂浓度)",
+      "n-type doping (N型掺杂)",
+      "p-type doping (P型掺杂)"
+    ],
+    "mnemonic": "dope（掺杂）→ 向半导体中添加杂质改变导电性 → 掺杂工艺",
+    "meaning": "掺杂"
+  },
+  {
+    "id": 206,
+    "root": "deposit",
+    "phonetic": "/dɪˈpɒzɪt/",
+    "partOfSpeech": "v.",
+    "frequency": 206,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "deposit",
+        "phonetic": "/dɪˈpɒzɪt/",
+        "partOfSpeech": "v.",
+        "meaning": "沉积",
+        "memoryTip": "de向下 + posit放 → 沉积",
+        "root": "deposit",
+        "rootPhonetic": "/dɪˈpɒzɪt/",
+        "rootMeaning": "沉积",
+        "rootPhrases": [
+          "thin film deposition",
+          "chemical vapor deposition",
+          "physical vapor deposition",
+          "deposition rate"
+        ],
+        "wordPhrases": [
+          "deposit technology",
+          "deposit process",
+          "deposit equipment",
+          "deposit application"
+        ]
+      },
+      {
+        "word": "CVD",
+        "phonetic": "/ˌsiː viː ˈdiː/",
+        "partOfSpeech": "v.",
+        "meaning": "化学气相沉积",
+        "memoryTip": "Chemical Vapor Deposition → 化学气相沉积",
+        "root": "deposit",
+        "rootPhonetic": "/dɪˈpɒzɪt/",
+        "rootMeaning": "沉积",
+        "rootPhrases": [
+          "thin film deposition",
+          "chemical vapor deposition",
+          "physical vapor deposition",
+          "deposition rate"
+        ],
+        "wordPhrases": [
+          "CVD technology",
+          "CVD process",
+          "CVD equipment",
+          "CVD application"
+        ]
+      },
+      {
+        "word": "PVD",
+        "phonetic": "/ˌpiː viː ˈdiː/",
+        "partOfSpeech": "v.",
+        "meaning": "物理气相沉积",
+        "memoryTip": "Physical Vapor Deposition → 物理气相沉积",
+        "root": "deposit",
+        "rootPhonetic": "/dɪˈpɒzɪt/",
+        "rootMeaning": "沉积",
+        "rootPhrases": [
+          "thin film deposition",
+          "chemical vapor deposition",
+          "physical vapor deposition",
+          "deposition rate"
+        ],
+        "wordPhrases": [
+          "PVD technology",
+          "PVD process",
+          "PVD equipment",
+          "PVD application"
+        ]
+      },
+      {
+        "word": "ALD",
+        "phonetic": "/ˌeɪ el ˈdiː/",
+        "partOfSpeech": "v.",
+        "meaning": "原子层沉积",
+        "memoryTip": "Atomic Layer Deposition → 原子层沉积",
+        "root": "deposit",
+        "rootPhonetic": "/dɪˈpɒzɪt/",
+        "rootMeaning": "沉积",
+        "rootPhrases": [
+          "thin film deposition",
+          "chemical vapor deposition",
+          "physical vapor deposition",
+          "deposition rate"
+        ],
+        "wordPhrases": [
+          "ALD technology",
+          "ALD process",
+          "ALD equipment",
+          "ALD application"
+        ]
+      }
+    ],
+    "phrases": [
+      "thin film deposition (薄膜沉积)",
+      "chemical vapor deposition (化学气相沉积)",
+      "physical vapor deposition (物理气相沉积)",
+      "deposition rate (沉积速率)"
+    ],
+    "mnemonic": "deposit（沉积）→ 在晶圆表面沉积薄膜材料 → 沉积工艺",
+    "meaning": "沉积"
+  },
+  {
+    "id": 207,
+    "root": "photoresist",
+    "phonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+    "partOfSpeech": "n.",
+    "frequency": 207,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "photoresist",
+        "phonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻胶",
+        "memoryTip": "photo光 + resist抵抗 → 光刻胶",
+        "root": "photoresist",
+        "rootPhonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "photoresist coating",
+          "photoresist stripping"
+        ],
+        "wordPhrases": [
+          "photoresist technology",
+          "photoresist process",
+          "photoresist equipment",
+          "photoresist application"
+        ]
+      },
+      {
+        "word": "resist",
+        "phonetic": "/rɪˈzɪst/",
+        "partOfSpeech": "n.",
+        "meaning": "抗蚀剂",
+        "memoryTip": "re反 + sist站 → 抵抗 → 抗蚀剂",
+        "root": "photoresist",
+        "rootPhonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "photoresist coating",
+          "photoresist stripping"
+        ],
+        "wordPhrases": [
+          "resist technology",
+          "resist process",
+          "resist equipment",
+          "resist application"
+        ]
+      },
+      {
+        "word": "PR",
+        "phonetic": "/piː ɑːr/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻胶",
+        "memoryTip": "PhotoResist缩写 → 光刻胶",
+        "root": "photoresist",
+        "rootPhonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "photoresist coating",
+          "photoresist stripping"
+        ],
+        "wordPhrases": [
+          "PR technology",
+          "PR process",
+          "PR equipment",
+          "PR application"
+        ]
+      },
+      {
+        "word": "coating",
+        "phonetic": "/ˈkəʊtɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "涂布",
+        "memoryTip": "coat涂层 + -ing → 涂布",
+        "root": "photoresist",
+        "rootPhonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "photoresist coating",
+          "photoresist stripping"
+        ],
+        "wordPhrases": [
+          "coating technology",
+          "coating process",
+          "coating equipment",
+          "coating application"
+        ]
+      }
+    ],
+    "phrases": [
+      "positive resist (正胶)",
+      "negative resist (负胶)",
+      "photoresist coating (光刻胶涂布)",
+      "photoresist stripping (光刻胶去除)"
+    ],
+    "mnemonic": "photoresist（光刻胶）→ 对光敏感的高分子材料 → 光刻工艺核心材料",
+    "meaning": "光刻胶"
+  },
+  {
+    "id": 208,
+    "root": "mask",
+    "phonetic": "/mɑːsk/",
+    "partOfSpeech": "n.",
+    "frequency": 208,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "mask",
+        "phonetic": "/mɑːsk/",
+        "partOfSpeech": "n.",
+        "meaning": "掩膜版",
+        "memoryTip": "mask面具 → 掩膜版",
+        "root": "mask",
+        "rootPhonetic": "/mɑːsk/",
+        "rootMeaning": "掩膜版",
+        "rootPhrases": [
+          "mask design",
+          "mask alignment",
+          "binary mask",
+          "phase shift mask"
+        ],
+        "wordPhrases": [
+          "mask technology",
+          "mask process",
+          "mask equipment",
+          "mask application"
+        ]
+      },
+      {
+        "word": "reticle",
+        "phonetic": "/ˈretɪkl/",
+        "partOfSpeech": "n.",
+        "meaning": "掩膜版",
+        "memoryTip": "reticle标线片 → 光刻掩膜版",
+        "root": "mask",
+        "rootPhonetic": "/mɑːsk/",
+        "rootMeaning": "掩膜版",
+        "rootPhrases": [
+          "mask design",
+          "mask alignment",
+          "binary mask",
+          "phase shift mask"
+        ],
+        "wordPhrases": [
+          "reticle technology",
+          "reticle process",
+          "reticle equipment",
+          "reticle application"
+        ]
+      },
+      {
+        "word": "photomask",
+        "phonetic": "/ˈfəʊtəʊmɑːsk/",
+        "partOfSpeech": "n.",
+        "meaning": "光掩膜",
+        "memoryTip": "photo光 + mask掩膜 → 光掩膜",
+        "root": "mask",
+        "rootPhonetic": "/mɑːsk/",
+        "rootMeaning": "掩膜版",
+        "rootPhrases": [
+          "mask design",
+          "mask alignment",
+          "binary mask",
+          "phase shift mask"
+        ],
+        "wordPhrases": [
+          "photomask technology",
+          "photomask process",
+          "photomask equipment",
+          "photomask application"
+        ]
+      },
+      {
+        "word": "stencil",
+        "phonetic": "/ˈstensl/",
+        "partOfSpeech": "n.",
+        "meaning": "掩模",
+        "memoryTip": "stencil模板 → 掩模",
+        "root": "mask",
+        "rootPhonetic": "/mɑːsk/",
+        "rootMeaning": "掩膜版",
+        "rootPhrases": [
+          "mask design",
+          "mask alignment",
+          "binary mask",
+          "phase shift mask"
+        ],
+        "wordPhrases": [
+          "stencil technology",
+          "stencil process",
+          "stencil equipment",
+          "stencil application"
+        ]
+      }
+    ],
+    "phrases": [
+      "mask design (掩膜版设计)",
+      "mask alignment (掩膜对准)",
+      "binary mask (二元掩膜)",
+      "phase shift mask (相移掩膜)"
+    ],
+    "mnemonic": "mask（掩膜版）→ 刻有电路图案的透明版 → 光刻模板",
+    "meaning": "掩膜版"
+  },
+  {
+    "id": 209,
+    "root": "clean",
+    "phonetic": "/kliːn/",
+    "partOfSpeech": "v.",
+    "frequency": 209,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "clean",
+        "phonetic": "/kliːn/",
+        "partOfSpeech": "v.",
+        "meaning": "清洗",
+        "memoryTip": "clean清洁 → 晶圆清洗",
+        "root": "clean",
+        "rootPhonetic": "/kliːn/",
+        "rootMeaning": "清洗",
+        "rootPhrases": [
+          "wafer cleaning",
+          "wet cleaning",
+          "dry cleaning",
+          "particle removal"
+        ],
+        "wordPhrases": [
+          "clean technology",
+          "clean process",
+          "clean equipment",
+          "clean application"
+        ]
+      },
+      {
+        "word": "rinse",
+        "phonetic": "/rɪns/",
+        "partOfSpeech": "v.",
+        "meaning": "冲洗",
+        "memoryTip": "rinse冲洗 → 清洗步骤",
+        "root": "clean",
+        "rootPhonetic": "/kliːn/",
+        "rootMeaning": "清洗",
+        "rootPhrases": [
+          "wafer cleaning",
+          "wet cleaning",
+          "dry cleaning",
+          "particle removal"
+        ],
+        "wordPhrases": [
+          "rinse technology",
+          "rinse process",
+          "rinse equipment",
+          "rinse application"
+        ]
+      },
+      {
+        "word": "RCA",
+        "phonetic": "/ˌɑːr siː ˈeɪ/",
+        "partOfSpeech": "v.",
+        "meaning": "RCA清洗",
+        "memoryTip": "Radio Corporation of America → RCA标准清洗",
+        "root": "clean",
+        "rootPhonetic": "/kliːn/",
+        "rootMeaning": "清洗",
+        "rootPhrases": [
+          "wafer cleaning",
+          "wet cleaning",
+          "dry cleaning",
+          "particle removal"
+        ],
+        "wordPhrases": [
+          "RCA technology",
+          "RCA process",
+          "RCA equipment",
+          "RCA application"
+        ]
+      },
+      {
+        "word": "particle",
+        "phonetic": "/ˈpɑːrtɪkl/",
+        "partOfSpeech": "v.",
+        "meaning": "颗粒",
+        "memoryTip": "part部分 + icle小 → 颗粒",
+        "root": "clean",
+        "rootPhonetic": "/kliːn/",
+        "rootMeaning": "清洗",
+        "rootPhrases": [
+          "wafer cleaning",
+          "wet cleaning",
+          "dry cleaning",
+          "particle removal"
+        ],
+        "wordPhrases": [
+          "particle technology",
+          "particle process",
+          "particle equipment",
+          "particle application"
+        ]
+      }
+    ],
+    "phrases": [
+      "wafer cleaning (晶圆清洗)",
+      "wet cleaning (湿法清洗)",
+      "dry cleaning (干法清洗)",
+      "particle removal (颗粒去除)"
+    ],
+    "mnemonic": "clean（清洗）→ 去除晶圆表面污染物 → 关键制程步骤",
+    "meaning": "清洗"
+  },
+  {
+    "id": 210,
+    "root": "anneal",
+    "phonetic": "/əˈniːl/",
+    "partOfSpeech": "v.",
+    "frequency": 210,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "anneal",
+        "phonetic": "/əˈniːl/",
+        "partOfSpeech": "v.",
+        "meaning": "退火",
+        "memoryTip": "anneal退火 → 热处理工艺",
+        "root": "anneal",
+        "rootPhonetic": "/əˈniːl/",
+        "rootMeaning": "退火",
+        "rootPhrases": [
+          "thermal annealing",
+          "laser annealing",
+          "spike anneal",
+          "annealing temperature"
+        ],
+        "wordPhrases": [
+          "anneal technology",
+          "anneal process",
+          "anneal equipment",
+          "anneal application"
+        ]
+      },
+      {
+        "word": "annealing",
+        "phonetic": "/əˈniːlɪŋ/",
+        "partOfSpeech": "v.",
+        "meaning": "退火工艺",
+        "memoryTip": "anneal + -ing → 退火工艺",
+        "root": "anneal",
+        "rootPhonetic": "/əˈniːl/",
+        "rootMeaning": "退火",
+        "rootPhrases": [
+          "thermal annealing",
+          "laser annealing",
+          "spike anneal",
+          "annealing temperature"
+        ],
+        "wordPhrases": [
+          "annealing technology",
+          "annealing process",
+          "annealing equipment",
+          "annealing application"
+        ]
+      },
+      {
+        "word": "RTA",
+        "phonetic": "/ˌɑːr tiː ˈeɪ/",
+        "partOfSpeech": "v.",
+        "meaning": "快速热退火",
+        "memoryTip": "Rapid Thermal Annealing → 快速热退火",
+        "root": "anneal",
+        "rootPhonetic": "/əˈniːl/",
+        "rootMeaning": "退火",
+        "rootPhrases": [
+          "thermal annealing",
+          "laser annealing",
+          "spike anneal",
+          "annealing temperature"
+        ],
+        "wordPhrases": [
+          "RTA technology",
+          "RTA process",
+          "RTA equipment",
+          "RTA application"
+        ]
+      },
+      {
+        "word": "furnace",
+        "phonetic": "/ˈfɜːrnɪs/",
+        "partOfSpeech": "v.",
+        "meaning": "炉管",
+        "memoryTip": "furnace炉子 → 退火炉",
+        "root": "anneal",
+        "rootPhonetic": "/əˈniːl/",
+        "rootMeaning": "退火",
+        "rootPhrases": [
+          "thermal annealing",
+          "laser annealing",
+          "spike anneal",
+          "annealing temperature"
+        ],
+        "wordPhrases": [
+          "furnace technology",
+          "furnace process",
+          "furnace equipment",
+          "furnace application"
+        ]
+      }
+    ],
+    "phrases": [
+      "thermal annealing (热退火)",
+      "laser annealing (激光退火)",
+      "spike anneal (尖峰退火)",
+      "annealing temperature (退火温度)"
+    ],
+    "mnemonic": "anneal（退火）→ 加热后缓慢冷却修复晶格 → 热处理工艺",
+    "meaning": "退火"
+  },
+  {
+    "id": 211,
+    "root": "planarization",
+    "phonetic": "/ˌplænəraɪˈzeɪʃn/",
+    "partOfSpeech": "n.",
+    "frequency": 211,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "planarization",
+        "phonetic": "/ˌplænəraɪˈzeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "平坦化",
+        "memoryTip": "planar平面 + ization化 → 平坦化",
+        "root": "planarization",
+        "rootPhonetic": "/ˌplænəraɪˈzeɪʃn/",
+        "rootMeaning": "平坦化",
+        "rootPhrases": [
+          "chemical mechanical polishing",
+          "global planarization",
+          "CMP process",
+          "dielectric CMP"
+        ],
+        "wordPhrases": [
+          "planarization technology",
+          "planarization process",
+          "planarization equipment",
+          "planarization application"
+        ]
+      },
+      {
+        "word": "CMP",
+        "phonetic": "/ˌsiː em ˈpiː/",
+        "partOfSpeech": "n.",
+        "meaning": "化学机械抛光",
+        "memoryTip": "Chemical Mechanical Planarization → 化学机械抛光",
+        "root": "planarization",
+        "rootPhonetic": "/ˌplænəraɪˈzeɪʃn/",
+        "rootMeaning": "平坦化",
+        "rootPhrases": [
+          "chemical mechanical polishing",
+          "global planarization",
+          "CMP process",
+          "dielectric CMP"
+        ],
+        "wordPhrases": [
+          "CMP technology",
+          "CMP process",
+          "CMP equipment",
+          "CMP application"
+        ]
+      },
+      {
+        "word": "polish",
+        "phonetic": "/ˈpɒlɪʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "抛光",
+        "memoryTip": "polish抛光 → 表面平坦化",
+        "root": "planarization",
+        "rootPhonetic": "/ˌplænəraɪˈzeɪʃn/",
+        "rootMeaning": "平坦化",
+        "rootPhrases": [
+          "chemical mechanical polishing",
+          "global planarization",
+          "CMP process",
+          "dielectric CMP"
+        ],
+        "wordPhrases": [
+          "polish technology",
+          "polish process",
+          "polish equipment",
+          "polish application"
+        ]
+      },
+      {
+        "word": "slurry",
+        "phonetic": "/ˈslɜːri/",
+        "partOfSpeech": "n.",
+        "meaning": "研磨液",
+        "memoryTip": "slurry浆料 → CMP研磨液",
+        "root": "planarization",
+        "rootPhonetic": "/ˌplænəraɪˈzeɪʃn/",
+        "rootMeaning": "平坦化",
+        "rootPhrases": [
+          "chemical mechanical polishing",
+          "global planarization",
+          "CMP process",
+          "dielectric CMP"
+        ],
+        "wordPhrases": [
+          "slurry technology",
+          "slurry process",
+          "slurry equipment",
+          "slurry application"
+        ]
+      }
+    ],
+    "phrases": [
+      "chemical mechanical polishing (化学机械抛光)",
+      "global planarization (全局平坦化)",
+      "CMP process (CMP工艺)",
+      "dielectric CMP (介质层CMP)"
+    ],
+    "mnemonic": "planarization（平坦化）→ 使晶圆表面平整 → CMP工艺",
+    "meaning": "平坦化"
+  },
+  {
+    "id": 212,
+    "root": "oxidation",
+    "phonetic": "/ˌɒksɪˈdeɪʃn/",
+    "partOfSpeech": "n.",
+    "frequency": 212,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "oxidation",
+        "phonetic": "/ˌɒksɪˈdeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "氧化",
+        "memoryTip": "oxid氧化 + ation → 氧化",
+        "root": "oxidation",
+        "rootPhonetic": "/ˌɒksɪˈdeɪʃn/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "thermal oxidation",
+          "dry oxidation",
+          "wet oxidation",
+          "gate oxide"
+        ],
+        "wordPhrases": [
+          "oxidation technology",
+          "oxidation process",
+          "oxidation equipment",
+          "oxidation application"
+        ]
+      },
+      {
+        "word": "oxide",
+        "phonetic": "/ˈɒksaɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "氧化物",
+        "memoryTip": "oxid氧化 + e → 氧化物",
+        "root": "oxidation",
+        "rootPhonetic": "/ˌɒksɪˈdeɪʃn/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "thermal oxidation",
+          "dry oxidation",
+          "wet oxidation",
+          "gate oxide"
+        ],
+        "wordPhrases": [
+          "oxide technology",
+          "oxide process",
+          "oxide equipment",
+          "oxide application"
+        ]
+      },
+      {
+        "word": "SiO2",
+        "phonetic": "/ˌes aɪ əʊ tuː/",
+        "partOfSpeech": "n.",
+        "meaning": "二氧化硅",
+        "memoryTip": "Silicon Dioxide → 二氧化硅",
+        "root": "oxidation",
+        "rootPhonetic": "/ˌɒksɪˈdeɪʃn/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "thermal oxidation",
+          "dry oxidation",
+          "wet oxidation",
+          "gate oxide"
+        ],
+        "wordPhrases": [
+          "SiO2 technology",
+          "SiO2 process",
+          "SiO2 equipment",
+          "SiO2 application"
+        ]
+      },
+      {
+        "word": "gate oxide",
+        "phonetic": "/ɡeɪt ˈɒksaɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "栅氧化层",
+        "memoryTip": "gate栅 + oxide氧化物 → 栅氧化层",
+        "root": "oxidation",
+        "rootPhonetic": "/ˌɒksɪˈdeɪʃn/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "thermal oxidation",
+          "dry oxidation",
+          "wet oxidation",
+          "gate oxide"
+        ],
+        "wordPhrases": [
+          "gate oxide technology",
+          "gate oxide process",
+          "gate oxide equipment",
+          "gate oxide application"
+        ]
+      }
+    ],
+    "phrases": [
+      "thermal oxidation (热氧化)",
+      "dry oxidation (干氧氧化)",
+      "wet oxidation (湿氧氧化)",
+      "gate oxide (栅氧化层)"
+    ],
+    "mnemonic": "oxidation（氧化）→ 硅与氧反应生成SiO2 → 基础工艺",
+    "meaning": "氧化"
+  },
+  {
+    "id": 213,
+    "root": "epitaxy",
+    "phonetic": "/ˌepɪˈtæksi/",
+    "partOfSpeech": "n.",
+    "frequency": 213,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "epitaxy",
+        "phonetic": "/ˌepɪˈtæksi/",
+        "partOfSpeech": "n.",
+        "meaning": "外延",
+        "memoryTip": "epi上 + taxis排列 → 外延生长",
+        "root": "epitaxy",
+        "rootPhonetic": "/ˌepɪˈtæksi/",
+        "rootMeaning": "外延",
+        "rootPhrases": [
+          "epitaxial growth",
+          "epitaxial layer",
+          "homoepitaxy",
+          "heteroepitaxy"
+        ],
+        "wordPhrases": [
+          "epitaxy technology",
+          "epitaxy process",
+          "epitaxy equipment",
+          "epitaxy application"
+        ]
+      },
+      {
+        "word": "epi",
+        "phonetic": "/ˈepi/",
+        "partOfSpeech": "n.",
+        "meaning": "外延层",
+        "memoryTip": "epitaxy缩写 → 外延层",
+        "root": "epitaxy",
+        "rootPhonetic": "/ˌepɪˈtæksi/",
+        "rootMeaning": "外延",
+        "rootPhrases": [
+          "epitaxial growth",
+          "epitaxial layer",
+          "homoepitaxy",
+          "heteroepitaxy"
+        ],
+        "wordPhrases": [
+          "epi technology",
+          "epi process",
+          "epi equipment",
+          "epi application"
+        ]
+      },
+      {
+        "word": "epitaxial",
+        "phonetic": "/ˌepɪˈtæksiəl/",
+        "partOfSpeech": "n.",
+        "meaning": "外延的",
+        "memoryTip": "epitaxy + -ial → 外延的",
+        "root": "epitaxy",
+        "rootPhonetic": "/ˌepɪˈtæksi/",
+        "rootMeaning": "外延",
+        "rootPhrases": [
+          "epitaxial growth",
+          "epitaxial layer",
+          "homoepitaxy",
+          "heteroepitaxy"
+        ],
+        "wordPhrases": [
+          "epitaxial technology",
+          "epitaxial process",
+          "epitaxial equipment",
+          "epitaxial application"
+        ]
+      },
+      {
+        "word": "MOCVD",
+        "phonetic": "/ˌem əʊ siː viː ˈdiː/",
+        "partOfSpeech": "n.",
+        "meaning": "金属有机化学气相沉积",
+        "memoryTip": "Metal-Organic CVD → MOCVD",
+        "root": "epitaxy",
+        "rootPhonetic": "/ˌepɪˈtæksi/",
+        "rootMeaning": "外延",
+        "rootPhrases": [
+          "epitaxial growth",
+          "epitaxial layer",
+          "homoepitaxy",
+          "heteroepitaxy"
+        ],
+        "wordPhrases": [
+          "MOCVD technology",
+          "MOCVD process",
+          "MOCVD equipment",
+          "MOCVD application"
+        ]
+      }
+    ],
+    "phrases": [
+      "epitaxial growth (外延生长)",
+      "epitaxial layer (外延层)",
+      "homoepitaxy (同质外延)",
+      "heteroepitaxy (异质外延)"
+    ],
+    "mnemonic": "epitaxy（外延）→ 在单晶衬底上生长单晶薄膜 → 外延工艺",
+    "meaning": "外延"
+  },
+  {
+    "id": 214,
+    "root": "metallization",
+    "phonetic": "/ˌmetəlaɪˈzeɪʃn/",
+    "partOfSpeech": "n.",
+    "frequency": 214,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "metallization",
+        "phonetic": "/ˌmetəlaɪˈzeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "金属化",
+        "memoryTip": "metal金属 + ization化 → 金属化",
+        "root": "metallization",
+        "rootPhonetic": "/ˌmetəlaɪˈzeɪʃn/",
+        "rootMeaning": "金属化",
+        "rootPhrases": [
+          "copper interconnect",
+          "damascene process",
+          "dual damascene",
+          "metal layer"
+        ],
+        "wordPhrases": [
+          "metallization technology",
+          "metallization process",
+          "metallization equipment",
+          "metallization application"
+        ]
+      },
+      {
+        "word": "interconnect",
+        "phonetic": "/ˌɪntərkəˈnekt/",
+        "partOfSpeech": "n.",
+        "meaning": "互连",
+        "memoryTip": "inter之间 + connect连接 → 互连",
+        "root": "metallization",
+        "rootPhonetic": "/ˌmetəlaɪˈzeɪʃn/",
+        "rootMeaning": "金属化",
+        "rootPhrases": [
+          "copper interconnect",
+          "damascene process",
+          "dual damascene",
+          "metal layer"
+        ],
+        "wordPhrases": [
+          "interconnect technology",
+          "interconnect process",
+          "interconnect equipment",
+          "interconnect application"
+        ]
+      },
+      {
+        "word": "copper",
+        "phonetic": "/ˈkɒpər/",
+        "partOfSpeech": "n.",
+        "meaning": "铜",
+        "memoryTip": "copper铜 → Cu互连",
+        "root": "metallization",
+        "rootPhonetic": "/ˌmetəlaɪˈzeɪʃn/",
+        "rootMeaning": "金属化",
+        "rootPhrases": [
+          "copper interconnect",
+          "damascene process",
+          "dual damascene",
+          "metal layer"
+        ],
+        "wordPhrases": [
+          "copper technology",
+          "copper process",
+          "copper equipment",
+          "copper application"
+        ]
+      },
+      {
+        "word": "aluminum",
+        "phonetic": "/əˈluːmɪnəm/",
+        "partOfSpeech": "n.",
+        "meaning": "铝",
+        "memoryTip": "aluminum铝 → Al互连",
+        "root": "metallization",
+        "rootPhonetic": "/ˌmetəlaɪˈzeɪʃn/",
+        "rootMeaning": "金属化",
+        "rootPhrases": [
+          "copper interconnect",
+          "damascene process",
+          "dual damascene",
+          "metal layer"
+        ],
+        "wordPhrases": [
+          "aluminum technology",
+          "aluminum process",
+          "aluminum equipment",
+          "aluminum application"
+        ]
+      }
+    ],
+    "phrases": [
+      "copper interconnect (铜互连)",
+      "damascene process (大马士革工艺)",
+      "dual damascene (双大马士革)",
+      "metal layer (金属层)"
+    ],
+    "mnemonic": "metallization（金属化）→ 形成金属连线实现电路连接 → 金属化工艺",
+    "meaning": "金属化"
+  },
+  {
+    "id": 215,
+    "root": "diffusion",
+    "phonetic": "/dɪˈfjuːʒn/",
+    "partOfSpeech": "n.",
+    "frequency": 215,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "diffusion",
+        "phonetic": "/dɪˈfjuːʒn/",
+        "partOfSpeech": "n.",
+        "meaning": "扩散",
+        "memoryTip": "dif分开 + fus流 → 扩散",
+        "root": "diffusion",
+        "rootPhonetic": "/dɪˈfjuːʒn/",
+        "rootMeaning": "扩散",
+        "rootPhrases": [
+          "thermal diffusion",
+          "diffusion furnace",
+          "diffusion coefficient",
+          "solid solubility"
+        ],
+        "wordPhrases": [
+          "diffusion technology",
+          "diffusion process",
+          "diffusion equipment",
+          "diffusion application"
+        ]
+      },
+      {
+        "word": "furnace",
+        "phonetic": "/ˈfɜːrnɪs/",
+        "partOfSpeech": "n.",
+        "meaning": "扩散炉",
+        "memoryTip": "furnace炉 → 扩散炉",
+        "root": "diffusion",
+        "rootPhonetic": "/dɪˈfjuːʒn/",
+        "rootMeaning": "扩散",
+        "rootPhrases": [
+          "thermal diffusion",
+          "diffusion furnace",
+          "diffusion coefficient",
+          "solid solubility"
+        ],
+        "wordPhrases": [
+          "furnace technology",
+          "furnace process",
+          "furnace equipment",
+          "furnace application"
+        ]
+      },
+      {
+        "word": "drive-in",
+        "phonetic": "/ˈdraɪv ɪn/",
+        "partOfSpeech": "n.",
+        "meaning": "推进扩散",
+        "memoryTip": "drive驱动 + in进入 → 推进扩散",
+        "root": "diffusion",
+        "rootPhonetic": "/dɪˈfjuːʒn/",
+        "rootMeaning": "扩散",
+        "rootPhrases": [
+          "thermal diffusion",
+          "diffusion furnace",
+          "diffusion coefficient",
+          "solid solubility"
+        ],
+        "wordPhrases": [
+          "drive-in technology",
+          "drive-in process",
+          "drive-in equipment",
+          "drive-in application"
+        ]
+      },
+      {
+        "word": "predeposition",
+        "phonetic": "/ˌpriːdepəˈzɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "预沉积",
+        "memoryTip": "pre预 + deposition沉积 → 预沉积",
+        "root": "diffusion",
+        "rootPhonetic": "/dɪˈfjuːʒn/",
+        "rootMeaning": "扩散",
+        "rootPhrases": [
+          "thermal diffusion",
+          "diffusion furnace",
+          "diffusion coefficient",
+          "solid solubility"
+        ],
+        "wordPhrases": [
+          "predeposition technology",
+          "predeposition process",
+          "predeposition equipment",
+          "predeposition application"
+        ]
+      }
+    ],
+    "phrases": [
+      "thermal diffusion (热扩散)",
+      "diffusion furnace (扩散炉)",
+      "diffusion coefficient (扩散系数)",
+      "solid solubility (固溶度)"
+    ],
+    "mnemonic": "diffusion（扩散）→ 杂质在高温下向硅中扩散 → 掺杂工艺",
+    "meaning": "扩散"
+  },
+  {
+    "id": 216,
+    "root": "implant",
+    "phonetic": "/ɪmˈplɑːnt/",
+    "partOfSpeech": "v.",
+    "frequency": 216,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "implant",
+        "phonetic": "/ɪmˈplɑːnt/",
+        "partOfSpeech": "v.",
+        "meaning": "注入",
+        "memoryTip": "im进入 + plant种植 → 注入",
+        "root": "implant",
+        "rootPhonetic": "/ɪmˈplɑːnt/",
+        "rootMeaning": "离子注入",
+        "rootPhrases": [
+          "ion implantation",
+          "implant energy",
+          "implant dose",
+          "ion beam"
+        ],
+        "wordPhrases": [
+          "implant technology",
+          "implant process",
+          "implant equipment",
+          "implant application"
+        ]
+      },
+      {
+        "word": "implanter",
+        "phonetic": "/ɪmˈplɑːntər/",
+        "partOfSpeech": "v.",
+        "meaning": "离子注入机",
+        "memoryTip": "implant + -er → 注入机",
+        "root": "implant",
+        "rootPhonetic": "/ɪmˈplɑːnt/",
+        "rootMeaning": "离子注入",
+        "rootPhrases": [
+          "ion implantation",
+          "implant energy",
+          "implant dose",
+          "ion beam"
+        ],
+        "wordPhrases": [
+          "implanter technology",
+          "implanter process",
+          "implanter equipment",
+          "implanter application"
+        ]
+      },
+      {
+        "word": "accelerator",
+        "phonetic": "/əkˈseləreɪtər/",
+        "partOfSpeech": "v.",
+        "meaning": "加速器",
+        "memoryTip": "accelerate加速 + -or → 加速器",
+        "root": "implant",
+        "rootPhonetic": "/ɪmˈplɑːnt/",
+        "rootMeaning": "离子注入",
+        "rootPhrases": [
+          "ion implantation",
+          "implant energy",
+          "implant dose",
+          "ion beam"
+        ],
+        "wordPhrases": [
+          "accelerator technology",
+          "accelerator process",
+          "accelerator equipment",
+          "accelerator application"
+        ]
+      },
+      {
+        "word": "beam",
+        "phonetic": "/biːm/",
+        "partOfSpeech": "v.",
+        "meaning": "束流",
+        "memoryTip": "beam光束/束流 → 离子束",
+        "root": "implant",
+        "rootPhonetic": "/ɪmˈplɑːnt/",
+        "rootMeaning": "离子注入",
+        "rootPhrases": [
+          "ion implantation",
+          "implant energy",
+          "implant dose",
+          "ion beam"
+        ],
+        "wordPhrases": [
+          "beam technology",
+          "beam process",
+          "beam equipment",
+          "beam application"
+        ]
+      }
+    ],
+    "phrases": [
+      "ion implantation (离子注入)",
+      "implant energy (注入能量)",
+      "implant dose (注入剂量)",
+      "ion beam (离子束)"
+    ],
+    "mnemonic": "implant（注入）→ 将离子加速注入硅片 → 精确掺杂",
+    "meaning": "离子注入"
+  },
+  {
+    "id": 217,
+    "root": "photomask",
+    "phonetic": "/ˈfəʊtəʊmɑːsk/",
+    "partOfSpeech": "n.",
+    "frequency": 217,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "photomask",
+        "phonetic": "/ˈfəʊtəʊmɑːsk/",
+        "partOfSpeech": "n.",
+        "meaning": "光掩膜",
+        "memoryTip": "photo光 + mask掩膜 → 光掩膜",
+        "root": "photomask",
+        "rootPhonetic": "/ˈfəʊtəʊmɑːsk/",
+        "rootMeaning": "光掩膜",
+        "rootPhrases": [
+          "mask fabrication",
+          "mask inspection",
+          "mask repair",
+          "reticle"
+        ],
+        "wordPhrases": [
+          "photomask technology",
+          "photomask process",
+          "photomask equipment",
+          "photomask application"
+        ]
+      },
+      {
+        "word": "mask blank",
+        "phonetic": "/mɑːsk blæŋk/",
+        "partOfSpeech": "n.",
+        "meaning": "掩膜坯",
+        "memoryTip": "mask + blank空白 → 掩膜坯",
+        "root": "photomask",
+        "rootPhonetic": "/ˈfəʊtəʊmɑːsk/",
+        "rootMeaning": "光掩膜",
+        "rootPhrases": [
+          "mask fabrication",
+          "mask inspection",
+          "mask repair",
+          "reticle"
+        ],
+        "wordPhrases": [
+          "mask blank technology",
+          "mask blank process",
+          "mask blank equipment",
+          "mask blank application"
+        ]
+      },
+      {
+        "word": "chrome",
+        "phonetic": "/krəʊm/",
+        "partOfSpeech": "n.",
+        "meaning": "铬",
+        "memoryTip": "chrome铬 → 掩膜遮光层",
+        "root": "photomask",
+        "rootPhonetic": "/ˈfəʊtəʊmɑːsk/",
+        "rootMeaning": "光掩膜",
+        "rootPhrases": [
+          "mask fabrication",
+          "mask inspection",
+          "mask repair",
+          "reticle"
+        ],
+        "wordPhrases": [
+          "chrome technology",
+          "chrome process",
+          "chrome equipment",
+          "chrome application"
+        ]
+      },
+      {
+        "word": "quartz",
+        "phonetic": "/kwɔːrts/",
+        "partOfSpeech": "n.",
+        "meaning": "石英",
+        "memoryTip": "quartz石英 → 掩膜基板",
+        "root": "photomask",
+        "rootPhonetic": "/ˈfəʊtəʊmɑːsk/",
+        "rootMeaning": "光掩膜",
+        "rootPhrases": [
+          "mask fabrication",
+          "mask inspection",
+          "mask repair",
+          "reticle"
+        ],
+        "wordPhrases": [
+          "quartz technology",
+          "quartz process",
+          "quartz equipment",
+          "quartz application"
+        ]
+      }
+    ],
+    "phrases": [
+      "mask fabrication (掩膜制造)",
+      "mask inspection (掩膜检测)",
+      "mask repair (掩膜修复)",
+      "reticle (掩膜版)"
+    ],
+    "mnemonic": "photomask（光掩膜）→ 刻有电路图案的石英版 → 光刻模板",
+    "meaning": "光掩膜"
+  },
+  {
+    "id": 218,
+    "root": "stepper",
+    "phonetic": "/ˈstepər/",
+    "partOfSpeech": "n.",
+    "frequency": 218,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "stepper",
+        "phonetic": "/ˈstepər/",
+        "partOfSpeech": "n.",
+        "meaning": "步进光刻机",
+        "memoryTip": "step步进 + -er → 步进光刻机",
+        "root": "stepper",
+        "rootPhonetic": "/ˈstepər/",
+        "rootMeaning": "步进光刻机",
+        "rootPhrases": [
+          "step and repeat",
+          "scan and repeat",
+          "projection aligner",
+          "exposure tool"
+        ],
+        "wordPhrases": [
+          "stepper technology",
+          "stepper process",
+          "stepper equipment",
+          "stepper application"
+        ]
+      },
+      {
+        "word": "scanner",
+        "phonetic": "/ˈskænər/",
+        "partOfSpeech": "n.",
+        "meaning": "扫描光刻机",
+        "memoryTip": "scan扫描 + -er → 扫描光刻机",
+        "root": "stepper",
+        "rootPhonetic": "/ˈstepər/",
+        "rootMeaning": "步进光刻机",
+        "rootPhrases": [
+          "step and repeat",
+          "scan and repeat",
+          "projection aligner",
+          "exposure tool"
+        ],
+        "wordPhrases": [
+          "scanner technology",
+          "scanner process",
+          "scanner equipment",
+          "scanner application"
+        ]
+      },
+      {
+        "word": "projection",
+        "phonetic": "/prəˈdʒekʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "投影",
+        "memoryTip": "project投影 + ion → 投影",
+        "root": "stepper",
+        "rootPhonetic": "/ˈstepər/",
+        "rootMeaning": "步进光刻机",
+        "rootPhrases": [
+          "step and repeat",
+          "scan and repeat",
+          "projection aligner",
+          "exposure tool"
+        ],
+        "wordPhrases": [
+          "projection technology",
+          "projection process",
+          "projection equipment",
+          "projection application"
+        ]
+      },
+      {
+        "word": "aligner",
+        "phonetic": "/əˈlaɪnər/",
+        "partOfSpeech": "n.",
+        "meaning": "对准器",
+        "memoryTip": "align对准 + -er → 对准器",
+        "root": "stepper",
+        "rootPhonetic": "/ˈstepər/",
+        "rootMeaning": "步进光刻机",
+        "rootPhrases": [
+          "step and repeat",
+          "scan and repeat",
+          "projection aligner",
+          "exposure tool"
+        ],
+        "wordPhrases": [
+          "aligner technology",
+          "aligner process",
+          "aligner equipment",
+          "aligner application"
+        ]
+      }
+    ],
+    "phrases": [
+      "step and repeat (步进重复)",
+      "scan and repeat (扫描重复)",
+      "projection aligner (投影对准机)",
+      "exposure tool (曝光设备)"
+    ],
+    "mnemonic": "stepper（步进机）→ 步进重复曝光的光刻设备 → 光刻机",
+    "meaning": "步进光刻机"
+  },
+  {
+    "id": 219,
+    "root": "resist",
+    "phonetic": "/rɪˈzɪst/",
+    "partOfSpeech": "n.",
+    "frequency": 219,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "resist",
+        "phonetic": "/rɪˈzɪst/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻胶",
+        "memoryTip": "resist抵抗 → 抗蚀剂",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "resist coating",
+          "resist stripping"
+        ],
+        "wordPhrases": [
+          "resist technology",
+          "resist process",
+          "resist equipment",
+          "resist application"
+        ]
+      },
+      {
+        "word": "photoresist",
+        "phonetic": "/ˌfəʊtəʊrɪˈzɪst/",
+        "partOfSpeech": "n.",
+        "meaning": "光刻胶",
+        "memoryTip": "photo光 + resist → 光刻胶",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "resist coating",
+          "resist stripping"
+        ],
+        "wordPhrases": [
+          "photoresist technology",
+          "photoresist process",
+          "photoresist equipment",
+          "photoresist application"
+        ]
+      },
+      {
+        "word": "developer",
+        "phonetic": "/dɪˈveləpər/",
+        "partOfSpeech": "n.",
+        "meaning": "显影液",
+        "memoryTip": "develop显影 + -er → 显影液",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "resist coating",
+          "resist stripping"
+        ],
+        "wordPhrases": [
+          "developer technology",
+          "developer process",
+          "developer equipment",
+          "developer application"
+        ]
+      },
+      {
+        "word": "solvent",
+        "phonetic": "/ˈsɒlvənt/",
+        "partOfSpeech": "n.",
+        "meaning": "溶剂",
+        "memoryTip": "solve溶解 + -ent → 溶剂",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "光刻胶",
+        "rootPhrases": [
+          "positive resist",
+          "negative resist",
+          "resist coating",
+          "resist stripping"
+        ],
+        "wordPhrases": [
+          "solvent technology",
+          "solvent process",
+          "solvent equipment",
+          "solvent application"
+        ]
+      }
+    ],
+    "phrases": [
+      "positive resist (正胶)",
+      "negative resist (负胶)",
+      "resist coating (涂胶)",
+      "resist stripping (去胶)"
+    ],
+    "mnemonic": "resist（光刻胶）→ 抵抗刻蚀的感光材料 → 光刻胶",
+    "meaning": "光刻胶"
+  },
+  {
+    "id": 220,
+    "root": "substrate",
+    "phonetic": "/ˈsʌbstreɪt/",
+    "partOfSpeech": "n.",
+    "frequency": 220,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "substrate",
+        "phonetic": "/ˈsʌbstreɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "衬底",
+        "memoryTip": "sub下 + stratum层 → 衬底",
+        "root": "substrate",
+        "rootPhonetic": "/ˈsʌbstreɪt/",
+        "rootMeaning": "衬底",
+        "rootPhrases": [
+          "silicon substrate",
+          "substrate material",
+          "SOI wafer",
+          "substrate preparation"
+        ],
+        "wordPhrases": [
+          "substrate technology",
+          "substrate process",
+          "substrate equipment",
+          "substrate application"
+        ]
+      },
+      {
+        "word": "bulk",
+        "phonetic": "/bʌlk/",
+        "partOfSpeech": "n.",
+        "meaning": "体材料",
+        "memoryTip": "bulk大块 → 体硅",
+        "root": "substrate",
+        "rootPhonetic": "/ˈsʌbstreɪt/",
+        "rootMeaning": "衬底",
+        "rootPhrases": [
+          "silicon substrate",
+          "substrate material",
+          "SOI wafer",
+          "substrate preparation"
+        ],
+        "wordPhrases": [
+          "bulk technology",
+          "bulk process",
+          "bulk equipment",
+          "bulk application"
+        ]
+      },
+      {
+        "word": "SOI",
+        "phonetic": "/ˌes əʊ ˈaɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "绝缘体上硅",
+        "memoryTip": "Silicon On Insulator → SOI",
+        "root": "substrate",
+        "rootPhonetic": "/ˈsʌbstreɪt/",
+        "rootMeaning": "衬底",
+        "rootPhrases": [
+          "silicon substrate",
+          "substrate material",
+          "SOI wafer",
+          "substrate preparation"
+        ],
+        "wordPhrases": [
+          "SOI technology",
+          "SOI process",
+          "SOI equipment",
+          "SOI application"
+        ]
+      },
+      {
+        "word": "handle",
+        "phonetic": "/ˈhændl/",
+        "partOfSpeech": "n.",
+        "meaning": "支撑层",
+        "memoryTip": "handle手柄 → 支撑层",
+        "root": "substrate",
+        "rootPhonetic": "/ˈsʌbstreɪt/",
+        "rootMeaning": "衬底",
+        "rootPhrases": [
+          "silicon substrate",
+          "substrate material",
+          "SOI wafer",
+          "substrate preparation"
+        ],
+        "wordPhrases": [
+          "handle technology",
+          "handle process",
+          "handle equipment",
+          "handle application"
+        ]
+      }
+    ],
+    "phrases": [
+      "silicon substrate (硅衬底)",
+      "substrate material (衬底材料)",
+      "SOI wafer (SOI晶圆)",
+      "substrate preparation (衬底准备)"
+    ],
+    "mnemonic": "substrate（衬底）→ 承载集成电路的基础材料 → 衬底",
+    "meaning": "衬底"
+  },
+  {
+    "id": 221,
+    "root": "chamber",
+    "phonetic": "/ˈtʃeɪmbər/",
+    "partOfSpeech": "n.",
+    "frequency": 221,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "chamber",
+        "phonetic": "/ˈtʃeɪmbər/",
+        "partOfSpeech": "n.",
+        "meaning": "反应腔",
+        "memoryTip": "chamber腔室 → 反应腔",
+        "root": "chamber",
+        "rootPhonetic": "/ˈtʃeɪmbər/",
+        "rootMeaning": "反应腔",
+        "rootPhrases": [
+          "process chamber",
+          "transfer chamber",
+          "vacuum chamber",
+          "loadlock chamber"
+        ],
+        "wordPhrases": [
+          "chamber technology",
+          "chamber process",
+          "chamber equipment",
+          "chamber application"
+        ]
+      },
+      {
+        "word": "process chamber",
+        "phonetic": "/ˈprəʊses ˈtʃeɪmbər/",
+        "partOfSpeech": "n.",
+        "meaning": "工艺腔",
+        "memoryTip": "process工艺 + chamber腔 → 工艺腔",
+        "root": "chamber",
+        "rootPhonetic": "/ˈtʃeɪmbər/",
+        "rootMeaning": "反应腔",
+        "rootPhrases": [
+          "process chamber",
+          "transfer chamber",
+          "vacuum chamber",
+          "loadlock chamber"
+        ],
+        "wordPhrases": [
+          "process chamber technology",
+          "process chamber process",
+          "process chamber equipment",
+          "process chamber application"
+        ]
+      },
+      {
+        "word": "loadlock",
+        "phonetic": "/ˈləʊdlɒk/",
+        "partOfSpeech": "n.",
+        "meaning": "装载锁",
+        "memoryTip": "load装载 + lock锁 → 装载锁",
+        "root": "chamber",
+        "rootPhonetic": "/ˈtʃeɪmbər/",
+        "rootMeaning": "反应腔",
+        "rootPhrases": [
+          "process chamber",
+          "transfer chamber",
+          "vacuum chamber",
+          "loadlock chamber"
+        ],
+        "wordPhrases": [
+          "loadlock technology",
+          "loadlock process",
+          "loadlock equipment",
+          "loadlock application"
+        ]
+      },
+      {
+        "word": "vacuum",
+        "phonetic": "/ˈvækjuːm/",
+        "partOfSpeech": "n.",
+        "meaning": "真空",
+        "memoryTip": "vacuum真空 → 真空腔",
+        "root": "chamber",
+        "rootPhonetic": "/ˈtʃeɪmbər/",
+        "rootMeaning": "反应腔",
+        "rootPhrases": [
+          "process chamber",
+          "transfer chamber",
+          "vacuum chamber",
+          "loadlock chamber"
+        ],
+        "wordPhrases": [
+          "vacuum technology",
+          "vacuum process",
+          "vacuum equipment",
+          "vacuum application"
+        ]
+      }
+    ],
+    "phrases": [
+      "process chamber (工艺腔)",
+      "transfer chamber (传送腔)",
+      "vacuum chamber (真空腔)",
+      "loadlock chamber (装载腔)"
+    ],
+    "mnemonic": "chamber（反应腔）→ 进行工艺反应的封闭空间 → 反应腔",
+    "meaning": "反应腔"
+  },
+  {
+    "id": 222,
+    "root": "endpoint",
+    "phonetic": "/ˈendpɔɪnt/",
+    "partOfSpeech": "n.",
+    "frequency": 222,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "endpoint",
+        "phonetic": "/ˈendpɔɪnt/",
+        "partOfSpeech": "n.",
+        "meaning": "终点",
+        "memoryTip": "end结束 + point点 → 终点",
+        "root": "endpoint",
+        "rootPhonetic": "/ˈendpɔɪnt/",
+        "rootMeaning": "终点检测",
+        "rootPhrases": [
+          "endpoint detection",
+          "interferometric endpoint",
+          "OES endpoint",
+          "endpoint signal"
+        ],
+        "wordPhrases": [
+          "endpoint technology",
+          "endpoint process",
+          "endpoint equipment",
+          "endpoint application"
+        ]
+      },
+      {
+        "word": "detection",
+        "phonetic": "/dɪˈtekʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "检测",
+        "memoryTip": "detect检测 + ion → 检测",
+        "root": "endpoint",
+        "rootPhonetic": "/ˈendpɔɪnt/",
+        "rootMeaning": "终点检测",
+        "rootPhrases": [
+          "endpoint detection",
+          "interferometric endpoint",
+          "OES endpoint",
+          "endpoint signal"
+        ],
+        "wordPhrases": [
+          "detection technology",
+          "detection process",
+          "detection equipment",
+          "detection application"
+        ]
+      },
+      {
+        "word": "interferometry",
+        "phonetic": "/ˌɪntərfɪˈrɒmɪtri/",
+        "partOfSpeech": "n.",
+        "meaning": "干涉测量",
+        "memoryTip": "interfer干涉 + ometry测量 → 干涉测量",
+        "root": "endpoint",
+        "rootPhonetic": "/ˈendpɔɪnt/",
+        "rootMeaning": "终点检测",
+        "rootPhrases": [
+          "endpoint detection",
+          "interferometric endpoint",
+          "OES endpoint",
+          "endpoint signal"
+        ],
+        "wordPhrases": [
+          "interferometry technology",
+          "interferometry process",
+          "interferometry equipment",
+          "interferometry application"
+        ]
+      },
+      {
+        "word": "emission",
+        "phonetic": "/ɪˈmɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "发射",
+        "memoryTip": "e出 + miss送 + ion → 发射",
+        "root": "endpoint",
+        "rootPhonetic": "/ˈendpɔɪnt/",
+        "rootMeaning": "终点检测",
+        "rootPhrases": [
+          "endpoint detection",
+          "interferometric endpoint",
+          "OES endpoint",
+          "endpoint signal"
+        ],
+        "wordPhrases": [
+          "emission technology",
+          "emission process",
+          "emission equipment",
+          "emission application"
+        ]
+      }
+    ],
+    "phrases": [
+      "endpoint detection (终点检测)",
+      "interferometric endpoint (干涉终点检测)",
+      "OES endpoint (发射光谱终点检测)",
+      "endpoint signal (终点信号)"
+    ],
+    "mnemonic": "endpoint（终点检测）→ 检测工艺结束时刻 → 工艺控制",
+    "meaning": "终点检测"
+  },
+  {
+    "id": 223,
+    "root": "monitor",
+    "phonetic": "/ˈmɒnɪtər/",
+    "partOfSpeech": "v.",
+    "frequency": 223,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "monitor",
+        "phonetic": "/ˈmɒnɪtər/",
+        "partOfSpeech": "v.",
+        "meaning": "监控",
+        "memoryTip": "monitor监控 → 工艺监控",
+        "root": "monitor",
+        "rootPhonetic": "/ˈmɒnɪtər/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "process monitor",
+          "in-situ monitor",
+          "statistical process control",
+          "advanced process control"
+        ],
+        "wordPhrases": [
+          "monitor technology",
+          "monitor process",
+          "monitor equipment",
+          "monitor application"
+        ]
+      },
+      {
+        "word": "metrology",
+        "phonetic": "/məˈtrɒlədʒi/",
+        "partOfSpeech": "v.",
+        "meaning": "计量",
+        "memoryTip": "metro测量 + logy学 → 计量",
+        "root": "monitor",
+        "rootPhonetic": "/ˈmɒnɪtər/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "process monitor",
+          "in-situ monitor",
+          "statistical process control",
+          "advanced process control"
+        ],
+        "wordPhrases": [
+          "metrology technology",
+          "metrology process",
+          "metrology equipment",
+          "metrology application"
+        ]
+      },
+      {
+        "word": "sensor",
+        "phonetic": "/ˈsensər/",
+        "partOfSpeech": "v.",
+        "meaning": "传感器",
+        "memoryTip": "sense感觉 + -or → 传感器",
+        "root": "monitor",
+        "rootPhonetic": "/ˈmɒnɪtər/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "process monitor",
+          "in-situ monitor",
+          "statistical process control",
+          "advanced process control"
+        ],
+        "wordPhrases": [
+          "sensor technology",
+          "sensor process",
+          "sensor equipment",
+          "sensor application"
+        ]
+      },
+      {
+        "word": "control",
+        "phonetic": "/kənˈtrəʊl/",
+        "partOfSpeech": "v.",
+        "meaning": "控制",
+        "memoryTip": "con共同 + trol → 控制",
+        "root": "monitor",
+        "rootPhonetic": "/ˈmɒnɪtər/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "process monitor",
+          "in-situ monitor",
+          "statistical process control",
+          "advanced process control"
+        ],
+        "wordPhrases": [
+          "control technology",
+          "control process",
+          "control equipment",
+          "control application"
+        ]
+      }
+    ],
+    "phrases": [
+      "process monitor (工艺监控)",
+      "in-situ monitor (原位监控)",
+      "statistical process control (统计过程控制)",
+      "advanced process control (先进过程控制)"
+    ],
+    "mnemonic": "monitor（监控）→ 实时监测工艺参数 → 工艺控制",
+    "meaning": "监控"
+  },
+  {
+    "id": 224,
+    "root": "particle",
+    "phonetic": "/ˈpɑːrtɪkl/",
+    "partOfSpeech": "n.",
+    "frequency": 224,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "particle",
+        "phonetic": "/ˈpɑːrtɪkl/",
+        "partOfSpeech": "n.",
+        "meaning": "颗粒",
+        "memoryTip": "part部分 + icle小 → 颗粒",
+        "root": "particle",
+        "rootPhonetic": "/ˈpɑːrtɪkl/",
+        "rootMeaning": "颗粒",
+        "rootPhrases": [
+          "particle count",
+          "particle detection",
+          "particle contamination",
+          "killer defect"
+        ],
+        "wordPhrases": [
+          "particle technology",
+          "particle process",
+          "particle equipment",
+          "particle application"
+        ]
+      },
+      {
+        "word": "contamination",
+        "phonetic": "/kənˌtæmɪˈneɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "污染",
+        "memoryTip": "contamin污染 + ation → 污染",
+        "root": "particle",
+        "rootPhonetic": "/ˈpɑːrtɪkl/",
+        "rootMeaning": "颗粒",
+        "rootPhrases": [
+          "particle count",
+          "particle detection",
+          "particle contamination",
+          "killer defect"
+        ],
+        "wordPhrases": [
+          "contamination technology",
+          "contamination process",
+          "contamination equipment",
+          "contamination application"
+        ]
+      },
+      {
+        "word": "defect",
+        "phonetic": "/ˈdiːfekt/",
+        "partOfSpeech": "n.",
+        "meaning": "缺陷",
+        "memoryTip": "de不 + fect做 → 缺陷",
+        "root": "particle",
+        "rootPhonetic": "/ˈpɑːrtɪkl/",
+        "rootMeaning": "颗粒",
+        "rootPhrases": [
+          "particle count",
+          "particle detection",
+          "particle contamination",
+          "killer defect"
+        ],
+        "wordPhrases": [
+          "defect technology",
+          "defect process",
+          "defect equipment",
+          "defect application"
+        ]
+      },
+      {
+        "word": "yield",
+        "phonetic": "/jiːld/",
+        "partOfSpeech": "n.",
+        "meaning": "良率",
+        "memoryTip": "yield产出 → 良率",
+        "root": "particle",
+        "rootPhonetic": "/ˈpɑːrtɪkl/",
+        "rootMeaning": "颗粒",
+        "rootPhrases": [
+          "particle count",
+          "particle detection",
+          "particle contamination",
+          "killer defect"
+        ],
+        "wordPhrases": [
+          "yield technology",
+          "yield process",
+          "yield equipment",
+          "yield application"
+        ]
+      }
+    ],
+    "phrases": [
+      "particle count (颗粒数)",
+      "particle detection (颗粒检测)",
+      "particle contamination (颗粒污染)",
+      "killer defect (致命缺陷)"
+    ],
+    "mnemonic": "particle（颗粒）→ 影响良率的微小污染物 → 颗粒控制",
+    "meaning": "颗粒"
+  },
+  {
+    "id": 225,
+    "root": "photon",
+    "phonetic": "/ˈfəʊtɒn/",
+    "partOfSpeech": "n.",
+    "frequency": 225,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "photon",
+        "phonetic": "/ˈfəʊtɒn/",
+        "partOfSpeech": "n.",
+        "meaning": "光子",
+        "memoryTip": "photo光 + -on粒子 → 光子",
+        "root": "photon",
+        "rootPhonetic": "/ˈfəʊtɒn/",
+        "rootMeaning": "光子",
+        "rootPhrases": [
+          "photon energy",
+          "193nm wavelength",
+          "exposure dose",
+          "EUV photon"
+        ],
+        "wordPhrases": [
+          "photon technology",
+          "photon process",
+          "photon equipment",
+          "photon application"
+        ]
+      },
+      {
+        "word": "wavelength",
+        "phonetic": "/ˈweɪvleŋθ/",
+        "partOfSpeech": "n.",
+        "meaning": "波长",
+        "memoryTip": "wave波 + length长 → 波长",
+        "root": "photon",
+        "rootPhonetic": "/ˈfəʊtɒn/",
+        "rootMeaning": "光子",
+        "rootPhrases": [
+          "photon energy",
+          "193nm wavelength",
+          "exposure dose",
+          "EUV photon"
+        ],
+        "wordPhrases": [
+          "wavelength technology",
+          "wavelength process",
+          "wavelength equipment",
+          "wavelength application"
+        ]
+      },
+      {
+        "word": "exposure",
+        "phonetic": "/ɪkˈspəʊʒər/",
+        "partOfSpeech": "n.",
+        "meaning": "曝光",
+        "memoryTip": "ex出 + pos放 + ure → 曝光",
+        "root": "photon",
+        "rootPhonetic": "/ˈfəʊtɒn/",
+        "rootMeaning": "光子",
+        "rootPhrases": [
+          "photon energy",
+          "193nm wavelength",
+          "exposure dose",
+          "EUV photon"
+        ],
+        "wordPhrases": [
+          "exposure technology",
+          "exposure process",
+          "exposure equipment",
+          "exposure application"
+        ]
+      },
+      {
+        "word": "dose",
+        "phonetic": "/dəʊs/",
+        "partOfSpeech": "n.",
+        "meaning": "剂量",
+        "memoryTip": "dose剂量 → 曝光剂量",
+        "root": "photon",
+        "rootPhonetic": "/ˈfəʊtɒn/",
+        "rootMeaning": "光子",
+        "rootPhrases": [
+          "photon energy",
+          "193nm wavelength",
+          "exposure dose",
+          "EUV photon"
+        ],
+        "wordPhrases": [
+          "dose technology",
+          "dose process",
+          "dose equipment",
+          "dose application"
+        ]
+      }
+    ],
+    "phrases": [
+      "photon energy (光子能量)",
+      "193nm wavelength (193nm波长)",
+      "exposure dose (曝光剂量)",
+      "EUV photon (EUV光子)"
+    ],
+    "mnemonic": "photon（光子）→ 光的量子粒子 → 光刻光源",
+    "meaning": "光子"
+  },
+  {
+    "id": 226,
+    "root": "plasma",
+    "phonetic": "/ˈplæzmə/",
+    "partOfSpeech": "n.",
+    "frequency": 226,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "plasma",
+        "phonetic": "/ˈplæzmə/",
+        "partOfSpeech": "n.",
+        "meaning": "等离子体",
+        "memoryTip": "plasma血浆 → 等离子体",
+        "root": "plasma",
+        "rootPhonetic": "/ˈplæzmə/",
+        "rootMeaning": "等离子体",
+        "rootPhrases": [
+          "plasma etching",
+          "plasma CVD",
+          "plasma density",
+          "plasma damage"
+        ],
+        "wordPhrases": [
+          "plasma technology",
+          "plasma process",
+          "plasma equipment",
+          "plasma application"
+        ]
+      },
+      {
+        "word": "ion",
+        "phonetic": "/ˈaɪən/",
+        "partOfSpeech": "n.",
+        "meaning": "离子",
+        "memoryTip": "ion离子 → 电离粒子",
+        "root": "plasma",
+        "rootPhonetic": "/ˈplæzmə/",
+        "rootMeaning": "等离子体",
+        "rootPhrases": [
+          "plasma etching",
+          "plasma CVD",
+          "plasma density",
+          "plasma damage"
+        ],
+        "wordPhrases": [
+          "ion technology",
+          "ion process",
+          "ion equipment",
+          "ion application"
+        ]
+      },
+      {
+        "word": "electron",
+        "phonetic": "/ɪˈlektrɒn/",
+        "partOfSpeech": "n.",
+        "meaning": "电子",
+        "memoryTip": "electr电 + on → 电子",
+        "root": "plasma",
+        "rootPhonetic": "/ˈplæzmə/",
+        "rootMeaning": "等离子体",
+        "rootPhrases": [
+          "plasma etching",
+          "plasma CVD",
+          "plasma density",
+          "plasma damage"
+        ],
+        "wordPhrases": [
+          "electron technology",
+          "electron process",
+          "electron equipment",
+          "electron application"
+        ]
+      },
+      {
+        "word": "radical",
+        "phonetic": "/ˈrædɪkl/",
+        "partOfSpeech": "n.",
+        "meaning": "自由基",
+        "memoryTip": "radical激进的 → 自由基",
+        "root": "plasma",
+        "rootPhonetic": "/ˈplæzmə/",
+        "rootMeaning": "等离子体",
+        "rootPhrases": [
+          "plasma etching",
+          "plasma CVD",
+          "plasma density",
+          "plasma damage"
+        ],
+        "wordPhrases": [
+          "radical technology",
+          "radical process",
+          "radical equipment",
+          "radical application"
+        ]
+      }
+    ],
+    "phrases": [
+      "plasma etching (等离子刻蚀)",
+      "plasma CVD (等离子CVD)",
+      "plasma density (等离子密度)",
+      "plasma damage (等离子损伤)"
+    ],
+    "mnemonic": "plasma（等离子体）→ 电离气体状态 → 刻蚀/CVD工艺",
+    "meaning": "等离子体"
+  },
+  {
+    "id": 227,
+    "root": "pressure",
+    "phonetic": "/ˈpreʃər/",
+    "partOfSpeech": "n.",
+    "frequency": 227,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "pressure",
+        "phonetic": "/ˈpreʃər/",
+        "partOfSpeech": "n.",
+        "meaning": "压力",
+        "memoryTip": "press压 + ure → 压力",
+        "root": "pressure",
+        "rootPhonetic": "/ˈpreʃər/",
+        "rootMeaning": "压力",
+        "rootPhrases": [
+          "low pressure",
+          "high vacuum",
+          "base pressure",
+          "process pressure"
+        ],
+        "wordPhrases": [
+          "pressure technology",
+          "pressure process",
+          "pressure equipment",
+          "pressure application"
+        ]
+      },
+      {
+        "word": "vacuum",
+        "phonetic": "/ˈvækjuːm/",
+        "partOfSpeech": "n.",
+        "meaning": "真空",
+        "memoryTip": "vacu空 + um → 真空",
+        "root": "pressure",
+        "rootPhonetic": "/ˈpreʃər/",
+        "rootMeaning": "压力",
+        "rootPhrases": [
+          "low pressure",
+          "high vacuum",
+          "base pressure",
+          "process pressure"
+        ],
+        "wordPhrases": [
+          "vacuum technology",
+          "vacuum process",
+          "vacuum equipment",
+          "vacuum application"
+        ]
+      },
+      {
+        "word": "atmosphere",
+        "phonetic": "/ˈætməsfɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "大气压",
+        "memoryTip": "atmo气 + sphere球 → 大气",
+        "root": "pressure",
+        "rootPhonetic": "/ˈpreʃər/",
+        "rootMeaning": "压力",
+        "rootPhrases": [
+          "low pressure",
+          "high vacuum",
+          "base pressure",
+          "process pressure"
+        ],
+        "wordPhrases": [
+          "atmosphere technology",
+          "atmosphere process",
+          "atmosphere equipment",
+          "atmosphere application"
+        ]
+      },
+      {
+        "word": "torr",
+        "phonetic": "/tɔːr/",
+        "partOfSpeech": "n.",
+        "meaning": "托",
+        "memoryTip": "torr托 → 压力单位",
+        "root": "pressure",
+        "rootPhonetic": "/ˈpreʃər/",
+        "rootMeaning": "压力",
+        "rootPhrases": [
+          "low pressure",
+          "high vacuum",
+          "base pressure",
+          "process pressure"
+        ],
+        "wordPhrases": [
+          "torr technology",
+          "torr process",
+          "torr equipment",
+          "torr application"
+        ]
+      }
+    ],
+    "phrases": [
+      "low pressure (低压)",
+      "high vacuum (高真空)",
+      "base pressure (基础压力)",
+      "process pressure (工艺压力)"
+    ],
+    "mnemonic": "pressure（压力）→ 工艺腔内的气压控制 → 工艺参数",
+    "meaning": "压力"
+  },
+  {
+    "id": 228,
+    "root": "temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "partOfSpeech": "n.",
+    "frequency": 228,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "temperature",
+        "phonetic": "/ˈtemprətʃər/",
+        "partOfSpeech": "n.",
+        "meaning": "温度",
+        "memoryTip": "temper调节 + ature → 温度",
+        "root": "temperature",
+        "rootPhonetic": "/ˈtemprətʃər/",
+        "rootMeaning": "温度",
+        "rootPhrases": [
+          "process temperature",
+          "annealing temperature",
+          "temperature ramp",
+          "temperature uniformity"
+        ],
+        "wordPhrases": [
+          "temperature technology",
+          "temperature process",
+          "temperature equipment",
+          "temperature application"
+        ]
+      },
+      {
+        "word": "heating",
+        "phonetic": "/ˈhiːtɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "加热",
+        "memoryTip": "heat热 + -ing → 加热",
+        "root": "temperature",
+        "rootPhonetic": "/ˈtemprətʃər/",
+        "rootMeaning": "温度",
+        "rootPhrases": [
+          "process temperature",
+          "annealing temperature",
+          "temperature ramp",
+          "temperature uniformity"
+        ],
+        "wordPhrases": [
+          "heating technology",
+          "heating process",
+          "heating equipment",
+          "heating application"
+        ]
+      },
+      {
+        "word": "cooling",
+        "phonetic": "/ˈkuːlɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "冷却",
+        "memoryTip": "cool冷 + -ing → 冷却",
+        "root": "temperature",
+        "rootPhonetic": "/ˈtemprətʃər/",
+        "rootMeaning": "温度",
+        "rootPhrases": [
+          "process temperature",
+          "annealing temperature",
+          "temperature ramp",
+          "temperature uniformity"
+        ],
+        "wordPhrases": [
+          "cooling technology",
+          "cooling process",
+          "cooling equipment",
+          "cooling application"
+        ]
+      },
+      {
+        "word": "thermocouple",
+        "phonetic": "/ˈθɜːrməkʌpl/",
+        "partOfSpeech": "n.",
+        "meaning": "热电偶",
+        "memoryTip": "thermo热 + couple偶 → 热电偶",
+        "root": "temperature",
+        "rootPhonetic": "/ˈtemprətʃər/",
+        "rootMeaning": "温度",
+        "rootPhrases": [
+          "process temperature",
+          "annealing temperature",
+          "temperature ramp",
+          "temperature uniformity"
+        ],
+        "wordPhrases": [
+          "thermocouple technology",
+          "thermocouple process",
+          "thermocouple equipment",
+          "thermocouple application"
+        ]
+      }
+    ],
+    "phrases": [
+      "process temperature (工艺温度)",
+      "annealing temperature (退火温度)",
+      "temperature ramp (温度斜坡)",
+      "temperature uniformity (温度均匀性)"
+    ],
+    "mnemonic": "temperature（温度）→ 关键工艺参数之一 → 温度控制",
+    "meaning": "温度"
+  },
+  {
+    "id": 229,
+    "root": "throughput",
+    "phonetic": "/ˈθruːpʊt/",
+    "partOfSpeech": "n.",
+    "frequency": 229,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "throughput",
+        "phonetic": "/ˈθruːpʊt/",
+        "partOfSpeech": "n.",
+        "meaning": "产能",
+        "memoryTip": "through通过 + put放 → 产能",
+        "root": "throughput",
+        "rootPhonetic": "/ˈθruːpʊt/",
+        "rootMeaning": "产能",
+        "rootPhrases": [
+          "equipment throughput",
+          "fab throughput",
+          "throughput optimization",
+          "high throughput"
+        ],
+        "wordPhrases": [
+          "throughput technology",
+          "throughput process",
+          "throughput equipment",
+          "throughput application"
+        ]
+      },
+      {
+        "word": "WPH",
+        "phonetic": "/ˌdʌbljuː piː ˈeɪtʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "每小时晶圆数",
+        "memoryTip": "Wafers Per Hour → WPH",
+        "root": "throughput",
+        "rootPhonetic": "/ˈθruːpʊt/",
+        "rootMeaning": "产能",
+        "rootPhrases": [
+          "equipment throughput",
+          "fab throughput",
+          "throughput optimization",
+          "high throughput"
+        ],
+        "wordPhrases": [
+          "WPH technology",
+          "WPH process",
+          "WPH equipment",
+          "WPH application"
+        ]
+      },
+      {
+        "word": "uptime",
+        "phonetic": "/ˈʌptaɪm/",
+        "partOfSpeech": "n.",
+        "meaning": "运行时间",
+        "memoryTip": "up上 + time时间 → 运行时间",
+        "root": "throughput",
+        "rootPhonetic": "/ˈθruːpʊt/",
+        "rootMeaning": "产能",
+        "rootPhrases": [
+          "equipment throughput",
+          "fab throughput",
+          "throughput optimization",
+          "high throughput"
+        ],
+        "wordPhrases": [
+          "uptime technology",
+          "uptime process",
+          "uptime equipment",
+          "uptime application"
+        ]
+      },
+      {
+        "word": "MTBF",
+        "phonetic": "/ˌem tiː biː ˈef/",
+        "partOfSpeech": "n.",
+        "meaning": "平均故障间隔",
+        "memoryTip": "Mean Time Between Failures → MTBF",
+        "root": "throughput",
+        "rootPhonetic": "/ˈθruːpʊt/",
+        "rootMeaning": "产能",
+        "rootPhrases": [
+          "equipment throughput",
+          "fab throughput",
+          "throughput optimization",
+          "high throughput"
+        ],
+        "wordPhrases": [
+          "MTBF technology",
+          "MTBF process",
+          "MTBF equipment",
+          "MTBF application"
+        ]
+      }
+    ],
+    "phrases": [
+      "equipment throughput (设备产能)",
+      "fab throughput (晶圆厂产能)",
+      "throughput optimization (产能优化)",
+      "high throughput (高产能)"
+    ],
+    "mnemonic": "throughput（产能）→ 单位时间处理的晶圆数 → 生产效率",
+    "meaning": "产能"
+  },
+  {
+    "id": 230,
+    "root": "batch",
+    "phonetic": "/bætʃ/",
+    "partOfSpeech": "n.",
+    "frequency": 230,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "batch",
+        "phonetic": "/bætʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "批次",
+        "memoryTip": "batch批量 → 批次",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch processing",
+          "single wafer processing",
+          "lot tracking",
+          "batch size"
+        ],
+        "wordPhrases": [
+          "batch technology",
+          "batch process",
+          "batch equipment",
+          "batch application"
+        ]
+      },
+      {
+        "word": "lot",
+        "phonetic": "/lɒt/",
+        "partOfSpeech": "n.",
+        "meaning": "批次",
+        "memoryTip": "lot批次 → 生产批次",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch processing",
+          "single wafer processing",
+          "lot tracking",
+          "batch size"
+        ],
+        "wordPhrases": [
+          "lot technology",
+          "lot process",
+          "lot equipment",
+          "lot application"
+        ]
+      },
+      {
+        "word": "wafer lot",
+        "phonetic": "/ˈweɪfər lɒt/",
+        "partOfSpeech": "n.",
+        "meaning": "晶圆批次",
+        "memoryTip": "wafer晶圆 + lot批次 → 晶圆批次",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch processing",
+          "single wafer processing",
+          "lot tracking",
+          "batch size"
+        ],
+        "wordPhrases": [
+          "wafer lot technology",
+          "wafer lot process",
+          "wafer lot equipment",
+          "wafer lot application"
+        ]
+      },
+      {
+        "word": "batch processing",
+        "phonetic": "/bætʃ ˈprəʊsesɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "批量处理",
+        "memoryTip": "batch + processing → 批量处理",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch processing",
+          "single wafer processing",
+          "lot tracking",
+          "batch size"
+        ],
+        "wordPhrases": [
+          "batch processing technology",
+          "batch processing process",
+          "batch processing equipment",
+          "batch processing application"
+        ]
+      }
+    ],
+    "phrases": [
+      "batch processing (批量处理)",
+      "single wafer processing (单片处理)",
+      "lot tracking (批次追踪)",
+      "batch size (批次大小)"
+    ],
+    "mnemonic": "batch（批次）→ 同时处理的晶圆组 → 生产组织",
+    "meaning": "批次"
+  }
+]

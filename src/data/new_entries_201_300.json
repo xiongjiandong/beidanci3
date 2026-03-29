@@ -1,0 +1,5302 @@
+[
+  {
+    "id": 251,
+    "root": "transistor",
+    "phonetic": "/trænˈzɪstər/",
+    "partOfSpeech": "n.",
+    "frequency": 251,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "transistor",
+        "phonetic": "/trænˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "晶体管",
+        "memoryTip": "transfer + resistor → 晶体管",
+        "root": "transistor",
+        "rootPhonetic": "/trænˈzɪstər/",
+        "rootMeaning": "晶体管",
+        "rootPhrases": [
+          "transistor device",
+          "MOSFET transistor",
+          "bipolar transistor",
+          "field effect transistor"
+        ],
+        "wordPhrases": [
+          "transistor technology",
+          "transistor process",
+          "transistor equipment",
+          "transistor application"
+        ]
+      },
+      {
+        "word": "MOSFET",
+        "phonetic": "/ˈmɒsfet/",
+        "partOfSpeech": "n.",
+        "meaning": "MOS场效应管",
+        "memoryTip": "Metal-Oxide-Semiconductor FET → MOSFET",
+        "root": "transistor",
+        "rootPhonetic": "/trænˈzɪstər/",
+        "rootMeaning": "晶体管",
+        "rootPhrases": [
+          "transistor device",
+          "MOSFET transistor",
+          "bipolar transistor",
+          "field effect transistor"
+        ],
+        "wordPhrases": [
+          "MOSFET technology",
+          "MOSFET process",
+          "MOSFET equipment",
+          "MOSFET application"
+        ]
+      },
+      {
+        "word": "bipolar",
+        "phonetic": "/baɪˈpəʊlər/",
+        "partOfSpeech": "n.",
+        "meaning": "双极型",
+        "memoryTip": "bi双 + polar极 → 双极型",
+        "root": "transistor",
+        "rootPhonetic": "/trænˈzɪstər/",
+        "rootMeaning": "晶体管",
+        "rootPhrases": [
+          "transistor device",
+          "MOSFET transistor",
+          "bipolar transistor",
+          "field effect transistor"
+        ],
+        "wordPhrases": [
+          "bipolar technology",
+          "bipolar process",
+          "bipolar equipment",
+          "bipolar application"
+        ]
+      },
+      {
+        "word": "FET",
+        "phonetic": "/ef iː tiː/",
+        "partOfSpeech": "n.",
+        "meaning": "场效应管",
+        "memoryTip": "Field Effect Transistor → FET",
+        "root": "transistor",
+        "rootPhonetic": "/trænˈzɪstər/",
+        "rootMeaning": "晶体管",
+        "rootPhrases": [
+          "transistor device",
+          "MOSFET transistor",
+          "bipolar transistor",
+          "field effect transistor"
+        ],
+        "wordPhrases": [
+          "FET technology",
+          "FET process",
+          "FET equipment",
+          "FET application"
+        ]
+      }
+    ],
+    "phrases": [
+      "transistor device (晶体管器件)",
+      "MOSFET transistor (MOSFET晶体管)",
+      "bipolar transistor (双极型晶体管)",
+      "field effect transistor (场效应晶体管)"
+    ],
+    "mnemonic": "transistor（晶体管）→ 半导体基本器件 → 晶体管",
+    "meaning": "晶体管"
+  },
+  {
+    "id": 252,
+    "root": "diode",
+    "phonetic": "/ˈdaɪəʊd/",
+    "partOfSpeech": "n.",
+    "frequency": 252,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "diode",
+        "phonetic": "/ˈdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "二极管",
+        "memoryTip": "di二 + ode极 → 二极管",
+        "root": "diode",
+        "rootPhonetic": "/ˈdaɪəʊd/",
+        "rootMeaning": "二极管",
+        "rootPhrases": [
+          "diode device",
+          "light emitting diode",
+          "photodiode detector",
+          "Zener diode"
+        ],
+        "wordPhrases": [
+          "diode technology",
+          "diode process",
+          "diode equipment",
+          "diode application"
+        ]
+      },
+      {
+        "word": "LED",
+        "phonetic": "/el iː diː/",
+        "partOfSpeech": "n.",
+        "meaning": "发光二极管",
+        "memoryTip": "Light Emitting Diode → LED",
+        "root": "diode",
+        "rootPhonetic": "/ˈdaɪəʊd/",
+        "rootMeaning": "二极管",
+        "rootPhrases": [
+          "diode device",
+          "light emitting diode",
+          "photodiode detector",
+          "Zener diode"
+        ],
+        "wordPhrases": [
+          "LED technology",
+          "LED process",
+          "LED equipment",
+          "LED application"
+        ]
+      },
+      {
+        "word": "photodiode",
+        "phonetic": "/ˈfəʊtəʊdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "光电二极管",
+        "memoryTip": "photo光 + diode → 光电二极管",
+        "root": "diode",
+        "rootPhonetic": "/ˈdaɪəʊd/",
+        "rootMeaning": "二极管",
+        "rootPhrases": [
+          "diode device",
+          "light emitting diode",
+          "photodiode detector",
+          "Zener diode"
+        ],
+        "wordPhrases": [
+          "photodiode technology",
+          "photodiode process",
+          "photodiode equipment",
+          "photodiode application"
+        ]
+      },
+      {
+        "word": "Zener",
+        "phonetic": "/ˈziːnər/",
+        "partOfSpeech": "n.",
+        "meaning": "齐纳二极管",
+        "memoryTip": "Zener齐纳 → 稳压二极管",
+        "root": "diode",
+        "rootPhonetic": "/ˈdaɪəʊd/",
+        "rootMeaning": "二极管",
+        "rootPhrases": [
+          "diode device",
+          "light emitting diode",
+          "photodiode detector",
+          "Zener diode"
+        ],
+        "wordPhrases": [
+          "Zener technology",
+          "Zener process",
+          "Zener equipment",
+          "Zener application"
+        ]
+      }
+    ],
+    "phrases": [
+      "diode device (二极管器件)",
+      "light emitting diode (发光二极管)",
+      "photodiode detector (光电二极管探测器)",
+      "Zener diode (齐纳二极管)"
+    ],
+    "mnemonic": "diode（二极管）→ 单向导电的半导体器件 → 二极管",
+    "meaning": "二极管"
+  },
+  {
+    "id": 253,
+    "root": "MOSFET",
+    "phonetic": "/ˈmɒsfet/",
+    "partOfSpeech": "n.",
+    "frequency": 253,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "MOSFET",
+        "phonetic": "/ˈmɒsfet/",
+        "partOfSpeech": "n.",
+        "meaning": "MOS管",
+        "memoryTip": "Metal-Oxide-Semiconductor FET",
+        "root": "MOSFET",
+        "rootPhonetic": "/ˈmɒsfet/",
+        "rootMeaning": "MOS管",
+        "rootPhrases": [
+          "MOSFET device",
+          "CMOS technology",
+          "NMOS transistor",
+          "power MOSFET"
+        ],
+        "wordPhrases": [
+          "MOSFET technology",
+          "MOSFET process",
+          "MOSFET equipment",
+          "MOSFET application"
+        ]
+      },
+      {
+        "word": "CMOS",
+        "phonetic": "/ˈsiːmɒs/",
+        "partOfSpeech": "n.",
+        "meaning": "互补MOS",
+        "memoryTip": "Complementary MOS → CMOS",
+        "root": "MOSFET",
+        "rootPhonetic": "/ˈmɒsfet/",
+        "rootMeaning": "MOS管",
+        "rootPhrases": [
+          "MOSFET device",
+          "CMOS technology",
+          "NMOS transistor",
+          "power MOSFET"
+        ],
+        "wordPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS equipment",
+          "CMOS application"
+        ]
+      },
+      {
+        "word": "NMOS",
+        "phonetic": "/ˈenmɒs/",
+        "partOfSpeech": "n.",
+        "meaning": "N沟道MOS",
+        "memoryTip": "N-channel MOS → NMOS",
+        "root": "MOSFET",
+        "rootPhonetic": "/ˈmɒsfet/",
+        "rootMeaning": "MOS管",
+        "rootPhrases": [
+          "MOSFET device",
+          "CMOS technology",
+          "NMOS transistor",
+          "power MOSFET"
+        ],
+        "wordPhrases": [
+          "NMOS technology",
+          "NMOS process",
+          "NMOS equipment",
+          "NMOS application"
+        ]
+      },
+      {
+        "word": "PMOS",
+        "phonetic": "/ˈpiːmɒs/",
+        "partOfSpeech": "n.",
+        "meaning": "P沟道MOS",
+        "memoryTip": "P-channel MOS → PMOS",
+        "root": "MOSFET",
+        "rootPhonetic": "/ˈmɒsfet/",
+        "rootMeaning": "MOS管",
+        "rootPhrases": [
+          "MOSFET device",
+          "CMOS technology",
+          "NMOS transistor",
+          "power MOSFET"
+        ],
+        "wordPhrases": [
+          "PMOS technology",
+          "PMOS process",
+          "PMOS equipment",
+          "PMOS application"
+        ]
+      }
+    ],
+    "phrases": [
+      "MOSFET device (MOSFET器件)",
+      "CMOS technology (CMOS技术)",
+      "NMOS transistor (NMOS晶体管)",
+      "power MOSFET (功率MOSFET)"
+    ],
+    "mnemonic": "MOSFET（MOS管）→ 金属氧化物半导体场效应管 → MOS管",
+    "meaning": "MOS管"
+  },
+  {
+    "id": 254,
+    "root": "CMOS",
+    "phonetic": "/ˈsiːmɒs/",
+    "partOfSpeech": "n.",
+    "frequency": 254,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "CMOS",
+        "phonetic": "/ˈsiːmɒs/",
+        "partOfSpeech": "n.",
+        "meaning": "CMOS",
+        "memoryTip": "Complementary MOS → 互补MOS",
+        "root": "CMOS",
+        "rootPhonetic": "/ˈsiːmɒs/",
+        "rootMeaning": "CMOS",
+        "rootPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS circuit",
+          "CMOS image sensor"
+        ],
+        "wordPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS equipment",
+          "CMOS application"
+        ]
+      },
+      {
+        "word": "CMOS inverter",
+        "phonetic": "/ˈsiːmɒs ɪnˈvɜːrtər/",
+        "partOfSpeech": "n.",
+        "meaning": "CMOS反相器",
+        "memoryTip": "CMOS + inverter → CMOS反相器",
+        "root": "CMOS",
+        "rootPhonetic": "/ˈsiːmɒs/",
+        "rootMeaning": "CMOS",
+        "rootPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS circuit",
+          "CMOS image sensor"
+        ],
+        "wordPhrases": [
+          "CMOS inverter technology",
+          "CMOS inverter process",
+          "CMOS inverter equipment",
+          "CMOS inverter application"
+        ]
+      },
+      {
+        "word": "CMOS logic",
+        "phonetic": "/ˈsiːmɒs ˈlɒdʒɪk/",
+        "partOfSpeech": "n.",
+        "meaning": "CMOS逻辑",
+        "memoryTip": "CMOS + logic → CMOS逻辑",
+        "root": "CMOS",
+        "rootPhonetic": "/ˈsiːmɒs/",
+        "rootMeaning": "CMOS",
+        "rootPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS circuit",
+          "CMOS image sensor"
+        ],
+        "wordPhrases": [
+          "CMOS logic technology",
+          "CMOS logic process",
+          "CMOS logic equipment",
+          "CMOS logic application"
+        ]
+      },
+      {
+        "word": "CMOS sensor",
+        "phonetic": "/ˈsiːmɒs ˈsensər/",
+        "partOfSpeech": "n.",
+        "meaning": "CMOS传感器",
+        "memoryTip": "CMOS + sensor → CMOS传感器",
+        "root": "CMOS",
+        "rootPhonetic": "/ˈsiːmɒs/",
+        "rootMeaning": "CMOS",
+        "rootPhrases": [
+          "CMOS technology",
+          "CMOS process",
+          "CMOS circuit",
+          "CMOS image sensor"
+        ],
+        "wordPhrases": [
+          "CMOS sensor technology",
+          "CMOS sensor process",
+          "CMOS sensor equipment",
+          "CMOS sensor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "CMOS technology (CMOS技术)",
+      "CMOS process (CMOS工艺)",
+      "CMOS circuit (CMOS电路)",
+      "CMOS image sensor (CMOS图像传感器)"
+    ],
+    "mnemonic": "CMOS（互补MOS）→ 现代集成电路的主流技术 → CMOS",
+    "meaning": "CMOS"
+  },
+  {
+    "id": 255,
+    "root": "bipolar",
+    "phonetic": "/baɪˈpəʊlər/",
+    "partOfSpeech": "adj.",
+    "frequency": 255,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "bipolar",
+        "phonetic": "/baɪˈpəʊlər/",
+        "partOfSpeech": "adj.",
+        "meaning": "双极型",
+        "memoryTip": "bi双 + polar极 → 双极型",
+        "root": "bipolar",
+        "rootPhonetic": "/baɪˈpəʊlər/",
+        "rootMeaning": "双极型",
+        "rootPhrases": [
+          "bipolar transistor",
+          "bipolar technology",
+          "bipolar process",
+          "heterojunction bipolar"
+        ],
+        "wordPhrases": [
+          "bipolar technology",
+          "bipolar process",
+          "bipolar equipment",
+          "bipolar application"
+        ]
+      },
+      {
+        "word": "BJT",
+        "phonetic": "/ˌbiː dʒeɪ ˈtiː/",
+        "partOfSpeech": "adj.",
+        "meaning": "双极型晶体管",
+        "memoryTip": "Bipolar Junction Transistor → BJT",
+        "root": "bipolar",
+        "rootPhonetic": "/baɪˈpəʊlər/",
+        "rootMeaning": "双极型",
+        "rootPhrases": [
+          "bipolar transistor",
+          "bipolar technology",
+          "bipolar process",
+          "heterojunction bipolar"
+        ],
+        "wordPhrases": [
+          "BJT technology",
+          "BJT process",
+          "BJT equipment",
+          "BJT application"
+        ]
+      },
+      {
+        "word": "HBT",
+        "phonetic": "/ˌeɪtʃ biː ˈtiː/",
+        "partOfSpeech": "adj.",
+        "meaning": "异质结双极晶体管",
+        "memoryTip": "Heterojunction Bipolar Transistor → HBT",
+        "root": "bipolar",
+        "rootPhonetic": "/baɪˈpəʊlər/",
+        "rootMeaning": "双极型",
+        "rootPhrases": [
+          "bipolar transistor",
+          "bipolar technology",
+          "bipolar process",
+          "heterojunction bipolar"
+        ],
+        "wordPhrases": [
+          "HBT technology",
+          "HBT process",
+          "HBT equipment",
+          "HBT application"
+        ]
+      },
+      {
+        "word": "bipolar transistor",
+        "phonetic": "/baɪˈpəʊlər trænˈzɪstər/",
+        "partOfSpeech": "adj.",
+        "meaning": "双极型晶体管",
+        "memoryTip": "bipolar + transistor → 双极型晶体管",
+        "root": "bipolar",
+        "rootPhonetic": "/baɪˈpəʊlər/",
+        "rootMeaning": "双极型",
+        "rootPhrases": [
+          "bipolar transistor",
+          "bipolar technology",
+          "bipolar process",
+          "heterojunction bipolar"
+        ],
+        "wordPhrases": [
+          "bipolar transistor technology",
+          "bipolar transistor process",
+          "bipolar transistor equipment",
+          "bipolar transistor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "bipolar transistor (双极型晶体管)",
+      "bipolar technology (双极型技术)",
+      "bipolar process (双极型工艺)",
+      "heterojunction bipolar (异质结双极)"
+    ],
+    "mnemonic": "bipolar（双极型）→ 电子和空穴都参与导电 → 双极型",
+    "meaning": "双极型"
+  },
+  {
+    "id": 256,
+    "root": "JFET",
+    "phonetic": "/ˈdʒeɪfet/",
+    "partOfSpeech": "n.",
+    "frequency": 256,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "JFET",
+        "phonetic": "/ˈdʒeɪfet/",
+        "partOfSpeech": "n.",
+        "meaning": "结型场效应管",
+        "memoryTip": "Junction FET → 结型场效应管",
+        "root": "JFET",
+        "rootPhonetic": "/ˈdʒeɪfet/",
+        "rootMeaning": "结型场效应管",
+        "rootPhrases": [
+          "JFET device",
+          "GaAs MESFET",
+          "AlGaAs HEMT",
+          "pHEMT"
+        ],
+        "wordPhrases": [
+          "JFET technology",
+          "JFET process",
+          "JFET equipment",
+          "JFET application"
+        ]
+      },
+      {
+        "word": "MESFET",
+        "phonetic": "/ˈmesfet/",
+        "partOfSpeech": "n.",
+        "meaning": "金属半导体场效应管",
+        "memoryTip": "Metal-Semiconductor FET → MESFET",
+        "root": "JFET",
+        "rootPhonetic": "/ˈdʒeɪfet/",
+        "rootMeaning": "结型场效应管",
+        "rootPhrases": [
+          "JFET device",
+          "GaAs MESFET",
+          "AlGaAs HEMT",
+          "pHEMT"
+        ],
+        "wordPhrases": [
+          "MESFET technology",
+          "MESFET process",
+          "MESFET equipment",
+          "MESFET application"
+        ]
+      },
+      {
+        "word": "HEMT",
+        "phonetic": "/ˈhemət/",
+        "partOfSpeech": "n.",
+        "meaning": "高电子迁移率晶体管",
+        "memoryTip": "High Electron Mobility Transistor → HEMT",
+        "root": "JFET",
+        "rootPhonetic": "/ˈdʒeɪfet/",
+        "rootMeaning": "结型场效应管",
+        "rootPhrases": [
+          "JFET device",
+          "GaAs MESFET",
+          "AlGaAs HEMT",
+          "pHEMT"
+        ],
+        "wordPhrases": [
+          "HEMT technology",
+          "HEMT process",
+          "HEMT equipment",
+          "HEMT application"
+        ]
+      },
+      {
+        "word": "MODFET",
+        "phonetic": "/ˈmɒdfet/",
+        "partOfSpeech": "n.",
+        "meaning": "调制掺杂场效应管",
+        "memoryTip": "Modulation-Doped FET → MODFET",
+        "root": "JFET",
+        "rootPhonetic": "/ˈdʒeɪfet/",
+        "rootMeaning": "结型场效应管",
+        "rootPhrases": [
+          "JFET device",
+          "GaAs MESFET",
+          "AlGaAs HEMT",
+          "pHEMT"
+        ],
+        "wordPhrases": [
+          "MODFET technology",
+          "MODFET process",
+          "MODFET equipment",
+          "MODFET application"
+        ]
+      }
+    ],
+    "phrases": [
+      "JFET device (JFET器件)",
+      "GaAs MESFET (砷化镓MESFET)",
+      "AlGaAs HEMT (AlGaAs HEMT)",
+      "pHEMT (赝配HEMT)"
+    ],
+    "mnemonic": "JFET（结型场效应管）→ 利用PN结控制沟道的FET → JFET",
+    "meaning": "结型场效应管"
+  },
+  {
+    "id": 257,
+    "root": " FinFET",
+    "phonetic": "/ˈfɪnfet/",
+    "partOfSpeech": "n.",
+    "frequency": 257,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "FinFET",
+        "phonetic": "/ˈfɪnfet/",
+        "partOfSpeech": "n.",
+        "meaning": "鳍式场效应管",
+        "memoryTip": "Fin + FET → 鳍式场效应管",
+        "root": " FinFET",
+        "rootPhonetic": "/ˈfɪnfet/",
+        "rootMeaning": "鳍式场效应管",
+        "rootPhrases": [
+          "FinFET transistor",
+          "tri-gate transistor",
+          "gate-all-around FET",
+          "nanowire FET"
+        ],
+        "wordPhrases": [
+          "FinFET technology",
+          "FinFET process",
+          "FinFET equipment",
+          "FinFET application"
+        ]
+      },
+      {
+        "word": "tri-gate",
+        "phonetic": "/traɪ ɡeɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "三栅",
+        "memoryTip": "tri三 + gate栅 → 三栅",
+        "root": " FinFET",
+        "rootPhonetic": "/ˈfɪnfet/",
+        "rootMeaning": "鳍式场效应管",
+        "rootPhrases": [
+          "FinFET transistor",
+          "tri-gate transistor",
+          "gate-all-around FET",
+          "nanowire FET"
+        ],
+        "wordPhrases": [
+          "tri-gate technology",
+          "tri-gate process",
+          "tri-gate equipment",
+          "tri-gate application"
+        ]
+      },
+      {
+        "word": "gate-all-around",
+        "phonetic": "/ɡeɪt ɔːl əˈraʊnd/",
+        "partOfSpeech": "n.",
+        "meaning": "全环绕栅",
+        "memoryTip": "gate all around → 全环绕栅",
+        "root": " FinFET",
+        "rootPhonetic": "/ˈfɪnfet/",
+        "rootMeaning": "鳍式场效应管",
+        "rootPhrases": [
+          "FinFET transistor",
+          "tri-gate transistor",
+          "gate-all-around FET",
+          "nanowire FET"
+        ],
+        "wordPhrases": [
+          "gate-all-around technology",
+          "gate-all-around process",
+          "gate-all-around equipment",
+          "gate-all-around application"
+        ]
+      },
+      {
+        "word": "nanowire",
+        "phonetic": "/ˈnænəʊwaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "纳米线",
+        "memoryTip": "nano纳 + wire线 → 纳米线",
+        "root": " FinFET",
+        "rootPhonetic": "/ˈfɪnfet/",
+        "rootMeaning": "鳍式场效应管",
+        "rootPhrases": [
+          "FinFET transistor",
+          "tri-gate transistor",
+          "gate-all-around FET",
+          "nanowire FET"
+        ],
+        "wordPhrases": [
+          "nanowire technology",
+          "nanowire process",
+          "nanowire equipment",
+          "nanowire application"
+        ]
+      }
+    ],
+    "phrases": [
+      "FinFET transistor (FinFET晶体管)",
+      "tri-gate transistor (三栅晶体管)",
+      "gate-all-around FET (全环绕栅FET)",
+      "nanowire FET (纳米线FET)"
+    ],
+    "mnemonic": "FinFET（鳍式场效应管）→ 3D结构的MOSFET → FinFET",
+    "meaning": "鳍式场效应管"
+  },
+  {
+    "id": 258,
+    "root": "IGBT",
+    "phonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+    "partOfSpeech": "n.",
+    "frequency": 258,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "IGBT",
+        "phonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+        "partOfSpeech": "n.",
+        "meaning": "IGBT",
+        "memoryTip": "Insulated Gate Bipolar Transistor → IGBT",
+        "root": "IGBT",
+        "rootPhonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+        "rootMeaning": "绝缘栅双极晶体管",
+        "rootPhrases": [
+          "IGBT module",
+          "power transistor",
+          "power semiconductor",
+          "high voltage device"
+        ],
+        "wordPhrases": [
+          "IGBT technology",
+          "IGBT process",
+          "IGBT equipment",
+          "IGBT application"
+        ]
+      },
+      {
+        "word": "power device",
+        "phonetic": "/ˈpaʊər dɪˈvaɪs/",
+        "partOfSpeech": "n.",
+        "meaning": "功率器件",
+        "memoryTip": "power功率 + device器件 → 功率器件",
+        "root": "IGBT",
+        "rootPhonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+        "rootMeaning": "绝缘栅双极晶体管",
+        "rootPhrases": [
+          "IGBT module",
+          "power transistor",
+          "power semiconductor",
+          "high voltage device"
+        ],
+        "wordPhrases": [
+          "power device technology",
+          "power device process",
+          "power device equipment",
+          "power device application"
+        ]
+      },
+      {
+        "word": "thyristor",
+        "phonetic": "/θaɪˈrɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "晶闸管",
+        "memoryTip": "thyristor晶闸管",
+        "root": "IGBT",
+        "rootPhonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+        "rootMeaning": "绝缘栅双极晶体管",
+        "rootPhrases": [
+          "IGBT module",
+          "power transistor",
+          "power semiconductor",
+          "high voltage device"
+        ],
+        "wordPhrases": [
+          "thyristor technology",
+          "thyristor process",
+          "thyristor equipment",
+          "thyristor application"
+        ]
+      },
+      {
+        "word": "power MOSFET",
+        "phonetic": "/ˈpaʊər ˈmɒsfet/",
+        "partOfSpeech": "n.",
+        "meaning": "功率MOSFET",
+        "memoryTip": "power + MOSFET → 功率MOSFET",
+        "root": "IGBT",
+        "rootPhonetic": "/ˌaɪ dʒiː biː ˈtiː/",
+        "rootMeaning": "绝缘栅双极晶体管",
+        "rootPhrases": [
+          "IGBT module",
+          "power transistor",
+          "power semiconductor",
+          "high voltage device"
+        ],
+        "wordPhrases": [
+          "power MOSFET technology",
+          "power MOSFET process",
+          "power MOSFET equipment",
+          "power MOSFET application"
+        ]
+      }
+    ],
+    "phrases": [
+      "IGBT module (IGBT模块)",
+      "power transistor (功率晶体管)",
+      "power semiconductor (功率半导体)",
+      "high voltage device (高压器件)"
+    ],
+    "mnemonic": "IGBT（绝缘栅双极晶体管）→ 功率电子核心器件 → IGBT",
+    "meaning": "绝缘栅双极晶体管"
+  },
+  {
+    "id": 259,
+    "root": "thyristor",
+    "phonetic": "/θaɪˈrɪstər/",
+    "partOfSpeech": "n.",
+    "frequency": 259,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "thyristor",
+        "phonetic": "/θaɪˈrɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "晶闸管",
+        "memoryTip": "thyristor晶闸管",
+        "root": "thyristor",
+        "rootPhonetic": "/θaɪˈrɪstər/",
+        "rootMeaning": "晶闸管",
+        "rootPhrases": [
+          "thyristor device",
+          "silicon controlled rectifier",
+          "power thyristor",
+          "thyristor converter"
+        ],
+        "wordPhrases": [
+          "thyristor technology",
+          "thyristor process",
+          "thyristor equipment",
+          "thyristor application"
+        ]
+      },
+      {
+        "word": "SCR",
+        "phonetic": "/ˌes siː ˈɑːr/",
+        "partOfSpeech": "n.",
+        "meaning": "可控硅",
+        "memoryTip": "Silicon Controlled Rectifier → SCR",
+        "root": "thyristor",
+        "rootPhonetic": "/θaɪˈrɪstər/",
+        "rootMeaning": "晶闸管",
+        "rootPhrases": [
+          "thyristor device",
+          "silicon controlled rectifier",
+          "power thyristor",
+          "thyristor converter"
+        ],
+        "wordPhrases": [
+          "SCR technology",
+          "SCR process",
+          "SCR equipment",
+          "SCR application"
+        ]
+      },
+      {
+        "word": "triac",
+        "phonetic": "/ˈtraɪæk/",
+        "partOfSpeech": "n.",
+        "meaning": "三端双向可控硅",
+        "memoryTip": "triac三端双向可控硅",
+        "root": "thyristor",
+        "rootPhonetic": "/θaɪˈrɪstər/",
+        "rootMeaning": "晶闸管",
+        "rootPhrases": [
+          "thyristor device",
+          "silicon controlled rectifier",
+          "power thyristor",
+          "thyristor converter"
+        ],
+        "wordPhrases": [
+          "triac technology",
+          "triac process",
+          "triac equipment",
+          "triac application"
+        ]
+      },
+      {
+        "word": "GTO",
+        "phonetic": "/ˌdʒiː tiː əʊ/",
+        "partOfSpeech": "n.",
+        "meaning": "门极可关断晶闸管",
+        "memoryTip": "Gate Turn-Off → GTO",
+        "root": "thyristor",
+        "rootPhonetic": "/θaɪˈrɪstər/",
+        "rootMeaning": "晶闸管",
+        "rootPhrases": [
+          "thyristor device",
+          "silicon controlled rectifier",
+          "power thyristor",
+          "thyristor converter"
+        ],
+        "wordPhrases": [
+          "GTO technology",
+          "GTO process",
+          "GTO equipment",
+          "GTO application"
+        ]
+      }
+    ],
+    "phrases": [
+      "thyristor device (晶闸管器件)",
+      "silicon controlled rectifier (可控硅整流器)",
+      "power thyristor (功率晶闸管)",
+      "thyristor converter (晶闸管变流器)"
+    ],
+    "mnemonic": "thyristor（晶闸管）→ 半控型功率器件 → 晶闸管",
+    "meaning": "晶闸管"
+  },
+  {
+    "id": 260,
+    "root": "rectifier",
+    "phonetic": "/ˈrektɪfaɪər/",
+    "partOfSpeech": "n.",
+    "frequency": 260,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "rectifier",
+        "phonetic": "/ˈrektɪfaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "整流器",
+        "memoryTip": "rectify整流 + -er器 → 整流器",
+        "root": "rectifier",
+        "rootPhonetic": "/ˈrektɪfaɪər/",
+        "rootMeaning": "整流器",
+        "rootPhrases": [
+          "rectifier circuit",
+          "full-wave rectifier",
+          "bridge rectifier",
+          "Schottky rectifier"
+        ],
+        "wordPhrases": [
+          "rectifier technology",
+          "rectifier process",
+          "rectifier equipment",
+          "rectifier application"
+        ]
+      },
+      {
+        "word": "diode bridge",
+        "phonetic": "/ˈdaɪəʊd brɪdʒ/",
+        "partOfSpeech": "n.",
+        "meaning": "二极管桥",
+        "memoryTip": "diode + bridge桥 → 二极管桥",
+        "root": "rectifier",
+        "rootPhonetic": "/ˈrektɪfaɪər/",
+        "rootMeaning": "整流器",
+        "rootPhrases": [
+          "rectifier circuit",
+          "full-wave rectifier",
+          "bridge rectifier",
+          "Schottky rectifier"
+        ],
+        "wordPhrases": [
+          "diode bridge technology",
+          "diode bridge process",
+          "diode bridge equipment",
+          "diode bridge application"
+        ]
+      },
+      {
+        "word": "Schottky",
+        "phonetic": "/ˈʃɒtki/",
+        "partOfSpeech": "n.",
+        "meaning": "肖特基",
+        "memoryTip": "Schottky肖特基 → 肖特基二极管",
+        "root": "rectifier",
+        "rootPhonetic": "/ˈrektɪfaɪər/",
+        "rootMeaning": "整流器",
+        "rootPhrases": [
+          "rectifier circuit",
+          "full-wave rectifier",
+          "bridge rectifier",
+          "Schottky rectifier"
+        ],
+        "wordPhrases": [
+          "Schottky technology",
+          "Schottky process",
+          "Schottky equipment",
+          "Schottky application"
+        ]
+      },
+      {
+        "word": "full-wave",
+        "phonetic": "/fʊl weɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "全波",
+        "memoryTip": "full全 + wave波 → 全波",
+        "root": "rectifier",
+        "rootPhonetic": "/ˈrektɪfaɪər/",
+        "rootMeaning": "整流器",
+        "rootPhrases": [
+          "rectifier circuit",
+          "full-wave rectifier",
+          "bridge rectifier",
+          "Schottky rectifier"
+        ],
+        "wordPhrases": [
+          "full-wave technology",
+          "full-wave process",
+          "full-wave equipment",
+          "full-wave application"
+        ]
+      }
+    ],
+    "phrases": [
+      "rectifier circuit (整流电路)",
+      "full-wave rectifier (全波整流器)",
+      "bridge rectifier (桥式整流器)",
+      "Schottky rectifier (肖特基整流器)"
+    ],
+    "mnemonic": "rectifier（整流器）→ 将交流转换为直流 → 整流器",
+    "meaning": "整流器"
+  },
+  {
+    "id": 261,
+    "root": "sensor",
+    "phonetic": "/ˈsensər/",
+    "partOfSpeech": "n.",
+    "frequency": 261,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "sensor",
+        "phonetic": "/ˈsensər/",
+        "partOfSpeech": "n.",
+        "meaning": "传感器",
+        "memoryTip": "sense感觉 + -or器 → 传感器",
+        "root": "sensor",
+        "rootPhonetic": "/ˈsensər/",
+        "rootMeaning": "传感器",
+        "rootPhrases": [
+          "MEMS sensor",
+          "pressure sensor",
+          "temperature sensor",
+          "image sensor"
+        ],
+        "wordPhrases": [
+          "sensor technology",
+          "sensor process",
+          "sensor equipment",
+          "sensor application"
+        ]
+      },
+      {
+        "word": "MEMS",
+        "phonetic": "/mems/",
+        "partOfSpeech": "n.",
+        "meaning": "微机电系统",
+        "memoryTip": "Micro-Electro-Mechanical System → MEMS",
+        "root": "sensor",
+        "rootPhonetic": "/ˈsensər/",
+        "rootMeaning": "传感器",
+        "rootPhrases": [
+          "MEMS sensor",
+          "pressure sensor",
+          "temperature sensor",
+          "image sensor"
+        ],
+        "wordPhrases": [
+          "MEMS technology",
+          "MEMS process",
+          "MEMS equipment",
+          "MEMS application"
+        ]
+      },
+      {
+        "word": "accelerometer",
+        "phonetic": "/ækˌseləˈrɒmɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "加速度计",
+        "memoryTip": "accelerate加速 + meter计 → 加速度计",
+        "root": "sensor",
+        "rootPhonetic": "/ˈsensər/",
+        "rootMeaning": "传感器",
+        "rootPhrases": [
+          "MEMS sensor",
+          "pressure sensor",
+          "temperature sensor",
+          "image sensor"
+        ],
+        "wordPhrases": [
+          "accelerometer technology",
+          "accelerometer process",
+          "accelerometer equipment",
+          "accelerometer application"
+        ]
+      },
+      {
+        "word": "gyroscope",
+        "phonetic": "/ˈdʒaɪrəskəʊp/",
+        "partOfSpeech": "n.",
+        "meaning": "陀螺仪",
+        "memoryTip": "gyro旋转 + scope观察 → 陀螺仪",
+        "root": "sensor",
+        "rootPhonetic": "/ˈsensər/",
+        "rootMeaning": "传感器",
+        "rootPhrases": [
+          "MEMS sensor",
+          "pressure sensor",
+          "temperature sensor",
+          "image sensor"
+        ],
+        "wordPhrases": [
+          "gyroscope technology",
+          "gyroscope process",
+          "gyroscope equipment",
+          "gyroscope application"
+        ]
+      }
+    ],
+    "phrases": [
+      "MEMS sensor (MEMS传感器)",
+      "pressure sensor (压力传感器)",
+      "temperature sensor (温度传感器)",
+      "image sensor (图像传感器)"
+    ],
+    "mnemonic": "sensor（传感器）→ 检测物理量的半导体器件 → 传感器",
+    "meaning": "传感器"
+  },
+  {
+    "id": 262,
+    "root": "optoelectronic",
+    "phonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+    "partOfSpeech": "adj.",
+    "frequency": 262,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "optoelectronic",
+        "phonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+        "partOfSpeech": "adj.",
+        "meaning": "光电子的",
+        "memoryTip": "opto光 + electronic电子 → 光电子的",
+        "root": "optoelectronic",
+        "rootPhonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+        "rootMeaning": "光电子的",
+        "rootPhrases": [
+          "optoelectronic device",
+          "optoelectronic integration",
+          "optoelectronic technology",
+          "optoelectronic component"
+        ],
+        "wordPhrases": [
+          "optoelectronic technology",
+          "optoelectronic process",
+          "optoelectronic equipment",
+          "optoelectronic application"
+        ]
+      },
+      {
+        "word": "optoelectronics",
+        "phonetic": "/ˌɒptəʊɪlekˈtrɒnɪks/",
+        "partOfSpeech": "adj.",
+        "meaning": "光电子学",
+        "memoryTip": "opto + electronics → 光电子学",
+        "root": "optoelectronic",
+        "rootPhonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+        "rootMeaning": "光电子的",
+        "rootPhrases": [
+          "optoelectronic device",
+          "optoelectronic integration",
+          "optoelectronic technology",
+          "optoelectronic component"
+        ],
+        "wordPhrases": [
+          "optoelectronics technology",
+          "optoelectronics process",
+          "optoelectronics equipment",
+          "optoelectronics application"
+        ]
+      },
+      {
+        "word": "photonic",
+        "phonetic": "/fəʊˈtɒnɪk/",
+        "partOfSpeech": "adj.",
+        "meaning": "光子的",
+        "memoryTip": "photon光子 + -ic → 光子的",
+        "root": "optoelectronic",
+        "rootPhonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+        "rootMeaning": "光电子的",
+        "rootPhrases": [
+          "optoelectronic device",
+          "optoelectronic integration",
+          "optoelectronic technology",
+          "optoelectronic component"
+        ],
+        "wordPhrases": [
+          "photonic technology",
+          "photonic process",
+          "photonic equipment",
+          "photonic application"
+        ]
+      },
+      {
+        "word": "optoelectronic device",
+        "phonetic": "/ˌɒptəʊɪlekˈtrɒnɪk dɪˈvaɪs/",
+        "partOfSpeech": "adj.",
+        "meaning": "光电子器件",
+        "memoryTip": "optoelectronic + device → 光电子器件",
+        "root": "optoelectronic",
+        "rootPhonetic": "/ˌɒptəʊɪlekˈtrɒnɪk/",
+        "rootMeaning": "光电子的",
+        "rootPhrases": [
+          "optoelectronic device",
+          "optoelectronic integration",
+          "optoelectronic technology",
+          "optoelectronic component"
+        ],
+        "wordPhrases": [
+          "optoelectronic device technology",
+          "optoelectronic device process",
+          "optoelectronic device equipment",
+          "optoelectronic device application"
+        ]
+      }
+    ],
+    "phrases": [
+      "optoelectronic device (光电子器件)",
+      "optoelectronic integration (光电子集成)",
+      "optoelectronic technology (光电子技术)",
+      "optoelectronic component (光电子元件)"
+    ],
+    "mnemonic": "optoelectronic（光电子的）→ 光学与电子学结合 → 光电子",
+    "meaning": "光电子的"
+  },
+  {
+    "id": 263,
+    "root": "solar cell",
+    "phonetic": "/ˈsəʊlər sel/",
+    "partOfSpeech": "n.",
+    "frequency": 263,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "solar cell",
+        "phonetic": "/ˈsəʊlər sel/",
+        "partOfSpeech": "n.",
+        "meaning": "太阳能电池",
+        "memoryTip": "solar太阳 + cell电池 → 太阳能电池",
+        "root": "solar cell",
+        "rootPhonetic": "/ˈsəʊlər sel/",
+        "rootMeaning": "太阳能电池",
+        "rootPhrases": [
+          "solar cell",
+          "photovoltaic cell",
+          "silicon solar cell",
+          "thin film solar"
+        ],
+        "wordPhrases": [
+          "solar cell technology",
+          "solar cell process",
+          "solar cell equipment",
+          "solar cell application"
+        ]
+      },
+      {
+        "word": "photovoltaic",
+        "phonetic": "/ˌfəʊtəʊvɒlˈteɪɪk/",
+        "partOfSpeech": "n.",
+        "meaning": "光伏的",
+        "memoryTip": "photo光 + volt伏 + aic → 光伏的",
+        "root": "solar cell",
+        "rootPhonetic": "/ˈsəʊlər sel/",
+        "rootMeaning": "太阳能电池",
+        "rootPhrases": [
+          "solar cell",
+          "photovoltaic cell",
+          "silicon solar cell",
+          "thin film solar"
+        ],
+        "wordPhrases": [
+          "photovoltaic technology",
+          "photovoltaic process",
+          "photovoltaic equipment",
+          "photovoltaic application"
+        ]
+      },
+      {
+        "word": "PV",
+        "phonetic": "/ˌpiː viː/",
+        "partOfSpeech": "n.",
+        "meaning": "光伏",
+        "memoryTip": "PhotoVoltaic → 光伏",
+        "root": "solar cell",
+        "rootPhonetic": "/ˈsəʊlər sel/",
+        "rootMeaning": "太阳能电池",
+        "rootPhrases": [
+          "solar cell",
+          "photovoltaic cell",
+          "silicon solar cell",
+          "thin film solar"
+        ],
+        "wordPhrases": [
+          "PV technology",
+          "PV process",
+          "PV equipment",
+          "PV application"
+        ]
+      },
+      {
+        "word": "PERC",
+        "phonetic": "/pɜːrk/",
+        "partOfSpeech": "n.",
+        "meaning": "钝化发射极背接触",
+        "memoryTip": "Passivated Emitter Rear Cell → PERC",
+        "root": "solar cell",
+        "rootPhonetic": "/ˈsəʊlər sel/",
+        "rootMeaning": "太阳能电池",
+        "rootPhrases": [
+          "solar cell",
+          "photovoltaic cell",
+          "silicon solar cell",
+          "thin film solar"
+        ],
+        "wordPhrases": [
+          "PERC technology",
+          "PERC process",
+          "PERC equipment",
+          "PERC application"
+        ]
+      }
+    ],
+    "phrases": [
+      "solar cell (太阳能电池)",
+      "photovoltaic cell (光伏电池)",
+      "silicon solar cell (硅太阳能电池)",
+      "thin film solar (薄膜太阳能)"
+    ],
+    "mnemonic": "solar cell（太阳能电池）→ 光能转电能的器件 → 太阳能电池",
+    "meaning": "太阳能电池"
+  },
+  {
+    "id": 264,
+    "root": "capacitor",
+    "phonetic": "/kəˈpæsɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 264,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "capacitor",
+        "phonetic": "/kəˈpæsɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "电容器",
+        "memoryTip": "capacity容量 + -or器 → 电容器",
+        "root": "capacitor",
+        "rootPhonetic": "/kəˈpæsɪtər/",
+        "rootMeaning": "电容器",
+        "rootPhrases": [
+          "decoupling capacitor",
+          "bypass capacitor",
+          "MIM capacitor",
+          "MOS capacitor"
+        ],
+        "wordPhrases": [
+          "capacitor technology",
+          "capacitor process",
+          "capacitor equipment",
+          "capacitor application"
+        ]
+      },
+      {
+        "word": "MIM",
+        "phonetic": "/ˌem aɪ ˈem/",
+        "partOfSpeech": "n.",
+        "meaning": "金属-绝缘体-金属",
+        "memoryTip": "Metal-Insulator-Metal → MIM",
+        "root": "capacitor",
+        "rootPhonetic": "/kəˈpæsɪtər/",
+        "rootMeaning": "电容器",
+        "rootPhrases": [
+          "decoupling capacitor",
+          "bypass capacitor",
+          "MIM capacitor",
+          "MOS capacitor"
+        ],
+        "wordPhrases": [
+          "MIM technology",
+          "MIM process",
+          "MIM equipment",
+          "MIM application"
+        ]
+      },
+      {
+        "word": "MOSCAP",
+        "phonetic": "/ˈmɒskæp/",
+        "partOfSpeech": "n.",
+        "meaning": "MOS电容",
+        "memoryTip": "MOS Capacitor → MOSCAP",
+        "root": "capacitor",
+        "rootPhonetic": "/kəˈpæsɪtər/",
+        "rootMeaning": "电容器",
+        "rootPhrases": [
+          "decoupling capacitor",
+          "bypass capacitor",
+          "MIM capacitor",
+          "MOS capacitor"
+        ],
+        "wordPhrases": [
+          "MOSCAP technology",
+          "MOSCAP process",
+          "MOSCAP equipment",
+          "MOSCAP application"
+        ]
+      },
+      {
+        "word": "varactor",
+        "phonetic": "/vəˈræktər/",
+        "partOfSpeech": "n.",
+        "meaning": "变容二极管",
+        "memoryTip": "variable + reactor → 变容管",
+        "root": "capacitor",
+        "rootPhonetic": "/kəˈpæsɪtər/",
+        "rootMeaning": "电容器",
+        "rootPhrases": [
+          "decoupling capacitor",
+          "bypass capacitor",
+          "MIM capacitor",
+          "MOS capacitor"
+        ],
+        "wordPhrases": [
+          "varactor technology",
+          "varactor process",
+          "varactor equipment",
+          "varactor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "decoupling capacitor (去耦电容)",
+      "bypass capacitor (旁路电容)",
+      "MIM capacitor (MIM电容)",
+      "MOS capacitor (MOS电容)"
+    ],
+    "mnemonic": "capacitor（电容器）→ 存储电荷的器件 → 电容器",
+    "meaning": "电容器"
+  },
+  {
+    "id": 265,
+    "root": "resistor",
+    "phonetic": "/rɪˈzɪstər/",
+    "partOfSpeech": "n.",
+    "frequency": 265,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "resistor",
+        "phonetic": "/rɪˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "电阻器",
+        "memoryTip": "resist抵抗 + -or器 → 电阻器",
+        "root": "resistor",
+        "rootPhonetic": "/rɪˈzɪstər/",
+        "rootMeaning": "电阻器",
+        "rootPhrases": [
+          "polysilicon resistor",
+          "diffusion resistor",
+          "thin film resistor",
+          "precision resistor"
+        ],
+        "wordPhrases": [
+          "resistor technology",
+          "resistor process",
+          "resistor equipment",
+          "resistor application"
+        ]
+      },
+      {
+        "word": "polysilicon resistor",
+        "phonetic": "/ˌpɒliˈsɪlɪkən rɪˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "多晶硅电阻",
+        "memoryTip": "polysilicon + resistor → 多晶硅电阻",
+        "root": "resistor",
+        "rootPhonetic": "/rɪˈzɪstər/",
+        "rootMeaning": "电阻器",
+        "rootPhrases": [
+          "polysilicon resistor",
+          "diffusion resistor",
+          "thin film resistor",
+          "precision resistor"
+        ],
+        "wordPhrases": [
+          "polysilicon resistor technology",
+          "polysilicon resistor process",
+          "polysilicon resistor equipment",
+          "polysilicon resistor application"
+        ]
+      },
+      {
+        "word": "diffused resistor",
+        "phonetic": "/dɪˈfjuːzd rɪˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "扩散电阻",
+        "memoryTip": "diffused扩散 + resistor → 扩散电阻",
+        "root": "resistor",
+        "rootPhonetic": "/rɪˈzɪstər/",
+        "rootMeaning": "电阻器",
+        "rootPhrases": [
+          "polysilicon resistor",
+          "diffusion resistor",
+          "thin film resistor",
+          "precision resistor"
+        ],
+        "wordPhrases": [
+          "diffused resistor technology",
+          "diffused resistor process",
+          "diffused resistor equipment",
+          "diffused resistor application"
+        ]
+      },
+      {
+        "word": "well resistor",
+        "phonetic": "/wel rɪˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "阱电阻",
+        "memoryTip": "well阱 + resistor → 阱电阻",
+        "root": "resistor",
+        "rootPhonetic": "/rɪˈzɪstər/",
+        "rootMeaning": "电阻器",
+        "rootPhrases": [
+          "polysilicon resistor",
+          "diffusion resistor",
+          "thin film resistor",
+          "precision resistor"
+        ],
+        "wordPhrases": [
+          "well resistor technology",
+          "well resistor process",
+          "well resistor equipment",
+          "well resistor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "polysilicon resistor (多晶硅电阻)",
+      "diffusion resistor (扩散电阻)",
+      "thin film resistor (薄膜电阻)",
+      "precision resistor (精密电阻)"
+    ],
+    "mnemonic": "resistor（电阻器）→ 限制电流的器件 → 电阻器",
+    "meaning": "电阻器"
+  },
+  {
+    "id": 266,
+    "root": "inductor",
+    "phonetic": "/ɪnˈdʌktər/",
+    "partOfSpeech": "n.",
+    "frequency": 266,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "inductor",
+        "phonetic": "/ɪnˈdʌktər/",
+        "partOfSpeech": "n.",
+        "meaning": "电感器",
+        "memoryTip": "induct感应 + -or器 → 电感器",
+        "root": "inductor",
+        "rootPhonetic": "/ɪnˈdʌktər/",
+        "rootMeaning": "电感器",
+        "rootPhrases": [
+          "spiral inductor",
+          "bondwire inductor",
+          "integrated inductor",
+          "high-Q inductor"
+        ],
+        "wordPhrases": [
+          "inductor technology",
+          "inductor process",
+          "inductor equipment",
+          "inductor application"
+        ]
+      },
+      {
+        "word": "spiral inductor",
+        "phonetic": "/ˈspaɪərəl ɪnˈdʌktər/",
+        "partOfSpeech": "n.",
+        "meaning": "螺旋电感",
+        "memoryTip": "spiral螺旋 + inductor → 螺旋电感",
+        "root": "inductor",
+        "rootPhonetic": "/ɪnˈdʌktər/",
+        "rootMeaning": "电感器",
+        "rootPhrases": [
+          "spiral inductor",
+          "bondwire inductor",
+          "integrated inductor",
+          "high-Q inductor"
+        ],
+        "wordPhrases": [
+          "spiral inductor technology",
+          "spiral inductor process",
+          "spiral inductor equipment",
+          "spiral inductor application"
+        ]
+      },
+      {
+        "word": "bondwire",
+        "phonetic": "/ˈbɒndwaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "键合线",
+        "memoryTip": "bond键合 + wire线 → 键合线",
+        "root": "inductor",
+        "rootPhonetic": "/ɪnˈdʌktər/",
+        "rootMeaning": "电感器",
+        "rootPhrases": [
+          "spiral inductor",
+          "bondwire inductor",
+          "integrated inductor",
+          "high-Q inductor"
+        ],
+        "wordPhrases": [
+          "bondwire technology",
+          "bondwire process",
+          "bondwire equipment",
+          "bondwire application"
+        ]
+      },
+      {
+        "word": "on-chip inductor",
+        "phonetic": "/ɒn tʃɪp ɪnˈdʌktər/",
+        "partOfSpeech": "n.",
+        "meaning": "片上电感",
+        "memoryTip": "on-chip + inductor → 片上电感",
+        "root": "inductor",
+        "rootPhonetic": "/ɪnˈdʌktər/",
+        "rootMeaning": "电感器",
+        "rootPhrases": [
+          "spiral inductor",
+          "bondwire inductor",
+          "integrated inductor",
+          "high-Q inductor"
+        ],
+        "wordPhrases": [
+          "on-chip inductor technology",
+          "on-chip inductor process",
+          "on-chip inductor equipment",
+          "on-chip inductor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "spiral inductor (螺旋电感)",
+      "bondwire inductor (键合线电感)",
+      "integrated inductor (集成电感)",
+      "high-Q inductor (高Q电感)"
+    ],
+    "mnemonic": "inductor（电感器）→ 存储磁能的器件 → 电感器",
+    "meaning": "电感器"
+  },
+  {
+    "id": 267,
+    "root": "varactor",
+    "phonetic": "/vəˈræktər/",
+    "partOfSpeech": "n.",
+    "frequency": 267,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "varactor",
+        "phonetic": "/vəˈræktər/",
+        "partOfSpeech": "n.",
+        "meaning": "变容二极管",
+        "memoryTip": "variable + reactor → 变容管",
+        "root": "varactor",
+        "rootPhonetic": "/vəˈræktər/",
+        "rootMeaning": "变容二极管",
+        "rootPhrases": [
+          "varactor diode",
+          "hyperabrupt varactor",
+          "varactor tuning",
+          "voltage variable capacitor"
+        ],
+        "wordPhrases": [
+          "varactor technology",
+          "varactor process",
+          "varactor equipment",
+          "varactor application"
+        ]
+      },
+      {
+        "word": "varicap",
+        "phonetic": "/ˈværɪkæp/",
+        "partOfSpeech": "n.",
+        "meaning": "变容管",
+        "memoryTip": "variable + capacitance → 变容管",
+        "root": "varactor",
+        "rootPhonetic": "/vəˈræktər/",
+        "rootMeaning": "变容二极管",
+        "rootPhrases": [
+          "varactor diode",
+          "hyperabrupt varactor",
+          "varactor tuning",
+          "voltage variable capacitor"
+        ],
+        "wordPhrases": [
+          "varicap technology",
+          "varicap process",
+          "varicap equipment",
+          "varicap application"
+        ]
+      },
+      {
+        "word": "tuning diode",
+        "phonetic": "/ˈtjuːnɪŋ ˈdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "调谐二极管",
+        "memoryTip": "tuning调谐 + diode → 调谐二极管",
+        "root": "varactor",
+        "rootPhonetic": "/vəˈræktər/",
+        "rootMeaning": "变容二极管",
+        "rootPhrases": [
+          "varactor diode",
+          "hyperabrupt varactor",
+          "varactor tuning",
+          "voltage variable capacitor"
+        ],
+        "wordPhrases": [
+          "tuning diode technology",
+          "tuning diode process",
+          "tuning diode equipment",
+          "tuning diode application"
+        ]
+      },
+      {
+        "word": "variable capacitor",
+        "phonetic": "/ˈveəriəbl kəˈpæsɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "可变电容",
+        "memoryTip": "variable + capacitor → 可变电容",
+        "root": "varactor",
+        "rootPhonetic": "/vəˈræktər/",
+        "rootMeaning": "变容二极管",
+        "rootPhrases": [
+          "varactor diode",
+          "hyperabrupt varactor",
+          "varactor tuning",
+          "voltage variable capacitor"
+        ],
+        "wordPhrases": [
+          "variable capacitor technology",
+          "variable capacitor process",
+          "variable capacitor equipment",
+          "variable capacitor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "varactor diode (变容二极管)",
+      "hyperabrupt varactor (超突变变容管)",
+      "varactor tuning (变容管调谐)",
+      "voltage variable capacitor (电压可变电容)"
+    ],
+    "mnemonic": "varactor（变容二极管）→ 电容随电压变化的二极管 → 变容管",
+    "meaning": "变容二极管"
+  },
+  {
+    "id": 268,
+    "root": "photodetector",
+    "phonetic": "/ˈfəʊtəʊdɪtekər/",
+    "partOfSpeech": "n.",
+    "frequency": 268,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "photodetector",
+        "phonetic": "/ˈfəʊtəʊdɪtekər/",
+        "partOfSpeech": "n.",
+        "meaning": "光电探测器",
+        "memoryTip": "photo光 + detector探测器 → 光电探测器",
+        "root": "photodetector",
+        "rootPhonetic": "/ˈfəʊtəʊdɪtekər/",
+        "rootMeaning": "光电探测器",
+        "rootPhrases": [
+          "photodetector array",
+          "avalanche photodiode",
+          "PIN photodetector",
+          "photodetector sensitivity"
+        ],
+        "wordPhrases": [
+          "photodetector technology",
+          "photodetector process",
+          "photodetector equipment",
+          "photodetector application"
+        ]
+      },
+      {
+        "word": "APD",
+        "phonetic": "/ˌeɪ piː ˈdiː/",
+        "partOfSpeech": "n.",
+        "meaning": "雪崩光电二极管",
+        "memoryTip": "Avalanche PhotoDiode → APD",
+        "root": "photodetector",
+        "rootPhonetic": "/ˈfəʊtəʊdɪtekər/",
+        "rootMeaning": "光电探测器",
+        "rootPhrases": [
+          "photodetector array",
+          "avalanche photodiode",
+          "PIN photodetector",
+          "photodetector sensitivity"
+        ],
+        "wordPhrases": [
+          "APD technology",
+          "APD process",
+          "APD equipment",
+          "APD application"
+        ]
+      },
+      {
+        "word": "PIN diode",
+        "phonetic": "/ˌpiː aɪ en ˈdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "PIN二极管",
+        "memoryTip": "P-Intrinsic-N diode → PIN二极管",
+        "root": "photodetector",
+        "rootPhonetic": "/ˈfəʊtəʊdɪtekər/",
+        "rootMeaning": "光电探测器",
+        "rootPhrases": [
+          "photodetector array",
+          "avalanche photodiode",
+          "PIN photodetector",
+          "photodetector sensitivity"
+        ],
+        "wordPhrases": [
+          "PIN diode technology",
+          "PIN diode process",
+          "PIN diode equipment",
+          "PIN diode application"
+        ]
+      },
+      {
+        "word": "phototransistor",
+        "phonetic": "/ˈfəʊtəʊtrænˈzɪstər/",
+        "partOfSpeech": "n.",
+        "meaning": "光电晶体管",
+        "memoryTip": "photo + transistor → 光电晶体管",
+        "root": "photodetector",
+        "rootPhonetic": "/ˈfəʊtəʊdɪtekər/",
+        "rootMeaning": "光电探测器",
+        "rootPhrases": [
+          "photodetector array",
+          "avalanche photodiode",
+          "PIN photodetector",
+          "photodetector sensitivity"
+        ],
+        "wordPhrases": [
+          "phototransistor technology",
+          "phototransistor process",
+          "phototransistor equipment",
+          "phototransistor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "photodetector array (光电探测器阵列)",
+      "avalanche photodiode (雪崩光电二极管)",
+      "PIN photodetector (PIN光电探测器)",
+      "photodetector sensitivity (光电探测器灵敏度)"
+    ],
+    "mnemonic": "photodetector（光电探测器）→ 将光信号转为电信号 → 光电探测器",
+    "meaning": "光电探测器"
+  },
+  {
+    "id": 269,
+    "root": "laser",
+    "phonetic": "/ˈleɪzər/",
+    "partOfSpeech": "n.",
+    "frequency": 269,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "laser",
+        "phonetic": "/ˈleɪzər/",
+        "partOfSpeech": "n.",
+        "meaning": "激光器",
+        "memoryTip": "Light Amplification by Stimulated Emission of Radiation → 激光",
+        "root": "laser",
+        "rootPhonetic": "/ˈleɪzər/",
+        "rootMeaning": "激光器",
+        "rootPhrases": [
+          "semiconductor laser",
+          "VCSEL array",
+          "DFB laser",
+          "laser diode"
+        ],
+        "wordPhrases": [
+          "laser technology",
+          "laser process",
+          "laser equipment",
+          "laser application"
+        ]
+      },
+      {
+        "word": "VCSEL",
+        "phonetic": "/ˈvɪksəl/",
+        "partOfSpeech": "n.",
+        "meaning": "垂直腔面发射激光器",
+        "memoryTip": "Vertical-Cavity Surface-Emitting Laser → VCSEL",
+        "root": "laser",
+        "rootPhonetic": "/ˈleɪzər/",
+        "rootMeaning": "激光器",
+        "rootPhrases": [
+          "semiconductor laser",
+          "VCSEL array",
+          "DFB laser",
+          "laser diode"
+        ],
+        "wordPhrases": [
+          "VCSEL technology",
+          "VCSEL process",
+          "VCSEL equipment",
+          "VCSEL application"
+        ]
+      },
+      {
+        "word": "DFB laser",
+        "phonetic": "/ˌdiː ef biː ˈleɪzər/",
+        "partOfSpeech": "n.",
+        "meaning": "分布式反馈激光器",
+        "memoryTip": "Distributed Feedback Laser → DFB激光器",
+        "root": "laser",
+        "rootPhonetic": "/ˈleɪzər/",
+        "rootMeaning": "激光器",
+        "rootPhrases": [
+          "semiconductor laser",
+          "VCSEL array",
+          "DFB laser",
+          "laser diode"
+        ],
+        "wordPhrases": [
+          "DFB laser technology",
+          "DFB laser process",
+          "DFB laser equipment",
+          "DFB laser application"
+        ]
+      },
+      {
+        "word": "edge emitter",
+        "phonetic": "/edʒ ɪˈmɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "边发射",
+        "memoryTip": "edge边 + emitter发射器 → 边发射",
+        "root": "laser",
+        "rootPhonetic": "/ˈleɪzər/",
+        "rootMeaning": "激光器",
+        "rootPhrases": [
+          "semiconductor laser",
+          "VCSEL array",
+          "DFB laser",
+          "laser diode"
+        ],
+        "wordPhrases": [
+          "edge emitter technology",
+          "edge emitter process",
+          "edge emitter equipment",
+          "edge emitter application"
+        ]
+      }
+    ],
+    "phrases": [
+      "semiconductor laser (半导体激光器)",
+      "VCSEL array (VCSEL阵列)",
+      "DFB laser (DFB激光器)",
+      "laser diode (激光二极管)"
+    ],
+    "mnemonic": "laser（激光器）→ 受激辐射光放大器件 → 激光器",
+    "meaning": "激光器"
+  },
+  {
+    "id": 270,
+    "root": "modulator",
+    "phonetic": "/ˈmɒdjʊleɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 270,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "modulator",
+        "phonetic": "/ˈmɒdjʊleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "调制器",
+        "memoryTip": "modulate调制 + -or器 → 调制器",
+        "root": "modulator",
+        "rootPhonetic": "/ˈmɒdjʊleɪtər/",
+        "rootMeaning": "调制器",
+        "rootPhrases": [
+          "electro-optic modulator",
+          "Mach-Zehnder modulator",
+          "intensity modulator",
+          "phase modulator"
+        ],
+        "wordPhrases": [
+          "modulator technology",
+          "modulator process",
+          "modulator equipment",
+          "modulator application"
+        ]
+      },
+      {
+        "word": "EAM",
+        "phonetic": "/ˌiː eɪ ˈem/",
+        "partOfSpeech": "n.",
+        "meaning": "电吸收调制器",
+        "memoryTip": "Electro-Absorption Modulator → EAM",
+        "root": "modulator",
+        "rootPhonetic": "/ˈmɒdjʊleɪtər/",
+        "rootMeaning": "调制器",
+        "rootPhrases": [
+          "electro-optic modulator",
+          "Mach-Zehnder modulator",
+          "intensity modulator",
+          "phase modulator"
+        ],
+        "wordPhrases": [
+          "EAM technology",
+          "EAM process",
+          "EAM equipment",
+          "EAM application"
+        ]
+      },
+      {
+        "word": "Mach-Zehnder",
+        "phonetic": "/mɑːk ˈzendər/",
+        "partOfSpeech": "n.",
+        "meaning": "马赫-曾德尔",
+        "memoryTip": "Mach-Zehnder interferometer → MZ调制器",
+        "root": "modulator",
+        "rootPhonetic": "/ˈmɒdjʊleɪtər/",
+        "rootMeaning": "调制器",
+        "rootPhrases": [
+          "electro-optic modulator",
+          "Mach-Zehnder modulator",
+          "intensity modulator",
+          "phase modulator"
+        ],
+        "wordPhrases": [
+          "Mach-Zehnder technology",
+          "Mach-Zehnder process",
+          "Mach-Zehnder equipment",
+          "Mach-Zehnder application"
+        ]
+      },
+      {
+        "word": "phase modulator",
+        "phonetic": "/feɪz ˈmɒdjʊleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "相位调制器",
+        "memoryTip": "phase相位 + modulator → 相位调制器",
+        "root": "modulator",
+        "rootPhonetic": "/ˈmɒdjʊleɪtər/",
+        "rootMeaning": "调制器",
+        "rootPhrases": [
+          "electro-optic modulator",
+          "Mach-Zehnder modulator",
+          "intensity modulator",
+          "phase modulator"
+        ],
+        "wordPhrases": [
+          "phase modulator technology",
+          "phase modulator process",
+          "phase modulator equipment",
+          "phase modulator application"
+        ]
+      }
+    ],
+    "phrases": [
+      "electro-optic modulator (电光调制器)",
+      "Mach-Zehnder modulator (马赫-曾德尔调制器)",
+      "intensity modulator (强度调制器)",
+      "phase modulator (相位调制器)"
+    ],
+    "mnemonic": "modulator（调制器）→ 改变光信号参数的器件 → 调制器",
+    "meaning": "调制器"
+  },
+  {
+    "id": 271,
+    "root": "IC",
+    "phonetic": "/ˌaɪ ˈsiː/",
+    "partOfSpeech": "n.",
+    "frequency": 271,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "IC",
+        "phonetic": "/ˌaɪ ˈsiː/",
+        "partOfSpeech": "n.",
+        "meaning": "集成电路",
+        "memoryTip": "Integrated Circuit → IC",
+        "root": "IC",
+        "rootPhonetic": "/ˌaɪ ˈsiː/",
+        "rootMeaning": "集成电路",
+        "rootPhrases": [
+          "integrated circuit",
+          "LSI circuit",
+          "VLSI technology",
+          "ULSI device"
+        ],
+        "wordPhrases": [
+          "IC technology",
+          "IC process",
+          "IC equipment",
+          "IC application"
+        ]
+      },
+      {
+        "word": "LSI",
+        "phonetic": "/ˌel es ˈaɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "大规模集成电路",
+        "memoryTip": "Large Scale Integration → LSI",
+        "root": "IC",
+        "rootPhonetic": "/ˌaɪ ˈsiː/",
+        "rootMeaning": "集成电路",
+        "rootPhrases": [
+          "integrated circuit",
+          "LSI circuit",
+          "VLSI technology",
+          "ULSI device"
+        ],
+        "wordPhrases": [
+          "LSI technology",
+          "LSI process",
+          "LSI equipment",
+          "LSI application"
+        ]
+      },
+      {
+        "word": "VLSI",
+        "phonetic": "/ˌviː el es ˈaɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "超大规模集成电路",
+        "memoryTip": "Very Large Scale Integration → VLSI",
+        "root": "IC",
+        "rootPhonetic": "/ˌaɪ ˈsiː/",
+        "rootMeaning": "集成电路",
+        "rootPhrases": [
+          "integrated circuit",
+          "LSI circuit",
+          "VLSI technology",
+          "ULSI device"
+        ],
+        "wordPhrases": [
+          "VLSI technology",
+          "VLSI process",
+          "VLSI equipment",
+          "VLSI application"
+        ]
+      },
+      {
+        "word": "ULSI",
+        "phonetic": "/ˌjuː el es ˈaɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "甚大规模集成电路",
+        "memoryTip": "Ultra Large Scale Integration → ULSI",
+        "root": "IC",
+        "rootPhonetic": "/ˌaɪ ˈsiː/",
+        "rootMeaning": "集成电路",
+        "rootPhrases": [
+          "integrated circuit",
+          "LSI circuit",
+          "VLSI technology",
+          "ULSI device"
+        ],
+        "wordPhrases": [
+          "ULSI technology",
+          "ULSI process",
+          "ULSI equipment",
+          "ULSI application"
+        ]
+      }
+    ],
+    "phrases": [
+      "integrated circuit (集成电路)",
+      "LSI circuit (大规模集成电路)",
+      "VLSI technology (VLSI技术)",
+      "ULSI device (甚大规模器件)"
+    ],
+    "mnemonic": "IC（集成电路）→ 将多个元件集成在芯片上 → 集成电路",
+    "meaning": "集成电路"
+  },
+  {
+    "id": 272,
+    "root": "microprocessor",
+    "phonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+    "partOfSpeech": "n.",
+    "frequency": 272,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "microprocessor",
+        "phonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+        "partOfSpeech": "n.",
+        "meaning": "微处理器",
+        "memoryTip": "micro微 + processor处理器 → 微处理器",
+        "root": "microprocessor",
+        "rootPhonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+        "rootMeaning": "微处理器",
+        "rootPhrases": [
+          "microprocessor unit",
+          "multicore processor",
+          "CPU core",
+          "microprocessor architecture"
+        ],
+        "wordPhrases": [
+          "microprocessor technology",
+          "microprocessor process",
+          "microprocessor equipment",
+          "microprocessor application"
+        ]
+      },
+      {
+        "word": "CPU",
+        "phonetic": "/ˌsiː piː ˈjuː/",
+        "partOfSpeech": "n.",
+        "meaning": "中央处理器",
+        "memoryTip": "Central Processing Unit → CPU",
+        "root": "microprocessor",
+        "rootPhonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+        "rootMeaning": "微处理器",
+        "rootPhrases": [
+          "microprocessor unit",
+          "multicore processor",
+          "CPU core",
+          "microprocessor architecture"
+        ],
+        "wordPhrases": [
+          "CPU technology",
+          "CPU process",
+          "CPU equipment",
+          "CPU application"
+        ]
+      },
+      {
+        "word": "ALU",
+        "phonetic": "/ˌeɪ el ˈjuː/",
+        "partOfSpeech": "n.",
+        "meaning": "算术逻辑单元",
+        "memoryTip": "Arithmetic Logic Unit → ALU",
+        "root": "microprocessor",
+        "rootPhonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+        "rootMeaning": "微处理器",
+        "rootPhrases": [
+          "microprocessor unit",
+          "multicore processor",
+          "CPU core",
+          "microprocessor architecture"
+        ],
+        "wordPhrases": [
+          "ALU technology",
+          "ALU process",
+          "ALU equipment",
+          "ALU application"
+        ]
+      },
+      {
+        "word": "core",
+        "phonetic": "/kɔːr/",
+        "partOfSpeech": "n.",
+        "meaning": "核心",
+        "memoryTip": "core核心 → 处理器核心",
+        "root": "microprocessor",
+        "rootPhonetic": "/ˌmaɪkrəʊˈprəʊsesər/",
+        "rootMeaning": "微处理器",
+        "rootPhrases": [
+          "microprocessor unit",
+          "multicore processor",
+          "CPU core",
+          "microprocessor architecture"
+        ],
+        "wordPhrases": [
+          "core technology",
+          "core process",
+          "core equipment",
+          "core application"
+        ]
+      }
+    ],
+    "phrases": [
+      "microprocessor unit (微处理器)",
+      "multicore processor (多核处理器)",
+      "CPU core (CPU核心)",
+      "microprocessor architecture (微处理器架构)"
+    ],
+    "mnemonic": "microprocessor（微处理器）→ 计算机的核心芯片 → 微处理器",
+    "meaning": "微处理器"
+  },
+  {
+    "id": 273,
+    "root": "memory",
+    "phonetic": "/ˈmeməri/",
+    "partOfSpeech": "n.",
+    "frequency": 273,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "memory",
+        "phonetic": "/ˈmeməri/",
+        "partOfSpeech": "n.",
+        "meaning": "存储器",
+        "memoryTip": "memory记忆 → 存储器",
+        "root": "memory",
+        "rootPhonetic": "/ˈmeməri/",
+        "rootMeaning": "存储器",
+        "rootPhrases": [
+          "memory chip",
+          "DRAM cell",
+          "SRAM array",
+          "flash memory"
+        ],
+        "wordPhrases": [
+          "memory technology",
+          "memory process",
+          "memory equipment",
+          "memory application"
+        ]
+      },
+      {
+        "word": "DRAM",
+        "phonetic": "/ˈdiːræm/",
+        "partOfSpeech": "n.",
+        "meaning": "动态随机存取存储器",
+        "memoryTip": "Dynamic Random Access Memory → DRAM",
+        "root": "memory",
+        "rootPhonetic": "/ˈmeməri/",
+        "rootMeaning": "存储器",
+        "rootPhrases": [
+          "memory chip",
+          "DRAM cell",
+          "SRAM array",
+          "flash memory"
+        ],
+        "wordPhrases": [
+          "DRAM technology",
+          "DRAM process",
+          "DRAM equipment",
+          "DRAM application"
+        ]
+      },
+      {
+        "word": "SRAM",
+        "phonetic": "/ˈesræm/",
+        "partOfSpeech": "n.",
+        "meaning": "静态随机存取存储器",
+        "memoryTip": "Static Random Access Memory → SRAM",
+        "root": "memory",
+        "rootPhonetic": "/ˈmeməri/",
+        "rootMeaning": "存储器",
+        "rootPhrases": [
+          "memory chip",
+          "DRAM cell",
+          "SRAM array",
+          "flash memory"
+        ],
+        "wordPhrases": [
+          "SRAM technology",
+          "SRAM process",
+          "SRAM equipment",
+          "SRAM application"
+        ]
+      },
+      {
+        "word": "ROM",
+        "phonetic": "/rɒm/",
+        "partOfSpeech": "n.",
+        "meaning": "只读存储器",
+        "memoryTip": "Read-Only Memory → ROM",
+        "root": "memory",
+        "rootPhonetic": "/ˈmeməri/",
+        "rootMeaning": "存储器",
+        "rootPhrases": [
+          "memory chip",
+          "DRAM cell",
+          "SRAM array",
+          "flash memory"
+        ],
+        "wordPhrases": [
+          "ROM technology",
+          "ROM process",
+          "ROM equipment",
+          "ROM application"
+        ]
+      }
+    ],
+    "phrases": [
+      "memory chip (存储芯片)",
+      "DRAM cell (DRAM单元)",
+      "SRAM array (SRAM阵列)",
+      "flash memory (闪存)"
+    ],
+    "mnemonic": "memory（存储器）→ 存储数据的芯片 → 存储器",
+    "meaning": "存储器"
+  },
+  {
+    "id": 274,
+    "root": "DRAM",
+    "phonetic": "/ˈdiːræm/",
+    "partOfSpeech": "n.",
+    "frequency": 274,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "DRAM",
+        "phonetic": "/ˈdiːræm/",
+        "partOfSpeech": "n.",
+        "meaning": "DRAM",
+        "memoryTip": "Dynamic Random Access Memory → 动态随机存取存储器",
+        "root": "DRAM",
+        "rootPhonetic": "/ˈdiːræm/",
+        "rootMeaning": "DRAM",
+        "rootPhrases": [
+          "DRAM cell",
+          "DRAM capacitor",
+          "DRAM refresh",
+          "DDR DRAM"
+        ],
+        "wordPhrases": [
+          "DRAM technology",
+          "DRAM process",
+          "DRAM equipment",
+          "DRAM application"
+        ]
+      },
+      {
+        "word": "capacitor",
+        "phonetic": "/kəˈpæsɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "电容",
+        "memoryTip": "capacitor电容 → DRAM存储电容",
+        "root": "DRAM",
+        "rootPhonetic": "/ˈdiːræm/",
+        "rootMeaning": "DRAM",
+        "rootPhrases": [
+          "DRAM cell",
+          "DRAM capacitor",
+          "DRAM refresh",
+          "DDR DRAM"
+        ],
+        "wordPhrases": [
+          "capacitor technology",
+          "capacitor process",
+          "capacitor equipment",
+          "capacitor application"
+        ]
+      },
+      {
+        "word": "refresh",
+        "phonetic": "/rɪˈfreʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "刷新",
+        "memoryTip": "refresh刷新 → DRAM刷新",
+        "root": "DRAM",
+        "rootPhonetic": "/ˈdiːræm/",
+        "rootMeaning": "DRAM",
+        "rootPhrases": [
+          "DRAM cell",
+          "DRAM capacitor",
+          "DRAM refresh",
+          "DDR DRAM"
+        ],
+        "wordPhrases": [
+          "refresh technology",
+          "refresh process",
+          "refresh equipment",
+          "refresh application"
+        ]
+      },
+      {
+        "word": "DDR",
+        "phonetic": "/ˌdiː diː ˈɑːr/",
+        "partOfSpeech": "n.",
+        "meaning": "双倍数据率",
+        "memoryTip": "Double Data Rate → DDR",
+        "root": "DRAM",
+        "rootPhonetic": "/ˈdiːræm/",
+        "rootMeaning": "DRAM",
+        "rootPhrases": [
+          "DRAM cell",
+          "DRAM capacitor",
+          "DRAM refresh",
+          "DDR DRAM"
+        ],
+        "wordPhrases": [
+          "DDR technology",
+          "DDR process",
+          "DDR equipment",
+          "DDR application"
+        ]
+      }
+    ],
+    "phrases": [
+      "DRAM cell (DRAM单元)",
+      "DRAM capacitor (DRAM电容)",
+      "DRAM refresh (DRAM刷新)",
+      "DDR DRAM (DDR DRAM)"
+    ],
+    "mnemonic": "DRAM（动态随机存取存储器）→ 需要刷新的易失性存储器 → DRAM",
+    "meaning": "DRAM"
+  },
+  {
+    "id": 275,
+    "root": "SRAM",
+    "phonetic": "/ˈesræm/",
+    "partOfSpeech": "n.",
+    "frequency": 275,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "SRAM",
+        "phonetic": "/ˈesræm/",
+        "partOfSpeech": "n.",
+        "meaning": "SRAM",
+        "memoryTip": "Static Random Access Memory → 静态随机存取存储器",
+        "root": "SRAM",
+        "rootPhonetic": "/ˈesræm/",
+        "rootMeaning": "SRAM",
+        "rootPhrases": [
+          "SRAM cell",
+          "SRAM cache",
+          "6T SRAM",
+          "low power SRAM"
+        ],
+        "wordPhrases": [
+          "SRAM technology",
+          "SRAM process",
+          "SRAM equipment",
+          "SRAM application"
+        ]
+      },
+      {
+        "word": "flip-flop",
+        "phonetic": "/ˈflɪp flɒp/",
+        "partOfSpeech": "n.",
+        "meaning": "触发器",
+        "memoryTip": "flip翻转 + flop翻转 → 触发器",
+        "root": "SRAM",
+        "rootPhonetic": "/ˈesræm/",
+        "rootMeaning": "SRAM",
+        "rootPhrases": [
+          "SRAM cell",
+          "SRAM cache",
+          "6T SRAM",
+          "low power SRAM"
+        ],
+        "wordPhrases": [
+          "flip-flop technology",
+          "flip-flop process",
+          "flip-flop equipment",
+          "flip-flop application"
+        ]
+      },
+      {
+        "word": "6T cell",
+        "phonetic": "/sɪks tiː sel/",
+        "partOfSpeech": "n.",
+        "meaning": "6T单元",
+        "memoryTip": "six transistor cell → 6T SRAM单元",
+        "root": "SRAM",
+        "rootPhonetic": "/ˈesræm/",
+        "rootMeaning": "SRAM",
+        "rootPhrases": [
+          "SRAM cell",
+          "SRAM cache",
+          "6T SRAM",
+          "low power SRAM"
+        ],
+        "wordPhrases": [
+          "6T cell technology",
+          "6T cell process",
+          "6T cell equipment",
+          "6T cell application"
+        ]
+      },
+      {
+        "word": "cache",
+        "phonetic": "/kæʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "缓存",
+        "memoryTip": "cache缓存 → 高速缓存",
+        "root": "SRAM",
+        "rootPhonetic": "/ˈesræm/",
+        "rootMeaning": "SRAM",
+        "rootPhrases": [
+          "SRAM cell",
+          "SRAM cache",
+          "6T SRAM",
+          "low power SRAM"
+        ],
+        "wordPhrases": [
+          "cache technology",
+          "cache process",
+          "cache equipment",
+          "cache application"
+        ]
+      }
+    ],
+    "phrases": [
+      "SRAM cell (SRAM单元)",
+      "SRAM cache (SRAM缓存)",
+      "6T SRAM (6T SRAM)",
+      "low power SRAM (低功耗SRAM)"
+    ],
+    "mnemonic": "SRAM（静态随机存取存储器）→ 速度快但密度低的存储器 → SRAM",
+    "meaning": "SRAM"
+  },
+  {
+    "id": 276,
+    "root": "flash",
+    "phonetic": "/flæʃ/",
+    "partOfSpeech": "n.",
+    "frequency": 276,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "flash",
+        "phonetic": "/flæʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "闪存",
+        "memoryTip": "flash闪 → 闪存",
+        "root": "flash",
+        "rootPhonetic": "/flæʃ/",
+        "rootMeaning": "闪存",
+        "rootPhrases": [
+          "NAND flash",
+          "NOR flash",
+          "flash memory",
+          "floating gate"
+        ],
+        "wordPhrases": [
+          "flash technology",
+          "flash process",
+          "flash equipment",
+          "flash application"
+        ]
+      },
+      {
+        "word": "NAND",
+        "phonetic": "/nænd/",
+        "partOfSpeech": "n.",
+        "meaning": "与非",
+        "memoryTip": "Not AND → NAND闪存",
+        "root": "flash",
+        "rootPhonetic": "/flæʃ/",
+        "rootMeaning": "闪存",
+        "rootPhrases": [
+          "NAND flash",
+          "NOR flash",
+          "flash memory",
+          "floating gate"
+        ],
+        "wordPhrases": [
+          "NAND technology",
+          "NAND process",
+          "NAND equipment",
+          "NAND application"
+        ]
+      },
+      {
+        "word": "NOR",
+        "phonetic": "/nɔːr/",
+        "partOfSpeech": "n.",
+        "meaning": "或非",
+        "memoryTip": "Not OR → NOR闪存",
+        "root": "flash",
+        "rootPhonetic": "/flæʃ/",
+        "rootMeaning": "闪存",
+        "rootPhrases": [
+          "NAND flash",
+          "NOR flash",
+          "flash memory",
+          "floating gate"
+        ],
+        "wordPhrases": [
+          "NOR technology",
+          "NOR process",
+          "NOR equipment",
+          "NOR application"
+        ]
+      },
+      {
+        "word": "floating gate",
+        "phonetic": "/ˈfləʊtɪŋ ɡeɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "浮栅",
+        "memoryTip": "floating浮 + gate栅 → 浮栅",
+        "root": "flash",
+        "rootPhonetic": "/flæʃ/",
+        "rootMeaning": "闪存",
+        "rootPhrases": [
+          "NAND flash",
+          "NOR flash",
+          "flash memory",
+          "floating gate"
+        ],
+        "wordPhrases": [
+          "floating gate technology",
+          "floating gate process",
+          "floating gate equipment",
+          "floating gate application"
+        ]
+      }
+    ],
+    "phrases": [
+      "NAND flash (NAND闪存)",
+      "NOR flash (NOR闪存)",
+      "flash memory (闪存)",
+      "floating gate (浮栅)"
+    ],
+    "mnemonic": "flash（闪存）→ 非易失性存储器 → 闪存",
+    "meaning": "闪存"
+  },
+  {
+    "id": 277,
+    "root": "logic",
+    "phonetic": "/ˈlɒdʒɪk/",
+    "partOfSpeech": "n.",
+    "frequency": 277,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "logic",
+        "phonetic": "/ˈlɒdʒɪk/",
+        "partOfSpeech": "n.",
+        "meaning": "逻辑",
+        "memoryTip": "logic逻辑",
+        "root": "logic",
+        "rootPhonetic": "/ˈlɒdʒɪk/",
+        "rootMeaning": "逻辑",
+        "rootPhrases": [
+          "logic gate",
+          "logic circuit",
+          "combinational logic",
+          "sequential logic"
+        ],
+        "wordPhrases": [
+          "logic technology",
+          "logic process",
+          "logic equipment",
+          "logic application"
+        ]
+      },
+      {
+        "word": "gate",
+        "phonetic": "/ɡeɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "门",
+        "memoryTip": "gate门 → 逻辑门",
+        "root": "logic",
+        "rootPhonetic": "/ˈlɒdʒɪk/",
+        "rootMeaning": "逻辑",
+        "rootPhrases": [
+          "logic gate",
+          "logic circuit",
+          "combinational logic",
+          "sequential logic"
+        ],
+        "wordPhrases": [
+          "gate technology",
+          "gate process",
+          "gate equipment",
+          "gate application"
+        ]
+      },
+      {
+        "word": "inverter",
+        "phonetic": "/ɪnˈvɜːrtər/",
+        "partOfSpeech": "n.",
+        "meaning": "反相器",
+        "memoryTip": "invert反转 + -er器 → 反相器",
+        "root": "logic",
+        "rootPhonetic": "/ˈlɒdʒɪk/",
+        "rootMeaning": "逻辑",
+        "rootPhrases": [
+          "logic gate",
+          "logic circuit",
+          "combinational logic",
+          "sequential logic"
+        ],
+        "wordPhrases": [
+          "inverter technology",
+          "inverter process",
+          "inverter equipment",
+          "inverter application"
+        ]
+      },
+      {
+        "word": "NAND gate",
+        "phonetic": "/nænd ɡeɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "与非门",
+        "memoryTip": "NAND + gate → 与非门",
+        "root": "logic",
+        "rootPhonetic": "/ˈlɒdʒɪk/",
+        "rootMeaning": "逻辑",
+        "rootPhrases": [
+          "logic gate",
+          "logic circuit",
+          "combinational logic",
+          "sequential logic"
+        ],
+        "wordPhrases": [
+          "NAND gate technology",
+          "NAND gate process",
+          "NAND gate equipment",
+          "NAND gate application"
+        ]
+      }
+    ],
+    "phrases": [
+      "logic gate (逻辑门)",
+      "logic circuit (逻辑电路)",
+      "combinational logic (组合逻辑)",
+      "sequential logic (时序逻辑)"
+    ],
+    "mnemonic": "logic（逻辑）→ 实现布尔运算的电路 → 逻辑电路",
+    "meaning": "逻辑"
+  },
+  {
+    "id": 278,
+    "root": "adder",
+    "phonetic": "/ˈædər/",
+    "partOfSpeech": "n.",
+    "frequency": 278,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "adder",
+        "phonetic": "/ˈædər/",
+        "partOfSpeech": "n.",
+        "meaning": "加法器",
+        "memoryTip": "add加 + -er器 → 加法器",
+        "root": "adder",
+        "rootPhonetic": "/ˈædər/",
+        "rootMeaning": "加法器",
+        "rootPhrases": [
+          "full adder",
+          "ripple carry adder",
+          "carry look-ahead",
+          "adder circuit"
+        ],
+        "wordPhrases": [
+          "adder technology",
+          "adder process",
+          "adder equipment",
+          "adder application"
+        ]
+      },
+      {
+        "word": "full adder",
+        "phonetic": "/fʊl ˈædər/",
+        "partOfSpeech": "n.",
+        "meaning": "全加器",
+        "memoryTip": "full全 + adder → 全加器",
+        "root": "adder",
+        "rootPhonetic": "/ˈædər/",
+        "rootMeaning": "加法器",
+        "rootPhrases": [
+          "full adder",
+          "ripple carry adder",
+          "carry look-ahead",
+          "adder circuit"
+        ],
+        "wordPhrases": [
+          "full adder technology",
+          "full adder process",
+          "full adder equipment",
+          "full adder application"
+        ]
+      },
+      {
+        "word": "half adder",
+        "phonetic": "/hɑːf ˈædər/",
+        "partOfSpeech": "n.",
+        "meaning": "半加器",
+        "memoryTip": "half半 + adder → 半加器",
+        "root": "adder",
+        "rootPhonetic": "/ˈædər/",
+        "rootMeaning": "加法器",
+        "rootPhrases": [
+          "full adder",
+          "ripple carry adder",
+          "carry look-ahead",
+          "adder circuit"
+        ],
+        "wordPhrases": [
+          "half adder technology",
+          "half adder process",
+          "half adder equipment",
+          "half adder application"
+        ]
+      },
+      {
+        "word": "carry",
+        "phonetic": "/ˈkæri/",
+        "partOfSpeech": "n.",
+        "meaning": "进位",
+        "memoryTip": "carry携带 → 进位",
+        "root": "adder",
+        "rootPhonetic": "/ˈædər/",
+        "rootMeaning": "加法器",
+        "rootPhrases": [
+          "full adder",
+          "ripple carry adder",
+          "carry look-ahead",
+          "adder circuit"
+        ],
+        "wordPhrases": [
+          "carry technology",
+          "carry process",
+          "carry equipment",
+          "carry application"
+        ]
+      }
+    ],
+    "phrases": [
+      "full adder (全加器)",
+      "ripple carry adder (行波进位加法器)",
+      "carry look-ahead (超前进位)",
+      "adder circuit (加法器电路)"
+    ],
+    "mnemonic": "adder（加法器）→ 执行加法运算的逻辑电路 → 加法器",
+    "meaning": "加法器"
+  },
+  {
+    "id": 279,
+    "root": "multiplexer",
+    "phonetic": "/ˈmʌltɪpleksər/",
+    "partOfSpeech": "n.",
+    "frequency": 279,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "multiplexer",
+        "phonetic": "/ˈmʌltɪpleksər/",
+        "partOfSpeech": "n.",
+        "meaning": "多路选择器",
+        "memoryTip": "multi多 + plexer → 多路选择器",
+        "root": "multiplexer",
+        "rootPhonetic": "/ˈmʌltɪpleksər/",
+        "rootMeaning": "多路选择器",
+        "rootPhrases": [
+          "multiplexer circuit",
+          "data selector",
+          "8-to-1 MUX",
+          "analog multiplexer"
+        ],
+        "wordPhrases": [
+          "multiplexer technology",
+          "multiplexer process",
+          "multiplexer equipment",
+          "multiplexer application"
+        ]
+      },
+      {
+        "word": "MUX",
+        "phonetic": "/mʌks/",
+        "partOfSpeech": "n.",
+        "meaning": "多路器",
+        "memoryTip": "multiplexer缩写 → MUX",
+        "root": "multiplexer",
+        "rootPhonetic": "/ˈmʌltɪpleksər/",
+        "rootMeaning": "多路选择器",
+        "rootPhrases": [
+          "multiplexer circuit",
+          "data selector",
+          "8-to-1 MUX",
+          "analog multiplexer"
+        ],
+        "wordPhrases": [
+          "MUX technology",
+          "MUX process",
+          "MUX equipment",
+          "MUX application"
+        ]
+      },
+      {
+        "word": "demultiplexer",
+        "phonetic": "/ˌdiːˈmʌltɪpleksər/",
+        "partOfSpeech": "n.",
+        "meaning": "多路分配器",
+        "memoryTip": "de多路 + multiplexer → 多路分配器",
+        "root": "multiplexer",
+        "rootPhonetic": "/ˈmʌltɪpleksər/",
+        "rootMeaning": "多路选择器",
+        "rootPhrases": [
+          "multiplexer circuit",
+          "data selector",
+          "8-to-1 MUX",
+          "analog multiplexer"
+        ],
+        "wordPhrases": [
+          "demultiplexer technology",
+          "demultiplexer process",
+          "demultiplexer equipment",
+          "demultiplexer application"
+        ]
+      },
+      {
+        "word": "DEMUX",
+        "phonetic": "/ˈdiːmʌks/",
+        "partOfSpeech": "n.",
+        "meaning": "多路分配器",
+        "memoryTip": "demultiplexer缩写 → DEMUX",
+        "root": "multiplexer",
+        "rootPhonetic": "/ˈmʌltɪpleksər/",
+        "rootMeaning": "多路选择器",
+        "rootPhrases": [
+          "multiplexer circuit",
+          "data selector",
+          "8-to-1 MUX",
+          "analog multiplexer"
+        ],
+        "wordPhrases": [
+          "DEMUX technology",
+          "DEMUX process",
+          "DEMUX equipment",
+          "DEMUX application"
+        ]
+      }
+    ],
+    "phrases": [
+      "multiplexer circuit (多路选择器电路)",
+      "data selector (数据选择器)",
+      "8-to-1 MUX (8选1多路器)",
+      "analog multiplexer (模拟多路器)"
+    ],
+    "mnemonic": "multiplexer（多路选择器）→ 从多路输入中选择一路输出 → 多路器",
+    "meaning": "多路选择器"
+  },
+  {
+    "id": 280,
+    "root": "flip-flop",
+    "phonetic": "/ˈflɪp flɒp/",
+    "partOfSpeech": "n.",
+    "frequency": 280,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "flip-flop",
+        "phonetic": "/ˈflɪp flɒp/",
+        "partOfSpeech": "n.",
+        "meaning": "触发器",
+        "memoryTip": "flip翻转 + flop翻转 → 触发器",
+        "root": "flip-flop",
+        "rootPhonetic": "/ˈflɪp flɒp/",
+        "rootMeaning": "触发器",
+        "rootPhrases": [
+          "D flip-flop",
+          "JK flip-flop",
+          "T flip-flop",
+          "SR latch"
+        ],
+        "wordPhrases": [
+          "flip-flop technology",
+          "flip-flop process",
+          "flip-flop equipment",
+          "flip-flop application"
+        ]
+      },
+      {
+        "word": "latch",
+        "phonetic": "/lætʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "锁存器",
+        "memoryTip": "latch锁存 → 锁存器",
+        "root": "flip-flop",
+        "rootPhonetic": "/ˈflɪp flɒp/",
+        "rootMeaning": "触发器",
+        "rootPhrases": [
+          "D flip-flop",
+          "JK flip-flop",
+          "T flip-flop",
+          "SR latch"
+        ],
+        "wordPhrases": [
+          "latch technology",
+          "latch process",
+          "latch equipment",
+          "latch application"
+        ]
+      },
+      {
+        "word": "D flip-flop",
+        "phonetic": "/diː ˈflɪp flɒp/",
+        "partOfSpeech": "n.",
+        "meaning": "D触发器",
+        "memoryTip": "D-type flip-flop → D触发器",
+        "root": "flip-flop",
+        "rootPhonetic": "/ˈflɪp flɒp/",
+        "rootMeaning": "触发器",
+        "rootPhrases": [
+          "D flip-flop",
+          "JK flip-flop",
+          "T flip-flop",
+          "SR latch"
+        ],
+        "wordPhrases": [
+          "D flip-flop technology",
+          "D flip-flop process",
+          "D flip-flop equipment",
+          "D flip-flop application"
+        ]
+      },
+      {
+        "word": "JK flip-flop",
+        "phonetic": "/ˌdʒeɪ keɪ ˈflɪp flɒp/",
+        "partOfSpeech": "n.",
+        "meaning": "JK触发器",
+        "memoryTip": "JK flip-flop → JK触发器",
+        "root": "flip-flop",
+        "rootPhonetic": "/ˈflɪp flɒp/",
+        "rootMeaning": "触发器",
+        "rootPhrases": [
+          "D flip-flop",
+          "JK flip-flop",
+          "T flip-flop",
+          "SR latch"
+        ],
+        "wordPhrases": [
+          "JK flip-flop technology",
+          "JK flip-flop process",
+          "JK flip-flop equipment",
+          "JK flip-flop application"
+        ]
+      }
+    ],
+    "phrases": [
+      "D flip-flop (D触发器)",
+      "JK flip-flop (JK触发器)",
+      "T flip-flop (T触发器)",
+      "SR latch (SR锁存器)"
+    ],
+    "mnemonic": "flip-flop（触发器）→ 存储一位数据的时序电路 → 触发器",
+    "meaning": "触发器"
+  },
+  {
+    "id": 281,
+    "root": "amplifier",
+    "phonetic": "/ˈæmplɪfaɪər/",
+    "partOfSpeech": "n.",
+    "frequency": 281,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "amplifier",
+        "phonetic": "/ˈæmplɪfaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "放大器",
+        "memoryTip": "amplify放大 + -er器 → 放大器",
+        "root": "amplifier",
+        "rootPhonetic": "/ˈæmplɪfaɪər/",
+        "rootMeaning": "放大器",
+        "rootPhrases": [
+          "operational amplifier",
+          "differential amplifier",
+          "low noise amplifier",
+          "power amplifier"
+        ],
+        "wordPhrases": [
+          "amplifier technology",
+          "amplifier process",
+          "amplifier equipment",
+          "amplifier application"
+        ]
+      },
+      {
+        "word": "op-amp",
+        "phonetic": "/ɒp æmp/",
+        "partOfSpeech": "n.",
+        "meaning": "运算放大器",
+        "memoryTip": "operational amplifier → 运放",
+        "root": "amplifier",
+        "rootPhonetic": "/ˈæmplɪfaɪər/",
+        "rootMeaning": "放大器",
+        "rootPhrases": [
+          "operational amplifier",
+          "differential amplifier",
+          "low noise amplifier",
+          "power amplifier"
+        ],
+        "wordPhrases": [
+          "op-amp technology",
+          "op-amp process",
+          "op-amp equipment",
+          "op-amp application"
+        ]
+      },
+      {
+        "word": "OTA",
+        "phonetic": "/ˌəʊ tiː ˈeɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "跨导运算放大器",
+        "memoryTip": "Operational Transconductance Amplifier → OTA",
+        "root": "amplifier",
+        "rootPhonetic": "/ˈæmplɪfaɪər/",
+        "rootMeaning": "放大器",
+        "rootPhrases": [
+          "operational amplifier",
+          "differential amplifier",
+          "low noise amplifier",
+          "power amplifier"
+        ],
+        "wordPhrases": [
+          "OTA technology",
+          "OTA process",
+          "OTA equipment",
+          "OTA application"
+        ]
+      },
+      {
+        "word": "differential",
+        "phonetic": "/ˌdɪfəˈrenʃl/",
+        "partOfSpeech": "n.",
+        "meaning": "差分的",
+        "memoryTip": "differential差分 → 差分放大器",
+        "root": "amplifier",
+        "rootPhonetic": "/ˈæmplɪfaɪər/",
+        "rootMeaning": "放大器",
+        "rootPhrases": [
+          "operational amplifier",
+          "differential amplifier",
+          "low noise amplifier",
+          "power amplifier"
+        ],
+        "wordPhrases": [
+          "differential technology",
+          "differential process",
+          "differential equipment",
+          "differential application"
+        ]
+      }
+    ],
+    "phrases": [
+      "operational amplifier (运算放大器)",
+      "differential amplifier (差分放大器)",
+      "low noise amplifier (低噪声放大器)",
+      "power amplifier (功率放大器)"
+    ],
+    "mnemonic": "amplifier（放大器）→ 放大信号幅度的电路 → 放大器",
+    "meaning": "放大器"
+  },
+  {
+    "id": 282,
+    "root": "comparator",
+    "phonetic": "/kəmˈpærətər/",
+    "partOfSpeech": "n.",
+    "frequency": 282,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "comparator",
+        "phonetic": "/kəmˈpærətər/",
+        "partOfSpeech": "n.",
+        "meaning": "比较器",
+        "memoryTip": "compare比较 + -ator器 → 比较器",
+        "root": "comparator",
+        "rootPhonetic": "/kəmˈpærətər/",
+        "rootMeaning": "比较器",
+        "rootPhrases": [
+          "voltage comparator",
+          "analog comparator",
+          "hysteresis comparator",
+          "window comparator"
+        ],
+        "wordPhrases": [
+          "comparator technology",
+          "comparator process",
+          "comparator equipment",
+          "comparator application"
+        ]
+      },
+      {
+        "word": "hysteresis",
+        "phonetic": "/ˌhɪstəˈriːsɪs/",
+        "partOfSpeech": "n.",
+        "meaning": "滞回",
+        "memoryTip": "hysteresis滞回 → 比较器滞回",
+        "root": "comparator",
+        "rootPhonetic": "/kəmˈpærətər/",
+        "rootMeaning": "比较器",
+        "rootPhrases": [
+          "voltage comparator",
+          "analog comparator",
+          "hysteresis comparator",
+          "window comparator"
+        ],
+        "wordPhrases": [
+          "hysteresis technology",
+          "hysteresis process",
+          "hysteresis equipment",
+          "hysteresis application"
+        ]
+      },
+      {
+        "word": "threshold",
+        "phonetic": "/ˈθreʃhəʊld/",
+        "partOfSpeech": "n.",
+        "meaning": "阈值",
+        "memoryTip": "threshold门槛 → 阈值",
+        "root": "comparator",
+        "rootPhonetic": "/kəmˈpærətər/",
+        "rootMeaning": "比较器",
+        "rootPhrases": [
+          "voltage comparator",
+          "analog comparator",
+          "hysteresis comparator",
+          "window comparator"
+        ],
+        "wordPhrases": [
+          "threshold technology",
+          "threshold process",
+          "threshold equipment",
+          "threshold application"
+        ]
+      },
+      {
+        "word": "zero-crossing",
+        "phonetic": "/ˈzɪərəʊ ˈkrɒsɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "过零",
+        "memoryTip": "zero零 + crossing交叉 → 过零",
+        "root": "comparator",
+        "rootPhonetic": "/kəmˈpærətər/",
+        "rootMeaning": "比较器",
+        "rootPhrases": [
+          "voltage comparator",
+          "analog comparator",
+          "hysteresis comparator",
+          "window comparator"
+        ],
+        "wordPhrases": [
+          "zero-crossing technology",
+          "zero-crossing process",
+          "zero-crossing equipment",
+          "zero-crossing application"
+        ]
+      }
+    ],
+    "phrases": [
+      "voltage comparator (电压比较器)",
+      "analog comparator (模拟比较器)",
+      "hysteresis comparator (滞回比较器)",
+      "window comparator (窗口比较器)"
+    ],
+    "mnemonic": "comparator（比较器）→ 比较两个电压的电路 → 比较器",
+    "meaning": "比较器"
+  },
+  {
+    "id": 283,
+    "root": "oscillator",
+    "phonetic": "/ˈɒsɪleɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 283,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "oscillator",
+        "phonetic": "/ˈɒsɪleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "振荡器",
+        "memoryTip": "oscillate振荡 + -or器 → 振荡器",
+        "root": "oscillator",
+        "rootPhonetic": "/ˈɒsɪleɪtər/",
+        "rootMeaning": "振荡器",
+        "rootPhrases": [
+          "voltage controlled oscillator",
+          "crystal oscillator",
+          "ring oscillator",
+          "relaxation oscillator"
+        ],
+        "wordPhrases": [
+          "oscillator technology",
+          "oscillator process",
+          "oscillator equipment",
+          "oscillator application"
+        ]
+      },
+      {
+        "word": "VCO",
+        "phonetic": "/ˌviː siː əʊ/",
+        "partOfSpeech": "n.",
+        "meaning": "压控振荡器",
+        "memoryTip": "Voltage Controlled Oscillator → VCO",
+        "root": "oscillator",
+        "rootPhonetic": "/ˈɒsɪleɪtər/",
+        "rootMeaning": "振荡器",
+        "rootPhrases": [
+          "voltage controlled oscillator",
+          "crystal oscillator",
+          "ring oscillator",
+          "relaxation oscillator"
+        ],
+        "wordPhrases": [
+          "VCO technology",
+          "VCO process",
+          "VCO equipment",
+          "VCO application"
+        ]
+      },
+      {
+        "word": "LC oscillator",
+        "phonetic": "/el siː ˈɒsɪleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "LC振荡器",
+        "memoryTip": "LC tank oscillator → LC振荡器",
+        "root": "oscillator",
+        "rootPhonetic": "/ˈɒsɪleɪtər/",
+        "rootMeaning": "振荡器",
+        "rootPhrases": [
+          "voltage controlled oscillator",
+          "crystal oscillator",
+          "ring oscillator",
+          "relaxation oscillator"
+        ],
+        "wordPhrases": [
+          "LC oscillator technology",
+          "LC oscillator process",
+          "LC oscillator equipment",
+          "LC oscillator application"
+        ]
+      },
+      {
+        "word": "ring oscillator",
+        "phonetic": "/rɪŋ ˈɒsɪleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "环形振荡器",
+        "memoryTip": "ring环 + oscillator → 环形振荡器",
+        "root": "oscillator",
+        "rootPhonetic": "/ˈɒsɪleɪtər/",
+        "rootMeaning": "振荡器",
+        "rootPhrases": [
+          "voltage controlled oscillator",
+          "crystal oscillator",
+          "ring oscillator",
+          "relaxation oscillator"
+        ],
+        "wordPhrases": [
+          "ring oscillator technology",
+          "ring oscillator process",
+          "ring oscillator equipment",
+          "ring oscillator application"
+        ]
+      }
+    ],
+    "phrases": [
+      "voltage controlled oscillator (压控振荡器)",
+      "crystal oscillator (晶体振荡器)",
+      "ring oscillator (环形振荡器)",
+      "relaxation oscillator (弛张振荡器)"
+    ],
+    "mnemonic": "oscillator（振荡器）→ 产生周期性信号的电路 → 振荡器",
+    "meaning": "振荡器"
+  },
+  {
+    "id": 284,
+    "root": "mixer",
+    "phonetic": "/ˈmɪksər/",
+    "partOfSpeech": "n.",
+    "frequency": 284,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "mixer",
+        "phonetic": "/ˈmɪksər/",
+        "partOfSpeech": "n.",
+        "meaning": "混频器",
+        "memoryTip": "mix混合 + -er器 → 混频器",
+        "root": "mixer",
+        "rootPhonetic": "/ˈmɪksər/",
+        "rootMeaning": "混频器",
+        "rootPhrases": [
+          "frequency mixer",
+          "RF mixer",
+          "image reject mixer",
+          "active mixer"
+        ],
+        "wordPhrases": [
+          "mixer technology",
+          "mixer process",
+          "mixer equipment",
+          "mixer application"
+        ]
+      },
+      {
+        "word": "downconverter",
+        "phonetic": "/ˈdaʊnkənvɜːrtər/",
+        "partOfSpeech": "n.",
+        "meaning": "下变频器",
+        "memoryTip": "down下 + converter转换器 → 下变频器",
+        "root": "mixer",
+        "rootPhonetic": "/ˈmɪksər/",
+        "rootMeaning": "混频器",
+        "rootPhrases": [
+          "frequency mixer",
+          "RF mixer",
+          "image reject mixer",
+          "active mixer"
+        ],
+        "wordPhrases": [
+          "downconverter technology",
+          "downconverter process",
+          "downconverter equipment",
+          "downconverter application"
+        ]
+      },
+      {
+        "word": "upconverter",
+        "phonetic": "/ˈʌpkənvɜːrtər/",
+        "partOfSpeech": "n.",
+        "meaning": "上变频器",
+        "memoryTip": "up上 + converter转换器 → 上变频器",
+        "root": "mixer",
+        "rootPhonetic": "/ˈmɪksər/",
+        "rootMeaning": "混频器",
+        "rootPhrases": [
+          "frequency mixer",
+          "RF mixer",
+          "image reject mixer",
+          "active mixer"
+        ],
+        "wordPhrases": [
+          "upconverter technology",
+          "upconverter process",
+          "upconverter equipment",
+          "upconverter application"
+        ]
+      },
+      {
+        "word": "multiplier",
+        "phonetic": "/ˈmʌltɪplaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "乘法器",
+        "memoryTip": "multiply乘 + -er器 → 乘法器",
+        "root": "mixer",
+        "rootPhonetic": "/ˈmɪksər/",
+        "rootMeaning": "混频器",
+        "rootPhrases": [
+          "frequency mixer",
+          "RF mixer",
+          "image reject mixer",
+          "active mixer"
+        ],
+        "wordPhrases": [
+          "multiplier technology",
+          "multiplier process",
+          "multiplier equipment",
+          "multiplier application"
+        ]
+      }
+    ],
+    "phrases": [
+      "frequency mixer (混频器)",
+      "RF mixer (射频混频器)",
+      "image reject mixer (镜像抑制混频器)",
+      "active mixer (有源混频器)"
+    ],
+    "mnemonic": "mixer（混频器）→ 将两个信号混合产生新频率 → 混频器",
+    "meaning": "混频器"
+  },
+  {
+    "id": 285,
+    "root": "filter",
+    "phonetic": "/ˈfɪltər/",
+    "partOfSpeech": "n.",
+    "frequency": 285,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "filter",
+        "phonetic": "/ˈfɪltər/",
+        "partOfSpeech": "n.",
+        "meaning": "滤波器",
+        "memoryTip": "filter过滤 → 滤波器",
+        "root": "filter",
+        "rootPhonetic": "/ˈfɪltər/",
+        "rootMeaning": "滤波器",
+        "rootPhrases": [
+          "low pass filter",
+          "high pass filter",
+          "band pass filter",
+          "active filter"
+        ],
+        "wordPhrases": [
+          "filter technology",
+          "filter process",
+          "filter equipment",
+          "filter application"
+        ]
+      },
+      {
+        "word": "low-pass",
+        "phonetic": "/ləʊ pɑːs/",
+        "partOfSpeech": "n.",
+        "meaning": "低通",
+        "memoryTip": "low低 + pass通 → 低通",
+        "root": "filter",
+        "rootPhonetic": "/ˈfɪltər/",
+        "rootMeaning": "滤波器",
+        "rootPhrases": [
+          "low pass filter",
+          "high pass filter",
+          "band pass filter",
+          "active filter"
+        ],
+        "wordPhrases": [
+          "low-pass technology",
+          "low-pass process",
+          "low-pass equipment",
+          "low-pass application"
+        ]
+      },
+      {
+        "word": "high-pass",
+        "phonetic": "/haɪ pɑːs/",
+        "partOfSpeech": "n.",
+        "meaning": "高通",
+        "memoryTip": "high高 + pass通 → 高通",
+        "root": "filter",
+        "rootPhonetic": "/ˈfɪltər/",
+        "rootMeaning": "滤波器",
+        "rootPhrases": [
+          "low pass filter",
+          "high pass filter",
+          "band pass filter",
+          "active filter"
+        ],
+        "wordPhrases": [
+          "high-pass technology",
+          "high-pass process",
+          "high-pass equipment",
+          "high-pass application"
+        ]
+      },
+      {
+        "word": "band-pass",
+        "phonetic": "/bænd pɑːs/",
+        "partOfSpeech": "n.",
+        "meaning": "带通",
+        "memoryTip": "band带 + pass通 → 带通",
+        "root": "filter",
+        "rootPhonetic": "/ˈfɪltər/",
+        "rootMeaning": "滤波器",
+        "rootPhrases": [
+          "low pass filter",
+          "high pass filter",
+          "band pass filter",
+          "active filter"
+        ],
+        "wordPhrases": [
+          "band-pass technology",
+          "band-pass process",
+          "band-pass equipment",
+          "band-pass application"
+        ]
+      }
+    ],
+    "phrases": [
+      "low pass filter (低通滤波器)",
+      "high pass filter (高通滤波器)",
+      "band pass filter (带通滤波器)",
+      "active filter (有源滤波器)"
+    ],
+    "mnemonic": "filter（滤波器）→ 选择特定频率信号的电路 → 滤波器",
+    "meaning": "滤波器"
+  },
+  {
+    "id": 286,
+    "root": "ADC",
+    "phonetic": "/ˌeɪ diː ˈsiː/",
+    "partOfSpeech": "n.",
+    "frequency": 286,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "ADC",
+        "phonetic": "/ˌeɪ diː ˈsiː/",
+        "partOfSpeech": "n.",
+        "meaning": "模数转换器",
+        "memoryTip": "Analog-to-Digital Converter → ADC",
+        "root": "ADC",
+        "rootPhonetic": "/ˌeɪ diː ˈsiː/",
+        "rootMeaning": "模数转换器",
+        "rootPhrases": [
+          "analog to digital converter",
+          "digital to analog converter",
+          "ADC resolution",
+          "sampling rate"
+        ],
+        "wordPhrases": [
+          "ADC technology",
+          "ADC process",
+          "ADC equipment",
+          "ADC application"
+        ]
+      },
+      {
+        "word": "DAC",
+        "phonetic": "/ˌdiː eɪ ˈsiː/",
+        "partOfSpeech": "n.",
+        "meaning": "数模转换器",
+        "memoryTip": "Digital-to-Analog Converter → DAC",
+        "root": "ADC",
+        "rootPhonetic": "/ˌeɪ diː ˈsiː/",
+        "rootMeaning": "模数转换器",
+        "rootPhrases": [
+          "analog to digital converter",
+          "digital to analog converter",
+          "ADC resolution",
+          "sampling rate"
+        ],
+        "wordPhrases": [
+          "DAC technology",
+          "DAC process",
+          "DAC equipment",
+          "DAC application"
+        ]
+      },
+      {
+        "word": "quantization",
+        "phonetic": "/ˌkwɒntaɪˈzeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "量化",
+        "memoryTip": "quantize量化 + ation → 量化",
+        "root": "ADC",
+        "rootPhonetic": "/ˌeɪ diː ˈsiː/",
+        "rootMeaning": "模数转换器",
+        "rootPhrases": [
+          "analog to digital converter",
+          "digital to analog converter",
+          "ADC resolution",
+          "sampling rate"
+        ],
+        "wordPhrases": [
+          "quantization technology",
+          "quantization process",
+          "quantization equipment",
+          "quantization application"
+        ]
+      },
+      {
+        "word": "resolution",
+        "phonetic": "/ˌrezəˈluːʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "分辨率",
+        "memoryTip": "resolution分辨率 → ADC位数",
+        "root": "ADC",
+        "rootPhonetic": "/ˌeɪ diː ˈsiː/",
+        "rootMeaning": "模数转换器",
+        "rootPhrases": [
+          "analog to digital converter",
+          "digital to analog converter",
+          "ADC resolution",
+          "sampling rate"
+        ],
+        "wordPhrases": [
+          "resolution technology",
+          "resolution process",
+          "resolution equipment",
+          "resolution application"
+        ]
+      }
+    ],
+    "phrases": [
+      "analog to digital converter (模数转换器)",
+      "digital to analog converter (数模转换器)",
+      "ADC resolution (ADC分辨率)",
+      "sampling rate (采样率)"
+    ],
+    "mnemonic": "ADC（模数转换器）→ 将模拟信号转为数字信号 → ADC",
+    "meaning": "模数转换器"
+  },
+  {
+    "id": 287,
+    "root": "PLL",
+    "phonetic": "/ˌpiː el ˈel/",
+    "partOfSpeech": "n.",
+    "frequency": 287,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "PLL",
+        "phonetic": "/ˌpiː el ˈel/",
+        "partOfSpeech": "n.",
+        "meaning": "锁相环",
+        "memoryTip": "Phase-Locked Loop → PLL",
+        "root": "PLL",
+        "rootPhonetic": "/ˌpiː el ˈel/",
+        "rootMeaning": "锁相环",
+        "rootPhrases": [
+          "phase locked loop",
+          "frequency synthesizer",
+          "clock multiplier",
+          "PLL bandwidth"
+        ],
+        "wordPhrases": [
+          "PLL technology",
+          "PLL process",
+          "PLL equipment",
+          "PLL application"
+        ]
+      },
+      {
+        "word": "VCO",
+        "phonetic": "/ˌviː siː əʊ/",
+        "partOfSpeech": "n.",
+        "meaning": "压控振荡器",
+        "memoryTip": "Voltage Controlled Oscillator → VCO",
+        "root": "PLL",
+        "rootPhonetic": "/ˌpiː el ˈel/",
+        "rootMeaning": "锁相环",
+        "rootPhrases": [
+          "phase locked loop",
+          "frequency synthesizer",
+          "clock multiplier",
+          "PLL bandwidth"
+        ],
+        "wordPhrases": [
+          "VCO technology",
+          "VCO process",
+          "VCO equipment",
+          "VCO application"
+        ]
+      },
+      {
+        "word": "phase detector",
+        "phonetic": "/feɪz dɪˈtektər/",
+        "partOfSpeech": "n.",
+        "meaning": "鉴相器",
+        "memoryTip": "phase相位 + detector检测器 → 鉴相器",
+        "root": "PLL",
+        "rootPhonetic": "/ˌpiː el ˈel/",
+        "rootMeaning": "锁相环",
+        "rootPhrases": [
+          "phase locked loop",
+          "frequency synthesizer",
+          "clock multiplier",
+          "PLL bandwidth"
+        ],
+        "wordPhrases": [
+          "phase detector technology",
+          "phase detector process",
+          "phase detector equipment",
+          "phase detector application"
+        ]
+      },
+      {
+        "word": "frequency divider",
+        "phonetic": "/ˈfriːkwənsi dɪˈvaɪdər/",
+        "partOfSpeech": "n.",
+        "meaning": "分频器",
+        "memoryTip": "frequency频率 + divider分频器 → 分频器",
+        "root": "PLL",
+        "rootPhonetic": "/ˌpiː el ˈel/",
+        "rootMeaning": "锁相环",
+        "rootPhrases": [
+          "phase locked loop",
+          "frequency synthesizer",
+          "clock multiplier",
+          "PLL bandwidth"
+        ],
+        "wordPhrases": [
+          "frequency divider technology",
+          "frequency divider process",
+          "frequency divider equipment",
+          "frequency divider application"
+        ]
+      }
+    ],
+    "phrases": [
+      "phase locked loop (锁相环)",
+      "frequency synthesizer (频率合成器)",
+      "clock multiplier (时钟倍频器)",
+      "PLL bandwidth (PLL带宽)"
+    ],
+    "mnemonic": "PLL（锁相环）→ 使输出频率跟踪输入频率的电路 → PLL",
+    "meaning": "锁相环"
+  },
+  {
+    "id": 288,
+    "root": "bandgap",
+    "phonetic": "/ˈbændɡæp/",
+    "partOfSpeech": "n.",
+    "frequency": 288,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "bandgap",
+        "phonetic": "/ˈbændɡæp/",
+        "partOfSpeech": "n.",
+        "meaning": "带隙",
+        "memoryTip": "band带 + gap隙 → 带隙",
+        "root": "bandgap",
+        "rootPhonetic": "/ˈbændɡæp/",
+        "rootMeaning": "带隙",
+        "rootPhrases": [
+          "bandgap reference",
+          "voltage reference",
+          "precision reference",
+          "low drift reference"
+        ],
+        "wordPhrases": [
+          "bandgap technology",
+          "bandgap process",
+          "bandgap equipment",
+          "bandgap application"
+        ]
+      },
+      {
+        "word": "bandgap reference",
+        "phonetic": "/ˈbændɡæp ˈrefrəns/",
+        "partOfSpeech": "n.",
+        "meaning": "带隙基准",
+        "memoryTip": "bandgap + reference → 带隙基准",
+        "root": "bandgap",
+        "rootPhonetic": "/ˈbændɡæp/",
+        "rootMeaning": "带隙",
+        "rootPhrases": [
+          "bandgap reference",
+          "voltage reference",
+          "precision reference",
+          "low drift reference"
+        ],
+        "wordPhrases": [
+          "bandgap reference technology",
+          "bandgap reference process",
+          "bandgap reference equipment",
+          "bandgap reference application"
+        ]
+      },
+      {
+        "word": "BGREF",
+        "phonetic": "/ˌbiː dʒiː ˈref/",
+        "partOfSpeech": "n.",
+        "meaning": "带隙基准",
+        "memoryTip": "BandGap REFerence → 带隙基准",
+        "root": "bandgap",
+        "rootPhonetic": "/ˈbændɡæp/",
+        "rootMeaning": "带隙",
+        "rootPhrases": [
+          "bandgap reference",
+          "voltage reference",
+          "precision reference",
+          "low drift reference"
+        ],
+        "wordPhrases": [
+          "BGREF technology",
+          "BGREF process",
+          "BGREF equipment",
+          "BGREF application"
+        ]
+      },
+      {
+        "word": "temperature coefficient",
+        "phonetic": "/ˈtemprətʃər ˌkəʊɪˈfɪʃnt/",
+        "partOfSpeech": "n.",
+        "meaning": "温度系数",
+        "memoryTip": "temperature + coefficient → 温度系数",
+        "root": "bandgap",
+        "rootPhonetic": "/ˈbændɡæp/",
+        "rootMeaning": "带隙",
+        "rootPhrases": [
+          "bandgap reference",
+          "voltage reference",
+          "precision reference",
+          "low drift reference"
+        ],
+        "wordPhrases": [
+          "temperature coefficient technology",
+          "temperature coefficient process",
+          "temperature coefficient equipment",
+          "temperature coefficient application"
+        ]
+      }
+    ],
+    "phrases": [
+      "bandgap reference (带隙基准)",
+      "voltage reference (电压基准)",
+      "precision reference (精密基准)",
+      "low drift reference (低漂移基准)"
+    ],
+    "mnemonic": "bandgap（带隙）→ 产生稳定基准电压的电路 → 带隙基准",
+    "meaning": "带隙"
+  },
+  {
+    "id": 289,
+    "root": "regulator",
+    "phonetic": "/ˈreɡjuleɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 289,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "regulator",
+        "phonetic": "/ˈreɡjuleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "稳压器",
+        "memoryTip": "regulate调节 + -or器 → 稳压器",
+        "root": "regulator",
+        "rootPhonetic": "/ˈreɡjuleɪtər/",
+        "rootMeaning": "稳压器",
+        "rootPhrases": [
+          "linear regulator",
+          "low dropout regulator",
+          "switching regulator",
+          "DC-DC converter"
+        ],
+        "wordPhrases": [
+          "regulator technology",
+          "regulator process",
+          "regulator equipment",
+          "regulator application"
+        ]
+      },
+      {
+        "word": "LDO",
+        "phonetic": "/ˌel diː əʊ/",
+        "partOfSpeech": "n.",
+        "meaning": "低压差稳压器",
+        "memoryTip": "Low Dropout Regulator → LDO",
+        "root": "regulator",
+        "rootPhonetic": "/ˈreɡjuleɪtər/",
+        "rootMeaning": "稳压器",
+        "rootPhrases": [
+          "linear regulator",
+          "low dropout regulator",
+          "switching regulator",
+          "DC-DC converter"
+        ],
+        "wordPhrases": [
+          "LDO technology",
+          "LDO process",
+          "LDO equipment",
+          "LDO application"
+        ]
+      },
+      {
+        "word": "DC-DC",
+        "phonetic": "/ˌdiː siː ˈdiː siː/",
+        "partOfSpeech": "n.",
+        "meaning": "直流-直流转换器",
+        "memoryTip": "DC-DC converter → DC-DC",
+        "root": "regulator",
+        "rootPhonetic": "/ˈreɡjuleɪtər/",
+        "rootMeaning": "稳压器",
+        "rootPhrases": [
+          "linear regulator",
+          "low dropout regulator",
+          "switching regulator",
+          "DC-DC converter"
+        ],
+        "wordPhrases": [
+          "DC-DC technology",
+          "DC-DC process",
+          "DC-DC equipment",
+          "DC-DC application"
+        ]
+      },
+      {
+        "word": "switching",
+        "phonetic": "/ˈswɪtʃɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "开关",
+        "memoryTip": "switch开关 + -ing → 开关式",
+        "root": "regulator",
+        "rootPhonetic": "/ˈreɡjuleɪtər/",
+        "rootMeaning": "稳压器",
+        "rootPhrases": [
+          "linear regulator",
+          "low dropout regulator",
+          "switching regulator",
+          "DC-DC converter"
+        ],
+        "wordPhrases": [
+          "switching technology",
+          "switching process",
+          "switching equipment",
+          "switching application"
+        ]
+      }
+    ],
+    "phrases": [
+      "linear regulator (线性稳压器)",
+      "low dropout regulator (低压差稳压器)",
+      "switching regulator (开关稳压器)",
+      "DC-DC converter (DC-DC转换器)"
+    ],
+    "mnemonic": "regulator（稳压器）→ 提供稳定输出电压的电路 → 稳压器",
+    "meaning": "稳压器"
+  },
+  {
+    "id": 290,
+    "root": "ESD",
+    "phonetic": "/ˌiː es ˈdiː/",
+    "partOfSpeech": "n.",
+    "frequency": 290,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "ESD",
+        "phonetic": "/ˌiː es ˈdiː/",
+        "partOfSpeech": "n.",
+        "meaning": "静电放电",
+        "memoryTip": "ElectroStatic Discharge → ESD",
+        "root": "ESD",
+        "rootPhonetic": "/ˌiː es ˈdiː/",
+        "rootMeaning": "静电放电",
+        "rootPhrases": [
+          "ESD protection",
+          "ESD diode",
+          "input protection",
+          "ESD clamp"
+        ],
+        "wordPhrases": [
+          "ESD technology",
+          "ESD process",
+          "ESD equipment",
+          "ESD application"
+        ]
+      },
+      {
+        "word": "protection",
+        "phonetic": "/prəˈtekʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "保护",
+        "memoryTip": "protect保护 + ion → 保护",
+        "root": "ESD",
+        "rootPhonetic": "/ˌiː es ˈdiː/",
+        "rootMeaning": "静电放电",
+        "rootPhrases": [
+          "ESD protection",
+          "ESD diode",
+          "input protection",
+          "ESD clamp"
+        ],
+        "wordPhrases": [
+          "protection technology",
+          "protection process",
+          "protection equipment",
+          "protection application"
+        ]
+      },
+      {
+        "word": "diode",
+        "phonetic": "/ˈdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "二极管",
+        "memoryTip": "diode二极管 → ESD保护二极管",
+        "root": "ESD",
+        "rootPhonetic": "/ˌiː es ˈdiː/",
+        "rootMeaning": "静电放电",
+        "rootPhrases": [
+          "ESD protection",
+          "ESD diode",
+          "input protection",
+          "ESD clamp"
+        ],
+        "wordPhrases": [
+          "diode technology",
+          "diode process",
+          "diode equipment",
+          "diode application"
+        ]
+      },
+      {
+        "word": "clamp",
+        "phonetic": "/klæmp/",
+        "partOfSpeech": "n.",
+        "meaning": "钳位",
+        "memoryTip": "clamp钳位 → ESD钳位",
+        "root": "ESD",
+        "rootPhonetic": "/ˌiː es ˈdiː/",
+        "rootMeaning": "静电放电",
+        "rootPhrases": [
+          "ESD protection",
+          "ESD diode",
+          "input protection",
+          "ESD clamp"
+        ],
+        "wordPhrases": [
+          "clamp technology",
+          "clamp process",
+          "clamp equipment",
+          "clamp application"
+        ]
+      }
+    ],
+    "phrases": [
+      "ESD protection (ESD保护)",
+      "ESD diode (ESD二极管)",
+      "input protection (输入保护)",
+      "ESD clamp (ESD钳位)"
+    ],
+    "mnemonic": "ESD（静电放电）→ 防止静电损伤的保护电路 → ESD保护",
+    "meaning": "静电放电"
+  },
+  {
+    "id": 291,
+    "root": "RF",
+    "phonetic": "/ˌɑːr ˈef/",
+    "partOfSpeech": "n.",
+    "frequency": 291,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "RF",
+        "phonetic": "/ˌɑːr ˈef/",
+        "partOfSpeech": "n.",
+        "meaning": "射频",
+        "memoryTip": "Radio Frequency → RF",
+        "root": "RF",
+        "rootPhonetic": "/ˌɑːr ˈef/",
+        "rootMeaning": "射频",
+        "rootPhrases": [
+          "RF circuit",
+          "RF amplifier",
+          "microwave device",
+          "millimeter wave"
+        ],
+        "wordPhrases": [
+          "RF technology",
+          "RF process",
+          "RF equipment",
+          "RF application"
+        ]
+      },
+      {
+        "word": "microwave",
+        "phonetic": "/ˈmaɪkrəʊweɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "微波",
+        "memoryTip": "micro微 + wave波 → 微波",
+        "root": "RF",
+        "rootPhonetic": "/ˌɑːr ˈef/",
+        "rootMeaning": "射频",
+        "rootPhrases": [
+          "RF circuit",
+          "RF amplifier",
+          "microwave device",
+          "millimeter wave"
+        ],
+        "wordPhrases": [
+          "microwave technology",
+          "microwave process",
+          "microwave equipment",
+          "microwave application"
+        ]
+      },
+      {
+        "word": "millimeter wave",
+        "phonetic": "/ˈmɪlimiːtər weɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "毫米波",
+        "memoryTip": "millimeter毫米 + wave波 → 毫米波",
+        "root": "RF",
+        "rootPhonetic": "/ˌɑːr ˈef/",
+        "rootMeaning": "射频",
+        "rootPhrases": [
+          "RF circuit",
+          "RF amplifier",
+          "microwave device",
+          "millimeter wave"
+        ],
+        "wordPhrases": [
+          "millimeter wave technology",
+          "millimeter wave process",
+          "millimeter wave equipment",
+          "millimeter wave application"
+        ]
+      },
+      {
+        "word": "terahertz",
+        "phonetic": "/ˈterəhɜːts/",
+        "partOfSpeech": "n.",
+        "meaning": "太赫兹",
+        "memoryTip": "tera太 + hertz赫兹 → 太赫兹",
+        "root": "RF",
+        "rootPhonetic": "/ˌɑːr ˈef/",
+        "rootMeaning": "射频",
+        "rootPhrases": [
+          "RF circuit",
+          "RF amplifier",
+          "microwave device",
+          "millimeter wave"
+        ],
+        "wordPhrases": [
+          "terahertz technology",
+          "terahertz process",
+          "terahertz equipment",
+          "terahertz application"
+        ]
+      }
+    ],
+    "phrases": [
+      "RF circuit (射频电路)",
+      "RF amplifier (射频放大器)",
+      "microwave device (微波器件)",
+      "millimeter wave (毫米波)"
+    ],
+    "mnemonic": "RF（射频）→ 无线电频率的电路和器件 → 射频",
+    "meaning": "射频"
+  },
+  {
+    "id": 292,
+    "root": "antenna",
+    "phonetic": "/ænˈtenə/",
+    "partOfSpeech": "n.",
+    "frequency": 292,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "antenna",
+        "phonetic": "/ænˈtenə/",
+        "partOfSpeech": "n.",
+        "meaning": "天线",
+        "memoryTip": "antenna天线",
+        "root": "antenna",
+        "rootPhonetic": "/ænˈtenə/",
+        "rootMeaning": "天线",
+        "rootPhrases": [
+          "antenna array",
+          "dipole antenna",
+          "patch antenna",
+          "on-chip antenna"
+        ],
+        "wordPhrases": [
+          "antenna technology",
+          "antenna process",
+          "antenna equipment",
+          "antenna application"
+        ]
+      },
+      {
+        "word": "dipole",
+        "phonetic": "/ˈdaɪpəʊl/",
+        "partOfSpeech": "n.",
+        "meaning": "偶极子",
+        "memoryTip": "di双 + pole极 → 偶极子",
+        "root": "antenna",
+        "rootPhonetic": "/ænˈtenə/",
+        "rootMeaning": "天线",
+        "rootPhrases": [
+          "antenna array",
+          "dipole antenna",
+          "patch antenna",
+          "on-chip antenna"
+        ],
+        "wordPhrases": [
+          "dipole technology",
+          "dipole process",
+          "dipole equipment",
+          "dipole application"
+        ]
+      },
+      {
+        "word": "patch",
+        "phonetic": "/pætʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "贴片",
+        "memoryTip": "patch贴片 → 贴片天线",
+        "root": "antenna",
+        "rootPhonetic": "/ænˈtenə/",
+        "rootMeaning": "天线",
+        "rootPhrases": [
+          "antenna array",
+          "dipole antenna",
+          "patch antenna",
+          "on-chip antenna"
+        ],
+        "wordPhrases": [
+          "patch technology",
+          "patch process",
+          "patch equipment",
+          "patch application"
+        ]
+      },
+      {
+        "word": "array",
+        "phonetic": "/əˈreɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "阵列",
+        "memoryTip": "array阵列 → 天线阵列",
+        "root": "antenna",
+        "rootPhonetic": "/ænˈtenə/",
+        "rootMeaning": "天线",
+        "rootPhrases": [
+          "antenna array",
+          "dipole antenna",
+          "patch antenna",
+          "on-chip antenna"
+        ],
+        "wordPhrases": [
+          "array technology",
+          "array process",
+          "array equipment",
+          "array application"
+        ]
+      }
+    ],
+    "phrases": [
+      "antenna array (天线阵列)",
+      "dipole antenna (偶极天线)",
+      "patch antenna (贴片天线)",
+      "on-chip antenna (片上天线)"
+    ],
+    "mnemonic": "antenna（天线）→ 收发无线电波的器件 → 天线",
+    "meaning": "天线"
+  },
+  {
+    "id": 293,
+    "root": "transceiver",
+    "phonetic": "/trænˈsiːvər/",
+    "partOfSpeech": "n.",
+    "frequency": 293,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "transceiver",
+        "phonetic": "/trænˈsiːvər/",
+        "partOfSpeech": "n.",
+        "meaning": "收发器",
+        "memoryTip": "transmitter + receiver → 收发器",
+        "root": "transceiver",
+        "rootPhonetic": "/trænˈsiːvər/",
+        "rootMeaning": "收发器",
+        "rootPhrases": [
+          "radio transceiver",
+          "optical transceiver",
+          "RF transceiver",
+          "wireless transceiver"
+        ],
+        "wordPhrases": [
+          "transceiver technology",
+          "transceiver process",
+          "transceiver equipment",
+          "transceiver application"
+        ]
+      },
+      {
+        "word": "transmitter",
+        "phonetic": "/trænˈsmɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "发射机",
+        "memoryTip": "transmit发射 + -er器 → 发射机",
+        "root": "transceiver",
+        "rootPhonetic": "/trænˈsiːvər/",
+        "rootMeaning": "收发器",
+        "rootPhrases": [
+          "radio transceiver",
+          "optical transceiver",
+          "RF transceiver",
+          "wireless transceiver"
+        ],
+        "wordPhrases": [
+          "transmitter technology",
+          "transmitter process",
+          "transmitter equipment",
+          "transmitter application"
+        ]
+      },
+      {
+        "word": "receiver",
+        "phonetic": "/rɪˈsiːvər/",
+        "partOfSpeech": "n.",
+        "meaning": "接收机",
+        "memoryTip": "receive接收 + -er器 → 接收机",
+        "root": "transceiver",
+        "rootPhonetic": "/trænˈsiːvər/",
+        "rootMeaning": "收发器",
+        "rootPhrases": [
+          "radio transceiver",
+          "optical transceiver",
+          "RF transceiver",
+          "wireless transceiver"
+        ],
+        "wordPhrases": [
+          "receiver technology",
+          "receiver process",
+          "receiver equipment",
+          "receiver application"
+        ]
+      },
+      {
+        "word": "duplexer",
+        "phonetic": "/ˈdjuːpleksər/",
+        "partOfSpeech": "n.",
+        "meaning": "双工器",
+        "memoryTip": "duplex双工 + -er器 → 双工器",
+        "root": "transceiver",
+        "rootPhonetic": "/trænˈsiːvər/",
+        "rootMeaning": "收发器",
+        "rootPhrases": [
+          "radio transceiver",
+          "optical transceiver",
+          "RF transceiver",
+          "wireless transceiver"
+        ],
+        "wordPhrases": [
+          "duplexer technology",
+          "duplexer process",
+          "duplexer equipment",
+          "duplexer application"
+        ]
+      }
+    ],
+    "phrases": [
+      "radio transceiver (无线电收发器)",
+      "optical transceiver (光收发器)",
+      "RF transceiver (射频收发器)",
+      "wireless transceiver (无线收发器)"
+    ],
+    "mnemonic": "transceiver（收发器）→ 同时具有发射和接收功能的器件 → 收发器",
+    "meaning": "收发器"
+  },
+  {
+    "id": 294,
+    "root": "TIA",
+    "phonetic": "/ˌtiː aɪ ˈeɪ/",
+    "partOfSpeech": "n.",
+    "frequency": 294,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "TIA",
+        "phonetic": "/ˌtiː aɪ ˈeɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "跨阻放大器",
+        "memoryTip": "TransImpedance Amplifier → TIA",
+        "root": "TIA",
+        "rootPhonetic": "/ˌtiː aɪ ˈeɪ/",
+        "rootMeaning": "跨阻放大器",
+        "rootPhrases": [
+          "transimpedance amplifier",
+          "optical receiver",
+          "current to voltage",
+          "TIA bandwidth"
+        ],
+        "wordPhrases": [
+          "TIA technology",
+          "TIA process",
+          "TIA equipment",
+          "TIA application"
+        ]
+      },
+      {
+        "word": "transimpedance",
+        "phonetic": "/trænzɪmˈpiːdns/",
+        "partOfSpeech": "n.",
+        "meaning": "跨阻",
+        "memoryTip": "trans跨 + impedance阻抗 → 跨阻",
+        "root": "TIA",
+        "rootPhonetic": "/ˌtiː aɪ ˈeɪ/",
+        "rootMeaning": "跨阻放大器",
+        "rootPhrases": [
+          "transimpedance amplifier",
+          "optical receiver",
+          "current to voltage",
+          "TIA bandwidth"
+        ],
+        "wordPhrases": [
+          "transimpedance technology",
+          "transimpedance process",
+          "transimpedance equipment",
+          "transimpedance application"
+        ]
+      },
+      {
+        "word": "photodiode",
+        "phonetic": "/ˈfəʊtəʊdaɪəʊd/",
+        "partOfSpeech": "n.",
+        "meaning": "光电二极管",
+        "memoryTip": "photo + diode → 光电二极管",
+        "root": "TIA",
+        "rootPhonetic": "/ˌtiː aɪ ˈeɪ/",
+        "rootMeaning": "跨阻放大器",
+        "rootPhrases": [
+          "transimpedance amplifier",
+          "optical receiver",
+          "current to voltage",
+          "TIA bandwidth"
+        ],
+        "wordPhrases": [
+          "photodiode technology",
+          "photodiode process",
+          "photodiode equipment",
+          "photodiode application"
+        ]
+      },
+      {
+        "word": "preamplifier",
+        "phonetic": "/priːˈæmplɪfaɪər/",
+        "partOfSpeech": "n.",
+        "meaning": "前置放大器",
+        "memoryTip": "pre前 + amplifier → 前置放大器",
+        "root": "TIA",
+        "rootPhonetic": "/ˌtiː aɪ ˈeɪ/",
+        "rootMeaning": "跨阻放大器",
+        "rootPhrases": [
+          "transimpedance amplifier",
+          "optical receiver",
+          "current to voltage",
+          "TIA bandwidth"
+        ],
+        "wordPhrases": [
+          "preamplifier technology",
+          "preamplifier process",
+          "preamplifier equipment",
+          "preamplifier application"
+        ]
+      }
+    ],
+    "phrases": [
+      "transimpedance amplifier (跨阻放大器)",
+      "optical receiver (光接收机)",
+      "current to voltage (电流转电压)",
+      "TIA bandwidth (TIA带宽)"
+    ],
+    "mnemonic": "TIA（跨阻放大器）→ 将电流转换为电压的放大器 → TIA",
+    "meaning": "跨阻放大器"
+  },
+  {
+    "id": 295,
+    "root": "limiter",
+    "phonetic": "/ˈlɪmɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 295,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "limiter",
+        "phonetic": "/ˈlɪmɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "限幅器",
+        "memoryTip": "limit限制 + -er器 → 限幅器",
+        "root": "limiter",
+        "rootPhonetic": "/ˈlɪmɪtər/",
+        "rootMeaning": "限幅器",
+        "rootPhrases": [
+          "automatic gain control",
+          "hard limiter",
+          "soft limiter",
+          "RF limiter"
+        ],
+        "wordPhrases": [
+          "limiter technology",
+          "limiter process",
+          "limiter equipment",
+          "limiter application"
+        ]
+      },
+      {
+        "word": "AGC",
+        "phonetic": "/ˌeɪ dʒiː ˈsiː/",
+        "partOfSpeech": "n.",
+        "meaning": "自动增益控制",
+        "memoryTip": "Automatic Gain Control → AGC",
+        "root": "limiter",
+        "rootPhonetic": "/ˈlɪmɪtər/",
+        "rootMeaning": "限幅器",
+        "rootPhrases": [
+          "automatic gain control",
+          "hard limiter",
+          "soft limiter",
+          "RF limiter"
+        ],
+        "wordPhrases": [
+          "AGC technology",
+          "AGC process",
+          "AGC equipment",
+          "AGC application"
+        ]
+      },
+      {
+        "word": "clipper",
+        "phonetic": "/ˈklɪpər/",
+        "partOfSpeech": "n.",
+        "meaning": "削波器",
+        "memoryTip": "clip剪切 + -er器 → 削波器",
+        "root": "limiter",
+        "rootPhonetic": "/ˈlɪmɪtər/",
+        "rootMeaning": "限幅器",
+        "rootPhrases": [
+          "automatic gain control",
+          "hard limiter",
+          "soft limiter",
+          "RF limiter"
+        ],
+        "wordPhrases": [
+          "clipper technology",
+          "clipper process",
+          "clipper equipment",
+          "clipper application"
+        ]
+      },
+      {
+        "word": "compressor",
+        "phonetic": "/kəmˈpresər/",
+        "partOfSpeech": "n.",
+        "meaning": "压缩器",
+        "memoryTip": "compress压缩 + -or器 → 压缩器",
+        "root": "limiter",
+        "rootPhonetic": "/ˈlɪmɪtər/",
+        "rootMeaning": "限幅器",
+        "rootPhrases": [
+          "automatic gain control",
+          "hard limiter",
+          "soft limiter",
+          "RF limiter"
+        ],
+        "wordPhrases": [
+          "compressor technology",
+          "compressor process",
+          "compressor equipment",
+          "compressor application"
+        ]
+      }
+    ],
+    "phrases": [
+      "automatic gain control (自动增益控制)",
+      "hard limiter (硬限幅器)",
+      "soft limiter (软限幅器)",
+      "RF limiter (射频限幅器)"
+    ],
+    "mnemonic": "limiter（限幅器）→ 限制信号幅度的电路 → 限幅器",
+    "meaning": "限幅器"
+  },
+  {
+    "id": 296,
+    "root": "detector",
+    "phonetic": "/dɪˈtektər/",
+    "partOfSpeech": "n.",
+    "frequency": 296,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "detector",
+        "phonetic": "/dɪˈtektər/",
+        "partOfSpeech": "n.",
+        "meaning": "检测器",
+        "memoryTip": "detect检测 + -or器 → 检测器",
+        "root": "detector",
+        "rootPhonetic": "/dɪˈtektər/",
+        "rootMeaning": "检测器",
+        "rootPhrases": [
+          "envelope detector",
+          "peak detector",
+          "RMS detector",
+          "power detector"
+        ],
+        "wordPhrases": [
+          "detector technology",
+          "detector process",
+          "detector equipment",
+          "detector application"
+        ]
+      },
+      {
+        "word": "envelope",
+        "phonetic": "/ˈenvələʊp/",
+        "partOfSpeech": "n.",
+        "meaning": "包络",
+        "memoryTip": "envelope信封 → 信号包络",
+        "root": "detector",
+        "rootPhonetic": "/dɪˈtektər/",
+        "rootMeaning": "检测器",
+        "rootPhrases": [
+          "envelope detector",
+          "peak detector",
+          "RMS detector",
+          "power detector"
+        ],
+        "wordPhrases": [
+          "envelope technology",
+          "envelope process",
+          "envelope equipment",
+          "envelope application"
+        ]
+      },
+      {
+        "word": "peak",
+        "phonetic": "/piːk/",
+        "partOfSpeech": "n.",
+        "meaning": "峰值",
+        "memoryTip": "peak峰 → 峰值检测",
+        "root": "detector",
+        "rootPhonetic": "/dɪˈtektər/",
+        "rootMeaning": "检测器",
+        "rootPhrases": [
+          "envelope detector",
+          "peak detector",
+          "RMS detector",
+          "power detector"
+        ],
+        "wordPhrases": [
+          "peak technology",
+          "peak process",
+          "peak equipment",
+          "peak application"
+        ]
+      },
+      {
+        "word": "RMS",
+        "phonetic": "/ˌɑːr em ˈes/",
+        "partOfSpeech": "n.",
+        "meaning": "均方根",
+        "memoryTip": "Root Mean Square → RMS",
+        "root": "detector",
+        "rootPhonetic": "/dɪˈtektər/",
+        "rootMeaning": "检测器",
+        "rootPhrases": [
+          "envelope detector",
+          "peak detector",
+          "RMS detector",
+          "power detector"
+        ],
+        "wordPhrases": [
+          "RMS technology",
+          "RMS process",
+          "RMS equipment",
+          "RMS application"
+        ]
+      }
+    ],
+    "phrases": [
+      "envelope detector (包络检测器)",
+      "peak detector (峰值检测器)",
+      "RMS detector (RMS检测器)",
+      "power detector (功率检测器)"
+    ],
+    "mnemonic": "detector（检测器）→ 提取信号包络或参数的电路 → 检测器",
+    "meaning": "检测器"
+  },
+  {
+    "id": 297,
+    "root": "phase shifter",
+    "phonetic": "/feɪz ˈʃɪftər/",
+    "partOfSpeech": "n.",
+    "frequency": 297,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "phase shifter",
+        "phonetic": "/feɪz ˈʃɪftər/",
+        "partOfSpeech": "n.",
+        "meaning": "移相器",
+        "memoryTip": "phase相位 + shifter移相器 → 移相器",
+        "root": "phase shifter",
+        "rootPhonetic": "/feɪz ˈʃɪftər/",
+        "rootMeaning": "移相器",
+        "rootPhrases": [
+          "variable phase shifter",
+          "digital phase shifter",
+          "phase array",
+          "vector modulator"
+        ],
+        "wordPhrases": [
+          "phase shifter technology",
+          "phase shifter process",
+          "phase shifter equipment",
+          "phase shifter application"
+        ]
+      },
+      {
+        "word": "variable",
+        "phonetic": "/ˈveəriəbl/",
+        "partOfSpeech": "n.",
+        "meaning": "可变的",
+        "memoryTip": "variable可变 → 可变移相器",
+        "root": "phase shifter",
+        "rootPhonetic": "/feɪz ˈʃɪftər/",
+        "rootMeaning": "移相器",
+        "rootPhrases": [
+          "variable phase shifter",
+          "digital phase shifter",
+          "phase array",
+          "vector modulator"
+        ],
+        "wordPhrases": [
+          "variable technology",
+          "variable process",
+          "variable equipment",
+          "variable application"
+        ]
+      },
+      {
+        "word": "digital",
+        "phonetic": "/ˈdɪdʒɪtl/",
+        "partOfSpeech": "n.",
+        "meaning": "数字的",
+        "memoryTip": "digital数字 → 数字移相器",
+        "root": "phase shifter",
+        "rootPhonetic": "/feɪz ˈʃɪftər/",
+        "rootMeaning": "移相器",
+        "rootPhrases": [
+          "variable phase shifter",
+          "digital phase shifter",
+          "phase array",
+          "vector modulator"
+        ],
+        "wordPhrases": [
+          "digital technology",
+          "digital process",
+          "digital equipment",
+          "digital application"
+        ]
+      },
+      {
+        "word": "vector",
+        "phonetic": "/ˈvektər/",
+        "partOfSpeech": "n.",
+        "meaning": "矢量",
+        "memoryTip": "vector矢量 → 矢量调制器",
+        "root": "phase shifter",
+        "rootPhonetic": "/feɪz ˈʃɪftər/",
+        "rootMeaning": "移相器",
+        "rootPhrases": [
+          "variable phase shifter",
+          "digital phase shifter",
+          "phase array",
+          "vector modulator"
+        ],
+        "wordPhrases": [
+          "vector technology",
+          "vector process",
+          "vector equipment",
+          "vector application"
+        ]
+      }
+    ],
+    "phrases": [
+      "variable phase shifter (可变移相器)",
+      "digital phase shifter (数字移相器)",
+      "phase array (相控阵)",
+      "vector modulator (矢量调制器)"
+    ],
+    "mnemonic": "phase shifter（移相器）→ 改变信号相位的电路 → 移相器",
+    "meaning": "移相器"
+  },
+  {
+    "id": 298,
+    "root": "attenuator",
+    "phonetic": "/əˈtenjueɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 298,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "attenuator",
+        "phonetic": "/əˈtenjueɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "衰减器",
+        "memoryTip": "attenuate衰减 + -or器 → 衰减器",
+        "root": "attenuator",
+        "rootPhonetic": "/əˈtenjueɪtər/",
+        "rootMeaning": "衰减器",
+        "rootPhrases": [
+          "variable attenuator",
+          "step attenuator",
+          "digital attenuator",
+          "optical attenuator"
+        ],
+        "wordPhrases": [
+          "attenuator technology",
+          "attenuator process",
+          "attenuator equipment",
+          "attenuator application"
+        ]
+      },
+      {
+        "word": "pad",
+        "phonetic": "/pæd/",
+        "partOfSpeech": "n.",
+        "meaning": "衰减网络",
+        "memoryTip": "pad垫 → 衰减垫",
+        "root": "attenuator",
+        "rootPhonetic": "/əˈtenjueɪtər/",
+        "rootMeaning": "衰减器",
+        "rootPhrases": [
+          "variable attenuator",
+          "step attenuator",
+          "digital attenuator",
+          "optical attenuator"
+        ],
+        "wordPhrases": [
+          "pad technology",
+          "pad process",
+          "pad equipment",
+          "pad application"
+        ]
+      },
+      {
+        "word": "step",
+        "phonetic": "/step/",
+        "partOfSpeech": "n.",
+        "meaning": "步进",
+        "memoryTip": "step步 → 步进衰减",
+        "root": "attenuator",
+        "rootPhonetic": "/əˈtenjueɪtər/",
+        "rootMeaning": "衰减器",
+        "rootPhrases": [
+          "variable attenuator",
+          "step attenuator",
+          "digital attenuator",
+          "optical attenuator"
+        ],
+        "wordPhrases": [
+          "step technology",
+          "step process",
+          "step equipment",
+          "step application"
+        ]
+      },
+      {
+        "word": "continuous",
+        "phonetic": "/kənˈtɪnjuəs/",
+        "partOfSpeech": "n.",
+        "meaning": "连续",
+        "memoryTip": "continuous连续 → 连续可调",
+        "root": "attenuator",
+        "rootPhonetic": "/əˈtenjueɪtər/",
+        "rootMeaning": "衰减器",
+        "rootPhrases": [
+          "variable attenuator",
+          "step attenuator",
+          "digital attenuator",
+          "optical attenuator"
+        ],
+        "wordPhrases": [
+          "continuous technology",
+          "continuous process",
+          "continuous equipment",
+          "continuous application"
+        ]
+      }
+    ],
+    "phrases": [
+      "variable attenuator (可变衰减器)",
+      "step attenuator (步进衰减器)",
+      "digital attenuator (数字衰减器)",
+      "optical attenuator (光衰减器)"
+    ],
+    "mnemonic": "attenuator（衰减器）→ 降低信号幅度的电路 → 衰减器",
+    "meaning": "衰减器"
+  },
+  {
+    "id": 299,
+    "root": "circulator",
+    "phonetic": "/ˈsɜːrkjuleɪtər/",
+    "partOfSpeech": "n.",
+    "frequency": 299,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "circulator",
+        "phonetic": "/ˈsɜːrkjuleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "环形器",
+        "memoryTip": "circulate循环 + -or器 → 环形器",
+        "root": "circulator",
+        "rootPhonetic": "/ˈsɜːrkjuleɪtər/",
+        "rootMeaning": "环形器",
+        "rootPhrases": [
+          "ferrite circulator",
+          "isolator",
+          "YIG resonator",
+          "ferrite device"
+        ],
+        "wordPhrases": [
+          "circulator technology",
+          "circulator process",
+          "circulator equipment",
+          "circulator application"
+        ]
+      },
+      {
+        "word": "isolator",
+        "phonetic": "/ˈaɪsəleɪtər/",
+        "partOfSpeech": "n.",
+        "meaning": "隔离器",
+        "memoryTip": "isolate隔离 + -or器 → 隔离器",
+        "root": "circulator",
+        "rootPhonetic": "/ˈsɜːrkjuleɪtər/",
+        "rootMeaning": "环形器",
+        "rootPhrases": [
+          "ferrite circulator",
+          "isolator",
+          "YIG resonator",
+          "ferrite device"
+        ],
+        "wordPhrases": [
+          "isolator technology",
+          "isolator process",
+          "isolator equipment",
+          "isolator application"
+        ]
+      },
+      {
+        "word": "ferrite",
+        "phonetic": "/ˈferaɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "铁氧体",
+        "memoryTip": "ferrite铁氧体",
+        "root": "circulator",
+        "rootPhonetic": "/ˈsɜːrkjuleɪtər/",
+        "rootMeaning": "环形器",
+        "rootPhrases": [
+          "ferrite circulator",
+          "isolator",
+          "YIG resonator",
+          "ferrite device"
+        ],
+        "wordPhrases": [
+          "ferrite technology",
+          "ferrite process",
+          "ferrite equipment",
+          "ferrite application"
+        ]
+      },
+      {
+        "word": "YIG",
+        "phonetic": "/jɪɡ/",
+        "partOfSpeech": "n.",
+        "meaning": "钇铁石榴石",
+        "memoryTip": "Yttrium Iron Garnet → YIG",
+        "root": "circulator",
+        "rootPhonetic": "/ˈsɜːrkjuleɪtər/",
+        "rootMeaning": "环形器",
+        "rootPhrases": [
+          "ferrite circulator",
+          "isolator",
+          "YIG resonator",
+          "ferrite device"
+        ],
+        "wordPhrases": [
+          "YIG technology",
+          "YIG process",
+          "YIG equipment",
+          "YIG application"
+        ]
+      }
+    ],
+    "phrases": [
+      "ferrite circulator (铁氧体环形器)",
+      "isolator (隔离器)",
+      "YIG resonator (YIG谐振器)",
+      "ferrite device (铁氧体器件)"
+    ],
+    "mnemonic": "circulator（环形器）→ 单向传输信号的器件 → 环形器",
+    "meaning": "环形器"
+  },
+  {
+    "id": 300,
+    "root": "coupler",
+    "phonetic": "/ˈkʌplər/",
+    "partOfSpeech": "n.",
+    "frequency": 300,
+    "category": "半导体",
+    "words": [
+      {
+        "word": "coupler",
+        "phonetic": "/ˈkʌplər/",
+        "partOfSpeech": "n.",
+        "meaning": "耦合器",
+        "memoryTip": "couple耦合 + -er器 → 耦合器",
+        "root": "coupler",
+        "rootPhonetic": "/ˈkʌplər/",
+        "rootMeaning": "耦合器",
+        "rootPhrases": [
+          "directional coupler",
+          "hybrid coupler",
+          "quadrature coupler",
+          "power divider"
+        ],
+        "wordPhrases": [
+          "coupler technology",
+          "coupler process",
+          "coupler equipment",
+          "coupler application"
+        ]
+      },
+      {
+        "word": "directional",
+        "phonetic": "/dəˈrekʃənl/",
+        "partOfSpeech": "n.",
+        "meaning": "定向的",
+        "memoryTip": "directional定向 → 定向耦合器",
+        "root": "coupler",
+        "rootPhonetic": "/ˈkʌplər/",
+        "rootMeaning": "耦合器",
+        "rootPhrases": [
+          "directional coupler",
+          "hybrid coupler",
+          "quadrature coupler",
+          "power divider"
+        ],
+        "wordPhrases": [
+          "directional technology",
+          "directional process",
+          "directional equipment",
+          "directional application"
+        ]
+      },
+      {
+        "word": "hybrid",
+        "phonetic": "/ˈhaɪbrɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "混合",
+        "memoryTip": "hybrid混合 → 混合耦合器",
+        "root": "coupler",
+        "rootPhonetic": "/ˈkʌplər/",
+        "rootMeaning": "耦合器",
+        "rootPhrases": [
+          "directional coupler",
+          "hybrid coupler",
+          "quadrature coupler",
+          "power divider"
+        ],
+        "wordPhrases": [
+          "hybrid technology",
+          "hybrid process",
+          "hybrid equipment",
+          "hybrid application"
+        ]
+      },
+      {
+        "word": "quadrature",
+        "phonetic": "/ˈkwɒdrətʃər/",
+        "partOfSpeech": "n.",
+        "meaning": "正交",
+        "memoryTip": "quadrature正交 → 正交耦合器",
+        "root": "coupler",
+        "rootPhonetic": "/ˈkʌplər/",
+        "rootMeaning": "耦合器",
+        "rootPhrases": [
+          "directional coupler",
+          "hybrid coupler",
+          "quadrature coupler",
+          "power divider"
+        ],
+        "wordPhrases": [
+          "quadrature technology",
+          "quadrature process",
+          "quadrature equipment",
+          "quadrature application"
+        ]
+      }
+    ],
+    "phrases": [
+      "directional coupler (定向耦合器)",
+      "hybrid coupler (混合耦合器)",
+      "quadrature coupler (正交耦合器)",
+      "power divider (功率分配器)"
+    ],
+    "mnemonic": "coupler（耦合器）→ 分配或合成信号的器件 → 耦合器",
+    "meaning": "耦合器"
+  }
+]
