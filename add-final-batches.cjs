@@ -1,0 +1,39 @@
+const fs = require('fs');
+const path = require('path');
+const filePath = path.join(__dirname, 'src', 'data', 'internet-software.json');
+
+function createEntry(id, root, phonetic, pos, meaning, phrases, mnemonic, words) {
+  return {
+    id, root, phonetic, partOfSpeech: pos, meaning, frequency: id, category: "互联网和软件",
+    words: words.map(w => ({ word: w.word, phonetic: w.phonetic, partOfSpeech: w.pos, meaning: w.meaning, memoryTip: w.tip, root, rootPhonetic: phonetic, rootMeaning: meaning, rootPhrases: phrases, wordPhrases: w.phrases || phrases.slice(0, 2) })),
+    phrases, mnemonic
+  };
+}
+
+// 641-800: 最后160个条目
+const allRoots = [
+  // 641-660: 消息队列与缓存
+  { id: 641, root: "kafka", phonetic: "/ˈkɑːfkə/", pos: "名词", meaning: "Kafka消息队列", phrases: ["kafka topic Kafka主题", "kafka partition Kafka分区", "kafka consumer Kafka消费者", "kafka producer Kafka生产者"], mnemonic: "Kafka是高吞吐量的分布式消息系统", words: [{ word: "kafka", phonetic: "/ˈkɑːfkə/", pos: "n.", meaning: "Kafka", tip: "卡夫卡，消息队列" }, { word: "kafka-streams", phonetic: "/ˈkɑːfkə striːmz/", pos: "n.", meaning: "Kafka Streams", tip: "kafka + streams" }, { word: "kafka-connect", phonetic: "/ˈkɑːfkə kəˈnɛkt/", pos: "n.", meaning: "Kafka Connect", tip: "kafka + connect" }, { word: "zookeeper", phonetic: "/ˈzuːkiːpər/", pos: "n.", meaning: "ZooKeeper", tip: "动物园管理员，Kafka依赖" }] },
+  { id: 642, root: "rabbitmq", phonetic: "/ˈræbɪt ɛmkjuː/", pos: "名词", meaning: "RabbitMQ消息队列", phrases: ["rabbitmq queue RabbitMQ队列", "rabbitmq exchange RabbitMQ交换器", "rabbitmq binding RabbitMQ绑定", "rabbitmq routing RabbitMQ路由"], mnemonic: "RabbitMQ是可靠的消息代理", words: [{ word: "rabbitmq", phonetic: "/ˈræbɪt ɛmkjuː/", pos: "n.", meaning: "RabbitMQ", tip: "rabbit + mq，消息队列" }, { word: "rabbit", phonetic: "/ˈræbɪt/", pos: "n.", meaning: "Rabbit", tip: "兔子，RabbitMQ" }, { word: "amqp", phonetic: "/eɪɛmkjuːpiː/", pos: "n.", meaning: "AMQP", tip: "高级消息队列协议" }, { word: "rabbitmq-cluster", phonetic: "/ˈræbɪt ɛmkjuː ˈklʌstər/", pos: "n.", meaning: "RabbitMQ集群", tip: "rabbitmq + cluster" }] },
+  { id: 643, root: "rocketmq", phonetic: "/ˈrɒkɪt ɛmkjuː/", pos: "名词", meaning: "RocketMQ消息队列", phrases: ["rocketmq topic RocketMQ主题", "rocketmq tag RocketMQ标签", "rocketmq consumer RocketMQ消费者", "rocketmq broker RocketMQ代理"], mnemonic: "RocketMQ是阿里开源的分布式消息中间件", words: [{ word: "rocketmq", phonetic: "/ˈrɒkɪt ɛmkjuː/", pos: "n.", meaning: "RocketMQ", tip: "rocket + mq，消息队列" }, { word: "rocket", phonetic: "/ˈrɒkɪt/", pos: "n.", meaning: "Rocket", tip: "火箭，RocketMQ" }, { word: "ons", phonetic: "/oʊɛnɛs/", pos: "n.", meaning: "ONS", tip: "阿里消息服务" }, { word: "rocketmq-console", phonetic: "/ˈrɒkɪt ɛmkjuː ˈkɒnsoʊl/", pos: "n.", meaning: "RocketMQ控制台", tip: "rocketmq + console" }] },
+  { id: 644, root: "nsq", phonetic: "/ɛnɛskjuː/", pos: "名词", meaning: "NSQ实时消息", phrases: ["nsq topic NSQ主题", "nsq channel NSQ频道", "nsq lookup NSQ查找", "nsq consumer NSQ消费者"], mnemonic: "NSQ是实时分布式消息平台", words: [{ word: "nsq", phonetic: "/ɛnɛskjuː/", pos: "n.", meaning: "NSQ", tip: "NSQ，实时消息" }, { word: "nsqd", phonetic: "/ɛnɛskjuːdiː/", pos: "n.", meaning: "nsqd", tip: "NSQ守护进程" }, { word: "nsqlookupd", phonetic: "/ɛnɛskjuːlʊkʌpdiː/", pos: "n.", meaning: "nsqlookupd", tip: "NSQ查找守护" }, { word: "nsq-admin", phonetic: "/ɛnɛskjuː ˈædmɪn/", pos: "n.", meaning: "NSQ Admin", tip: "nsq + admin" }] },
+  { id: 645, root: "nats", phonetic: "/næts/", pos: "名词", meaning: "NATS消息系统", phrases: ["nats subject NATS主题", "nats streaming NATS流", "nats jetstream NATS JetStream", "nats pubsub NATS发布订阅"], mnemonic: "NATS是云原生消息系统", words: [{ word: "nats", phonetic: "/næts/", pos: "n.", meaning: "NATS", tip: "NATS，消息系统" }, { word: "nats-server", phonetic: "/næts ˈsɜːrvər/", pos: "n.", meaning: "NATS Server", tip: "nats + server" }, { word: "nats-streaming", phonetic: "/næts ˈstriːmɪŋ/", pos: "n.", meaning: "NATS Streaming", tip: "nats + streaming" }, { word: "jetstream", phonetic: "/ˈdʒɛtstriːm/", pos: "n.", meaning: "JetStream", tip: "jet + stream，NATS持久化" }] },
+  { id: 646, root: "pulsar", phonetic: "/ˈpʌlsər/", pos: "名词", meaning: "Pulsar消息队列", phrases: ["pulsar topic Pulsar主题", "pulsar tenant Pulsar租户", "pulsar namespace Pulsar命名空间", "pulsar function Pulsar函数"], mnemonic: "Pulsar是Apache云原生分布式消息系统", words: [{ word: "pulsar", phonetic: "/ˈpʌlsər/", pos: "n.", meaning: "Pulsar", tip: "脉冲星，消息队列" }, { word: "apache-pulsar", phonetic: "/əˈpætʃi ˈpʌlsər/", pos: "n.", meaning: "Apache Pulsar", tip: "apache + pulsar" }, { word: "pulsar-client", phonetic: "/ˈpʌlsər ˈklaɪənt/", pos: "n.", meaning: "Pulsar Client", tip: "pulsar + client" }, { word: "bookkeeper", phonetic: "/ˈbʊkkiːpər/", pos: "n.", meaning: "BookKeeper", tip: "簿记员，Pulsar存储" }] },
+  { id: 647, root: "zeromq", phonetic: "/ˈzɪəroʊ ɛmkjuː/", pos: "名词", meaning: "ZeroMQ消息库", phrases: ["zeromq socket ZeroMQ套接字", "zeromq pubsub ZeroMQ发布订阅", "zeromq reqrep ZeroMQ请求响应", "zeromq pushpull ZeroMQ推拉"], mnemonic: "ZeroMQ是高性能异步消息库", words: [{ word: "zeromq", phonetic: "/ˈzɪəroʊ ɛmkjuː/", pos: "n.", meaning: "ZeroMQ", tip: "zero + mq，消息库" }, { word: "zmq", phonetic: "/ziːɛmkjuː/", pos: "n.", meaning: "ZMQ", tip: "ZeroMQ简称" }, { word: "zeromq-context", phonetic: "/ˈzɪəroʊ ɛmkjuː ˈkɒntɛkst/", pos: "n.", meaning: "ZeroMQ上下文", tip: "zeromq + context" }, { word: "pyzmq", phonetic: "/paɪziːɛmkjuː/", pos: "n.", meaning: "PyZMQ", tip: "Python ZeroMQ绑定" }] },
+  { id: 648, root: "activemq", phonetic: "/ˈæktɪv ɛmkjuː/", pos: "名词", meaning: "ActiveMQ消息代理", phrases: ["activemq queue ActiveMQ队列", "activemq topic ActiveMQ主题", "activemq broker ActiveMQ代理", "activemq jms ActiveMQ JMS"], mnemonic: "ActiveMQ是Apache开源消息代理", words: [{ word: "activemq", phonetic: "/ˈæktɪv ɛmkjuː/", pos: "n.", meaning: "ActiveMQ", tip: "active + mq，消息代理" }, { word: "artemis", phonetic: "/ˈɑːrtəmɪs/", pos: "n.", meaning: "Artemis", tip: "ActiveMQ下一代" }, { word: "jms", phonetic: "/dʒeɪɛmɛs/", pos: "n.", meaning: "JMS", tip: "Java消息服务" }, { word: "activemq-stomp", phonetic: "/ˈæktɪv ɛmkjuː stɒmp/", pos: "n.", meaning: "ActiveMQ STOMP", tip: "activemq + stomp" }] },
+  { id: 649, root: "memcached", phonetic: "/ˈmɛmkæʃd/", pos: "名词", meaning: "Memcached缓存", phrases: ["memcached key Memcached键", "memcached value Memcached值", "memcached client Memcached客户端", "memcached server Memcached服务器"], mnemonic: "Memcached是高性能分布式内存缓存系统", words: [{ word: "memcached", phonetic: "/ˈmɛmkæʃd/", pos: "n.", meaning: "Memcached", tip: "mem + cache + d，缓存" }, { word: "memcache", phonetic: "/ˈmɛmkæʃ/", pos: "n.", meaning: "Memcache", tip: "Memcached简称" }, { word: "libmemcached", phonetic: "/lɪbˈmɛmkæʃd/", pos: "n.", meaning: "libmemcached", tip: "C/C++客户端库" }, { word: "memcached-cli", phonetic: "/ˈmɛmkæʃd siːɛlaɪ/", pos: "n.", meaning: "Memcached CLI", tip: "memcached + cli" }] },
+  { id: 650, root: "hazelcast", phonetic: "/ˈheɪzəlkæst/", pos: "名词", meaning: "Hazelcast内存网格", phrases: ["hazelcast imdg Hazelcast IMDG", "hazelcast jet Hazelcast Jet", "hazelcast cluster Hazelcast集群", "hazelcast map Hazelcast映射"], mnemonic: "Hazelcast是开源内存数据网格", words: [{ word: "hazelcast", phonetic: "/ˈheɪzəlkæst/", pos: "n.", meaning: "Hazelcast", tip: "榛树，内存网格" }, { word: "hazelcast-client", phonetic: "/ˈheɪzəlkæst ˈklaɪənt/", pos: "n.", meaning: "Hazelcast Client", tip: "hazelcast + client" }, { word: "hazelcast-imdg", phonetic: "/ˈheɪzəlkæst aɪɛmdiːdʒiː/", pos: "n.", meaning: "IMDG", tip: "内存数据网格" }, { word: "hazelcast-jet", phonetic: "/ˈheɪzəlkæst dʒɛt/", pos: "n.", meaning: "Hazelcast Jet", tip: "hazelcast + jet" }] }
+];
+
+console.log(`Adding ${allRoots.length} entries (641-650)`);
+
+const newEntries = allRoots.map(r => createEntry(r.id, r.root, r.phonetic, r.pos, r.meaning, r.phrases, r.mnemonic, r.words));
+
+const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+console.log(`Current: ${data.length}`);
+
+const updatedData = [...data, ...newEntries];
+console.log(`New total: ${updatedData.length}`);
+
+fs.writeFileSync(filePath, JSON.stringify(updatedData, null, 2));
+console.log('Final batch 1 done!');

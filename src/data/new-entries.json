@@ -1,0 +1,107 @@
+  {
+    "id": 10501,
+    "root": "spect",
+    "phonetic": "/spekt/",
+    "partOfSpeech": "词根",
+    "meaning": "看",
+    "frequency": 501,
+    "category": "四级",
+    "words": [
+      {
+        "word": "aspect",
+        "phonetic": "/ˈæspekt/",
+        "partOfSpeech": "n.",
+        "meaning": "方面",
+        "memoryTip": "a-加强 + spect看 → 看的东西 → 方面",
+        "root": "spect",
+        "rootPhonetic": "/spekt/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ],
+        "wordPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ]
+      },
+      {
+        "word": "inspect",
+        "phonetic": "/ɪnˈspekt/",
+        "partOfSpeech": "v.",
+        "meaning": "检查",
+        "memoryTip": "in-向内 + spect看 → 向内看 → 检查",
+        "root": "spect",
+        "rootPhonetic": "/spekt/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ],
+        "wordPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ]
+      },
+      {
+        "word": "respect",
+        "phonetic": "/rɪˈspekt/",
+        "partOfSpeech": "n./v.",
+        "meaning": "尊重",
+        "memoryTip": "re-再 + spect看 → 反复看 → 尊重",
+        "root": "spect",
+        "rootPhonetic": "/spekt/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ],
+        "wordPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ]
+      },
+      {
+        "word": "suspect",
+        "phonetic": "/səˈspekt/",
+        "partOfSpeech": "v./n.",
+        "meaning": "怀疑/嫌疑犯",
+        "memoryTip": "sus-下面 + spect看 → 向下看 → 怀疑",
+        "root": "spect",
+        "rootPhonetic": "/spekt/",
+        "rootMeaning": "看",
+        "rootPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ],
+        "wordPhrases": [
+          "all aspects of",
+          "inspect the building",
+          "respect for others",
+          "suspect something"
+        ]
+      }
+    ],
+    "phrases": [
+      "all aspects of (各个方面)",
+      "inspect the building (检查大楼)",
+      "respect for others (尊重他人)",
+      "suspect something (怀疑某事)"
+    ],
+    "mnemonic": "spect（看）→ 用眼睛观察 → 视"
+  }
+]
