@@ -62,12 +62,16 @@ async function loadAllData(): Promise<RootLesson[]> {
   const promises = categories.map(async ({ file }) => {
     try {
       const baseUrl = import.meta.env.BASE_URL || '/'
-      const response = await fetch(`${baseUrl}data/${file}`)
+      const url = `${baseUrl}data/${file}`
+      console.log('[DEBUG] Fetching:', url)
+      const response = await fetch(url)
+      console.log('[DEBUG] Response status:', response.status, 'for', file)
       if (!response.ok) {
-        console.error(`Failed to load ${file}`)
+        console.error(`Failed to load ${file}: ${response.status}`)
         return []
       }
       const data = await response.json()
+      console.log('[DEBUG] Loaded', file, ':', data.length, 'items')
       return data as RootLesson[]
     } catch (error) {
       console.error(`Error loading ${file}:`, error)
