@@ -61,7 +61,8 @@ async function loadAllData(): Promise<RootLesson[]> {
   // 并行加载所有数据
   const promises = categories.map(async ({ file }) => {
     try {
-      const response = await fetch(`/data/${file}`)
+      const baseUrl = import.meta.env.BASE_URL || '/'
+      const response = await fetch(`${baseUrl}data/${file}`)
       if (!response.ok) {
         console.error(`Failed to load ${file}`)
         return []
