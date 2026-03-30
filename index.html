@@ -8,6 +8,16 @@
     <meta name="theme-color" content="#10B981" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <title>FunWords 高效背单词</title>
+    <style>
+      #root:empty::before {
+        content: "加载中...";
+        display: block;
+        text-align: center;
+        padding: 100px 20px;
+        font-size: 18px;
+        color: #666;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
