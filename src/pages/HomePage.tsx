@@ -12,7 +12,9 @@ const availableCategories: Category[] = [
 ]
 
 export function HomePage() {
+  console.log('[DEBUG] HomePage rendering...')
   const { rootLessons, progress, highScore, loading, getCategoryStats } = useWordData()
+  console.log('[DEBUG] HomePage loading:', loading, 'lessons:', rootLessons.length)
 
   const totalStudied = progress.filter(p => p.studied).length
   const totalMastered = progress.filter(p => p.masteryLevel >= 4).length
