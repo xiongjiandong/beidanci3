@@ -47,13 +47,13 @@ async function loadAllData(): Promise<RootLesson[]> {
     { file: 'communication.json', category: '通信' },
     { file: 'mechanical.json', category: '机械' },
     { file: 'civil-engineering.json', category: '土木' },
-    { file: 'tourism.json', category: '旅游' },
     { file: 'semiconductor.json', category: '半导体' },
-    { file: 'chemical.json', category: '化工' },
-    { file: 'electric-power.json', category: '电力' },
     { file: 'senior-high.json', category: '高中' },
     { file: 'cet-4.json', category: '四级' },
     { file: 'cet-6.json', category: '六级' },
+    { file: 'chemical.json', category: '化工' },
+    { file: 'electric-power.json', category: '电力' },
+    { file: 'tourism.json', category: '旅游' },
   ]
 
   const allData: RootLesson[] = []

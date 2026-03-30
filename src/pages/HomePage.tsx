@@ -7,8 +7,8 @@ import { useWordData } from '@/hooks/useWordData'
 import type { Category } from '@/types'
 
 const availableCategories: Category[] = [
-  '互联网和软件', 'Web3.0', '通信', '机械', '土木', '旅游',
-  '半导体', '化工', '电力', '高中', '四级', '六级'
+  '互联网和软件', 'Web3.0', '通信', '机械', '土木',
+  '半导体', '高中', '四级', '六级', '化工', '电力', '旅游'
 ]
 
 export function HomePage() {
@@ -22,7 +22,7 @@ export function HomePage() {
     <div className="space-y-6">
       <div className="text-center py-8">
         <h1 className="text-4xl font-bold mb-2">FunWords</h1>
-        <p className="text-muted-foreground">高考趣味背单词</p>
+        <p className="text-muted-foreground">高效背单词</p>
       </div>
 
       {loading ? (

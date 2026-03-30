@@ -10,8 +10,8 @@ import type { RootLesson, Category } from '@/types'
 
 // 可用类目
 const availableCategories: Category[] = [
-  '互联网和软件', 'Web3.0', '通信', '机械', '土木', '旅游',
-  '半导体', '化工', '电力', '高中', '四级', '六级'
+  '互联网和软件', 'Web3.0', '通信', '机械', '土木',
+  '半导体', '高中', '四级', '六级', '化工', '电力', '旅游'
 ]
 
 export function LearnPage() {
