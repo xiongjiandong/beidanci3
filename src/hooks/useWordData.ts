@@ -7,7 +7,6 @@ import {
   setHighScore,
   updateProgress,
   markAsStudied,
-  initializeData,
   getAllWords
 } from '@/lib/db'
 import type { RootLesson, Progress, Category } from '@/types'
@@ -16,35 +15,43 @@ export function useWordData() {
   const [rootLessons, setRootLessons] = useState<RootLesson[]>([])
   const [progress, setProgress] = useState<Progress[]>([])
   const [highScore, setHighScoreState] = useState(0)
-  const [loading, setLoading] = useState(true)
+  const [lessonsLoading, setLessonsLoading] = useState(true)
+  const [progressLoading, setProgressLoading] = useState(true)
 
+  // 快速加载IndexedDB数据（进度、高分）
   useEffect(() => {
-    async function loadData() {
+    async function loadProgressData() {
       try {
-        console.log('[DEBUG useWordData] Starting data load...')
-
-        // 初始化（现在只是打印日志，数据直接从JSON读取）
-        await initializeData([])
-
-        const [loadedLessons, loadedProgress, loadedHighScore] = await Promise.all([
-          getAllRootLessons(),
+        const [loadedProgress, loadedHighScore] = await Promise.all([
           getAllProgress(),
           getHighScore(),
         ])
-
-        console.log('[DEBUG useWordData] Loaded lessons:', loadedLessons.length)
-        console.log('[DEBUG useWordData] Categories:', [...new Set(loadedLessons.map(l => l.category))])
-
-        setRootLessons(loadedLessons)
         setProgress(loadedProgress)
         setHighScoreState(loadedHighScore)
       } catch (error) {
-        console.error('Failed to load data:', error)
+        console.error('Failed to load progress:', error)
       } finally {
-        setLoading(false)
+        setProgressLoading(false)
       }
     }
-    loadData()
+    loadProgressData()
+  }, [])
+
+  // 后台加载课程数据（较慢）
+  useEffect(() => {
+    async function loadLessonData() {
+      try {
+        console.log('[DEBUG useWordData] Starting lesson data load...')
+        const loadedLessons = await getAllRootLessons()
+        console.log('[DEBUG useWordData] Loaded lessons:', loadedLessons.length)
+        setRootLessons(loadedLessons)
+      } catch (error) {
+        console.error('Failed to load lessons:', error)
+      } finally {
+        setLessonsLoading(false)
+      }
+    }
+    loadLessonData()
   }, [])
 
   const getLessonsByCategory = useCallback(async (category: Category) => {
@@ -105,11 +112,16 @@ export function useWordData() {
     return categoryStats[category] || { total: 0, studied: 0, mastered: 0 }
   }, [categoryStats])
 
+  // 合并的loading状态（用于向后兼容）
+  const loading = lessonsLoading || progressLoading
+
   return {
     rootLessons,
     progress,
     highScore,
     loading,
+    lessonsLoading,
+    progressLoading,
     categories,
     getLessonsByCategory,
     updateLessonProgress,
