@@ -59436,5 +59436,3483 @@
       "hazelcast map Hazelcast映射"
     ],
     "mnemonic": "Hazelcast是开源内存数据网格"
+  },
+  {
+    "root": "oauth",
+    "phonetic": "/oʊˈɔːθ/",
+    "partOfSpeech": "名词",
+    "meaning": "OAuth认证协议",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "oauth",
+        "phonetic": "/oʊˈɔːθ/",
+        "partOfSpeech": "n.",
+        "meaning": "OAuth",
+        "memoryTip": "Open Authorization",
+        "root": "oauth",
+        "rootPhonetic": "/oʊˈɔːθ/",
+        "rootMeaning": "OAuth认证协议",
+        "rootPhrases": [
+          "oauth token OAuth令牌",
+          "oauth provider OAuth提供者",
+          "oauth flow OAuth流程"
+        ],
+        "wordPhrases": [
+          "Open Authorization",
+          "OAuth 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "oauth token OAuth令牌",
+      "oauth provider OAuth提供者",
+      "oauth flow OAuth流程",
+      "oauth scope OAuth范围"
+    ],
+    "mnemonic": "oauth→OAuth认证协议",
+    "id": 651,
+    "frequency": 651
+  },
+  {
+    "root": "sso",
+    "phonetic": "/ɛsɛsoʊ/",
+    "partOfSpeech": "名词",
+    "meaning": "单点登录",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sso",
+        "phonetic": "/ɛsɛsoʊ/",
+        "partOfSpeech": "n.",
+        "meaning": "SSO",
+        "memoryTip": "Single Sign-On",
+        "root": "sso",
+        "rootPhonetic": "/ɛsɛsoʊ/",
+        "rootMeaning": "单点登录",
+        "rootPhrases": [
+          "sso login SSO登录",
+          "sso authentication SSO认证",
+          "sso provider SSO提供者"
+        ],
+        "wordPhrases": [
+          "Single Sign-On",
+          "SSO 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sso login SSO登录",
+      "sso authentication SSO认证",
+      "sso provider SSO提供者",
+      "sso session SSO会话"
+    ],
+    "mnemonic": "sso→单点登录",
+    "id": 652,
+    "frequency": 652
+  },
+  {
+    "root": "jwt",
+    "phonetic": "/dʒeɪdʌbəljuːtiː/",
+    "partOfSpeech": "名词",
+    "meaning": "JSON Web Token",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "jwt",
+        "phonetic": "/dʒeɪdʌbəljuːtiː/",
+        "partOfSpeech": "n.",
+        "meaning": "JWT",
+        "memoryTip": "JSON Web Token",
+        "root": "jwt",
+        "rootPhonetic": "/dʒeɪdʌbəljuːtiː/",
+        "rootMeaning": "JSON Web Token",
+        "rootPhrases": [
+          "jwt token JWT令牌",
+          "jwt signature JWT签名",
+          "jwt payload JWT载荷"
+        ],
+        "wordPhrases": [
+          "JSON Web Token",
+          "JWT 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "jwt token JWT令牌",
+      "jwt signature JWT签名",
+      "jwt payload JWT载荷",
+      "jwt header JWT头部"
+    ],
+    "mnemonic": "jwt→JSON Web Token",
+    "id": 653,
+    "frequency": 653
+  },
+  {
+    "root": "ldap",
+    "phonetic": "/ɛldiːeɪpiː/",
+    "partOfSpeech": "名词",
+    "meaning": "轻量级目录访问协议",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "ldap",
+        "phonetic": "/ɛldiːeɪpiː/",
+        "partOfSpeech": "n.",
+        "meaning": "LDAP",
+        "memoryTip": "轻量级目录访问协议",
+        "root": "ldap",
+        "rootPhonetic": "/ɛldiːeɪpiː/",
+        "rootMeaning": "轻量级目录访问协议",
+        "rootPhrases": [
+          "ldap server LDAP服务器",
+          "ldap directory LDAP目录",
+          "ldap bind LDAP绑定"
+        ],
+        "wordPhrases": [
+          "轻量级目录访问协议",
+          "LDAP 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "ldap server LDAP服务器",
+      "ldap directory LDAP目录",
+      "ldap bind LDAP绑定",
+      "ldap search LDAP搜索"
+    ],
+    "mnemonic": "ldap→轻量级目录访问协议",
+    "id": 654,
+    "frequency": 654
+  },
+  {
+    "root": "replica",
+    "phonetic": "/ˈreplɪkə/",
+    "partOfSpeech": "名词",
+    "meaning": "副本",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "replica",
+        "phonetic": "/ˈreplɪkə/",
+        "partOfSpeech": "n.",
+        "meaning": "Replica",
+        "memoryTip": "副本",
+        "root": "replica",
+        "rootPhonetic": "/ˈreplɪkə/",
+        "rootMeaning": "副本",
+        "rootPhrases": [
+          "replica example replica示例",
+          "replica 分布式 replica应用",
+          "replica best practice replica最佳实践"
+        ],
+        "wordPhrases": [
+          "副本",
+          "replica 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "replica 分布式 replica应用",
+      "replica best practice replica最佳实践",
+      "replica guide replica指南",
+      "replica tool replica工具"
+    ],
+    "mnemonic": "replica→副本",
+    "id": 655,
+    "frequency": 655
+  },
+  {
+    "root": "provision",
+    "phonetic": "/prəˈvɪʒən/",
+    "partOfSpeech": "名词",
+    "meaning": "供应",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "provision",
+        "phonetic": "/prəˈvɪʒən/",
+        "partOfSpeech": "n.",
+        "meaning": "Provision",
+        "memoryTip": "供应",
+        "root": "provision",
+        "rootPhonetic": "/prəˈvɪʒən/",
+        "rootMeaning": "供应",
+        "rootPhrases": [
+          "provision example provision示例",
+          "provision 云计算 provision应用",
+          "provision best practice provision最佳实践"
+        ],
+        "wordPhrases": [
+          "供应",
+          "provision 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "provision 云计算 provision应用",
+      "provision best practice provision最佳实践",
+      "provision guide provision指南",
+      "provision tool provision工具"
+    ],
+    "mnemonic": "provision→供应",
+    "id": 656,
+    "frequency": 656
+  },
+  {
+    "root": "scalable",
+    "phonetic": "/ˈskeɪləbl/",
+    "partOfSpeech": "名词",
+    "meaning": "可扩展",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "scalable",
+        "phonetic": "/ˈskeɪləbl/",
+        "partOfSpeech": "n.",
+        "meaning": "Scalable",
+        "memoryTip": "可扩展",
+        "root": "scalable",
+        "rootPhonetic": "/ˈskeɪləbl/",
+        "rootMeaning": "可扩展",
+        "rootPhrases": [
+          "scalable example scalable示例",
+          "scalable 架构 scalable应用",
+          "scalable best practice scalable最佳实践"
+        ],
+        "wordPhrases": [
+          "可扩展",
+          "scalable 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "scalable 架构 scalable应用",
+      "scalable best practice scalable最佳实践",
+      "scalable guide scalable指南",
+      "scalable tool scalable工具"
+    ],
+    "mnemonic": "scalable→可扩展",
+    "id": 657,
+    "frequency": 657
+  },
+  {
+    "root": "resilient",
+    "phonetic": "/rɪˈzɪliənt/",
+    "partOfSpeech": "名词",
+    "meaning": "韧性",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "resilient",
+        "phonetic": "/rɪˈzɪliənt/",
+        "partOfSpeech": "n.",
+        "meaning": "Resilient",
+        "memoryTip": "韧性",
+        "root": "resilient",
+        "rootPhonetic": "/rɪˈzɪliənt/",
+        "rootMeaning": "韧性",
+        "rootPhrases": [
+          "resilient example resilient示例",
+          "resilient 系统 resilient应用",
+          "resilient best practice resilient最佳实践"
+        ],
+        "wordPhrases": [
+          "韧性",
+          "resilient 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "resilient 系统 resilient应用",
+      "resilient best practice resilient最佳实践",
+      "resilient guide resilient指南",
+      "resilient tool resilient工具"
+    ],
+    "mnemonic": "resilient→韧性",
+    "id": 658,
+    "frequency": 658
+  },
+  {
+    "root": "synchron",
+    "phonetic": "/ˈsɪŋkrən/",
+    "partOfSpeech": "名词",
+    "meaning": "同步",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "synchron",
+        "phonetic": "/ˈsɪŋkrən/",
+        "partOfSpeech": "n.",
+        "meaning": "Synchron",
+        "memoryTip": "同步",
+        "root": "synchron",
+        "rootPhonetic": "/ˈsɪŋkrən/",
+        "rootMeaning": "同步",
+        "rootPhrases": [
+          "synchron example synchron示例",
+          "synchron 系统 synchron应用",
+          "synchron best practice synchron最佳实践"
+        ],
+        "wordPhrases": [
+          "同步",
+          "synchron 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "synchron 系统 synchron应用",
+      "synchron best practice synchron最佳实践",
+      "synchron guide synchron指南",
+      "synchron tool synchron工具"
+    ],
+    "mnemonic": "synchron→同步",
+    "id": 659,
+    "frequency": 659
+  },
+  {
+    "root": "asynchron",
+    "phonetic": "/eɪˈsɪŋkrən/",
+    "partOfSpeech": "名词",
+    "meaning": "异步",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "asynchron",
+        "phonetic": "/eɪˈsɪŋkrən/",
+        "partOfSpeech": "n.",
+        "meaning": "Asynchron",
+        "memoryTip": "异步",
+        "root": "asynchron",
+        "rootPhonetic": "/eɪˈsɪŋkrən/",
+        "rootMeaning": "异步",
+        "rootPhrases": [
+          "asynchron example asynchron示例",
+          "asynchron 系统 asynchron应用",
+          "asynchron best practice asynchron最佳实践"
+        ],
+        "wordPhrases": [
+          "异步",
+          "asynchron 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "asynchron 系统 asynchron应用",
+      "asynchron best practice asynchron最佳实践",
+      "asynchron guide asynchron指南",
+      "asynchron tool asynchron工具"
+    ],
+    "mnemonic": "asynchron→异步",
+    "id": 660,
+    "frequency": 660
+  },
+  {
+    "root": "concurrent",
+    "phonetic": "/kənˈkʌrənt/",
+    "partOfSpeech": "名词",
+    "meaning": "并发",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "concurrent",
+        "phonetic": "/kənˈkʌrənt/",
+        "partOfSpeech": "n.",
+        "meaning": "Concurrent",
+        "memoryTip": "并发",
+        "root": "concurrent",
+        "rootPhonetic": "/kənˈkʌrənt/",
+        "rootMeaning": "并发",
+        "rootPhrases": [
+          "concurrent example concurrent示例",
+          "concurrent 编程 concurrent应用",
+          "concurrent best practice concurrent最佳实践"
+        ],
+        "wordPhrases": [
+          "并发",
+          "concurrent 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "concurrent 编程 concurrent应用",
+      "concurrent best practice concurrent最佳实践",
+      "concurrent guide concurrent指南",
+      "concurrent tool concurrent工具"
+    ],
+    "mnemonic": "concurrent→并发",
+    "id": 661,
+    "frequency": 661
+  },
+  {
+    "root": "distributed",
+    "phonetic": "/dɪˈstrɪbjuːtɪd/",
+    "partOfSpeech": "名词",
+    "meaning": "分布式",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "distributed",
+        "phonetic": "/dɪˈstrɪbjuːtɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "Distributed",
+        "memoryTip": "分布式",
+        "root": "distributed",
+        "rootPhonetic": "/dɪˈstrɪbjuːtɪd/",
+        "rootMeaning": "分布式",
+        "rootPhrases": [
+          "distributed example distributed示例",
+          "distributed 架构 distributed应用",
+          "distributed best practice distributed最佳实践"
+        ],
+        "wordPhrases": [
+          "分布式",
+          "distributed 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "distributed 架构 distributed应用",
+      "distributed best practice distributed最佳实践",
+      "distributed guide distributed指南",
+      "distributed tool distributed工具"
+    ],
+    "mnemonic": "distributed→分布式",
+    "id": 662,
+    "frequency": 662
+  },
+  {
+    "root": "decentral",
+    "phonetic": "/diːˈsentrəl/",
+    "partOfSpeech": "名词",
+    "meaning": "去中心化",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "decentral",
+        "phonetic": "/diːˈsentrəl/",
+        "partOfSpeech": "n.",
+        "meaning": "Decentral",
+        "memoryTip": "去中心化",
+        "root": "decentral",
+        "rootPhonetic": "/diːˈsentrəl/",
+        "rootMeaning": "去中心化",
+        "rootPhrases": [
+          "decentral example decentral示例",
+          "decentral 区块链 decentral应用",
+          "decentral best practice decentral最佳实践"
+        ],
+        "wordPhrases": [
+          "去中心化",
+          "decentral 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "decentral 区块链 decentral应用",
+      "decentral best practice decentral最佳实践",
+      "decentral guide decentral指南",
+      "decentral tool decentral工具"
+    ],
+    "mnemonic": "decentral→去中心化",
+    "id": 663,
+    "frequency": 663
+  },
+  {
+    "root": "federated",
+    "phonetic": "/ˈfedəreɪtɪd/",
+    "partOfSpeech": "名词",
+    "meaning": "联邦",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "federated",
+        "phonetic": "/ˈfedəreɪtɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "Federated",
+        "memoryTip": "联邦",
+        "root": "federated",
+        "rootPhonetic": "/ˈfedəreɪtɪd/",
+        "rootMeaning": "联邦",
+        "rootPhrases": [
+          "federated example federated示例",
+          "federated 系统 federated应用",
+          "federated best practice federated最佳实践"
+        ],
+        "wordPhrases": [
+          "联邦",
+          "federated 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "federated 系统 federated应用",
+      "federated best practice federated最佳实践",
+      "federated guide federated指南",
+      "federated tool federated工具"
+    ],
+    "mnemonic": "federated→联邦",
+    "id": 664,
+    "frequency": 664
+  },
+  {
+    "root": "redundant",
+    "phonetic": "/rɪˈdʌndənt/",
+    "partOfSpeech": "名词",
+    "meaning": "冗余",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "redundant",
+        "phonetic": "/rɪˈdʌndənt/",
+        "partOfSpeech": "n.",
+        "meaning": "Redundant",
+        "memoryTip": "冗余",
+        "root": "redundant",
+        "rootPhonetic": "/rɪˈdʌndənt/",
+        "rootMeaning": "冗余",
+        "rootPhrases": [
+          "redundant example redundant示例",
+          "redundant 系统 redundant应用",
+          "redundant best practice redundant最佳实践"
+        ],
+        "wordPhrases": [
+          "冗余",
+          "redundant 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "redundant 系统 redundant应用",
+      "redundant best practice redundant最佳实践",
+      "redundant guide redundant指南",
+      "redundant tool redundant工具"
+    ],
+    "mnemonic": "redundant→冗余",
+    "id": 665,
+    "frequency": 665
+  },
+  {
+    "root": "loadbalance",
+    "phonetic": "/ˈloʊdˌbæləns/",
+    "partOfSpeech": "名词",
+    "meaning": "负载均衡",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "loadbalance",
+        "phonetic": "/ˈloʊdˌbæləns/",
+        "partOfSpeech": "n.",
+        "meaning": "Loadbalance",
+        "memoryTip": "负载均衡",
+        "root": "loadbalance",
+        "rootPhonetic": "/ˈloʊdˌbæləns/",
+        "rootMeaning": "负载均衡",
+        "rootPhrases": [
+          "loadbalance example loadbalance示例",
+          "loadbalance 架构 loadbalance应用",
+          "loadbalance best practice loadbalance最佳实践"
+        ],
+        "wordPhrases": [
+          "负载均衡",
+          "loadbalance 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "loadbalance 架构 loadbalance应用",
+      "loadbalance best practice loadbalance最佳实践",
+      "loadbalance guide loadbalance指南",
+      "loadbalance tool loadbalance工具"
+    ],
+    "mnemonic": "loadbalance→负载均衡",
+    "id": 666,
+    "frequency": 666
+  },
+  {
+    "root": "virtual",
+    "phonetic": "/ˈvɜːrtʃuəl/",
+    "partOfSpeech": "名词",
+    "meaning": "虚拟",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "virtual",
+        "phonetic": "/ˈvɜːrtʃuəl/",
+        "partOfSpeech": "n.",
+        "meaning": "Virtual",
+        "memoryTip": "虚拟",
+        "root": "virtual",
+        "rootPhonetic": "/ˈvɜːrtʃuəl/",
+        "rootMeaning": "虚拟",
+        "rootPhrases": [
+          "virtual example virtual示例",
+          "virtual 虚拟化 virtual应用",
+          "virtual best practice virtual最佳实践"
+        ],
+        "wordPhrases": [
+          "虚拟",
+          "virtual 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "virtual 虚拟化 virtual应用",
+      "virtual best practice virtual最佳实践",
+      "virtual guide virtual指南",
+      "virtual tool virtual工具"
+    ],
+    "mnemonic": "virtual→虚拟",
+    "id": 667,
+    "frequency": 667
+  },
+  {
+    "root": "overlay",
+    "phonetic": "/ˌoʊvərˈleɪ/",
+    "partOfSpeech": "名词",
+    "meaning": "覆盖",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "overlay",
+        "phonetic": "/ˌoʊvərˈleɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "Overlay",
+        "memoryTip": "覆盖",
+        "root": "overlay",
+        "rootPhonetic": "/ˌoʊvərˈleɪ/",
+        "rootMeaning": "覆盖",
+        "rootPhrases": [
+          "overlay example overlay示例",
+          "overlay 网络 overlay应用",
+          "overlay best practice overlay最佳实践"
+        ],
+        "wordPhrases": [
+          "覆盖",
+          "overlay 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "overlay 网络 overlay应用",
+      "overlay best practice overlay最佳实践",
+      "overlay guide overlay指南",
+      "overlay tool overlay工具"
+    ],
+    "mnemonic": "overlay→覆盖",
+    "id": 668,
+    "frequency": 668
+  },
+  {
+    "root": "sandbox",
+    "phonetic": "/ˈsændbɑːks/",
+    "partOfSpeech": "名词",
+    "meaning": "沙盒",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sandbox",
+        "phonetic": "/ˈsændbɑːks/",
+        "partOfSpeech": "n.",
+        "meaning": "Sandbox",
+        "memoryTip": "沙盒",
+        "root": "sandbox",
+        "rootPhonetic": "/ˈsændbɑːks/",
+        "rootMeaning": "沙盒",
+        "rootPhrases": [
+          "sandbox example sandbox示例",
+          "sandbox 安全 sandbox应用",
+          "sandbox best practice sandbox最佳实践"
+        ],
+        "wordPhrases": [
+          "沙盒",
+          "sandbox 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sandbox 安全 sandbox应用",
+      "sandbox best practice sandbox最佳实践",
+      "sandbox guide sandbox指南",
+      "sandbox tool sandbox工具"
+    ],
+    "mnemonic": "sandbox→沙盒",
+    "id": 669,
+    "frequency": 669
+  },
+  {
+    "root": "migration",
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "迁移",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "migration",
+        "phonetic": "/maɪˈɡreɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Migration",
+        "memoryTip": "迁移",
+        "root": "migration",
+        "rootPhonetic": "/maɪˈɡreɪʃn/",
+        "rootMeaning": "迁移",
+        "rootPhrases": [
+          "migration example migration示例",
+          "migration 系统 migration应用",
+          "migration best practice migration最佳实践"
+        ],
+        "wordPhrases": [
+          "迁移",
+          "migration 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "migration 系统 migration应用",
+      "migration best practice migration最佳实践",
+      "migration guide migration指南",
+      "migration tool migration工具"
+    ],
+    "mnemonic": "migration→迁移",
+    "id": 670,
+    "frequency": 670
+  },
+  {
+    "root": "hypervisor",
+    "phonetic": "/ˈhaɪpərvaɪzər/",
+    "partOfSpeech": "名词",
+    "meaning": "虚拟机监控器",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "hypervisor",
+        "phonetic": "/ˈhaɪpərvaɪzər/",
+        "partOfSpeech": "n.",
+        "meaning": "Hypervisor",
+        "memoryTip": "虚拟机监控器",
+        "root": "hypervisor",
+        "rootPhonetic": "/ˈhaɪpərvaɪzər/",
+        "rootMeaning": "虚拟机监控器",
+        "rootPhrases": [
+          "hypervisor example hypervisor示例",
+          "hypervisor 虚拟化 hypervisor应用",
+          "hypervisor best practice hypervisor最佳实践"
+        ],
+        "wordPhrases": [
+          "虚拟机监控器",
+          "hypervisor 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "hypervisor 虚拟化 hypervisor应用",
+      "hypervisor best practice hypervisor最佳实践",
+      "hypervisor guide hypervisor指南",
+      "hypervisor tool hypervisor工具"
+    ],
+    "mnemonic": "hypervisor→虚拟机监控器",
+    "id": 671,
+    "frequency": 671
+  },
+  {
+    "root": "runtime",
+    "phonetic": "/ˈrʌntaɪm/",
+    "partOfSpeech": "名词",
+    "meaning": "运行时",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "runtime",
+        "phonetic": "/ˈrʌntaɪm/",
+        "partOfSpeech": "n.",
+        "meaning": "Runtime",
+        "memoryTip": "运行时",
+        "root": "runtime",
+        "rootPhonetic": "/ˈrʌntaɪm/",
+        "rootMeaning": "运行时",
+        "rootPhrases": [
+          "runtime example runtime示例",
+          "runtime 系统 runtime应用",
+          "runtime best practice runtime最佳实践"
+        ],
+        "wordPhrases": [
+          "运行时",
+          "runtime 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "runtime 系统 runtime应用",
+      "runtime best practice runtime最佳实践",
+      "runtime guide runtime指南",
+      "runtime tool runtime工具"
+    ],
+    "mnemonic": "runtime→运行时",
+    "id": 672,
+    "frequency": 672
+  },
+  {
+    "root": "scheduler",
+    "phonetic": "/ˈskɛdʒuːlər/",
+    "partOfSpeech": "名词",
+    "meaning": "调度器",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "scheduler",
+        "phonetic": "/ˈskɛdʒuːlər/",
+        "partOfSpeech": "n.",
+        "meaning": "Scheduler",
+        "memoryTip": "调度器",
+        "root": "scheduler",
+        "rootPhonetic": "/ˈskɛdʒuːlər/",
+        "rootMeaning": "调度器",
+        "rootPhrases": [
+          "scheduler example scheduler示例",
+          "scheduler 系统 scheduler应用",
+          "scheduler best practice scheduler最佳实践"
+        ],
+        "wordPhrases": [
+          "调度器",
+          "scheduler 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "scheduler 系统 scheduler应用",
+      "scheduler best practice scheduler最佳实践",
+      "scheduler guide scheduler指南",
+      "scheduler tool scheduler工具"
+    ],
+    "mnemonic": "scheduler→调度器",
+    "id": 673,
+    "frequency": 673
+  },
+  {
+    "root": "master",
+    "phonetic": "/ˈmæstər/",
+    "partOfSpeech": "名词",
+    "meaning": "主节点",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "master",
+        "phonetic": "/ˈmæstər/",
+        "partOfSpeech": "n.",
+        "meaning": "Master",
+        "memoryTip": "主节点",
+        "root": "master",
+        "rootPhonetic": "/ˈmæstər/",
+        "rootMeaning": "主节点",
+        "rootPhrases": [
+          "master example master示例",
+          "master 分布式 master应用",
+          "master best practice master最佳实践"
+        ],
+        "wordPhrases": [
+          "主节点",
+          "master 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "master 分布式 master应用",
+      "master best practice master最佳实践",
+      "master guide master指南",
+      "master tool master工具"
+    ],
+    "mnemonic": "master→主节点",
+    "id": 674,
+    "frequency": 674
+  },
+  {
+    "root": "slave",
+    "phonetic": "/sleɪv/",
+    "partOfSpeech": "名词",
+    "meaning": "从节点",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "slave",
+        "phonetic": "/sleɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "Slave",
+        "memoryTip": "从节点",
+        "root": "slave",
+        "rootPhonetic": "/sleɪv/",
+        "rootMeaning": "从节点",
+        "rootPhrases": [
+          "slave example slave示例",
+          "slave 分布式 slave应用",
+          "slave best practice slave最佳实践"
+        ],
+        "wordPhrases": [
+          "从节点",
+          "slave 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "slave 分布式 slave应用",
+      "slave best practice slave最佳实践",
+      "slave guide slave指南",
+      "slave tool slave工具"
+    ],
+    "mnemonic": "slave→从节点",
+    "id": 675,
+    "frequency": 675
+  },
+  {
+    "root": "leader",
+    "phonetic": "/ˈliːdər/",
+    "partOfSpeech": "名词",
+    "meaning": "领导者",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "leader",
+        "phonetic": "/ˈliːdər/",
+        "partOfSpeech": "n.",
+        "meaning": "Leader",
+        "memoryTip": "领导者",
+        "root": "leader",
+        "rootPhonetic": "/ˈliːdər/",
+        "rootMeaning": "领导者",
+        "rootPhrases": [
+          "leader example leader示例",
+          "leader 分布式 leader应用",
+          "leader best practice leader最佳实践"
+        ],
+        "wordPhrases": [
+          "领导者",
+          "leader 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "leader 分布式 leader应用",
+      "leader best practice leader最佳实践",
+      "leader guide leader指南",
+      "leader tool leader工具"
+    ],
+    "mnemonic": "leader→领导者",
+    "id": 676,
+    "frequency": 676
+  },
+  {
+    "root": "follower",
+    "phonetic": "/ˈfɑːloʊər/",
+    "partOfSpeech": "名词",
+    "meaning": "跟随者",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "follower",
+        "phonetic": "/ˈfɑːloʊər/",
+        "partOfSpeech": "n.",
+        "meaning": "Follower",
+        "memoryTip": "跟随者",
+        "root": "follower",
+        "rootPhonetic": "/ˈfɑːloʊər/",
+        "rootMeaning": "跟随者",
+        "rootPhrases": [
+          "follower example follower示例",
+          "follower 分布式 follower应用",
+          "follower best practice follower最佳实践"
+        ],
+        "wordPhrases": [
+          "跟随者",
+          "follower 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "follower 分布式 follower应用",
+      "follower best practice follower最佳实践",
+      "follower guide follower指南",
+      "follower tool follower工具"
+    ],
+    "mnemonic": "follower→跟随者",
+    "id": 677,
+    "frequency": 677
+  },
+  {
+    "root": "quorum",
+    "phonetic": "/ˈkwɔːrəm/",
+    "partOfSpeech": "名词",
+    "meaning": "法定人数",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "quorum",
+        "phonetic": "/ˈkwɔːrəm/",
+        "partOfSpeech": "n.",
+        "meaning": "Quorum",
+        "memoryTip": "法定人数",
+        "root": "quorum",
+        "rootPhonetic": "/ˈkwɔːrəm/",
+        "rootMeaning": "法定人数",
+        "rootPhrases": [
+          "quorum example quorum示例",
+          "quorum 分布式 quorum应用",
+          "quorum best practice quorum最佳实践"
+        ],
+        "wordPhrases": [
+          "法定人数",
+          "quorum 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "quorum 分布式 quorum应用",
+      "quorum best practice quorum最佳实践",
+      "quorum guide quorum指南",
+      "quorum tool quorum工具"
+    ],
+    "mnemonic": "quorum→法定人数",
+    "id": 678,
+    "frequency": 678
+  },
+  {
+    "root": "broker",
+    "phonetic": "/ˈbroʊkər/",
+    "partOfSpeech": "名词",
+    "meaning": "代理",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "broker",
+        "phonetic": "/ˈbroʊkər/",
+        "partOfSpeech": "n.",
+        "meaning": "Broker",
+        "memoryTip": "代理",
+        "root": "broker",
+        "rootPhonetic": "/ˈbroʊkər/",
+        "rootMeaning": "代理",
+        "rootPhrases": [
+          "broker example broker示例",
+          "broker 消息 broker应用",
+          "broker best practice broker最佳实践"
+        ],
+        "wordPhrases": [
+          "代理",
+          "broker 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "broker 消息 broker应用",
+      "broker best practice broker最佳实践",
+      "broker guide broker指南",
+      "broker tool broker工具"
+    ],
+    "mnemonic": "broker→代理",
+    "id": 679,
+    "frequency": 679
+  },
+  {
+    "root": "backpressure",
+    "phonetic": "/ˈbækpreʃər/",
+    "partOfSpeech": "名词",
+    "meaning": "背压",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "backpressure",
+        "phonetic": "/ˈbækpreʃər/",
+        "partOfSpeech": "n.",
+        "meaning": "Backpressure",
+        "memoryTip": "背压",
+        "root": "backpressure",
+        "rootPhonetic": "/ˈbækpreʃər/",
+        "rootMeaning": "背压",
+        "rootPhrases": [
+          "backpressure example backpressure示例",
+          "backpressure 流控 backpressure应用",
+          "backpressure best practice backpressure最佳实践"
+        ],
+        "wordPhrases": [
+          "背压",
+          "backpressure 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "backpressure 流控 backpressure应用",
+      "backpressure best practice backpressure最佳实践",
+      "backpressure guide backpressure指南",
+      "backpressure tool backpressure工具"
+    ],
+    "mnemonic": "backpressure→背压",
+    "id": 680,
+    "frequency": 680
+  },
+  {
+    "root": "reverse",
+    "phonetic": "/rɪˈvɜːrs/",
+    "partOfSpeech": "名词",
+    "meaning": "反向",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "reverse",
+        "phonetic": "/rɪˈvɜːrs/",
+        "partOfSpeech": "n.",
+        "meaning": "Reverse",
+        "memoryTip": "反向",
+        "root": "reverse",
+        "rootPhonetic": "/rɪˈvɜːrs/",
+        "rootMeaning": "反向",
+        "rootPhrases": [
+          "reverse example reverse示例",
+          "reverse 网络 reverse应用",
+          "reverse best practice reverse最佳实践"
+        ],
+        "wordPhrases": [
+          "反向",
+          "reverse 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "reverse 网络 reverse应用",
+      "reverse best practice reverse最佳实践",
+      "reverse guide reverse指南",
+      "reverse tool reverse工具"
+    ],
+    "mnemonic": "reverse→反向",
+    "id": 681,
+    "frequency": 681
+  },
+  {
+    "root": "forward",
+    "phonetic": "/ˈfɔːrwərd/",
+    "partOfSpeech": "名词",
+    "meaning": "转发",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "forward",
+        "phonetic": "/ˈfɔːrwərd/",
+        "partOfSpeech": "n.",
+        "meaning": "Forward",
+        "memoryTip": "转发",
+        "root": "forward",
+        "rootPhonetic": "/ˈfɔːrwərd/",
+        "rootMeaning": "转发",
+        "rootPhrases": [
+          "forward example forward示例",
+          "forward 网络 forward应用",
+          "forward best practice forward最佳实践"
+        ],
+        "wordPhrases": [
+          "转发",
+          "forward 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "forward 网络 forward应用",
+      "forward best practice forward最佳实践",
+      "forward guide forward指南",
+      "forward tool forward工具"
+    ],
+    "mnemonic": "forward→转发",
+    "id": 682,
+    "frequency": 682
+  },
+  {
+    "root": "ingress",
+    "phonetic": "/ˈɪnɡres/",
+    "partOfSpeech": "名词",
+    "meaning": "入口",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "ingress",
+        "phonetic": "/ˈɪnɡres/",
+        "partOfSpeech": "n.",
+        "meaning": "Ingress",
+        "memoryTip": "入口",
+        "root": "ingress",
+        "rootPhonetic": "/ˈɪnɡres/",
+        "rootMeaning": "入口",
+        "rootPhrases": [
+          "ingress example ingress示例",
+          "ingress 网络 ingress应用",
+          "ingress best practice ingress最佳实践"
+        ],
+        "wordPhrases": [
+          "入口",
+          "ingress 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "ingress 网络 ingress应用",
+      "ingress best practice ingress最佳实践",
+      "ingress guide ingress指南",
+      "ingress tool ingress工具"
+    ],
+    "mnemonic": "ingress→入口",
+    "id": 683,
+    "frequency": 683
+  },
+  {
+    "root": "egress",
+    "phonetic": "/ˈiːɡres/",
+    "partOfSpeech": "名词",
+    "meaning": "出口",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "egress",
+        "phonetic": "/ˈiːɡres/",
+        "partOfSpeech": "n.",
+        "meaning": "Egress",
+        "memoryTip": "出口",
+        "root": "egress",
+        "rootPhonetic": "/ˈiːɡres/",
+        "rootMeaning": "出口",
+        "rootPhrases": [
+          "egress example egress示例",
+          "egress 网络 egress应用",
+          "egress best practice egress最佳实践"
+        ],
+        "wordPhrases": [
+          "出口",
+          "egress 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "egress 网络 egress应用",
+      "egress best practice egress最佳实践",
+      "egress guide egress指南",
+      "egress tool egress工具"
+    ],
+    "mnemonic": "egress→出口",
+    "id": 684,
+    "frequency": 684
+  },
+  {
+    "root": "sidecar",
+    "phonetic": "/ˈsaɪdkɑːr/",
+    "partOfSpeech": "名词",
+    "meaning": "边车",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sidecar",
+        "phonetic": "/ˈsaɪdkɑːr/",
+        "partOfSpeech": "n.",
+        "meaning": "Sidecar",
+        "memoryTip": "边车",
+        "root": "sidecar",
+        "rootPhonetic": "/ˈsaɪdkɑːr/",
+        "rootMeaning": "边车",
+        "rootPhrases": [
+          "sidecar example sidecar示例",
+          "sidecar 架构 sidecar应用",
+          "sidecar best practice sidecar最佳实践"
+        ],
+        "wordPhrases": [
+          "边车",
+          "sidecar 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sidecar 架构 sidecar应用",
+      "sidecar best practice sidecar最佳实践",
+      "sidecar guide sidecar指南",
+      "sidecar tool sidecar工具"
+    ],
+    "mnemonic": "sidecar→边车",
+    "id": 685,
+    "frequency": 685
+  },
+  {
+    "root": "ambassador",
+    "phonetic": "/æmˈbæsədər/",
+    "partOfSpeech": "名词",
+    "meaning": "大使",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "ambassador",
+        "phonetic": "/æmˈbæsədər/",
+        "partOfSpeech": "n.",
+        "meaning": "Ambassador",
+        "memoryTip": "大使",
+        "root": "ambassador",
+        "rootPhonetic": "/æmˈbæsədər/",
+        "rootMeaning": "大使",
+        "rootPhrases": [
+          "ambassador example ambassador示例",
+          "ambassador 架构 ambassador应用",
+          "ambassador best practice ambassador最佳实践"
+        ],
+        "wordPhrases": [
+          "大使",
+          "ambassador 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "ambassador 架构 ambassador应用",
+      "ambassador best practice ambassador最佳实践",
+      "ambassador guide ambassador指南",
+      "ambassador tool ambassador工具"
+    ],
+    "mnemonic": "ambassador→大使",
+    "id": 686,
+    "frequency": 686
+  },
+  {
+    "root": "singleton",
+    "phonetic": "/ˈsɪŋɡltən/",
+    "partOfSpeech": "名词",
+    "meaning": "单例",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "singleton",
+        "phonetic": "/ˈsɪŋɡltən/",
+        "partOfSpeech": "n.",
+        "meaning": "Singleton",
+        "memoryTip": "单例",
+        "root": "singleton",
+        "rootPhonetic": "/ˈsɪŋɡltən/",
+        "rootMeaning": "单例",
+        "rootPhrases": [
+          "singleton example singleton示例",
+          "singleton 设计模式 singleton应用",
+          "singleton best practice singleton最佳实践"
+        ],
+        "wordPhrases": [
+          "单例",
+          "singleton 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "singleton 设计模式 singleton应用",
+      "singleton best practice singleton最佳实践",
+      "singleton guide singleton指南",
+      "singleton tool singleton工具"
+    ],
+    "mnemonic": "singleton→单例",
+    "id": 687,
+    "frequency": 687
+  },
+  {
+    "root": "cursor",
+    "phonetic": "/ˈkɜːrsər/",
+    "partOfSpeech": "名词",
+    "meaning": "游标",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "cursor",
+        "phonetic": "/ˈkɜːrsər/",
+        "partOfSpeech": "n.",
+        "meaning": "Cursor",
+        "memoryTip": "游标",
+        "root": "cursor",
+        "rootPhonetic": "/ˈkɜːrsər/",
+        "rootMeaning": "游标",
+        "rootPhrases": [
+          "cursor example cursor示例",
+          "cursor 数据库 cursor应用",
+          "cursor best practice cursor最佳实践"
+        ],
+        "wordPhrases": [
+          "游标",
+          "cursor 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "cursor 数据库 cursor应用",
+      "cursor best practice cursor最佳实践",
+      "cursor guide cursor指南",
+      "cursor tool cursor工具"
+    ],
+    "mnemonic": "cursor→游标",
+    "id": 688,
+    "frequency": 688
+  },
+  {
+    "root": "tolerance",
+    "phonetic": "/ˈtɑːlərəns/",
+    "partOfSpeech": "名词",
+    "meaning": "容错",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "tolerance",
+        "phonetic": "/ˈtɑːlərəns/",
+        "partOfSpeech": "n.",
+        "meaning": "Tolerance",
+        "memoryTip": "容错",
+        "root": "tolerance",
+        "rootPhonetic": "/ˈtɑːlərəns/",
+        "rootMeaning": "容错",
+        "rootPhrases": [
+          "tolerance example tolerance示例",
+          "tolerance 系统 tolerance应用",
+          "tolerance best practice tolerance最佳实践"
+        ],
+        "wordPhrases": [
+          "容错",
+          "tolerance 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "tolerance 系统 tolerance应用",
+      "tolerance best practice tolerance最佳实践",
+      "tolerance guide tolerance指南",
+      "tolerance tool tolerance工具"
+    ],
+    "mnemonic": "tolerance→容错",
+    "id": 689,
+    "frequency": 689
+  },
+  {
+    "root": "sharding",
+    "phonetic": "/ˈʃɑːrdɪŋ/",
+    "partOfSpeech": "名词",
+    "meaning": "分片",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sharding",
+        "phonetic": "/ˈʃɑːrdɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "Sharding",
+        "memoryTip": "分片",
+        "root": "sharding",
+        "rootPhonetic": "/ˈʃɑːrdɪŋ/",
+        "rootMeaning": "分片",
+        "rootPhrases": [
+          "sharding example sharding示例",
+          "sharding 数据库 sharding应用",
+          "sharding best practice sharding最佳实践"
+        ],
+        "wordPhrases": [
+          "分片",
+          "sharding 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sharding 数据库 sharding应用",
+      "sharding best practice sharding最佳实践",
+      "sharding guide sharding指南",
+      "sharding tool sharding工具"
+    ],
+    "mnemonic": "sharding→分片",
+    "id": 690,
+    "frequency": 690
+  },
+  {
+    "root": "normalization",
+    "phonetic": "/ˌnɔːrmələˈzeɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "规范化",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "normalization",
+        "phonetic": "/ˌnɔːrmələˈzeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Normalization",
+        "memoryTip": "规范化",
+        "root": "normalization",
+        "rootPhonetic": "/ˌnɔːrmələˈzeɪʃn/",
+        "rootMeaning": "规范化",
+        "rootPhrases": [
+          "normalization example normalization示例",
+          "normalization 数据库 normalization应用",
+          "normalization best practice normalization最佳实践"
+        ],
+        "wordPhrases": [
+          "规范化",
+          "normalization 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "normalization 数据库 normalization应用",
+      "normalization best practice normalization最佳实践",
+      "normalization guide normalization指南",
+      "normalization tool normalization工具"
+    ],
+    "mnemonic": "normalization→规范化",
+    "id": 691,
+    "frequency": 691
+  },
+  {
+    "root": "denormalize",
+    "phonetic": "/diːˈnɔːrməlaɪz/",
+    "partOfSpeech": "名词",
+    "meaning": "反规范化",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "denormalize",
+        "phonetic": "/diːˈnɔːrməlaɪz/",
+        "partOfSpeech": "n.",
+        "meaning": "Denormalize",
+        "memoryTip": "反规范化",
+        "root": "denormalize",
+        "rootPhonetic": "/diːˈnɔːrməlaɪz/",
+        "rootMeaning": "反规范化",
+        "rootPhrases": [
+          "denormalize example denormalize示例",
+          "denormalize 数据库 denormalize应用",
+          "denormalize best practice denormalize最佳实践"
+        ],
+        "wordPhrases": [
+          "反规范化",
+          "denormalize 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "denormalize 数据库 denormalize应用",
+      "denormalize best practice denormalize最佳实践",
+      "denormalize guide denormalize指南",
+      "denormalize tool denormalize工具"
+    ],
+    "mnemonic": "denormalize→反规范化",
+    "id": 692,
+    "frequency": 692
+  },
+  {
+    "root": "backup",
+    "phonetic": "/ˈbækʌp/",
+    "partOfSpeech": "名词",
+    "meaning": "备份",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "backup",
+        "phonetic": "/ˈbækʌp/",
+        "partOfSpeech": "n.",
+        "meaning": "Backup",
+        "memoryTip": "备份",
+        "root": "backup",
+        "rootPhonetic": "/ˈbækʌp/",
+        "rootMeaning": "备份",
+        "rootPhrases": [
+          "backup example backup示例",
+          "backup 存储 backup应用",
+          "backup best practice backup最佳实践"
+        ],
+        "wordPhrases": [
+          "备份",
+          "backup 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "backup 存储 backup应用",
+      "backup best practice backup最佳实践",
+      "backup guide backup指南",
+      "backup tool backup工具"
+    ],
+    "mnemonic": "backup→备份",
+    "id": 693,
+    "frequency": 693
+  },
+  {
+    "root": "restore",
+    "phonetic": "/rɪˈstɔːr/",
+    "partOfSpeech": "名词",
+    "meaning": "恢复",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "restore",
+        "phonetic": "/rɪˈstɔːr/",
+        "partOfSpeech": "n.",
+        "meaning": "Restore",
+        "memoryTip": "恢复",
+        "root": "restore",
+        "rootPhonetic": "/rɪˈstɔːr/",
+        "rootMeaning": "恢复",
+        "rootPhrases": [
+          "restore example restore示例",
+          "restore 存储 restore应用",
+          "restore best practice restore最佳实践"
+        ],
+        "wordPhrases": [
+          "恢复",
+          "restore 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "restore 存储 restore应用",
+      "restore best practice restore最佳实践",
+      "restore guide restore指南",
+      "restore tool restore工具"
+    ],
+    "mnemonic": "restore→恢复",
+    "id": 694,
+    "frequency": 694
+  },
+  {
+    "root": "archive",
+    "phonetic": "/ˈɑːrkaɪv/",
+    "partOfSpeech": "名词",
+    "meaning": "归档",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "archive",
+        "phonetic": "/ˈɑːrkaɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "Archive",
+        "memoryTip": "归档",
+        "root": "archive",
+        "rootPhonetic": "/ˈɑːrkaɪv/",
+        "rootMeaning": "归档",
+        "rootPhrases": [
+          "archive example archive示例",
+          "archive 存储 archive应用",
+          "archive best practice archive最佳实践"
+        ],
+        "wordPhrases": [
+          "归档",
+          "archive 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "archive 存储 archive应用",
+      "archive best practice archive最佳实践",
+      "archive guide archive指南",
+      "archive tool archive工具"
+    ],
+    "mnemonic": "archive→归档",
+    "id": 695,
+    "frequency": 695
+  },
+  {
+    "root": "compress",
+    "phonetic": "/kəmˈpres/",
+    "partOfSpeech": "名词",
+    "meaning": "压缩",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "compress",
+        "phonetic": "/kəmˈpres/",
+        "partOfSpeech": "n.",
+        "meaning": "Compress",
+        "memoryTip": "压缩",
+        "root": "compress",
+        "rootPhonetic": "/kəmˈpres/",
+        "rootMeaning": "压缩",
+        "rootPhrases": [
+          "compress example compress示例",
+          "compress 存储 compress应用",
+          "compress best practice compress最佳实践"
+        ],
+        "wordPhrases": [
+          "压缩",
+          "compress 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "compress 存储 compress应用",
+      "compress best practice compress最佳实践",
+      "compress guide compress指南",
+      "compress tool compress工具"
+    ],
+    "mnemonic": "compress→压缩",
+    "id": 696,
+    "frequency": 696
+  },
+  {
+    "root": "promote",
+    "phonetic": "/prəˈmoʊt/",
+    "partOfSpeech": "名词",
+    "meaning": "晋升",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "promote",
+        "phonetic": "/prəˈmoʊt/",
+        "partOfSpeech": "n.",
+        "meaning": "Promote",
+        "memoryTip": "晋升",
+        "root": "promote",
+        "rootPhonetic": "/prəˈmoʊt/",
+        "rootMeaning": "晋升",
+        "rootPhrases": [
+          "promote example promote示例",
+          "promote DevOps promote应用",
+          "promote best practice promote最佳实践"
+        ],
+        "wordPhrases": [
+          "晋升",
+          "promote 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "promote DevOps promote应用",
+      "promote best practice promote最佳实践",
+      "promote guide promote指南",
+      "promote tool promote工具"
+    ],
+    "mnemonic": "promote→晋升",
+    "id": 697,
+    "frequency": 697
+  },
+  {
+    "root": "lint",
+    "phonetic": "/lɪnt/",
+    "partOfSpeech": "名词",
+    "meaning": "静态检查",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "lint",
+        "phonetic": "/lɪnt/",
+        "partOfSpeech": "n.",
+        "meaning": "Lint",
+        "memoryTip": "静态检查",
+        "root": "lint",
+        "rootPhonetic": "/lɪnt/",
+        "rootMeaning": "静态检查",
+        "rootPhrases": [
+          "lint example lint示例",
+          "lint 代码 lint应用",
+          "lint best practice lint最佳实践"
+        ],
+        "wordPhrases": [
+          "静态检查",
+          "lint 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "lint 代码 lint应用",
+      "lint best practice lint最佳实践",
+      "lint guide lint指南",
+      "lint tool lint工具"
+    ],
+    "mnemonic": "lint→静态检查",
+    "id": 698,
+    "frequency": 698
+  },
+  {
+    "root": "audit",
+    "phonetic": "/ˈɔːdɪt/",
+    "partOfSpeech": "名词",
+    "meaning": "审计",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "audit",
+        "phonetic": "/ˈɔːdɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "Audit",
+        "memoryTip": "审计",
+        "root": "audit",
+        "rootPhonetic": "/ˈɔːdɪt/",
+        "rootMeaning": "审计",
+        "rootPhrases": [
+          "audit example audit示例",
+          "audit 安全 audit应用",
+          "audit best practice audit最佳实践"
+        ],
+        "wordPhrases": [
+          "审计",
+          "audit 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "audit 安全 audit应用",
+      "audit best practice audit最佳实践",
+      "audit guide audit指南",
+      "audit tool audit工具"
+    ],
+    "mnemonic": "audit→审计",
+    "id": 699,
+    "frequency": 699
+  },
+  {
+    "root": "build",
+    "phonetic": "/bɪld/",
+    "partOfSpeech": "名词",
+    "meaning": "构建",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "build",
+        "phonetic": "/bɪld/",
+        "partOfSpeech": "n.",
+        "meaning": "Build",
+        "memoryTip": "构建",
+        "root": "build",
+        "rootPhonetic": "/bɪld/",
+        "rootMeaning": "构建",
+        "rootPhrases": [
+          "build example build示例",
+          "build DevOps build应用",
+          "build best practice build最佳实践"
+        ],
+        "wordPhrases": [
+          "构建",
+          "build 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "build DevOps build应用",
+      "build best practice build最佳实践",
+      "build guide build指南",
+      "build tool build工具"
+    ],
+    "mnemonic": "build→构建",
+    "id": 700,
+    "frequency": 700
+  },
+  {
+    "root": "release",
+    "phonetic": "/rɪˈliːs/",
+    "partOfSpeech": "名词",
+    "meaning": "发布",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "release",
+        "phonetic": "/rɪˈliːs/",
+        "partOfSpeech": "n.",
+        "meaning": "Release",
+        "memoryTip": "发布",
+        "root": "release",
+        "rootPhonetic": "/rɪˈliːs/",
+        "rootMeaning": "发布",
+        "rootPhrases": [
+          "release example release示例",
+          "release 版本 release应用",
+          "release best practice release最佳实践"
+        ],
+        "wordPhrases": [
+          "发布",
+          "release 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "release 版本 release应用",
+      "release best practice release最佳实践",
+      "release guide release指南",
+      "release tool release工具"
+    ],
+    "mnemonic": "release→发布",
+    "id": 701,
+    "frequency": 701
+  },
+  {
+    "root": "tag",
+    "phonetic": "/tæɡ/",
+    "partOfSpeech": "名词",
+    "meaning": "标签",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "tag",
+        "phonetic": "/tæɡ/",
+        "partOfSpeech": "n.",
+        "meaning": "Tag",
+        "memoryTip": "标签",
+        "root": "tag",
+        "rootPhonetic": "/tæɡ/",
+        "rootMeaning": "标签",
+        "rootPhrases": [
+          "tag example tag示例",
+          "tag 版本 tag应用",
+          "tag best practice tag最佳实践"
+        ],
+        "wordPhrases": [
+          "标签",
+          "tag 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "tag 版本 tag应用",
+      "tag best practice tag最佳实践",
+      "tag guide tag指南",
+      "tag tool tag工具"
+    ],
+    "mnemonic": "tag→标签",
+    "id": 702,
+    "frequency": 702
+  },
+  {
+    "root": "cherrypick",
+    "phonetic": "/ˈtʃeri pɪk/",
+    "partOfSpeech": "名词",
+    "meaning": "遴选",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "cherrypick",
+        "phonetic": "/ˈtʃeri pɪk/",
+        "partOfSpeech": "n.",
+        "meaning": "Cherrypick",
+        "memoryTip": "遴选",
+        "root": "cherrypick",
+        "rootPhonetic": "/ˈtʃeri pɪk/",
+        "rootMeaning": "遴选",
+        "rootPhrases": [
+          "cherrypick example cherrypick示例",
+          "cherrypick Git cherrypick应用",
+          "cherrypick best practice cherrypick最佳实践"
+        ],
+        "wordPhrases": [
+          "遴选",
+          "cherrypick 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "cherrypick Git cherrypick应用",
+      "cherrypick best practice cherrypick最佳实践",
+      "cherrypick guide cherrypick指南",
+      "cherrypick tool cherrypick工具"
+    ],
+    "mnemonic": "cherrypick→遴选",
+    "id": 703,
+    "frequency": 703
+  },
+  {
+    "root": "stash",
+    "phonetic": "/stæʃ/",
+    "partOfSpeech": "名词",
+    "meaning": "暂存",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "stash",
+        "phonetic": "/stæʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "Stash",
+        "memoryTip": "暂存",
+        "root": "stash",
+        "rootPhonetic": "/stæʃ/",
+        "rootMeaning": "暂存",
+        "rootPhrases": [
+          "stash example stash示例",
+          "stash Git stash应用",
+          "stash best practice stash最佳实践"
+        ],
+        "wordPhrases": [
+          "暂存",
+          "stash 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "stash Git stash应用",
+      "stash best practice stash最佳实践",
+      "stash guide stash指南",
+      "stash tool stash工具"
+    ],
+    "mnemonic": "stash→暂存",
+    "id": 704,
+    "frequency": 704
+  },
+  {
+    "root": "reactive",
+    "phonetic": "/riˈæktɪv/",
+    "partOfSpeech": "名词",
+    "meaning": "响应式",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "reactive",
+        "phonetic": "/riˈæktɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "Reactive",
+        "memoryTip": "响应式",
+        "root": "reactive",
+        "rootPhonetic": "/riˈæktɪv/",
+        "rootMeaning": "响应式",
+        "rootPhrases": [
+          "reactive example reactive示例",
+          "reactive 前端 reactive应用",
+          "reactive best practice reactive最佳实践"
+        ],
+        "wordPhrases": [
+          "响应式",
+          "reactive 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "reactive 前端 reactive应用",
+      "reactive best practice reactive最佳实践",
+      "reactive guide reactive指南",
+      "reactive tool reactive工具"
+    ],
+    "mnemonic": "reactive→响应式",
+    "id": 705,
+    "frequency": 705
+  },
+  {
+    "root": "immutable",
+    "phonetic": "/ɪˈmjuːtəbl/",
+    "partOfSpeech": "名词",
+    "meaning": "不可变",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "immutable",
+        "phonetic": "/ɪˈmjuːtəbl/",
+        "partOfSpeech": "n.",
+        "meaning": "Immutable",
+        "memoryTip": "不可变",
+        "root": "immutable",
+        "rootPhonetic": "/ɪˈmjuːtəbl/",
+        "rootMeaning": "不可变",
+        "rootPhrases": [
+          "immutable example immutable示例",
+          "immutable 编程 immutable应用",
+          "immutable best practice immutable最佳实践"
+        ],
+        "wordPhrases": [
+          "不可变",
+          "immutable 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "immutable 编程 immutable应用",
+      "immutable best practice immutable最佳实践",
+      "immutable guide immutable指南",
+      "immutable tool immutable工具"
+    ],
+    "mnemonic": "immutable→不可变",
+    "id": 706,
+    "frequency": 706
+  },
+  {
+    "root": "hydrate",
+    "phonetic": "/haɪˈdreɪt/",
+    "partOfSpeech": "名词",
+    "meaning": "注水",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "hydrate",
+        "phonetic": "/haɪˈdreɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "Hydrate",
+        "memoryTip": "注水",
+        "root": "hydrate",
+        "rootPhonetic": "/haɪˈdreɪt/",
+        "rootMeaning": "注水",
+        "rootPhrases": [
+          "hydrate example hydrate示例",
+          "hydrate 前端 hydrate应用",
+          "hydrate best practice hydrate最佳实践"
+        ],
+        "wordPhrases": [
+          "注水",
+          "hydrate 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "hydrate 前端 hydrate应用",
+      "hydrate best practice hydrate最佳实践",
+      "hydrate guide hydrate指南",
+      "hydrate tool hydrate工具"
+    ],
+    "mnemonic": "hydrate→注水",
+    "id": 707,
+    "frequency": 707
+  },
+  {
+    "root": "lazy",
+    "phonetic": "/ˈleɪzi/",
+    "partOfSpeech": "名词",
+    "meaning": "懒加载",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "lazy",
+        "phonetic": "/ˈleɪzi/",
+        "partOfSpeech": "n.",
+        "meaning": "Lazy",
+        "memoryTip": "懒加载",
+        "root": "lazy",
+        "rootPhonetic": "/ˈleɪzi/",
+        "rootMeaning": "懒加载",
+        "rootPhrases": [
+          "lazy example lazy示例",
+          "lazy 优化 lazy应用",
+          "lazy best practice lazy最佳实践"
+        ],
+        "wordPhrases": [
+          "懒加载",
+          "lazy 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "lazy 优化 lazy应用",
+      "lazy best practice lazy最佳实践",
+      "lazy guide lazy指南",
+      "lazy tool lazy工具"
+    ],
+    "mnemonic": "lazy→懒加载",
+    "id": 708,
+    "frequency": 708
+  },
+  {
+    "root": "prefetch",
+    "phonetic": "/ˌpriːˈfetʃ/",
+    "partOfSpeech": "名词",
+    "meaning": "预取",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "prefetch",
+        "phonetic": "/ˌpriːˈfetʃ/",
+        "partOfSpeech": "n.",
+        "meaning": "Prefetch",
+        "memoryTip": "预取",
+        "root": "prefetch",
+        "rootPhonetic": "/ˌpriːˈfetʃ/",
+        "rootMeaning": "预取",
+        "rootPhrases": [
+          "prefetch example prefetch示例",
+          "prefetch 优化 prefetch应用",
+          "prefetch best practice prefetch最佳实践"
+        ],
+        "wordPhrases": [
+          "预取",
+          "prefetch 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "prefetch 优化 prefetch应用",
+      "prefetch best practice prefetch最佳实践",
+      "prefetch guide prefetch指南",
+      "prefetch tool prefetch工具"
+    ],
+    "mnemonic": "prefetch→预取",
+    "id": 709,
+    "frequency": 709
+  },
+  {
+    "root": "stylesheet",
+    "phonetic": "/ˈstaɪlʃiːt/",
+    "partOfSpeech": "名词",
+    "meaning": "样式表",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "stylesheet",
+        "phonetic": "/ˈstaɪlʃiːt/",
+        "partOfSpeech": "n.",
+        "meaning": "Stylesheet",
+        "memoryTip": "样式表",
+        "root": "stylesheet",
+        "rootPhonetic": "/ˈstaɪlʃiːt/",
+        "rootMeaning": "样式表",
+        "rootPhrases": [
+          "stylesheet example stylesheet示例",
+          "stylesheet CSS stylesheet应用",
+          "stylesheet best practice stylesheet最佳实践"
+        ],
+        "wordPhrases": [
+          "样式表",
+          "stylesheet 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "stylesheet CSS stylesheet应用",
+      "stylesheet best practice stylesheet最佳实践",
+      "stylesheet guide stylesheet指南",
+      "stylesheet tool stylesheet工具"
+    ],
+    "mnemonic": "stylesheet→样式表",
+    "id": 710,
+    "frequency": 710
+  },
+  {
+    "root": "viewport",
+    "phonetic": "/ˈvjuːpɔːrt/",
+    "partOfSpeech": "名词",
+    "meaning": "视口",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "viewport",
+        "phonetic": "/ˈvjuːpɔːrt/",
+        "partOfSpeech": "n.",
+        "meaning": "Viewport",
+        "memoryTip": "视口",
+        "root": "viewport",
+        "rootPhonetic": "/ˈvjuːpɔːrt/",
+        "rootMeaning": "视口",
+        "rootPhrases": [
+          "viewport example viewport示例",
+          "viewport 浏览器 viewport应用",
+          "viewport best practice viewport最佳实践"
+        ],
+        "wordPhrases": [
+          "视口",
+          "viewport 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "viewport 浏览器 viewport应用",
+      "viewport best practice viewport最佳实践",
+      "viewport guide viewport指南",
+      "viewport tool viewport工具"
+    ],
+    "mnemonic": "viewport→视口",
+    "id": 711,
+    "frequency": 711
+  },
+  {
+    "root": "responsive",
+    "phonetic": "/rɪˈspɑːnsɪv/",
+    "partOfSpeech": "名词",
+    "meaning": "响应式",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "responsive",
+        "phonetic": "/rɪˈspɑːnsɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "Responsive",
+        "memoryTip": "响应式",
+        "root": "responsive",
+        "rootPhonetic": "/rɪˈspɑːnsɪv/",
+        "rootMeaning": "响应式",
+        "rootPhrases": [
+          "responsive example responsive示例",
+          "responsive 移动端 responsive应用",
+          "responsive best practice responsive最佳实践"
+        ],
+        "wordPhrases": [
+          "响应式",
+          "responsive 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "responsive 移动端 responsive应用",
+      "responsive best practice responsive最佳实践",
+      "responsive guide responsive指南",
+      "responsive tool responsive工具"
+    ],
+    "mnemonic": "responsive→响应式",
+    "id": 712,
+    "frequency": 712
+  },
+  {
+    "root": "adaptive",
+    "phonetic": "/əˈdæptɪv/",
+    "partOfSpeech": "名词",
+    "meaning": "自适应",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "adaptive",
+        "phonetic": "/əˈdæptɪv/",
+        "partOfSpeech": "n.",
+        "meaning": "Adaptive",
+        "memoryTip": "自适应",
+        "root": "adaptive",
+        "rootPhonetic": "/əˈdæptɪv/",
+        "rootMeaning": "自适应",
+        "rootPhrases": [
+          "adaptive example adaptive示例",
+          "adaptive 设计 adaptive应用",
+          "adaptive best practice adaptive最佳实践"
+        ],
+        "wordPhrases": [
+          "自适应",
+          "adaptive 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "adaptive 设计 adaptive应用",
+      "adaptive best practice adaptive最佳实践",
+      "adaptive guide adaptive指南",
+      "adaptive tool adaptive工具"
+    ],
+    "mnemonic": "adaptive→自适应",
+    "id": 713,
+    "frequency": 713
+  },
+  {
+    "root": "media",
+    "phonetic": "/ˈmiːdiə/",
+    "partOfSpeech": "名词",
+    "meaning": "媒体",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "media",
+        "phonetic": "/ˈmiːdiə/",
+        "partOfSpeech": "n.",
+        "meaning": "Media",
+        "memoryTip": "媒体",
+        "root": "media",
+        "rootPhonetic": "/ˈmiːdiə/",
+        "rootMeaning": "媒体",
+        "rootPhrases": [
+          "media example media示例",
+          "media CSS media应用",
+          "media best practice media最佳实践"
+        ],
+        "wordPhrases": [
+          "媒体",
+          "media 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "media CSS media应用",
+      "media best practice media最佳实践",
+      "media guide media指南",
+      "media tool media工具"
+    ],
+    "mnemonic": "media→媒体",
+    "id": 714,
+    "frequency": 714
+  },
+  {
+    "root": "grid",
+    "phonetic": "/ɡrɪd/",
+    "partOfSpeech": "名词",
+    "meaning": "网格",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "grid",
+        "phonetic": "/ɡrɪd/",
+        "partOfSpeech": "n.",
+        "meaning": "Grid",
+        "memoryTip": "网格",
+        "root": "grid",
+        "rootPhonetic": "/ɡrɪd/",
+        "rootMeaning": "网格",
+        "rootPhrases": [
+          "grid example grid示例",
+          "grid CSS grid应用",
+          "grid best practice grid最佳实践"
+        ],
+        "wordPhrases": [
+          "网格",
+          "grid 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "grid CSS grid应用",
+      "grid best practice grid最佳实践",
+      "grid guide grid指南",
+      "grid tool grid工具"
+    ],
+    "mnemonic": "grid→网格",
+    "id": 715,
+    "frequency": 715
+  },
+  {
+    "root": "flex",
+    "phonetic": "/fleks/",
+    "partOfSpeech": "名词",
+    "meaning": "弹性",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "flex",
+        "phonetic": "/fleks/",
+        "partOfSpeech": "n.",
+        "meaning": "Flex",
+        "memoryTip": "弹性",
+        "root": "flex",
+        "rootPhonetic": "/fleks/",
+        "rootMeaning": "弹性",
+        "rootPhrases": [
+          "flex example flex示例",
+          "flex CSS flex应用",
+          "flex best practice flex最佳实践"
+        ],
+        "wordPhrases": [
+          "弹性",
+          "flex 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "flex CSS flex应用",
+      "flex best practice flex最佳实践",
+      "flex guide flex指南",
+      "flex tool flex工具"
+    ],
+    "mnemonic": "flex→弹性",
+    "id": 716,
+    "frequency": 716
+  },
+  {
+    "root": "transition",
+    "phonetic": "/trænˈzɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "过渡",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "transition",
+        "phonetic": "/trænˈzɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Transition",
+        "memoryTip": "过渡",
+        "root": "transition",
+        "rootPhonetic": "/trænˈzɪʃn/",
+        "rootMeaning": "过渡",
+        "rootPhrases": [
+          "transition example transition示例",
+          "transition CSS transition应用",
+          "transition best practice transition最佳实践"
+        ],
+        "wordPhrases": [
+          "过渡",
+          "transition 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "transition CSS transition应用",
+      "transition best practice transition最佳实践",
+      "transition guide transition指南",
+      "transition tool transition工具"
+    ],
+    "mnemonic": "transition→过渡",
+    "id": 717,
+    "frequency": 717
+  },
+  {
+    "root": "animation",
+    "phonetic": "/ˌænɪˈmeɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "动画",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "animation",
+        "phonetic": "/ˌænɪˈmeɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Animation",
+        "memoryTip": "动画",
+        "root": "animation",
+        "rootPhonetic": "/ˌænɪˈmeɪʃn/",
+        "rootMeaning": "动画",
+        "rootPhrases": [
+          "animation example animation示例",
+          "animation CSS animation应用",
+          "animation best practice animation最佳实践"
+        ],
+        "wordPhrases": [
+          "动画",
+          "animation 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "animation CSS animation应用",
+      "animation best practice animation最佳实践",
+      "animation guide animation指南",
+      "animation tool animation工具"
+    ],
+    "mnemonic": "animation→动画",
+    "id": 718,
+    "frequency": 718
+  },
+  {
+    "root": "resource",
+    "phonetic": "/ˈriːsɔːrs/",
+    "partOfSpeech": "名词",
+    "meaning": "资源",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "resource",
+        "phonetic": "/ˈriːsɔːrs/",
+        "partOfSpeech": "n.",
+        "meaning": "Resource",
+        "memoryTip": "资源",
+        "root": "resource",
+        "rootPhonetic": "/ˈriːsɔːrs/",
+        "rootMeaning": "资源",
+        "rootPhrases": [
+          "resource example resource示例",
+          "resource API resource应用",
+          "resource best practice resource最佳实践"
+        ],
+        "wordPhrases": [
+          "资源",
+          "resource 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "resource API resource应用",
+      "resource best practice resource最佳实践",
+      "resource guide resource指南",
+      "resource tool resource工具"
+    ],
+    "mnemonic": "resource→资源",
+    "id": 719,
+    "frequency": 719
+  },
+  {
+    "root": "mime",
+    "phonetic": "/maɪm/",
+    "partOfSpeech": "名词",
+    "meaning": "多用途邮件扩展",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "mime",
+        "phonetic": "/maɪm/",
+        "partOfSpeech": "n.",
+        "meaning": "Mime",
+        "memoryTip": "多用途邮件扩展",
+        "root": "mime",
+        "rootPhonetic": "/maɪm/",
+        "rootMeaning": "多用途邮件扩展",
+        "rootPhrases": [
+          "mime example mime示例",
+          "mime 协议 mime应用",
+          "mime best practice mime最佳实践"
+        ],
+        "wordPhrases": [
+          "多用途邮件扩展",
+          "mime 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "mime 协议 mime应用",
+      "mime best practice mime最佳实践",
+      "mime guide mime指南",
+      "mime tool mime工具"
+    ],
+    "mnemonic": "mime→多用途邮件扩展",
+    "id": 720,
+    "frequency": 720
+  },
+  {
+    "root": "serializer",
+    "phonetic": "/ˈsɪəriəlaɪzər/",
+    "partOfSpeech": "名词",
+    "meaning": "序列化器",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "serializer",
+        "phonetic": "/ˈsɪəriəlaɪzər/",
+        "partOfSpeech": "n.",
+        "meaning": "Serializer",
+        "memoryTip": "序列化器",
+        "root": "serializer",
+        "rootPhonetic": "/ˈsɪəriəlaɪzər/",
+        "rootMeaning": "序列化器",
+        "rootPhrases": [
+          "serializer example serializer示例",
+          "serializer 数据 serializer应用",
+          "serializer best practice serializer最佳实践"
+        ],
+        "wordPhrases": [
+          "序列化器",
+          "serializer 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "serializer 数据 serializer应用",
+      "serializer best practice serializer最佳实践",
+      "serializer guide serializer指南",
+      "serializer tool serializer工具"
+    ],
+    "mnemonic": "serializer→序列化器",
+    "id": 721,
+    "frequency": 721
+  },
+  {
+    "root": "openapi",
+    "phonetic": "/ˈoʊpən aɪ/",
+    "partOfSpeech": "名词",
+    "meaning": "开放API规范",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "openapi",
+        "phonetic": "/ˈoʊpən aɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "Openapi",
+        "memoryTip": "开放API规范",
+        "root": "openapi",
+        "rootPhonetic": "/ˈoʊpən aɪ/",
+        "rootMeaning": "开放API规范",
+        "rootPhrases": [
+          "openapi example openapi示例",
+          "openapi API openapi应用",
+          "openapi best practice openapi最佳实践"
+        ],
+        "wordPhrases": [
+          "开放API规范",
+          "openapi 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "openapi API openapi应用",
+      "openapi best practice openapi最佳实践",
+      "openapi guide openapi指南",
+      "openapi tool openapi工具"
+    ],
+    "mnemonic": "openapi→开放API规范",
+    "id": 722,
+    "frequency": 722
+  },
+  {
+    "root": "curl",
+    "phonetic": "/kɜːrl/",
+    "partOfSpeech": "名词",
+    "meaning": "命令行HTTP工具",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "curl",
+        "phonetic": "/kɜːrl/",
+        "partOfSpeech": "n.",
+        "meaning": "Curl",
+        "memoryTip": "命令行HTTP工具",
+        "root": "curl",
+        "rootPhonetic": "/kɜːrl/",
+        "rootMeaning": "命令行HTTP工具",
+        "rootPhrases": [
+          "curl example curl示例",
+          "curl 工具 curl应用",
+          "curl best practice curl最佳实践"
+        ],
+        "wordPhrases": [
+          "命令行HTTP工具",
+          "curl 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "curl 工具 curl应用",
+      "curl best practice curl最佳实践",
+      "curl guide curl指南",
+      "curl tool curl工具"
+    ],
+    "mnemonic": "curl→命令行HTTP工具",
+    "id": 723,
+    "frequency": 723
+  },
+  {
+    "root": "wget",
+    "phonetic": "/dʌbljuː ɡet/",
+    "partOfSpeech": "名词",
+    "meaning": "网络下载工具",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "wget",
+        "phonetic": "/dʌbljuː ɡet/",
+        "partOfSpeech": "n.",
+        "meaning": "Wget",
+        "memoryTip": "网络下载工具",
+        "root": "wget",
+        "rootPhonetic": "/dʌbljuː ɡet/",
+        "rootMeaning": "网络下载工具",
+        "rootPhrases": [
+          "wget example wget示例",
+          "wget 工具 wget应用",
+          "wget best practice wget最佳实践"
+        ],
+        "wordPhrases": [
+          "网络下载工具",
+          "wget 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "wget 工具 wget应用",
+      "wget best practice wget最佳实践",
+      "wget guide wget指南",
+      "wget tool wget工具"
+    ],
+    "mnemonic": "wget→网络下载工具",
+    "id": 724,
+    "frequency": 724
+  },
+  {
+    "root": "scraping",
+    "phonetic": "/ˈskreɪpɪŋ/",
+    "partOfSpeech": "名词",
+    "meaning": "抓取",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "scraping",
+        "phonetic": "/ˈskreɪpɪŋ/",
+        "partOfSpeech": "n.",
+        "meaning": "Scraping",
+        "memoryTip": "抓取",
+        "root": "scraping",
+        "rootPhonetic": "/ˈskreɪpɪŋ/",
+        "rootMeaning": "抓取",
+        "rootPhrases": [
+          "scraping example scraping示例",
+          "scraping 爬虫 scraping应用",
+          "scraping best practice scraping最佳实践"
+        ],
+        "wordPhrases": [
+          "抓取",
+          "scraping 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "scraping 爬虫 scraping应用",
+      "scraping best practice scraping最佳实践",
+      "scraping guide scraping指南",
+      "scraping tool scraping工具"
+    ],
+    "mnemonic": "scraping→抓取",
+    "id": 725,
+    "frequency": 725
+  },
+  {
+    "root": "crawler",
+    "phonetic": "/ˈkrɔːlər/",
+    "partOfSpeech": "名词",
+    "meaning": "爬虫",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "crawler",
+        "phonetic": "/ˈkrɔːlər/",
+        "partOfSpeech": "n.",
+        "meaning": "Crawler",
+        "memoryTip": "爬虫",
+        "root": "crawler",
+        "rootPhonetic": "/ˈkrɔːlər/",
+        "rootMeaning": "爬虫",
+        "rootPhrases": [
+          "crawler example crawler示例",
+          "crawler 爬虫 crawler应用",
+          "crawler best practice crawler最佳实践"
+        ],
+        "wordPhrases": [
+          "爬虫",
+          "crawler 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "crawler 爬虫 crawler应用",
+      "crawler best practice crawler最佳实践",
+      "crawler guide crawler指南",
+      "crawler tool crawler工具"
+    ],
+    "mnemonic": "crawler→爬虫",
+    "id": 726,
+    "frequency": 726
+  },
+  {
+    "root": "spider",
+    "phonetic": "/ˈspaɪdər/",
+    "partOfSpeech": "名词",
+    "meaning": "蜘蛛",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "spider",
+        "phonetic": "/ˈspaɪdər/",
+        "partOfSpeech": "n.",
+        "meaning": "Spider",
+        "memoryTip": "蜘蛛",
+        "root": "spider",
+        "rootPhonetic": "/ˈspaɪdər/",
+        "rootMeaning": "蜘蛛",
+        "rootPhrases": [
+          "spider example spider示例",
+          "spider 爬虫 spider应用",
+          "spider best practice spider最佳实践"
+        ],
+        "wordPhrases": [
+          "蜘蛛",
+          "spider 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "spider 爬虫 spider应用",
+      "spider best practice spider最佳实践",
+      "spider guide spider指南",
+      "spider tool spider工具"
+    ],
+    "mnemonic": "spider→蜘蛛",
+    "id": 727,
+    "frequency": 727
+  },
+  {
+    "root": "vulnerability",
+    "phonetic": "/ˌvʌlnərəˈbɪlɪti/",
+    "partOfSpeech": "名词",
+    "meaning": "漏洞",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "vulnerability",
+        "phonetic": "/ˌvʌlnərəˈbɪlɪti/",
+        "partOfSpeech": "n.",
+        "meaning": "Vulnerability",
+        "memoryTip": "漏洞",
+        "root": "vulnerability",
+        "rootPhonetic": "/ˌvʌlnərəˈbɪlɪti/",
+        "rootMeaning": "漏洞",
+        "rootPhrases": [
+          "vulnerability example vulnerability示例",
+          "vulnerability 安全 vulnerability应用",
+          "vulnerability best practice vulnerability最佳实践"
+        ],
+        "wordPhrases": [
+          "漏洞",
+          "vulnerability 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "vulnerability 安全 vulnerability应用",
+      "vulnerability best practice vulnerability最佳实践",
+      "vulnerability guide vulnerability指南",
+      "vulnerability tool vulnerability工具"
+    ],
+    "mnemonic": "vulnerability→漏洞",
+    "id": 728,
+    "frequency": 728
+  },
+  {
+    "root": "exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "partOfSpeech": "名词",
+    "meaning": "利用",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "exploit",
+        "phonetic": "/ɪkˈsplɔɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "Exploit",
+        "memoryTip": "利用",
+        "root": "exploit",
+        "rootPhonetic": "/ɪkˈsplɔɪt/",
+        "rootMeaning": "利用",
+        "rootPhrases": [
+          "exploit example exploit示例",
+          "exploit 安全 exploit应用",
+          "exploit best practice exploit最佳实践"
+        ],
+        "wordPhrases": [
+          "利用",
+          "exploit 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "exploit 安全 exploit应用",
+      "exploit best practice exploit最佳实践",
+      "exploit guide exploit指南",
+      "exploit tool exploit工具"
+    ],
+    "mnemonic": "exploit→利用",
+    "id": 729,
+    "frequency": 729
+  },
+  {
+    "root": "penetration",
+    "phonetic": "/ˌpenəˈtreɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "渗透",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "penetration",
+        "phonetic": "/ˌpenəˈtreɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Penetration",
+        "memoryTip": "渗透",
+        "root": "penetration",
+        "rootPhonetic": "/ˌpenəˈtreɪʃn/",
+        "rootMeaning": "渗透",
+        "rootPhrases": [
+          "penetration example penetration示例",
+          "penetration 安全 penetration应用",
+          "penetration best practice penetration最佳实践"
+        ],
+        "wordPhrases": [
+          "渗透",
+          "penetration 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "penetration 安全 penetration应用",
+      "penetration best practice penetration最佳实践",
+      "penetration guide penetration指南",
+      "penetration tool penetration工具"
+    ],
+    "mnemonic": "penetration→渗透",
+    "id": 730,
+    "frequency": 730
+  },
+  {
+    "root": "forensic",
+    "phonetic": "/fəˈrenzɪk/",
+    "partOfSpeech": "名词",
+    "meaning": "取证",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "forensic",
+        "phonetic": "/fəˈrenzɪk/",
+        "partOfSpeech": "n.",
+        "meaning": "Forensic",
+        "memoryTip": "取证",
+        "root": "forensic",
+        "rootPhonetic": "/fəˈrenzɪk/",
+        "rootMeaning": "取证",
+        "rootPhrases": [
+          "forensic example forensic示例",
+          "forensic 安全 forensic应用",
+          "forensic best practice forensic最佳实践"
+        ],
+        "wordPhrases": [
+          "取证",
+          "forensic 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "forensic 安全 forensic应用",
+      "forensic best practice forensic最佳实践",
+      "forensic guide forensic指南",
+      "forensic tool forensic工具"
+    ],
+    "mnemonic": "forensic→取证",
+    "id": 731,
+    "frequency": 731
+  },
+  {
+    "root": "compliance",
+    "phonetic": "/kəmˈplaɪəns/",
+    "partOfSpeech": "名词",
+    "meaning": "合规",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "compliance",
+        "phonetic": "/kəmˈplaɪəns/",
+        "partOfSpeech": "n.",
+        "meaning": "Compliance",
+        "memoryTip": "合规",
+        "root": "compliance",
+        "rootPhonetic": "/kəmˈplaɪəns/",
+        "rootMeaning": "合规",
+        "rootPhrases": [
+          "compliance example compliance示例",
+          "compliance 规范 compliance应用",
+          "compliance best practice compliance最佳实践"
+        ],
+        "wordPhrases": [
+          "合规",
+          "compliance 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "compliance 规范 compliance应用",
+      "compliance best practice compliance最佳实践",
+      "compliance guide compliance指南",
+      "compliance tool compliance工具"
+    ],
+    "mnemonic": "compliance→合规",
+    "id": 732,
+    "frequency": 732
+  },
+  {
+    "root": "governance",
+    "phonetic": "/ˈɡʌvərnəns/",
+    "partOfSpeech": "名词",
+    "meaning": "治理",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "governance",
+        "phonetic": "/ˈɡʌvərnəns/",
+        "partOfSpeech": "n.",
+        "meaning": "Governance",
+        "memoryTip": "治理",
+        "root": "governance",
+        "rootPhonetic": "/ˈɡʌvərnəns/",
+        "rootMeaning": "治理",
+        "rootPhrases": [
+          "governance example governance示例",
+          "governance 管理 governance应用",
+          "governance best practice governance最佳实践"
+        ],
+        "wordPhrases": [
+          "治理",
+          "governance 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "governance 管理 governance应用",
+      "governance best practice governance最佳实践",
+      "governance guide governance指南",
+      "governance tool governance工具"
+    ],
+    "mnemonic": "governance→治理",
+    "id": 733,
+    "frequency": 733
+  },
+  {
+    "root": "policy",
+    "phonetic": "/ˈpɑːləsi/",
+    "partOfSpeech": "名词",
+    "meaning": "策略",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "policy",
+        "phonetic": "/ˈpɑːləsi/",
+        "partOfSpeech": "n.",
+        "meaning": "Policy",
+        "memoryTip": "策略",
+        "root": "policy",
+        "rootPhonetic": "/ˈpɑːləsi/",
+        "rootMeaning": "策略",
+        "rootPhrases": [
+          "policy example policy示例",
+          "policy 管理 policy应用",
+          "policy best practice policy最佳实践"
+        ],
+        "wordPhrases": [
+          "策略",
+          "policy 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "policy 管理 policy应用",
+      "policy best practice policy最佳实践",
+      "policy guide policy指南",
+      "policy tool policy工具"
+    ],
+    "mnemonic": "policy→策略",
+    "id": 734,
+    "frequency": 734
+  },
+  {
+    "root": "harden",
+    "phonetic": "/ˈhɑːrdn/",
+    "partOfSpeech": "名词",
+    "meaning": "加固",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "harden",
+        "phonetic": "/ˈhɑːrdn/",
+        "partOfSpeech": "n.",
+        "meaning": "Harden",
+        "memoryTip": "加固",
+        "root": "harden",
+        "rootPhonetic": "/ˈhɑːrdn/",
+        "rootMeaning": "加固",
+        "rootPhrases": [
+          "harden example harden示例",
+          "harden 安全 harden应用",
+          "harden best practice harden最佳实践"
+        ],
+        "wordPhrases": [
+          "加固",
+          "harden 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "harden 安全 harden应用",
+      "harden best practice harden最佳实践",
+      "harden guide harden指南",
+      "harden tool harden工具"
+    ],
+    "mnemonic": "harden→加固",
+    "id": 735,
+    "frequency": 735
+  },
+  {
+    "root": "sanitize",
+    "phonetic": "/ˈsænɪtaɪz/",
+    "partOfSpeech": "名词",
+    "meaning": "清理",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sanitize",
+        "phonetic": "/ˈsænɪtaɪz/",
+        "partOfSpeech": "n.",
+        "meaning": "Sanitize",
+        "memoryTip": "清理",
+        "root": "sanitize",
+        "rootPhonetic": "/ˈsænɪtaɪz/",
+        "rootMeaning": "清理",
+        "rootPhrases": [
+          "sanitize example sanitize示例",
+          "sanitize 安全 sanitize应用",
+          "sanitize best practice sanitize最佳实践"
+        ],
+        "wordPhrases": [
+          "清理",
+          "sanitize 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sanitize 安全 sanitize应用",
+      "sanitize best practice sanitize最佳实践",
+      "sanitize guide sanitize指南",
+      "sanitize tool sanitize工具"
+    ],
+    "mnemonic": "sanitize→清理",
+    "id": 736,
+    "frequency": 736
+  },
+  {
+    "root": "escape",
+    "phonetic": "/ɪˈskeɪp/",
+    "partOfSpeech": "名词",
+    "meaning": "转义",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "escape",
+        "phonetic": "/ɪˈskeɪp/",
+        "partOfSpeech": "n.",
+        "meaning": "Escape",
+        "memoryTip": "转义",
+        "root": "escape",
+        "rootPhonetic": "/ɪˈskeɪp/",
+        "rootMeaning": "转义",
+        "rootPhrases": [
+          "escape example escape示例",
+          "escape 安全 escape应用",
+          "escape best practice escape最佳实践"
+        ],
+        "wordPhrases": [
+          "转义",
+          "escape 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "escape 安全 escape应用",
+      "escape best practice escape最佳实践",
+      "escape guide escape指南",
+      "escape tool escape工具"
+    ],
+    "mnemonic": "escape→转义",
+    "id": 737,
+    "frequency": 737
+  },
+  {
+    "root": "sign",
+    "phonetic": "/saɪn/",
+    "partOfSpeech": "名词",
+    "meaning": "签名",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "sign",
+        "phonetic": "/saɪn/",
+        "partOfSpeech": "n.",
+        "meaning": "Sign",
+        "memoryTip": "签名",
+        "root": "sign",
+        "rootPhonetic": "/saɪn/",
+        "rootMeaning": "签名",
+        "rootPhrases": [
+          "sign example sign示例",
+          "sign 安全 sign应用",
+          "sign best practice sign最佳实践"
+        ],
+        "wordPhrases": [
+          "签名",
+          "sign 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "sign 安全 sign应用",
+      "sign best practice sign最佳实践",
+      "sign guide sign指南",
+      "sign tool sign工具"
+    ],
+    "mnemonic": "sign→签名",
+    "id": 738,
+    "frequency": 738
+  },
+  {
+    "root": "verify",
+    "phonetic": "/ˈverɪfaɪ/",
+    "partOfSpeech": "名词",
+    "meaning": "验证",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "verify",
+        "phonetic": "/ˈverɪfaɪ/",
+        "partOfSpeech": "n.",
+        "meaning": "Verify",
+        "memoryTip": "验证",
+        "root": "verify",
+        "rootPhonetic": "/ˈverɪfaɪ/",
+        "rootMeaning": "验证",
+        "rootPhrases": [
+          "verify example verify示例",
+          "verify 安全 verify应用",
+          "verify best practice verify最佳实践"
+        ],
+        "wordPhrases": [
+          "验证",
+          "verify 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "verify 安全 verify应用",
+      "verify best practice verify最佳实践",
+      "verify guide verify指南",
+      "verify tool verify工具"
+    ],
+    "mnemonic": "verify→验证",
+    "id": 739,
+    "frequency": 739
+  },
+  {
+    "root": "authenticate",
+    "phonetic": "/ɔːˈθentɪkeɪt/",
+    "partOfSpeech": "名词",
+    "meaning": "认证",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "authenticate",
+        "phonetic": "/ɔːˈθentɪkeɪt/",
+        "partOfSpeech": "n.",
+        "meaning": "Authenticate",
+        "memoryTip": "认证",
+        "root": "authenticate",
+        "rootPhonetic": "/ɔːˈθentɪkeɪt/",
+        "rootMeaning": "认证",
+        "rootPhrases": [
+          "authenticate example authenticate示例",
+          "authenticate 安全 authenticate应用",
+          "authenticate best practice authenticate最佳实践"
+        ],
+        "wordPhrases": [
+          "认证",
+          "authenticate 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "authenticate 安全 authenticate应用",
+      "authenticate best practice authenticate最佳实践",
+      "authenticate guide authenticate指南",
+      "authenticate tool authenticate工具"
+    ],
+    "mnemonic": "authenticate→认证",
+    "id": 740,
+    "frequency": 740
+  },
+  {
+    "root": "authorize",
+    "phonetic": "/ˈɔːθəraɪz/",
+    "partOfSpeech": "名词",
+    "meaning": "授权",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "authorize",
+        "phonetic": "/ˈɔːθəraɪz/",
+        "partOfSpeech": "n.",
+        "meaning": "Authorize",
+        "memoryTip": "授权",
+        "root": "authorize",
+        "rootPhonetic": "/ˈɔːθəraɪz/",
+        "rootMeaning": "授权",
+        "rootPhrases": [
+          "authorize example authorize示例",
+          "authorize 安全 authorize应用",
+          "authorize best practice authorize最佳实践"
+        ],
+        "wordPhrases": [
+          "授权",
+          "authorize 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "authorize 安全 authorize应用",
+      "authorize best practice authorize最佳实践",
+      "authorize guide authorize指南",
+      "authorize tool authorize工具"
+    ],
+    "mnemonic": "authorize→授权",
+    "id": 741,
+    "frequency": 741
+  },
+  {
+    "root": "permission",
+    "phonetic": "/pərˈmɪʃn/",
+    "partOfSpeech": "名词",
+    "meaning": "权限",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "permission",
+        "phonetic": "/pərˈmɪʃn/",
+        "partOfSpeech": "n.",
+        "meaning": "Permission",
+        "memoryTip": "权限",
+        "root": "permission",
+        "rootPhonetic": "/pərˈmɪʃn/",
+        "rootMeaning": "权限",
+        "rootPhrases": [
+          "permission example permission示例",
+          "permission 安全 permission应用",
+          "permission best practice permission最佳实践"
+        ],
+        "wordPhrases": [
+          "权限",
+          "permission 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "permission 安全 permission应用",
+      "permission best practice permission最佳实践",
+      "permission guide permission指南",
+      "permission tool permission工具"
+    ],
+    "mnemonic": "permission→权限",
+    "id": 742,
+    "frequency": 742
+  },
+  {
+    "root": "privilege",
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "partOfSpeech": "名词",
+    "meaning": "特权",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "privilege",
+        "phonetic": "/ˈprɪvəlɪdʒ/",
+        "partOfSpeech": "n.",
+        "meaning": "Privilege",
+        "memoryTip": "特权",
+        "root": "privilege",
+        "rootPhonetic": "/ˈprɪvəlɪdʒ/",
+        "rootMeaning": "特权",
+        "rootPhrases": [
+          "privilege example privilege示例",
+          "privilege 安全 privilege应用",
+          "privilege best practice privilege最佳实践"
+        ],
+        "wordPhrases": [
+          "特权",
+          "privilege 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "privilege 安全 privilege应用",
+      "privilege best practice privilege最佳实践",
+      "privilege guide privilege指南",
+      "privilege tool privilege工具"
+    ],
+    "mnemonic": "privilege→特权",
+    "id": 743,
+    "frequency": 743
+  },
+  {
+    "root": "role",
+    "phonetic": "/roʊl/",
+    "partOfSpeech": "名词",
+    "meaning": "角色",
+    "category": "互联网和软件",
+    "words": [
+      {
+        "word": "role",
+        "phonetic": "/roʊl/",
+        "partOfSpeech": "n.",
+        "meaning": "Role",
+        "memoryTip": "角色",
+        "root": "role",
+        "rootPhonetic": "/roʊl/",
+        "rootMeaning": "角色",
+        "rootPhrases": [
+          "role example role示例",
+          "role 安全 role应用",
+          "role best practice role最佳实践"
+        ],
+        "wordPhrases": [
+          "角色",
+          "role 示例"
+        ]
+      }
+    ],
+    "phrases": [
+      "role 安全 role应用",
+      "role best practice role最佳实践",
+      "role guide role指南",
+      "role tool role工具"
+    ],
+    "mnemonic": "role→角色",
+    "id": 744,
+    "frequency": 744
   }
 ]
