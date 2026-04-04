@@ -98,9 +98,9 @@
     ],
     "phrases": [
       "semiconductor industry",
-      "semiconductor device",
+      "semiconductor device 半导体器件",
       "semiconductor chip",
-      "semiconductor material"
+      "semiconductor material 半导体材料"
     ],
     "mnemonic": "semi（半）+ conduct（传导）+ or → 导电性介于导体和绝缘体之间 → 半导体",
     "meaning": "半导体"
@@ -206,7 +206,7 @@
       "computer chip",
       "silicon chip",
       "memory chip",
-      "chip design"
+      "chip design 芯片设计"
     ],
     "mnemonic": "chip（碎片）→ 硅片切割成的小片 → 芯片",
     "meaning": "芯片"
@@ -310,7 +310,7 @@
     ],
     "phrases": [
       "silicon valley",
-      "silicon wafer",
+      "silicon wafer 硅晶圆",
       "silicon dioxide",
       "silicon substrate"
     ],
@@ -415,7 +415,7 @@
       }
     ],
     "phrases": [
-      "bipolar transistor",
+      "bipolar transistor 双极型晶体管",
       "field-effect transistor",
       "transistor radio",
       "power transistor"
@@ -627,7 +627,7 @@
       }
     ],
     "phrases": [
-      "integrated circuit",
+      "integrated circuit 集成电路",
       "large-scale integration",
       "VLSI",
       "system integration"
@@ -734,7 +734,7 @@
     ],
     "phrases": [
       "printed circuit board",
-      "integrated circuit",
+      "integrated circuit 集成电路",
       "circuit design",
       "open circuit"
     ],
@@ -817,9 +817,9 @@
       }
     ],
     "phrases": [
-      "silicon wafer",
-      "wafer fabrication",
-      "wafer processing",
+      "silicon wafer 硅晶圆",
+      "wafer fabrication 晶圆制造",
+      "wafer processing 晶圆加工",
       "wafer bonding"
     ],
     "mnemonic": "wafer（薄片）→ 硅材料切成的薄片 → 晶圆",
@@ -923,7 +923,7 @@
       }
     ],
     "phrases": [
-      "wafer fabrication",
+      "wafer fabrication 晶圆制造",
       "semiconductor fabrication",
       "fabrication process",
       "fabrication plant"
@@ -1031,7 +1031,7 @@
     "phrases": [
       "EUV lithography",
       "lithography machine",
-      "lithography process",
+      "lithography process 光刻工艺",
       "optical lithography"
     ],
     "mnemonic": "litho（石）+ graph（画）+ y → 在硅片上刻画 → 光刻",
@@ -1349,7 +1349,7 @@
     "phrases": [
       "n-type doping",
       "p-type doping",
-      "ion implantation",
+      "ion implantation 离子注入",
       "doping concentration"
     ],
     "mnemonic": "dope（添加）→ 向半导体添加杂质 → 掺杂",
@@ -1453,7 +1453,7 @@
       }
     ],
     "phrases": [
-      "ion implantation",
+      "ion implantation 离子注入",
       "ion implanter",
       "implant energy",
       "implant dose"
@@ -1667,7 +1667,7 @@
     "phrases": [
       "thermal diffusion",
       "diffusion furnace",
-      "diffusion process",
+      "diffusion process 扩散工艺",
       "diffusion layer"
     ],
     "mnemonic": "dif（分开）+ fus（倾倒）→ 向各方向散开 → 扩散",
@@ -1877,8 +1877,8 @@
       }
     ],
     "phrases": [
-      "photolithography process",
-      "deep UV photolithography",
+      "photolithography process 光刻工艺",
+      "deep UV photolithography 光刻",
       "photolithography equipment",
       "photolithography pattern"
     ],
@@ -1983,7 +1983,7 @@
       }
     ],
     "phrases": [
-      "mask design",
+      "mask design 掩模设计",
       "mask aligner",
       "phase-shift mask",
       "mask layer"
@@ -2092,7 +2092,7 @@
       "photoresist coating",
       "photoresist stripping",
       "photoresist development",
-      "thick photoresist"
+      "thick photoresist 光刻胶"
     ],
     "mnemonic": "photo（光）+ resist（抵抗）→ 感光抗蚀材料 → 光刻胶",
     "meaning": "光刻胶"
@@ -2301,7 +2301,7 @@
       }
     ],
     "phrases": [
-      "chip packaging",
+      "chip packaging 芯片封装",
       "semiconductor packaging",
       "packaging technology",
       "BGA package"
@@ -2621,7 +2621,7 @@
     "phrases": [
       "yield rate",
       "manufacturing yield",
-      "yield improvement",
+      "yield improvement 良率提升",
       "test yield"
     ],
     "mnemonic": "yield（产出）→ 有效产出比例 → 良率",
@@ -3574,7 +3574,7 @@
     ],
     "phrases": [
       "gate dielectric",
-      "gate electrode",
+      "gate electrode 栅电极",
       "gate stack",
       "gate leakage"
     ],
@@ -3680,7 +3680,7 @@
     ],
     "phrases": [
       "channel doping",
-      "channel region",
+      "channel region 沟道区",
       "short channel effect",
       "channel formation"
     ],
@@ -3785,7 +3785,7 @@
       }
     ],
     "phrases": [
-      "substrate material",
+      "substrate material 衬底材料",
       "glass substrate",
       "flexible substrate",
       "substrate bonding"
@@ -4000,7 +4000,7 @@
       "crystal defect",
       "point defect",
       "defect density",
-      "defect inspection"
+      "defect inspection 缺陷检测"
     ],
     "mnemonic": "de（偏离）+ fect（做）→ 做偏了 → 缺陷",
     "meaning": "缺陷"
@@ -4103,7 +4103,7 @@
       }
     ],
     "phrases": [
-      "particle contamination",
+      "particle contamination 颗粒污染",
       "metal contamination",
       "contamination control",
       "contamination source"
@@ -5163,7 +5163,7 @@
       }
     ],
     "phrases": [
-      "RF device",
+      "rf device 射频器件",
       "RF application",
       "RF circuit",
       "RF performance"
@@ -5272,7 +5272,7 @@
       "memory chip",
       "memory cell",
       "non-volatile memory",
-      "memory device"
+      "memory device 存储器件"
     ],
     "mnemonic": "memory（记忆）→ 存储数据的器件 → 存储器",
     "meaning": "存储器"

@@ -97,7 +97,7 @@
       }
     ],
     "phrases": [
-      "mechanical engineering",
+      "mechanical engineering 机械工程",
       "mechanical device",
       "skilled mechanic",
       "mechanized farming"
@@ -309,7 +309,7 @@
       }
     ],
     "phrases": [
-      "electric motor",
+      "electric motor 电动机",
       "linear motion",
       "motive power",
       "promote development"
@@ -523,7 +523,7 @@
     "phrases": [
       "revolve around",
       "evolve from",
-      "control valve",
+      "control valve 控制阀",
       "six-shooter revolver"
     ],
     "mnemonic": "volv（转）→ 滚动旋转 → 阀门",
@@ -734,7 +734,7 @@
     ],
     "phrases": [
       "farm tractor",
-      "attract attention",
+      "attract attention 吸引注意",
       "extract oil",
       "retract landing gear"
     ],
@@ -945,7 +945,7 @@
       }
     ],
     "phrases": [
-      "steam turbine",
+      "steam turbine 蒸汽轮机",
       "turbo charger",
       "turbulent flow",
       "disturb the peace"
@@ -1051,8 +1051,8 @@
       }
     ],
     "phrases": [
-      "water pump",
-      "oil pump",
+      "water pump 水泵",
+      "oil pump 油泵",
       "pump station",
       "pump up"
     ],
@@ -1157,9 +1157,9 @@
       }
     ],
     "phrases": [
-      "hydraulic system",
+      "hydraulic system 液压系统",
       "hydraulic press",
-      "hydraulic cylinder",
+      "hydraulic cylinder 液压缸",
       "hydraulic fluid"
     ],
     "mnemonic": "hydr（水）→ 利用水/液体压力 → 液压",
@@ -1264,8 +1264,8 @@
     ],
     "phrases": [
       "pneumatic tool",
-      "pneumatic cylinder",
-      "pneumatic system",
+      "pneumatic cylinder 气缸",
+      "pneumatic system 气动系统",
       "pneumatic drill"
     ],
     "mnemonic": "pneum（气）→ 利用压缩空气 → 气动",
@@ -1371,7 +1371,7 @@
     "phrases": [
       "lubricate the bearing",
       "engine lubricant",
-      "lubrication system",
+      "lubrication system 润滑系统",
       "self-lubricating"
     ],
     "mnemonic": "lubric（滑）→ 减少摩擦 → 润滑",
@@ -1582,7 +1582,7 @@
     ],
     "phrases": [
       "main bearing",
-      "bearing housing",
+      "bearing housing 轴承座",
       "bearing capacity",
       "self-aligning bearing"
     ],
@@ -1687,10 +1687,10 @@
       }
     ],
     "phrases": [
-      "gear ratio",
-      "spur gear",
-      "bevel gear",
-      "gear train"
+      "gear ratio 齿轮比",
+      "spur gear 直齿轮",
+      "bevel gear 锥齿轮",
+      "gear train 齿轮系"
     ],
     "mnemonic": "gear（齿轮）→ 传递动力的轮 → 齿轮",
     "meaning": "齿轮"
@@ -1899,7 +1899,7 @@
       }
     ],
     "phrases": [
-      "engine cylinder",
+      "engine cylinder 发动机气缸",
       "cylinder block",
       "cylinder head",
       "master cylinder"
@@ -2111,8 +2111,8 @@
       }
     ],
     "phrases": [
-      "control valve",
-      "safety valve",
+      "control valve 控制阀",
+      "safety valve 安全阀",
       "butterfly valve",
       "gate valve"
     ],
@@ -3386,7 +3386,7 @@
       "steel casting",
       "sand casting",
       "investment casting",
-      "casting mold"
+      "casting mold 铸模"
     ],
     "mnemonic": "cast（铸造）→ 将熔融金属倒入模具 → 铸造",
     "meaning": "铸造"
@@ -3492,7 +3492,7 @@
       "forge hammer",
       "hot forging",
       "cold forging",
-      "forging die"
+      "forging die 锻模"
     ],
     "mnemonic": "forge（锻造）→ 通过加热和压力成型 → 锻造",
     "meaning": "锻造"
@@ -3808,7 +3808,7 @@
     ],
     "phrases": [
       "CNC mill",
-      "milling cutter",
+      "milling cutter 铣刀",
       "face mill",
       "vertical mill"
     ],
@@ -3915,7 +3915,7 @@
     "phrases": [
       "twist drill",
       "radial drill",
-      "drilling machine",
+      "drilling machine 钻床",
       "drill hole"
     ],
     "mnemonic": "drill（钻）→ 旋转切削孔 → 钻头",
@@ -4021,7 +4021,7 @@
     "phrases": [
       "surface grinding",
       "cylindrical grinding",
-      "grinding machine",
+      "grinding machine 磨床",
       "precision grinding"
     ],
     "mnemonic": "grind（磨）→ 用砂轮精密加工 → 磨削",
@@ -4549,9 +4549,9 @@
       }
     ],
     "phrases": [
-      "lubricating oil",
+      "lubricating oil 润滑油",
       "oil circulation",
-      "grease fitting",
+      "grease fitting 注脂嘴",
       "oil reservoir"
     ],
     "mnemonic": "lubric（滑）→ 减少摩擦的系统 → 润滑系统",
@@ -4974,7 +4974,7 @@
     ],
     "phrases": [
       "precision machining",
-      "precision instrument",
+      "precision instrument 精密仪器",
       "measurement accuracy",
       "precision engineering"
     ],
@@ -5081,7 +5081,7 @@
     "phrases": [
       "yield stress",
       "shear stress",
-      "stress analysis",
+      "stress analysis 应力分析",
       "fatigue failure"
     ],
     "mnemonic": "stress（压力）→ 材料内部受力 → 应力",
@@ -5293,7 +5293,7 @@
     "phrases": [
       "process automation",
       "automated production",
-      "robot arm",
+      "robot arm 机械臂",
       "smart manufacturing"
     ],
     "mnemonic": "automat（自动）→ 机器自主运行 → 自动化",
@@ -22359,7 +22359,7 @@
     ],
     "phrases": [
       "stress",
-      "stress analysis",
+      "stress analysis 应力分析",
       "stress relief",
       "stress concentration"
     ],
@@ -22891,7 +22891,7 @@
       "heat",
       "heating",
       "heater",
-      "heat treatment"
+      "heat treatment 热处理"
     ],
     "mnemonic": "heat→加热"
   },
@@ -23525,9 +23525,9 @@
     ],
     "phrases": [
       "bearing",
-      "ball bearing",
-      "roller bearing",
-      "bearing housing"
+      "ball bearing 滚珠轴承",
+      "roller bearing 滚柱轴承",
+      "bearing housing 轴承座"
     ],
     "mnemonic": "bear→轴承"
   },
@@ -24268,8 +24268,8 @@
     "phrases": [
       "pump",
       "pumping",
-      "centrifugal pump",
-      "hydraulic pump"
+      "centrifugal pump 离心泵",
+      "hydraulic pump 液压泵"
     ],
     "mnemonic": "pump→泵"
   },
@@ -24905,7 +24905,7 @@
       "seal",
       "sealing",
       "sealer",
-      "oil seal"
+      "oil seal 油封"
     ],
     "mnemonic": "seal→密封"
   },
@@ -27342,7 +27342,7 @@
     "phrases": [
       "mill",
       "milling",
-      "milling cutter",
+      "milling cutter 铣刀",
       "end mill"
     ],
     "mnemonic": "mill→铣削"
@@ -27449,7 +27449,7 @@
       "turn",
       "turning",
       "lathe turning",
-      "turning tool"
+      "turning tool 车刀"
     ],
     "mnemonic": "turn→车削"
   },
@@ -27659,8 +27659,8 @@
     ],
     "phrases": [
       "motor",
-      "motor drive",
-      "electric motor",
+      "motor drive 电机驱动",
+      "electric motor 电动机",
       "servo motor"
     ],
     "mnemonic": "motor→电机"
@@ -27871,9 +27871,9 @@
     ],
     "phrases": [
       "turbine",
-      "turbine blade",
-      "gas turbine",
-      "steam turbine"
+      "turbine blade 涡轮叶片",
+      "gas turbine 燃气轮机",
+      "steam turbine 蒸汽轮机"
     ],
     "mnemonic": "turb→涡轮"
   },
@@ -29462,8 +29462,8 @@
     "phrases": [
       "hydraulic",
       "hydraulics",
-      "hydraulic pump",
-      "hydraulic cylinder"
+      "hydraulic pump 液压泵",
+      "hydraulic cylinder 液压缸"
     ],
     "mnemonic": "hydraul→液压"
   },
@@ -29568,8 +29568,8 @@
     "phrases": [
       "pneumatic",
       "pneumatics",
-      "pneumatic cylinder",
-      "pneumatic valve"
+      "pneumatic cylinder 气缸",
+      "pneumatic valve 气动阀"
     ],
     "mnemonic": "pneumat→气动"
   },
@@ -30523,7 +30523,7 @@
       "valve",
       "valve control",
       "solenoid valve",
-      "control valve"
+      "control valve 控制阀"
     ],
     "mnemonic": "valv→阀门"
   },
@@ -32959,7 +32959,7 @@
     ],
     "phrases": [
       "stress",
-      "stress analysis",
+      "stress analysis 应力分析",
       "stress relief",
       "stress concentration"
     ],
@@ -33491,7 +33491,7 @@
       "heat",
       "heating",
       "heater",
-      "heat treatment"
+      "heat treatment 热处理"
     ],
     "mnemonic": "heat→加热"
   },
@@ -34125,9 +34125,9 @@
     ],
     "phrases": [
       "bearing",
-      "ball bearing",
-      "roller bearing",
-      "bearing housing"
+      "ball bearing 滚珠轴承",
+      "roller bearing 滚柱轴承",
+      "bearing housing 轴承座"
     ],
     "mnemonic": "bear→轴承"
   },
@@ -34868,8 +34868,8 @@
     "phrases": [
       "pump",
       "pumping",
-      "centrifugal pump",
-      "hydraulic pump"
+      "centrifugal pump 离心泵",
+      "hydraulic pump 液压泵"
     ],
     "mnemonic": "pump→泵"
   },
@@ -35505,7 +35505,7 @@
       "seal",
       "sealing",
       "sealer",
-      "oil seal"
+      "oil seal 油封"
     ],
     "mnemonic": "seal→密封"
   },
@@ -37942,7 +37942,7 @@
     "phrases": [
       "mill",
       "milling",
-      "milling cutter",
+      "milling cutter 铣刀",
       "end mill"
     ],
     "mnemonic": "mill→铣削"
@@ -38049,7 +38049,7 @@
       "turn",
       "turning",
       "lathe turning",
-      "turning tool"
+      "turning tool 车刀"
     ],
     "mnemonic": "turn→车削"
   },
@@ -38259,8 +38259,8 @@
     ],
     "phrases": [
       "motor",
-      "motor drive",
-      "electric motor",
+      "motor drive 电机驱动",
+      "electric motor 电动机",
       "servo motor"
     ],
     "mnemonic": "motor→电机"
@@ -38471,9 +38471,9 @@
     ],
     "phrases": [
       "turbine",
-      "turbine blade",
-      "gas turbine",
-      "steam turbine"
+      "turbine blade 涡轮叶片",
+      "gas turbine 燃气轮机",
+      "steam turbine 蒸汽轮机"
     ],
     "mnemonic": "turb→涡轮"
   },
@@ -40062,8 +40062,8 @@
     "phrases": [
       "hydraulic",
       "hydraulics",
-      "hydraulic pump",
-      "hydraulic cylinder"
+      "hydraulic pump 液压泵",
+      "hydraulic cylinder 液压缸"
     ],
     "mnemonic": "hydraul→液压"
   },
@@ -40168,8 +40168,8 @@
     "phrases": [
       "pneumatic",
       "pneumatics",
-      "pneumatic cylinder",
-      "pneumatic valve"
+      "pneumatic cylinder 气缸",
+      "pneumatic valve 气动阀"
     ],
     "mnemonic": "pneumat→气动"
   },
@@ -41123,7 +41123,7 @@
       "valve",
       "valve control",
       "solenoid valve",
-      "control valve"
+      "control valve 控制阀"
     ],
     "mnemonic": "valv→阀门"
   },
@@ -42925,7 +42925,7 @@
       "housing",
       "house",
       "gear housing",
-      "bearing housing"
+      "bearing housing 轴承座"
     ],
     "mnemonic": "hous→壳体"
   },
@@ -43879,7 +43879,7 @@
       "assemble",
       "assembly",
       "assembling",
-      "assembly line"
+      "assembly line 装配线"
     ],
     "mnemonic": "assembl→装配"
   },
@@ -44833,7 +44833,7 @@
       "connect",
       "connection",
       "connector",
-      "pipe connection"
+      "pipe connection 管道连接"
     ],
     "mnemonic": "connect→连接"
   },
@@ -45574,7 +45574,7 @@
     "phrases": [
       "helix",
       "helical",
-      "helical gear",
+      "helical gear 斜齿轮",
       "helix angle"
     ],
     "mnemonic": "helix→螺旋"
@@ -46740,8 +46740,8 @@
     "phrases": [
       "surface",
       "surfacing",
-      "surface finish",
-      "surface treatment"
+      "surface finish 表面光洁度",
+      "surface treatment 表面处理"
     ],
     "mnemonic": "surfac→表面"
   },
@@ -46846,7 +46846,7 @@
     "phrases": [
       "finish",
       "finishing",
-      "surface finish",
+      "surface finish 表面光洁度",
       "finish machining"
     ],
     "mnemonic": "finish→表面粗糙度"
@@ -49497,7 +49497,7 @@
       "ion",
       "ionic",
       "ion beam",
-      "ion implantation"
+      "ion implantation 离子注入"
     ],
     "mnemonic": "ion→离子"
   },
@@ -49708,7 +49708,7 @@
     "phrases": [
       "CNC",
       "computer numerical control",
-      "CNC machine",
+      "cnc machine 数控机床",
       "CNC milling"
     ],
     "mnemonic": "cnc→数控"
@@ -51192,7 +51192,7 @@
     "phrases": [
       "gas",
       "gaseous",
-      "gas turbine",
+      "gas turbine 燃气轮机",
       "compressed gas"
     ],
     "mnemonic": "gas→气体"
@@ -51405,7 +51405,7 @@
       "steam",
       "steaming",
       "steam engine",
-      "steam turbine"
+      "steam turbine 蒸汽轮机"
     ],
     "mnemonic": "steam→蒸汽"
   },
@@ -51511,7 +51511,7 @@
       "air",
       "airflow",
       "compressed air",
-      "air pressure"
+      "air pressure 气压"
     ],
     "mnemonic": "air→空气"
   },
@@ -51616,8 +51616,8 @@
     "phrases": [
       "oil",
       "oiling",
-      "oil pump",
-      "lubricating oil"
+      "oil pump 油泵",
+      "lubricating oil 润滑油"
     ],
     "mnemonic": "oil→油"
   },
@@ -52039,7 +52039,7 @@
     ],
     "phrases": [
       "vacuum",
-      "vacuum pump",
+      "vacuum pump 真空泵",
       "vacuum chamber",
       "high vacuum"
     ],
@@ -52888,7 +52888,7 @@
     "phrases": [
       "thrust",
       "thrusting",
-      "thrust bearing",
+      "thrust bearing 推力轴承",
       "axial thrust"
     ],
     "mnemonic": "thrust→推力"

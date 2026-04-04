@@ -5193,10 +5193,10 @@
       }
     ],
     "phrases": [
-      "API call",
+      "api call API调用",
       "public API",
-      "API key",
-      "API documentation"
+      "api key API密钥",
+      "api documentation API文档"
     ],
     "mnemonic": "API → 程序之间的桥梁 → 接口",
     "meaning": "应用程序接口"
@@ -5724,7 +5724,7 @@
     ],
     "phrases": [
       "container image",
-      "container orchestration",
+      "container orchestration 容器编排",
       "run container",
       "container engine"
     ],
@@ -11765,8 +11765,8 @@
       }
     ],
     "phrases": [
-      "microservice architecture",
-      "service discovery",
+      "microservice architecture 微服务架构",
+      "service discovery 服务发现",
       "inter-service communication",
       "distributed system"
     ],
@@ -11977,7 +11977,7 @@
       }
     ],
     "phrases": [
-      "websocket connection",
+      "websocket connection WebSocket连接",
       "real-time communication",
       "socket.io",
       "bidirectional communication"
@@ -12507,7 +12507,7 @@
       }
     ],
     "phrases": [
-      "user authentication",
+      "user authentication 用户认证",
       "login authentication",
       "auth provider",
       "auth token"
@@ -12614,7 +12614,7 @@
     ],
     "phrases": [
       "user authorization",
-      "access control",
+      "access control 访问控制",
       "permission check",
       "rbac authorization"
     ],
@@ -12931,7 +12931,7 @@
       }
     ],
     "phrases": [
-      "rate limiting",
+      "rate limiting 速率限制",
       "request limit",
       "api throttle",
       "spam protection"
@@ -14840,7 +14840,7 @@
     ],
     "phrases": [
       "version control",
-      "api version",
+      "api version API版本",
       "major version",
       "breaking change"
     ],
@@ -14945,10 +14945,10 @@
       }
     ],
     "phrases": [
-      "websocket connection",
-      "socket communication",
-      "real-time update",
-      "live chat"
+      "websocket connection WebSocket连接",
+      "socket communication 套接字通信",
+      "real-time update 实时更新",
+      "live chat 在线聊天"
     ],
     "mnemonic": "WebSocket → 实时双向通信 → WebSocket",
     "meaning": "WebSocket"
@@ -15051,10 +15051,10 @@
       }
     ],
     "phrases": [
-      "grpc service",
-      "protocol buffers",
-      "service definition",
-      "grpc client"
+      "grpc service gRPC服务",
+      "protocol buffers 协议缓冲区",
+      "service definition 服务定义",
+      "grpc client gRPC客户端"
     ],
     "mnemonic": "gRPC → 高性能RPC框架 → gRPC",
     "meaning": "gRPC框架"
@@ -15264,7 +15264,7 @@
     ],
     "phrases": [
       "swagger specification",
-      "api documentation",
+      "api documentation API文档",
       "swagger editor",
       "swagger codegen"
     ],
@@ -15370,7 +15370,7 @@
     ],
     "phrases": [
       "postman collection",
-      "api request",
+      "api request API请求",
       "test script",
       "environment variable"
     ],
@@ -17597,7 +17597,7 @@
     "phrases": [
       "openid provider",
       "identity token",
-      "user authentication",
+      "user authentication 用户认证",
       "sso login"
     ],
     "mnemonic": "OpenID Connect → 身份认证协议 → OIDC",
@@ -18233,7 +18233,7 @@
     "phrases": [
       "audit record",
       "log analysis",
-      "security audit",
+      "security audit 安全审计",
       "audit report"
     ],
     "mnemonic": "Audit-log → 审计追踪日志 → Audit-log",

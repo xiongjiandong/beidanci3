@@ -1793,7 +1793,7 @@
       }
     ],
     "phrases": [
-      "dictate a letter",
+      "dictate a letter 口述信件",
       "military dictator",
       "reach a verdict",
       "royal edict"
@@ -2641,7 +2641,7 @@
       }
     ],
     "phrases": [
-      "have confidence in",
+      "have confidence in 对...有信心",
       "be confident of",
       "high fidelity",
       "an infidel"
@@ -3489,8 +3489,8 @@
       }
     ],
     "phrases": [
-      "gradual change",
-      "graduate from",
+      "gradual change 逐渐变化",
+      "graduate from 毕业于",
       "degrade to",
       "upgrade system"
     ],
@@ -4019,7 +4019,7 @@
       }
     ],
     "phrases": [
-      "make progress",
+      "make progress 取得进步",
       "attend congress",
       "aggressive behavior",
       "regress to"
@@ -4339,7 +4339,7 @@
     "phrases": [
       "stay hydrated",
       "hydrogen gas",
-      "hydraulic system",
+      "hydraulic system 液压系统",
       "dehydrate food"
     ],
     "mnemonic": "hydr（水）→ 与水相关 → 水合",
@@ -4867,7 +4867,7 @@
       }
     ],
     "phrases": [
-      "legal advice",
+      "legal advice 法律建议",
       "pass legislation",
       "legitimate reason",
       "pledge allegiance"

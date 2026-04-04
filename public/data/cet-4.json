@@ -97,10 +97,10 @@
       }
     ],
     "phrases": [
-      "take action",
-      "active in",
-      "social activity",
-      "practical action"
+      "take action 采取行动",
+      "active in 积极参与",
+      "social activity 社会活动",
+      "practical action 实际行动"
     ],
     "mnemonic": "act（做）→ 采取行动 → 行动",
     "meaning": "行动"
@@ -203,10 +203,10 @@
       }
     ],
     "phrases": [
-      "in the form of",
-      "formal education",
-      "fill out a form",
-      "information technology"
+      "in the form of 以...的形式",
+      "formal education 正规教育",
+      "fill out a form 填写表格",
+      "information technology 信息技术"
     ],
     "mnemonic": "form（形状）→ 事物的外在形式 → 形式",
     "meaning": "形式"
@@ -309,10 +309,10 @@
       }
     ],
     "phrases": [
-      "port city",
-      "import from",
-      "export to",
-      "public transport"
+      "port city 港口城市",
+      "import from 从...进口",
+      "export to 出口到",
+      "public transport 公共交通"
     ],
     "mnemonic": "port（拿/带）→ 携带物品进出 → 港口/运输",
     "meaning": "港口"
@@ -415,10 +415,10 @@
       }
     ],
     "phrases": [
-      "pay a visit",
-      "visible to",
-      "vision of",
-      "watch television"
+      "pay a visit 拜访",
+      "visible to 对...可见",
+      "vision of ...的愿景",
+      "watch television 看电视"
     ],
     "mnemonic": "vis（看）→ 用眼睛看 → 视觉",
     "meaning": "访问"
@@ -521,10 +521,10 @@
       }
     ],
     "phrases": [
-      "look up in dictionary",
-      "predict the weather",
-      "dictate a letter",
-      "contradict with"
+      "look up in dictionary 查字典",
+      "predict the weather 预报天气",
+      "dictate a letter 口述信件",
+      "contradict with 与...矛盾"
     ],
     "mnemonic": "dict（说）→ 说话表达 → 言语",
     "meaning": "字典"
@@ -627,10 +627,10 @@
       }
     ],
     "phrases": [
-      "describe as",
-      "prescribe medicine",
-      "subscribe to",
-      "movie script"
+      "describe as 描述为",
+      "prescribe medicine 开药",
+      "subscribe to 订阅",
+      "movie script 电影剧本"
     ],
     "mnemonic": "scrib（写）→ 书写记录 → 文字",
     "meaning": "描述"
@@ -733,10 +733,10 @@
       }
     ],
     "phrases": [
-      "inspect the goods",
-      "expect to do",
-      "show respect",
-      "every aspect"
+      "inspect the goods 检查货物",
+      "expect to do 期望做",
+      "show respect 表示尊敬",
+      "every aspect 每个方面"
     ],
     "mnemonic": "spect（看）→ 观察审视 → 视角",
     "meaning": "检查"
@@ -839,10 +839,10 @@
       }
     ],
     "phrases": [
-      "social structure",
-      "construct a building",
-      "instruct students",
-      "cause destruction"
+      "social structure 社会结构",
+      "construct a building 建造建筑",
+      "instruct students 指导学生",
+      "cause destruction 造成破坏"
     ],
     "mnemonic": "struct（建造）→ 构建事物 → 结构",
     "meaning": "结构"
@@ -945,10 +945,10 @@
       }
     ],
     "phrases": [
-      "educate children",
-      "introduce myself",
-      "produce goods",
-      "reduce cost"
+      "educate children 教育儿童",
+      "introduce myself 自我介绍",
+      "produce goods 生产商品",
+      "reduce cost 降低成本"
     ],
     "mnemonic": "duc（引导）→ 引领方向 → 指导",
     "meaning": "教育"
@@ -1051,10 +1051,10 @@
       }
     ],
     "phrases": [
-      "in position",
-      "compose music",
-      "on purpose",
-      "expose to"
+      "in position 在位置上",
+      "compose music 作曲",
+      "on purpose 故意地",
+      "expose to 暴露于"
     ],
     "mnemonic": "pos（放）→ 放置安排 → 位置",
     "meaning": "位置"
@@ -1157,10 +1157,10 @@
       }
     ],
     "phrases": [
-      "admit doing",
-      "permit sb to do",
-      "submit report",
-      "commit to"
+      "admit doing 承认做",
+      "permit sb to do 允许某人做",
+      "submit report 提交报告",
+      "commit to 致力于"
     ],
     "mnemonic": "mit（送）→ 送出传递 → 动作",
     "meaning": "承认"
@@ -1263,10 +1263,10 @@
       }
     ],
     "phrases": [
-      "have access to",
-      "in the process of",
-      "achieve success",
-      "in excess of"
+      "have access to 有权使用",
+      "in the process of 在...过程中",
+      "achieve success 取得成功",
+      "in excess of 超过"
     ],
     "mnemonic": "cess（走）→ 行走移动 → 行程",
     "meaning": "通道，访问"
@@ -1369,10 +1369,10 @@
       }
     ],
     "phrases": [
-      "have an effect on",
-      "affect by",
-      "perfect for",
-      "infect with"
+      "have an effect on 对...有影响",
+      "affect by 受...影响",
+      "perfect for 完美适合",
+      "infect with 感染"
     ],
     "mnemonic": "fect（做）→ 动作的结果 → 效果",
     "meaning": "效果"
@@ -1475,10 +1475,10 @@
       }
     ],
     "phrases": [
-      "object to",
-      "subject of",
-      "project plan",
-      "reject proposal"
+      "object to 反对",
+      "subject of 的主题",
+      "project plan 项目计划",
+      "reject proposal 拒绝提案"
     ],
     "mnemonic": "ject（扔）→ 投掷抛出 → 物体",
     "meaning": "物体"
@@ -1581,10 +1581,10 @@
       }
     ],
     "phrases": [
-      "assist with",
-      "exist in",
-      "resist temptation",
-      "insist on"
+      "assist with 协助",
+      "exist in 存在于",
+      "resist temptation 抵制诱惑",
+      "insist on 坚持"
     ],
     "mnemonic": "sist（站）→ 站立保持 → 状态",
     "meaning": "协助"
@@ -1687,10 +1687,10 @@
       }
     ],
     "phrases": [
-      "attract attention",
-      "sign a contract",
-      "distract from",
-      "extract from"
+      "attract attention 吸引注意",
+      "sign a contract 签合同",
+      "distract from 分散注意力",
+      "extract from 从中提取"
     ],
     "mnemonic": "tract（拉）→ 拉扯牵引 → 吸引",
     "meaning": "吸引"
@@ -1793,10 +1793,10 @@
       }
     ],
     "phrases": [
-      "press the button",
-      "express oneself",
-      "impress by",
-      "feel depressed"
+      "press the button 按按钮",
+      "express oneself 表达自己",
+      "impress by 给人印象深刻",
+      "feel depressed 感到沮丧"
     ],
     "mnemonic": "press（压）→ 用力挤压 → 压力",
     "meaning": "按，压"
@@ -1899,10 +1899,10 @@
       }
     ],
     "phrases": [
-      "solve the problem",
-      "find a solution",
-      "resolve conflict",
-      "absolute truth"
+      "solve the problem 解决问题",
+      "find a solution 找到解决方案",
+      "resolve conflict 解决冲突",
+      "absolute truth 绝对真理"
     ],
     "mnemonic": "solut（松开）→ 解开问题 → 解决",
     "meaning": "解决"
@@ -2005,10 +2005,10 @@
       }
     ],
     "phrases": [
-      "include in",
-      "exclude from",
-      "conclude that",
-      "draw a conclusion"
+      "include in 包括在",
+      "exclude from 排除在",
+      "conclude that 得出结论",
+      "draw a conclusion 得出结论"
     ],
     "mnemonic": "clu（关闭）→ 封闭包含 → 包括",
     "meaning": "包括"
@@ -2111,10 +2111,10 @@
       }
     ],
     "phrases": [
-      "contain within",
-      "maintain order",
-      "obtain information",
-      "retain talent"
+      "contain within 包含在",
+      "maintain order 维持秩序",
+      "obtain information 获取信息",
+      "retain talent 留住人才"
     ],
     "mnemonic": "tain（保持）→ 持续拥有 → 维持",
     "meaning": "包含"
@@ -2217,9 +2217,9 @@
       }
     ],
     "phrases": [
-      "keep a record",
-      "in accord with",
-      "in accordance with",
+      "keep a record 保留记录",
+      "in accord with 与一致",
+      "in accordance with 根据",
       "live in concord"
     ],
     "mnemonic": "cord（心）→ 心意相通 → 一致",
@@ -2323,8 +2323,8 @@
       }
     ],
     "phrases": [
-      "stand firm",
-      "confirm the appointment",
+      "stand firm 坚定站立",
+      "confirm the appointment 确认任命",
       "affirm that",
       "infirm with age"
     ],
@@ -2429,9 +2429,9 @@
       }
     ],
     "phrases": [
-      "get good grades",
-      "graduate from",
-      "gradual change",
+      "get good grades 取得好成绩",
+      "graduate from 毕业于",
+      "gradual change 逐渐变化",
       "degrade to"
     ],
     "mnemonic": "grad（步）→ 一步步走 → 等级",
@@ -2535,10 +2535,10 @@
       }
     ],
     "phrases": [
-      "make sense",
-      "sensitive to",
-      "sensible decision",
-      "talk nonsense"
+      "make sense 有意义",
+      "sensitive to 对敏感",
+      "sensible decision 明智的决定",
+      "talk nonsense 胡说八道"
     ],
     "mnemonic": "sens（感觉）→ 感知能力 → 感觉",
     "meaning": "感觉"
@@ -2641,9 +2641,9 @@
       }
     ],
     "phrases": [
-      "in high spirits",
-      "inspire to do",
-      "expire date",
+      "in high spirits 情绪高涨",
+      "inspire to do 激励做",
+      "expire date 到期日",
       "perspire heavily"
     ],
     "mnemonic": "spir（呼吸）→ 呼吸是生命 → 精神",
@@ -2748,7 +2748,7 @@
     ],
     "phrases": [
       "raise one's voice",
-      "build vocabulary",
+      "build vocabulary 建立词汇量",
       "advocate for",
       "vocal music"
     ],
@@ -2856,7 +2856,7 @@
       "evolve from",
       "revolve around",
       "involve in",
-      "industrial revolution"
+      "industrial revolution 工业革命"
     ],
     "mnemonic": "volv（转）→ 旋转滚动 → 发展",
     "meaning": "进化"
@@ -3701,7 +3701,7 @@
       }
     ],
     "phrases": [
-      "take notes",
+      "take notes 记笔记",
       "take notice of",
       "notify of",
       "notable achievement"
@@ -3810,7 +3810,7 @@
       "traffic sign",
       "send signal",
       "put signature",
-      "significant impact"
+      "significant impact 重大影响"
     ],
     "mnemonic": "sign（标记）→ 做记号 → 标志",
     "meaning": "标志"
@@ -4125,9 +4125,9 @@
       }
     ],
     "phrases": [
-      "vary from",
+      "vary from 因...而异",
       "various kinds of",
-      "a variety of",
+      "a variety of 各种各样的",
       "variable weather"
     ],
     "mnemonic": "vari（变化）→ 不断改变 → 变化",
@@ -4233,7 +4233,7 @@
     "phrases": [
       "watch video",
       "it is evident that",
-      "give evidence",
+      "give evidence 提供证据",
       "provide with"
     ],
     "mnemonic": "vid（看）→ 观看 → 视觉",
@@ -4974,7 +4974,7 @@
     ],
     "phrases": [
       "tempt to do",
-      "resist temptation",
+      "resist temptation 抵制诱惑",
       "attempt to do",
       "show contempt for"
     ],
