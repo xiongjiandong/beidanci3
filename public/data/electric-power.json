@@ -7637,5 +7637,4966 @@
       "dispos equipment 电力设备"
     ],
     "mnemonic": "dispos→dispos电"
+  },
+  {
+    "id": 122,
+    "root": "volt",
+    "phonetic": "/vəʊlt/",
+    "partOfSpeech": "词根",
+    "meaning": "电压",
+    "frequency": 122,
+    "category": "电力",
+    "words": [
+      {
+        "word": "voltage",
+        "phonetic": "/voltage/",
+        "partOfSpeech": "n.",
+        "meaning": "电压相关词",
+        "memoryTip": "volt 词根相关",
+        "root": "volt",
+        "rootPhonetic": "/vəʊlt/",
+        "rootMeaning": "电压",
+        "rootPhrases": [
+          "volt system 电压系统"
+        ],
+        "wordPhrases": [
+          "voltage related 与电压相关"
+        ]
+      },
+      {
+        "word": "voltmeter",
+        "phonetic": "/voltmeter/",
+        "partOfSpeech": "adj.",
+        "meaning": "电压相关词",
+        "memoryTip": "volt 词根相关",
+        "root": "volt",
+        "rootPhonetic": "/vəʊlt/",
+        "rootMeaning": "电压",
+        "rootPhrases": [
+          "volt system 电压系统"
+        ],
+        "wordPhrases": [
+          "voltmeter related 与电压相关"
+        ]
+      },
+      {
+        "word": "voltampere",
+        "phonetic": "/voltampere/",
+        "partOfSpeech": "v.",
+        "meaning": "电压相关词",
+        "memoryTip": "volt 词根相关",
+        "root": "volt",
+        "rootPhonetic": "/vəʊlt/",
+        "rootMeaning": "电压",
+        "rootPhrases": [
+          "volt system 电压系统"
+        ],
+        "wordPhrases": [
+          "voltampere related 与电压相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "volt equipment 电压设备"
+    ],
+    "mnemonic": "volt→电压"
+  },
+  {
+    "id": 123,
+    "root": "amp",
+    "phonetic": "/æmp/",
+    "partOfSpeech": "词根",
+    "meaning": "电流",
+    "frequency": 123,
+    "category": "电力",
+    "words": [
+      {
+        "word": "ampere",
+        "phonetic": "/ampere/",
+        "partOfSpeech": "n.",
+        "meaning": "电流相关词",
+        "memoryTip": "amp 词根相关",
+        "root": "amp",
+        "rootPhonetic": "/æmp/",
+        "rootMeaning": "电流",
+        "rootPhrases": [
+          "amp system 电流系统"
+        ],
+        "wordPhrases": [
+          "ampere related 与电流相关"
+        ]
+      },
+      {
+        "word": "amperage",
+        "phonetic": "/amperage/",
+        "partOfSpeech": "adj.",
+        "meaning": "电流相关词",
+        "memoryTip": "amp 词根相关",
+        "root": "amp",
+        "rootPhonetic": "/æmp/",
+        "rootMeaning": "电流",
+        "rootPhrases": [
+          "amp system 电流系统"
+        ],
+        "wordPhrases": [
+          "amperage related 与电流相关"
+        ]
+      },
+      {
+        "word": "amplifier",
+        "phonetic": "/amplifier/",
+        "partOfSpeech": "v.",
+        "meaning": "电流相关词",
+        "memoryTip": "amp 词根相关",
+        "root": "amp",
+        "rootPhonetic": "/æmp/",
+        "rootMeaning": "电流",
+        "rootPhrases": [
+          "amp system 电流系统"
+        ],
+        "wordPhrases": [
+          "amplifier related 与电流相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "amp equipment 电流设备"
+    ],
+    "mnemonic": "amp→电流"
+  },
+  {
+    "id": 124,
+    "root": "watt",
+    "phonetic": "/wɒt/",
+    "partOfSpeech": "词根",
+    "meaning": "功率",
+    "frequency": 124,
+    "category": "电力",
+    "words": [
+      {
+        "word": "watt",
+        "phonetic": "/watt/",
+        "partOfSpeech": "n.",
+        "meaning": "功率相关词",
+        "memoryTip": "watt 词根相关",
+        "root": "watt",
+        "rootPhonetic": "/wɒt/",
+        "rootMeaning": "功率",
+        "rootPhrases": [
+          "watt system 功率系统"
+        ],
+        "wordPhrases": [
+          "watt related 与功率相关"
+        ]
+      },
+      {
+        "word": "wattage",
+        "phonetic": "/wattage/",
+        "partOfSpeech": "adj.",
+        "meaning": "功率相关词",
+        "memoryTip": "watt 词根相关",
+        "root": "watt",
+        "rootPhonetic": "/wɒt/",
+        "rootMeaning": "功率",
+        "rootPhrases": [
+          "watt system 功率系统"
+        ],
+        "wordPhrases": [
+          "wattage related 与功率相关"
+        ]
+      },
+      {
+        "word": "kilowatt",
+        "phonetic": "/kilowatt/",
+        "partOfSpeech": "v.",
+        "meaning": "功率相关词",
+        "memoryTip": "watt 词根相关",
+        "root": "watt",
+        "rootPhonetic": "/wɒt/",
+        "rootMeaning": "功率",
+        "rootPhrases": [
+          "watt system 功率系统"
+        ],
+        "wordPhrases": [
+          "kilowatt related 与功率相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "watt equipment 功率设备"
+    ],
+    "mnemonic": "watt→功率"
+  },
+  {
+    "id": 125,
+    "root": "grid",
+    "phonetic": "/ɡrɪd/",
+    "partOfSpeech": "词根",
+    "meaning": "电网",
+    "frequency": 125,
+    "category": "电力",
+    "words": [
+      {
+        "word": "grid",
+        "phonetic": "/grid/",
+        "partOfSpeech": "n.",
+        "meaning": "电网相关词",
+        "memoryTip": "grid 词根相关",
+        "root": "grid",
+        "rootPhonetic": "/ɡrɪd/",
+        "rootMeaning": "电网",
+        "rootPhrases": [
+          "grid system 电网系统"
+        ],
+        "wordPhrases": [
+          "grid related 与电网相关"
+        ]
+      },
+      {
+        "word": "gridline",
+        "phonetic": "/gridline/",
+        "partOfSpeech": "adj.",
+        "meaning": "电网相关词",
+        "memoryTip": "grid 词根相关",
+        "root": "grid",
+        "rootPhonetic": "/ɡrɪd/",
+        "rootMeaning": "电网",
+        "rootPhrases": [
+          "grid system 电网系统"
+        ],
+        "wordPhrases": [
+          "gridline related 与电网相关"
+        ]
+      },
+      {
+        "word": "microgrid",
+        "phonetic": "/microgrid/",
+        "partOfSpeech": "v.",
+        "meaning": "电网相关词",
+        "memoryTip": "grid 词根相关",
+        "root": "grid",
+        "rootPhonetic": "/ɡrɪd/",
+        "rootMeaning": "电网",
+        "rootPhrases": [
+          "grid system 电网系统"
+        ],
+        "wordPhrases": [
+          "microgrid related 与电网相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "grid equipment 电网设备"
+    ],
+    "mnemonic": "grid→电网"
+  },
+  {
+    "id": 126,
+    "root": "trans",
+    "phonetic": "/trænz/",
+    "partOfSpeech": "词根",
+    "meaning": "变压/传输",
+    "frequency": 126,
+    "category": "电力",
+    "words": [
+      {
+        "word": "transformer",
+        "phonetic": "/transformer/",
+        "partOfSpeech": "n.",
+        "meaning": "变压/传输相关词",
+        "memoryTip": "trans 词根相关",
+        "root": "trans",
+        "rootPhonetic": "/trænz/",
+        "rootMeaning": "变压/传输",
+        "rootPhrases": [
+          "trans system 变压/传输系统"
+        ],
+        "wordPhrases": [
+          "transformer related 与变压/传输相关"
+        ]
+      },
+      {
+        "word": "transmission",
+        "phonetic": "/transmission/",
+        "partOfSpeech": "adj.",
+        "meaning": "变压/传输相关词",
+        "memoryTip": "trans 词根相关",
+        "root": "trans",
+        "rootPhonetic": "/trænz/",
+        "rootMeaning": "变压/传输",
+        "rootPhrases": [
+          "trans system 变压/传输系统"
+        ],
+        "wordPhrases": [
+          "transmission related 与变压/传输相关"
+        ]
+      },
+      {
+        "word": "transmit",
+        "phonetic": "/transmit/",
+        "partOfSpeech": "v.",
+        "meaning": "变压/传输相关词",
+        "memoryTip": "trans 词根相关",
+        "root": "trans",
+        "rootPhonetic": "/trænz/",
+        "rootMeaning": "变压/传输",
+        "rootPhrases": [
+          "trans system 变压/传输系统"
+        ],
+        "wordPhrases": [
+          "transmit related 与变压/传输相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "trans equipment 变压/传输设备"
+    ],
+    "mnemonic": "trans→变压/传输"
+  },
+  {
+    "id": 127,
+    "root": "gener",
+    "phonetic": "/ˈdʒenər/",
+    "partOfSpeech": "词根",
+    "meaning": "发电",
+    "frequency": 127,
+    "category": "电力",
+    "words": [
+      {
+        "word": "generator",
+        "phonetic": "/generator/",
+        "partOfSpeech": "n.",
+        "meaning": "发电相关词",
+        "memoryTip": "gener 词根相关",
+        "root": "gener",
+        "rootPhonetic": "/ˈdʒenər/",
+        "rootMeaning": "发电",
+        "rootPhrases": [
+          "gener system 发电系统"
+        ],
+        "wordPhrases": [
+          "generator related 与发电相关"
+        ]
+      },
+      {
+        "word": "generation",
+        "phonetic": "/generation/",
+        "partOfSpeech": "adj.",
+        "meaning": "发电相关词",
+        "memoryTip": "gener 词根相关",
+        "root": "gener",
+        "rootPhonetic": "/ˈdʒenər/",
+        "rootMeaning": "发电",
+        "rootPhrases": [
+          "gener system 发电系统"
+        ],
+        "wordPhrases": [
+          "generation related 与发电相关"
+        ]
+      },
+      {
+        "word": "generate",
+        "phonetic": "/generate/",
+        "partOfSpeech": "v.",
+        "meaning": "发电相关词",
+        "memoryTip": "gener 词根相关",
+        "root": "gener",
+        "rootPhonetic": "/ˈdʒenər/",
+        "rootMeaning": "发电",
+        "rootPhrases": [
+          "gener system 发电系统"
+        ],
+        "wordPhrases": [
+          "generate related 与发电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "gener equipment 发电设备"
+    ],
+    "mnemonic": "gener→发电"
+  },
+  {
+    "id": 128,
+    "root": "distrib",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "partOfSpeech": "词根",
+    "meaning": "配电",
+    "frequency": 128,
+    "category": "电力",
+    "words": [
+      {
+        "word": "distribute",
+        "phonetic": "/distribute/",
+        "partOfSpeech": "n.",
+        "meaning": "配电相关词",
+        "memoryTip": "distrib 词根相关",
+        "root": "distrib",
+        "rootPhonetic": "/dɪˈstrɪbjuːt/",
+        "rootMeaning": "配电",
+        "rootPhrases": [
+          "distrib system 配电系统"
+        ],
+        "wordPhrases": [
+          "distribute related 与配电相关"
+        ]
+      },
+      {
+        "word": "distribution",
+        "phonetic": "/distribution/",
+        "partOfSpeech": "adj.",
+        "meaning": "配电相关词",
+        "memoryTip": "distrib 词根相关",
+        "root": "distrib",
+        "rootPhonetic": "/dɪˈstrɪbjuːt/",
+        "rootMeaning": "配电",
+        "rootPhrases": [
+          "distrib system 配电系统"
+        ],
+        "wordPhrases": [
+          "distribution related 与配电相关"
+        ]
+      },
+      {
+        "word": "distributor",
+        "phonetic": "/distributor/",
+        "partOfSpeech": "v.",
+        "meaning": "配电相关词",
+        "memoryTip": "distrib 词根相关",
+        "root": "distrib",
+        "rootPhonetic": "/dɪˈstrɪbjuːt/",
+        "rootMeaning": "配电",
+        "rootPhrases": [
+          "distrib system 配电系统"
+        ],
+        "wordPhrases": [
+          "distributor related 与配电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "distrib equipment 配电设备"
+    ],
+    "mnemonic": "distrib→配电"
+  },
+  {
+    "id": 129,
+    "root": "substa",
+    "phonetic": "/sʌbsteɪʃ/",
+    "partOfSpeech": "词根",
+    "meaning": "变电站",
+    "frequency": 129,
+    "category": "电力",
+    "words": [
+      {
+        "word": "substation",
+        "phonetic": "/substation/",
+        "partOfSpeech": "n.",
+        "meaning": "变电站相关词",
+        "memoryTip": "substa 词根相关",
+        "root": "substa",
+        "rootPhonetic": "/sʌbsteɪʃ/",
+        "rootMeaning": "变电站",
+        "rootPhrases": [
+          "substa system 变电站系统"
+        ],
+        "wordPhrases": [
+          "substation related 与变电站相关"
+        ]
+      },
+      {
+        "word": "substationary",
+        "phonetic": "/substationary/",
+        "partOfSpeech": "adj.",
+        "meaning": "变电站相关词",
+        "memoryTip": "substa 词根相关",
+        "root": "substa",
+        "rootPhonetic": "/sʌbsteɪʃ/",
+        "rootMeaning": "变电站",
+        "rootPhrases": [
+          "substa system 变电站系统"
+        ],
+        "wordPhrases": [
+          "substationary related 与变电站相关"
+        ]
+      },
+      {
+        "word": "substations",
+        "phonetic": "/substations/",
+        "partOfSpeech": "v.",
+        "meaning": "变电站相关词",
+        "memoryTip": "substa 词根相关",
+        "root": "substa",
+        "rootPhonetic": "/sʌbsteɪʃ/",
+        "rootMeaning": "变电站",
+        "rootPhrases": [
+          "substa system 变电站系统"
+        ],
+        "wordPhrases": [
+          "substations related 与变电站相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "substa equipment 变电站设备"
+    ],
+    "mnemonic": "substa→变电站"
+  },
+  {
+    "id": 130,
+    "root": "switch",
+    "phonetic": "/swɪtʃ/",
+    "partOfSpeech": "词根",
+    "meaning": "开关",
+    "frequency": 130,
+    "category": "电力",
+    "words": [
+      {
+        "word": "switch",
+        "phonetic": "/switch/",
+        "partOfSpeech": "n.",
+        "meaning": "开关相关词",
+        "memoryTip": "switch 词根相关",
+        "root": "switch",
+        "rootPhonetic": "/swɪtʃ/",
+        "rootMeaning": "开关",
+        "rootPhrases": [
+          "switch system 开关系统"
+        ],
+        "wordPhrases": [
+          "switch related 与开关相关"
+        ]
+      },
+      {
+        "word": "switchgear",
+        "phonetic": "/switchgear/",
+        "partOfSpeech": "adj.",
+        "meaning": "开关相关词",
+        "memoryTip": "switch 词根相关",
+        "root": "switch",
+        "rootPhonetic": "/swɪtʃ/",
+        "rootMeaning": "开关",
+        "rootPhrases": [
+          "switch system 开关系统"
+        ],
+        "wordPhrases": [
+          "switchgear related 与开关相关"
+        ]
+      },
+      {
+        "word": "switchboard",
+        "phonetic": "/switchboard/",
+        "partOfSpeech": "v.",
+        "meaning": "开关相关词",
+        "memoryTip": "switch 词根相关",
+        "root": "switch",
+        "rootPhonetic": "/swɪtʃ/",
+        "rootMeaning": "开关",
+        "rootPhrases": [
+          "switch system 开关系统"
+        ],
+        "wordPhrases": [
+          "switchboard related 与开关相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "switch equipment 开关设备"
+    ],
+    "mnemonic": "switch→开关"
+  },
+  {
+    "id": 131,
+    "root": "circuit",
+    "phonetic": "/ˈsɜːkɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "电路",
+    "frequency": 131,
+    "category": "电力",
+    "words": [
+      {
+        "word": "circuit",
+        "phonetic": "/circuit/",
+        "partOfSpeech": "n.",
+        "meaning": "电路相关词",
+        "memoryTip": "circuit 词根相关",
+        "root": "circuit",
+        "rootPhonetic": "/ˈsɜːkɪt/",
+        "rootMeaning": "电路",
+        "rootPhrases": [
+          "circuit system 电路系统"
+        ],
+        "wordPhrases": [
+          "circuit related 与电路相关"
+        ]
+      },
+      {
+        "word": "circuitry",
+        "phonetic": "/circuitry/",
+        "partOfSpeech": "adj.",
+        "meaning": "电路相关词",
+        "memoryTip": "circuit 词根相关",
+        "root": "circuit",
+        "rootPhonetic": "/ˈsɜːkɪt/",
+        "rootMeaning": "电路",
+        "rootPhrases": [
+          "circuit system 电路系统"
+        ],
+        "wordPhrases": [
+          "circuitry related 与电路相关"
+        ]
+      },
+      {
+        "word": "circuitbreaker",
+        "phonetic": "/circuitbreaker/",
+        "partOfSpeech": "v.",
+        "meaning": "电路相关词",
+        "memoryTip": "circuit 词根相关",
+        "root": "circuit",
+        "rootPhonetic": "/ˈsɜːkɪt/",
+        "rootMeaning": "电路",
+        "rootPhrases": [
+          "circuit system 电路系统"
+        ],
+        "wordPhrases": [
+          "circuitbreaker related 与电路相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "circuit equipment 电路设备"
+    ],
+    "mnemonic": "circuit→电路"
+  },
+  {
+    "id": 132,
+    "root": "fuse",
+    "phonetic": "/fjuːz/",
+    "partOfSpeech": "词根",
+    "meaning": "保险丝",
+    "frequency": 132,
+    "category": "电力",
+    "words": [
+      {
+        "word": "fuse",
+        "phonetic": "/fuse/",
+        "partOfSpeech": "n.",
+        "meaning": "保险丝相关词",
+        "memoryTip": "fuse 词根相关",
+        "root": "fuse",
+        "rootPhonetic": "/fjuːz/",
+        "rootMeaning": "保险丝",
+        "rootPhrases": [
+          "fuse system 保险丝系统"
+        ],
+        "wordPhrases": [
+          "fuse related 与保险丝相关"
+        ]
+      },
+      {
+        "word": "fused",
+        "phonetic": "/fused/",
+        "partOfSpeech": "adj.",
+        "meaning": "保险丝相关词",
+        "memoryTip": "fuse 词根相关",
+        "root": "fuse",
+        "rootPhonetic": "/fjuːz/",
+        "rootMeaning": "保险丝",
+        "rootPhrases": [
+          "fuse system 保险丝系统"
+        ],
+        "wordPhrases": [
+          "fused related 与保险丝相关"
+        ]
+      },
+      {
+        "word": "fusebox",
+        "phonetic": "/fusebox/",
+        "partOfSpeech": "v.",
+        "meaning": "保险丝相关词",
+        "memoryTip": "fuse 词根相关",
+        "root": "fuse",
+        "rootPhonetic": "/fjuːz/",
+        "rootMeaning": "保险丝",
+        "rootPhrases": [
+          "fuse system 保险丝系统"
+        ],
+        "wordPhrases": [
+          "fusebox related 与保险丝相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "fuse equipment 保险丝设备"
+    ],
+    "mnemonic": "fuse→保险丝"
+  },
+  {
+    "id": 133,
+    "root": "relay",
+    "phonetic": "/ˈriːleɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "继电器",
+    "frequency": 133,
+    "category": "电力",
+    "words": [
+      {
+        "word": "relay",
+        "phonetic": "/relay/",
+        "partOfSpeech": "n.",
+        "meaning": "继电器相关词",
+        "memoryTip": "relay 词根相关",
+        "root": "relay",
+        "rootPhonetic": "/ˈriːleɪ/",
+        "rootMeaning": "继电器",
+        "rootPhrases": [
+          "relay system 继电器系统"
+        ],
+        "wordPhrases": [
+          "relay related 与继电器相关"
+        ]
+      },
+      {
+        "word": "relaying",
+        "phonetic": "/relaying/",
+        "partOfSpeech": "adj.",
+        "meaning": "继电器相关词",
+        "memoryTip": "relay 词根相关",
+        "root": "relay",
+        "rootPhonetic": "/ˈriːleɪ/",
+        "rootMeaning": "继电器",
+        "rootPhrases": [
+          "relay system 继电器系统"
+        ],
+        "wordPhrases": [
+          "relaying related 与继电器相关"
+        ]
+      },
+      {
+        "word": "relaystation",
+        "phonetic": "/relaystation/",
+        "partOfSpeech": "v.",
+        "meaning": "继电器相关词",
+        "memoryTip": "relay 词根相关",
+        "root": "relay",
+        "rootPhonetic": "/ˈriːleɪ/",
+        "rootMeaning": "继电器",
+        "rootPhrases": [
+          "relay system 继电器系统"
+        ],
+        "wordPhrases": [
+          "relaystation related 与继电器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "relay equipment 继电器设备"
+    ],
+    "mnemonic": "relay→继电器"
+  },
+  {
+    "id": 134,
+    "root": "insul",
+    "phonetic": "/ˈɪnsjʊleɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "绝缘",
+    "frequency": 134,
+    "category": "电力",
+    "words": [
+      {
+        "word": "insulate",
+        "phonetic": "/insulate/",
+        "partOfSpeech": "n.",
+        "meaning": "绝缘相关词",
+        "memoryTip": "insul 词根相关",
+        "root": "insul",
+        "rootPhonetic": "/ˈɪnsjʊleɪt/",
+        "rootMeaning": "绝缘",
+        "rootPhrases": [
+          "insul system 绝缘系统"
+        ],
+        "wordPhrases": [
+          "insulate related 与绝缘相关"
+        ]
+      },
+      {
+        "word": "insulation",
+        "phonetic": "/insulation/",
+        "partOfSpeech": "adj.",
+        "meaning": "绝缘相关词",
+        "memoryTip": "insul 词根相关",
+        "root": "insul",
+        "rootPhonetic": "/ˈɪnsjʊleɪt/",
+        "rootMeaning": "绝缘",
+        "rootPhrases": [
+          "insul system 绝缘系统"
+        ],
+        "wordPhrases": [
+          "insulation related 与绝缘相关"
+        ]
+      },
+      {
+        "word": "insulator",
+        "phonetic": "/insulator/",
+        "partOfSpeech": "v.",
+        "meaning": "绝缘相关词",
+        "memoryTip": "insul 词根相关",
+        "root": "insul",
+        "rootPhonetic": "/ˈɪnsjʊleɪt/",
+        "rootMeaning": "绝缘",
+        "rootPhrases": [
+          "insul system 绝缘系统"
+        ],
+        "wordPhrases": [
+          "insulator related 与绝缘相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "insul equipment 绝缘设备"
+    ],
+    "mnemonic": "insul→绝缘"
+  },
+  {
+    "id": 135,
+    "root": "conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "partOfSpeech": "词根",
+    "meaning": "导电",
+    "frequency": 135,
+    "category": "电力",
+    "words": [
+      {
+        "word": "conduct",
+        "phonetic": "/conduct/",
+        "partOfSpeech": "n.",
+        "meaning": "导电相关词",
+        "memoryTip": "conduct 词根相关",
+        "root": "conduct",
+        "rootPhonetic": "/kənˈdʌkt/",
+        "rootMeaning": "导电",
+        "rootPhrases": [
+          "conduct system 导电系统"
+        ],
+        "wordPhrases": [
+          "conduct related 与导电相关"
+        ]
+      },
+      {
+        "word": "conductor",
+        "phonetic": "/conductor/",
+        "partOfSpeech": "adj.",
+        "meaning": "导电相关词",
+        "memoryTip": "conduct 词根相关",
+        "root": "conduct",
+        "rootPhonetic": "/kənˈdʌkt/",
+        "rootMeaning": "导电",
+        "rootPhrases": [
+          "conduct system 导电系统"
+        ],
+        "wordPhrases": [
+          "conductor related 与导电相关"
+        ]
+      },
+      {
+        "word": "conductivity",
+        "phonetic": "/conductivity/",
+        "partOfSpeech": "v.",
+        "meaning": "导电相关词",
+        "memoryTip": "conduct 词根相关",
+        "root": "conduct",
+        "rootPhonetic": "/kənˈdʌkt/",
+        "rootMeaning": "导电",
+        "rootPhrases": [
+          "conduct system 导电系统"
+        ],
+        "wordPhrases": [
+          "conductivity related 与导电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "conduct equipment 导电设备"
+    ],
+    "mnemonic": "conduct→导电"
+  },
+  {
+    "id": 136,
+    "root": "resist",
+    "phonetic": "/rɪˈzɪst/",
+    "partOfSpeech": "词根",
+    "meaning": "电阻",
+    "frequency": 136,
+    "category": "电力",
+    "words": [
+      {
+        "word": "resist",
+        "phonetic": "/resist/",
+        "partOfSpeech": "n.",
+        "meaning": "电阻相关词",
+        "memoryTip": "resist 词根相关",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "电阻",
+        "rootPhrases": [
+          "resist system 电阻系统"
+        ],
+        "wordPhrases": [
+          "resist related 与电阻相关"
+        ]
+      },
+      {
+        "word": "resistance",
+        "phonetic": "/resistance/",
+        "partOfSpeech": "adj.",
+        "meaning": "电阻相关词",
+        "memoryTip": "resist 词根相关",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "电阻",
+        "rootPhrases": [
+          "resist system 电阻系统"
+        ],
+        "wordPhrases": [
+          "resistance related 与电阻相关"
+        ]
+      },
+      {
+        "word": "resistor",
+        "phonetic": "/resistor/",
+        "partOfSpeech": "v.",
+        "meaning": "电阻相关词",
+        "memoryTip": "resist 词根相关",
+        "root": "resist",
+        "rootPhonetic": "/rɪˈzɪst/",
+        "rootMeaning": "电阻",
+        "rootPhrases": [
+          "resist system 电阻系统"
+        ],
+        "wordPhrases": [
+          "resistor related 与电阻相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "resist equipment 电阻设备"
+    ],
+    "mnemonic": "resist→电阻"
+  },
+  {
+    "id": 137,
+    "root": "capac",
+    "phonetic": "/kəˈpæsɪtɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "电容",
+    "frequency": 137,
+    "category": "电力",
+    "words": [
+      {
+        "word": "capacitor",
+        "phonetic": "/capacitor/",
+        "partOfSpeech": "n.",
+        "meaning": "电容相关词",
+        "memoryTip": "capac 词根相关",
+        "root": "capac",
+        "rootPhonetic": "/kəˈpæsɪtɪ/",
+        "rootMeaning": "电容",
+        "rootPhrases": [
+          "capac system 电容系统"
+        ],
+        "wordPhrases": [
+          "capacitor related 与电容相关"
+        ]
+      },
+      {
+        "word": "capacity",
+        "phonetic": "/capacity/",
+        "partOfSpeech": "adj.",
+        "meaning": "电容相关词",
+        "memoryTip": "capac 词根相关",
+        "root": "capac",
+        "rootPhonetic": "/kəˈpæsɪtɪ/",
+        "rootMeaning": "电容",
+        "rootPhrases": [
+          "capac system 电容系统"
+        ],
+        "wordPhrases": [
+          "capacity related 与电容相关"
+        ]
+      },
+      {
+        "word": "capacitance",
+        "phonetic": "/capacitance/",
+        "partOfSpeech": "v.",
+        "meaning": "电容相关词",
+        "memoryTip": "capac 词根相关",
+        "root": "capac",
+        "rootPhonetic": "/kəˈpæsɪtɪ/",
+        "rootMeaning": "电容",
+        "rootPhrases": [
+          "capac system 电容系统"
+        ],
+        "wordPhrases": [
+          "capacitance related 与电容相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "capac equipment 电容设备"
+    ],
+    "mnemonic": "capac→电容"
+  },
+  {
+    "id": 138,
+    "root": "induct",
+    "phonetic": "/ɪnˈdʌkt/",
+    "partOfSpeech": "词根",
+    "meaning": "电感",
+    "frequency": 138,
+    "category": "电力",
+    "words": [
+      {
+        "word": "induct",
+        "phonetic": "/induct/",
+        "partOfSpeech": "n.",
+        "meaning": "电感相关词",
+        "memoryTip": "induct 词根相关",
+        "root": "induct",
+        "rootPhonetic": "/ɪnˈdʌkt/",
+        "rootMeaning": "电感",
+        "rootPhrases": [
+          "induct system 电感系统"
+        ],
+        "wordPhrases": [
+          "induct related 与电感相关"
+        ]
+      },
+      {
+        "word": "inductance",
+        "phonetic": "/inductance/",
+        "partOfSpeech": "adj.",
+        "meaning": "电感相关词",
+        "memoryTip": "induct 词根相关",
+        "root": "induct",
+        "rootPhonetic": "/ɪnˈdʌkt/",
+        "rootMeaning": "电感",
+        "rootPhrases": [
+          "induct system 电感系统"
+        ],
+        "wordPhrases": [
+          "inductance related 与电感相关"
+        ]
+      },
+      {
+        "word": "inductor",
+        "phonetic": "/inductor/",
+        "partOfSpeech": "v.",
+        "meaning": "电感相关词",
+        "memoryTip": "induct 词根相关",
+        "root": "induct",
+        "rootPhonetic": "/ɪnˈdʌkt/",
+        "rootMeaning": "电感",
+        "rootPhrases": [
+          "induct system 电感系统"
+        ],
+        "wordPhrases": [
+          "inductor related 与电感相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "induct equipment 电感设备"
+    ],
+    "mnemonic": "induct→电感"
+  },
+  {
+    "id": 139,
+    "root": "imped",
+    "phonetic": "/ɪmˈpiːd/",
+    "partOfSpeech": "词根",
+    "meaning": "阻抗",
+    "frequency": 139,
+    "category": "电力",
+    "words": [
+      {
+        "word": "impedance",
+        "phonetic": "/impedance/",
+        "partOfSpeech": "n.",
+        "meaning": "阻抗相关词",
+        "memoryTip": "imped 词根相关",
+        "root": "imped",
+        "rootPhonetic": "/ɪmˈpiːd/",
+        "rootMeaning": "阻抗",
+        "rootPhrases": [
+          "imped system 阻抗系统"
+        ],
+        "wordPhrases": [
+          "impedance related 与阻抗相关"
+        ]
+      },
+      {
+        "word": "impede",
+        "phonetic": "/impede/",
+        "partOfSpeech": "adj.",
+        "meaning": "阻抗相关词",
+        "memoryTip": "imped 词根相关",
+        "root": "imped",
+        "rootPhonetic": "/ɪmˈpiːd/",
+        "rootMeaning": "阻抗",
+        "rootPhrases": [
+          "imped system 阻抗系统"
+        ],
+        "wordPhrases": [
+          "impede related 与阻抗相关"
+        ]
+      },
+      {
+        "word": "impedances",
+        "phonetic": "/impedances/",
+        "partOfSpeech": "v.",
+        "meaning": "阻抗相关词",
+        "memoryTip": "imped 词根相关",
+        "root": "imped",
+        "rootPhonetic": "/ɪmˈpiːd/",
+        "rootMeaning": "阻抗",
+        "rootPhrases": [
+          "imped system 阻抗系统"
+        ],
+        "wordPhrases": [
+          "impedances related 与阻抗相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "imped equipment 阻抗设备"
+    ],
+    "mnemonic": "imped→阻抗"
+  },
+  {
+    "id": 140,
+    "root": "react",
+    "phonetic": "/riˈækt/",
+    "partOfSpeech": "词根",
+    "meaning": "电抗",
+    "frequency": 140,
+    "category": "电力",
+    "words": [
+      {
+        "word": "reactance",
+        "phonetic": "/reactance/",
+        "partOfSpeech": "n.",
+        "meaning": "电抗相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "电抗",
+        "rootPhrases": [
+          "react system 电抗系统"
+        ],
+        "wordPhrases": [
+          "reactance related 与电抗相关"
+        ]
+      },
+      {
+        "word": "reactive",
+        "phonetic": "/reactive/",
+        "partOfSpeech": "adj.",
+        "meaning": "电抗相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "电抗",
+        "rootPhrases": [
+          "react system 电抗系统"
+        ],
+        "wordPhrases": [
+          "reactive related 与电抗相关"
+        ]
+      },
+      {
+        "word": "reactor",
+        "phonetic": "/reactor/",
+        "partOfSpeech": "v.",
+        "meaning": "电抗相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "电抗",
+        "rootPhrases": [
+          "react system 电抗系统"
+        ],
+        "wordPhrases": [
+          "reactor related 与电抗相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "react equipment 电抗设备"
+    ],
+    "mnemonic": "react→电抗"
+  },
+  {
+    "id": 141,
+    "root": "turbine",
+    "phonetic": "/ˈtɜːbaɪn/",
+    "partOfSpeech": "词根",
+    "meaning": "涡轮",
+    "frequency": 141,
+    "category": "电力",
+    "words": [
+      {
+        "word": "turbine",
+        "phonetic": "/turbine/",
+        "partOfSpeech": "n.",
+        "meaning": "涡轮相关词",
+        "memoryTip": "turbine 词根相关",
+        "root": "turbine",
+        "rootPhonetic": "/ˈtɜːbaɪn/",
+        "rootMeaning": "涡轮",
+        "rootPhrases": [
+          "turbine system 涡轮系统"
+        ],
+        "wordPhrases": [
+          "turbine related 与涡轮相关"
+        ]
+      },
+      {
+        "word": "turbo",
+        "phonetic": "/turbo/",
+        "partOfSpeech": "adj.",
+        "meaning": "涡轮相关词",
+        "memoryTip": "turbine 词根相关",
+        "root": "turbine",
+        "rootPhonetic": "/ˈtɜːbaɪn/",
+        "rootMeaning": "涡轮",
+        "rootPhrases": [
+          "turbine system 涡轮系统"
+        ],
+        "wordPhrases": [
+          "turbo related 与涡轮相关"
+        ]
+      },
+      {
+        "word": "turbogenerator",
+        "phonetic": "/turbogenerator/",
+        "partOfSpeech": "v.",
+        "meaning": "涡轮相关词",
+        "memoryTip": "turbine 词根相关",
+        "root": "turbine",
+        "rootPhonetic": "/ˈtɜːbaɪn/",
+        "rootMeaning": "涡轮",
+        "rootPhrases": [
+          "turbine system 涡轮系统"
+        ],
+        "wordPhrases": [
+          "turbogenerator related 与涡轮相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "turbine equipment 涡轮设备"
+    ],
+    "mnemonic": "turbine→涡轮"
+  },
+  {
+    "id": 142,
+    "root": "rotor",
+    "phonetic": "/ˈrəʊtə/",
+    "partOfSpeech": "词根",
+    "meaning": "转子",
+    "frequency": 142,
+    "category": "电力",
+    "words": [
+      {
+        "word": "rotor",
+        "phonetic": "/rotor/",
+        "partOfSpeech": "n.",
+        "meaning": "转子相关词",
+        "memoryTip": "rotor 词根相关",
+        "root": "rotor",
+        "rootPhonetic": "/ˈrəʊtə/",
+        "rootMeaning": "转子",
+        "rootPhrases": [
+          "rotor system 转子系统"
+        ],
+        "wordPhrases": [
+          "rotor related 与转子相关"
+        ]
+      },
+      {
+        "word": "rotating",
+        "phonetic": "/rotating/",
+        "partOfSpeech": "adj.",
+        "meaning": "转子相关词",
+        "memoryTip": "rotor 词根相关",
+        "root": "rotor",
+        "rootPhonetic": "/ˈrəʊtə/",
+        "rootMeaning": "转子",
+        "rootPhrases": [
+          "rotor system 转子系统"
+        ],
+        "wordPhrases": [
+          "rotating related 与转子相关"
+        ]
+      },
+      {
+        "word": "rotation",
+        "phonetic": "/rotation/",
+        "partOfSpeech": "v.",
+        "meaning": "转子相关词",
+        "memoryTip": "rotor 词根相关",
+        "root": "rotor",
+        "rootPhonetic": "/ˈrəʊtə/",
+        "rootMeaning": "转子",
+        "rootPhrases": [
+          "rotor system 转子系统"
+        ],
+        "wordPhrases": [
+          "rotation related 与转子相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "rotor equipment 转子设备"
+    ],
+    "mnemonic": "rotor→转子"
+  },
+  {
+    "id": 143,
+    "root": "stator",
+    "phonetic": "/ˈsteɪtə/",
+    "partOfSpeech": "词根",
+    "meaning": "定子",
+    "frequency": 143,
+    "category": "电力",
+    "words": [
+      {
+        "word": "stator",
+        "phonetic": "/stator/",
+        "partOfSpeech": "n.",
+        "meaning": "定子相关词",
+        "memoryTip": "stator 词根相关",
+        "root": "stator",
+        "rootPhonetic": "/ˈsteɪtə/",
+        "rootMeaning": "定子",
+        "rootPhrases": [
+          "stator system 定子系统"
+        ],
+        "wordPhrases": [
+          "stator related 与定子相关"
+        ]
+      },
+      {
+        "word": "stationary",
+        "phonetic": "/stationary/",
+        "partOfSpeech": "adj.",
+        "meaning": "定子相关词",
+        "memoryTip": "stator 词根相关",
+        "root": "stator",
+        "rootPhonetic": "/ˈsteɪtə/",
+        "rootMeaning": "定子",
+        "rootPhrases": [
+          "stator system 定子系统"
+        ],
+        "wordPhrases": [
+          "stationary related 与定子相关"
+        ]
+      },
+      {
+        "word": "statorcoil",
+        "phonetic": "/statorcoil/",
+        "partOfSpeech": "v.",
+        "meaning": "定子相关词",
+        "memoryTip": "stator 词根相关",
+        "root": "stator",
+        "rootPhonetic": "/ˈsteɪtə/",
+        "rootMeaning": "定子",
+        "rootPhrases": [
+          "stator system 定子系统"
+        ],
+        "wordPhrases": [
+          "statorcoil related 与定子相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "stator equipment 定子设备"
+    ],
+    "mnemonic": "stator→定子"
+  },
+  {
+    "id": 144,
+    "root": "armature",
+    "phonetic": "/ˈɑːmətʃə/",
+    "partOfSpeech": "词根",
+    "meaning": "电枢",
+    "frequency": 144,
+    "category": "电力",
+    "words": [
+      {
+        "word": "armature",
+        "phonetic": "/armature/",
+        "partOfSpeech": "n.",
+        "meaning": "电枢相关词",
+        "memoryTip": "armature 词根相关",
+        "root": "armature",
+        "rootPhonetic": "/ˈɑːmətʃə/",
+        "rootMeaning": "电枢",
+        "rootPhrases": [
+          "armature system 电枢系统"
+        ],
+        "wordPhrases": [
+          "armature related 与电枢相关"
+        ]
+      },
+      {
+        "word": "armaturecoil",
+        "phonetic": "/armaturecoil/",
+        "partOfSpeech": "adj.",
+        "meaning": "电枢相关词",
+        "memoryTip": "armature 词根相关",
+        "root": "armature",
+        "rootPhonetic": "/ˈɑːmətʃə/",
+        "rootMeaning": "电枢",
+        "rootPhrases": [
+          "armature system 电枢系统"
+        ],
+        "wordPhrases": [
+          "armaturecoil related 与电枢相关"
+        ]
+      },
+      {
+        "word": "armaturereaction",
+        "phonetic": "/armaturereaction/",
+        "partOfSpeech": "v.",
+        "meaning": "电枢相关词",
+        "memoryTip": "armature 词根相关",
+        "root": "armature",
+        "rootPhonetic": "/ˈɑːmətʃə/",
+        "rootMeaning": "电枢",
+        "rootPhrases": [
+          "armature system 电枢系统"
+        ],
+        "wordPhrases": [
+          "armaturereaction related 与电枢相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "armature equipment 电枢设备"
+    ],
+    "mnemonic": "armature→电枢"
+  },
+  {
+    "id": 145,
+    "root": "coil",
+    "phonetic": "/kɔɪl/",
+    "partOfSpeech": "词根",
+    "meaning": "线圈",
+    "frequency": 145,
+    "category": "电力",
+    "words": [
+      {
+        "word": "coil",
+        "phonetic": "/coil/",
+        "partOfSpeech": "n.",
+        "meaning": "线圈相关词",
+        "memoryTip": "coil 词根相关",
+        "root": "coil",
+        "rootPhonetic": "/kɔɪl/",
+        "rootMeaning": "线圈",
+        "rootPhrases": [
+          "coil system 线圈系统"
+        ],
+        "wordPhrases": [
+          "coil related 与线圈相关"
+        ]
+      },
+      {
+        "word": "coiling",
+        "phonetic": "/coiling/",
+        "partOfSpeech": "adj.",
+        "meaning": "线圈相关词",
+        "memoryTip": "coil 词根相关",
+        "root": "coil",
+        "rootPhonetic": "/kɔɪl/",
+        "rootMeaning": "线圈",
+        "rootPhrases": [
+          "coil system 线圈系统"
+        ],
+        "wordPhrases": [
+          "coiling related 与线圈相关"
+        ]
+      },
+      {
+        "word": "coilwinding",
+        "phonetic": "/coilwinding/",
+        "partOfSpeech": "v.",
+        "meaning": "线圈相关词",
+        "memoryTip": "coil 词根相关",
+        "root": "coil",
+        "rootPhonetic": "/kɔɪl/",
+        "rootMeaning": "线圈",
+        "rootPhrases": [
+          "coil system 线圈系统"
+        ],
+        "wordPhrases": [
+          "coilwinding related 与线圈相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "coil equipment 线圈设备"
+    ],
+    "mnemonic": "coil→线圈"
+  },
+  {
+    "id": 146,
+    "root": "winding",
+    "phonetic": "/ˈwaɪndɪŋ/",
+    "partOfSpeech": "词根",
+    "meaning": "绕组",
+    "frequency": 146,
+    "category": "电力",
+    "words": [
+      {
+        "word": "winding",
+        "phonetic": "/winding/",
+        "partOfSpeech": "n.",
+        "meaning": "绕组相关词",
+        "memoryTip": "winding 词根相关",
+        "root": "winding",
+        "rootPhonetic": "/ˈwaɪndɪŋ/",
+        "rootMeaning": "绕组",
+        "rootPhrases": [
+          "winding system 绕组系统"
+        ],
+        "wordPhrases": [
+          "winding related 与绕组相关"
+        ]
+      },
+      {
+        "word": "windings",
+        "phonetic": "/windings/",
+        "partOfSpeech": "adj.",
+        "meaning": "绕组相关词",
+        "memoryTip": "winding 词根相关",
+        "root": "winding",
+        "rootPhonetic": "/ˈwaɪndɪŋ/",
+        "rootMeaning": "绕组",
+        "rootPhrases": [
+          "winding system 绕组系统"
+        ],
+        "wordPhrases": [
+          "windings related 与绕组相关"
+        ]
+      },
+      {
+        "word": "rewinding",
+        "phonetic": "/rewinding/",
+        "partOfSpeech": "v.",
+        "meaning": "绕组相关词",
+        "memoryTip": "winding 词根相关",
+        "root": "winding",
+        "rootPhonetic": "/ˈwaɪndɪŋ/",
+        "rootMeaning": "绕组",
+        "rootPhrases": [
+          "winding system 绕组系统"
+        ],
+        "wordPhrases": [
+          "rewinding related 与绕组相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "winding equipment 绕组设备"
+    ],
+    "mnemonic": "winding→绕组"
+  },
+  {
+    "id": 147,
+    "root": "busbar",
+    "phonetic": "/ˈbʌzbɑː/",
+    "partOfSpeech": "词根",
+    "meaning": "母线",
+    "frequency": 147,
+    "category": "电力",
+    "words": [
+      {
+        "word": "busbar",
+        "phonetic": "/busbar/",
+        "partOfSpeech": "n.",
+        "meaning": "母线相关词",
+        "memoryTip": "busbar 词根相关",
+        "root": "busbar",
+        "rootPhonetic": "/ˈbʌzbɑː/",
+        "rootMeaning": "母线",
+        "rootPhrases": [
+          "busbar system 母线系统"
+        ],
+        "wordPhrases": [
+          "busbar related 与母线相关"
+        ]
+      },
+      {
+        "word": "busbars",
+        "phonetic": "/busbars/",
+        "partOfSpeech": "adj.",
+        "meaning": "母线相关词",
+        "memoryTip": "busbar 词根相关",
+        "root": "busbar",
+        "rootPhonetic": "/ˈbʌzbɑː/",
+        "rootMeaning": "母线",
+        "rootPhrases": [
+          "busbar system 母线系统"
+        ],
+        "wordPhrases": [
+          "busbars related 与母线相关"
+        ]
+      },
+      {
+        "word": "busbarprotection",
+        "phonetic": "/busbarprotection/",
+        "partOfSpeech": "v.",
+        "meaning": "母线相关词",
+        "memoryTip": "busbar 词根相关",
+        "root": "busbar",
+        "rootPhonetic": "/ˈbʌzbɑː/",
+        "rootMeaning": "母线",
+        "rootPhrases": [
+          "busbar system 母线系统"
+        ],
+        "wordPhrases": [
+          "busbarprotection related 与母线相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "busbar equipment 母线设备"
+    ],
+    "mnemonic": "busbar→母线"
+  },
+  {
+    "id": 148,
+    "root": "feeder",
+    "phonetic": "/ˈfiːdə/",
+    "partOfSpeech": "词根",
+    "meaning": "馈线",
+    "frequency": 148,
+    "category": "电力",
+    "words": [
+      {
+        "word": "feeder",
+        "phonetic": "/feeder/",
+        "partOfSpeech": "n.",
+        "meaning": "馈线相关词",
+        "memoryTip": "feeder 词根相关",
+        "root": "feeder",
+        "rootPhonetic": "/ˈfiːdə/",
+        "rootMeaning": "馈线",
+        "rootPhrases": [
+          "feeder system 馈线系统"
+        ],
+        "wordPhrases": [
+          "feeder related 与馈线相关"
+        ]
+      },
+      {
+        "word": "feeders",
+        "phonetic": "/feeders/",
+        "partOfSpeech": "adj.",
+        "meaning": "馈线相关词",
+        "memoryTip": "feeder 词根相关",
+        "root": "feeder",
+        "rootPhonetic": "/ˈfiːdə/",
+        "rootMeaning": "馈线",
+        "rootPhrases": [
+          "feeder system 馈线系统"
+        ],
+        "wordPhrases": [
+          "feeders related 与馈线相关"
+        ]
+      },
+      {
+        "word": "feederline",
+        "phonetic": "/feederline/",
+        "partOfSpeech": "v.",
+        "meaning": "馈线相关词",
+        "memoryTip": "feeder 词根相关",
+        "root": "feeder",
+        "rootPhonetic": "/ˈfiːdə/",
+        "rootMeaning": "馈线",
+        "rootPhrases": [
+          "feeder system 馈线系统"
+        ],
+        "wordPhrases": [
+          "feederline related 与馈线相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "feeder equipment 馈线设备"
+    ],
+    "mnemonic": "feeder→馈线"
+  },
+  {
+    "id": 149,
+    "root": "load",
+    "phonetic": "/ləʊd/",
+    "partOfSpeech": "词根",
+    "meaning": "负载",
+    "frequency": 149,
+    "category": "电力",
+    "words": [
+      {
+        "word": "load",
+        "phonetic": "/load/",
+        "partOfSpeech": "n.",
+        "meaning": "负载相关词",
+        "memoryTip": "load 词根相关",
+        "root": "load",
+        "rootPhonetic": "/ləʊd/",
+        "rootMeaning": "负载",
+        "rootPhrases": [
+          "load system 负载系统"
+        ],
+        "wordPhrases": [
+          "load related 与负载相关"
+        ]
+      },
+      {
+        "word": "loading",
+        "phonetic": "/loading/",
+        "partOfSpeech": "adj.",
+        "meaning": "负载相关词",
+        "memoryTip": "load 词根相关",
+        "root": "load",
+        "rootPhonetic": "/ləʊd/",
+        "rootMeaning": "负载",
+        "rootPhrases": [
+          "load system 负载系统"
+        ],
+        "wordPhrases": [
+          "loading related 与负载相关"
+        ]
+      },
+      {
+        "word": "loadshedding",
+        "phonetic": "/loadshedding/",
+        "partOfSpeech": "v.",
+        "meaning": "负载相关词",
+        "memoryTip": "load 词根相关",
+        "root": "load",
+        "rootPhonetic": "/ləʊd/",
+        "rootMeaning": "负载",
+        "rootPhrases": [
+          "load system 负载系统"
+        ],
+        "wordPhrases": [
+          "loadshedding related 与负载相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "load equipment 负载设备"
+    ],
+    "mnemonic": "load→负载"
+  },
+  {
+    "id": 150,
+    "root": "peak",
+    "phonetic": "/piːk/",
+    "partOfSpeech": "词根",
+    "meaning": "峰值",
+    "frequency": 150,
+    "category": "电力",
+    "words": [
+      {
+        "word": "peak",
+        "phonetic": "/peak/",
+        "partOfSpeech": "n.",
+        "meaning": "峰值相关词",
+        "memoryTip": "peak 词根相关",
+        "root": "peak",
+        "rootPhonetic": "/piːk/",
+        "rootMeaning": "峰值",
+        "rootPhrases": [
+          "peak system 峰值系统"
+        ],
+        "wordPhrases": [
+          "peak related 与峰值相关"
+        ]
+      },
+      {
+        "word": "peakload",
+        "phonetic": "/peakload/",
+        "partOfSpeech": "adj.",
+        "meaning": "峰值相关词",
+        "memoryTip": "peak 词根相关",
+        "root": "peak",
+        "rootPhonetic": "/piːk/",
+        "rootMeaning": "峰值",
+        "rootPhrases": [
+          "peak system 峰值系统"
+        ],
+        "wordPhrases": [
+          "peakload related 与峰值相关"
+        ]
+      },
+      {
+        "word": "peaking",
+        "phonetic": "/peaking/",
+        "partOfSpeech": "v.",
+        "meaning": "峰值相关词",
+        "memoryTip": "peak 词根相关",
+        "root": "peak",
+        "rootPhonetic": "/piːk/",
+        "rootMeaning": "峰值",
+        "rootPhrases": [
+          "peak system 峰值系统"
+        ],
+        "wordPhrases": [
+          "peaking related 与峰值相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "peak equipment 峰值设备"
+    ],
+    "mnemonic": "peak→峰值"
+  },
+  {
+    "id": 151,
+    "root": "base",
+    "phonetic": "/beɪs/",
+    "partOfSpeech": "词根",
+    "meaning": "基础",
+    "frequency": 151,
+    "category": "电力",
+    "words": [
+      {
+        "word": "baseload",
+        "phonetic": "/baseload/",
+        "partOfSpeech": "n.",
+        "meaning": "基础相关词",
+        "memoryTip": "base 词根相关",
+        "root": "base",
+        "rootPhonetic": "/beɪs/",
+        "rootMeaning": "基础",
+        "rootPhrases": [
+          "base system 基础系统"
+        ],
+        "wordPhrases": [
+          "baseload related 与基础相关"
+        ]
+      },
+      {
+        "word": "baseline",
+        "phonetic": "/baseline/",
+        "partOfSpeech": "adj.",
+        "meaning": "基础相关词",
+        "memoryTip": "base 词根相关",
+        "root": "base",
+        "rootPhonetic": "/beɪs/",
+        "rootMeaning": "基础",
+        "rootPhrases": [
+          "base system 基础系统"
+        ],
+        "wordPhrases": [
+          "baseline related 与基础相关"
+        ]
+      },
+      {
+        "word": "basepower",
+        "phonetic": "/basepower/",
+        "partOfSpeech": "v.",
+        "meaning": "基础相关词",
+        "memoryTip": "base 词根相关",
+        "root": "base",
+        "rootPhonetic": "/beɪs/",
+        "rootMeaning": "基础",
+        "rootPhrases": [
+          "base system 基础系统"
+        ],
+        "wordPhrases": [
+          "basepower related 与基础相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "base equipment 基础设备"
+    ],
+    "mnemonic": "base→基础"
+  },
+  {
+    "id": 152,
+    "root": "spinning",
+    "phonetic": "/ˈspɪnɪŋ/",
+    "partOfSpeech": "词根",
+    "meaning": "旋转备用",
+    "frequency": 152,
+    "category": "电力",
+    "words": [
+      {
+        "word": "spinning",
+        "phonetic": "/spinning/",
+        "partOfSpeech": "n.",
+        "meaning": "旋转备用相关词",
+        "memoryTip": "spinning 词根相关",
+        "root": "spinning",
+        "rootPhonetic": "/ˈspɪnɪŋ/",
+        "rootMeaning": "旋转备用",
+        "rootPhrases": [
+          "spinning system 旋转备用系统"
+        ],
+        "wordPhrases": [
+          "spinning related 与旋转备用相关"
+        ]
+      },
+      {
+        "word": "spinningreserve",
+        "phonetic": "/spinningreserve/",
+        "partOfSpeech": "adj.",
+        "meaning": "旋转备用相关词",
+        "memoryTip": "spinning 词根相关",
+        "root": "spinning",
+        "rootPhonetic": "/ˈspɪnɪŋ/",
+        "rootMeaning": "旋转备用",
+        "rootPhrases": [
+          "spinning system 旋转备用系统"
+        ],
+        "wordPhrases": [
+          "spinningreserve related 与旋转备用相关"
+        ]
+      },
+      {
+        "word": "spinningload",
+        "phonetic": "/spinningload/",
+        "partOfSpeech": "v.",
+        "meaning": "旋转备用相关词",
+        "memoryTip": "spinning 词根相关",
+        "root": "spinning",
+        "rootPhonetic": "/ˈspɪnɪŋ/",
+        "rootMeaning": "旋转备用",
+        "rootPhrases": [
+          "spinning system 旋转备用系统"
+        ],
+        "wordPhrases": [
+          "spinningload related 与旋转备用相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "spinning equipment 旋转备用设备"
+    ],
+    "mnemonic": "spinning→旋转备用"
+  },
+  {
+    "id": 153,
+    "root": "blackout",
+    "phonetic": "/ˈblækaʊt/",
+    "partOfSpeech": "词根",
+    "meaning": "停电",
+    "frequency": 153,
+    "category": "电力",
+    "words": [
+      {
+        "word": "blackout",
+        "phonetic": "/blackout/",
+        "partOfSpeech": "n.",
+        "meaning": "停电相关词",
+        "memoryTip": "blackout 词根相关",
+        "root": "blackout",
+        "rootPhonetic": "/ˈblækaʊt/",
+        "rootMeaning": "停电",
+        "rootPhrases": [
+          "blackout system 停电系统"
+        ],
+        "wordPhrases": [
+          "blackout related 与停电相关"
+        ]
+      },
+      {
+        "word": "blackouts",
+        "phonetic": "/blackouts/",
+        "partOfSpeech": "adj.",
+        "meaning": "停电相关词",
+        "memoryTip": "blackout 词根相关",
+        "root": "blackout",
+        "rootPhonetic": "/ˈblækaʊt/",
+        "rootMeaning": "停电",
+        "rootPhrases": [
+          "blackout system 停电系统"
+        ],
+        "wordPhrases": [
+          "blackouts related 与停电相关"
+        ]
+      },
+      {
+        "word": "blackoutstart",
+        "phonetic": "/blackoutstart/",
+        "partOfSpeech": "v.",
+        "meaning": "停电相关词",
+        "memoryTip": "blackout 词根相关",
+        "root": "blackout",
+        "rootPhonetic": "/ˈblækaʊt/",
+        "rootMeaning": "停电",
+        "rootPhrases": [
+          "blackout system 停电系统"
+        ],
+        "wordPhrases": [
+          "blackoutstart related 与停电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "blackout equipment 停电设备"
+    ],
+    "mnemonic": "blackout→停电"
+  },
+  {
+    "id": 154,
+    "root": "outage",
+    "phonetic": "/ˈaʊtɪdʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "停运",
+    "frequency": 154,
+    "category": "电力",
+    "words": [
+      {
+        "word": "outage",
+        "phonetic": "/outage/",
+        "partOfSpeech": "n.",
+        "meaning": "停运相关词",
+        "memoryTip": "outage 词根相关",
+        "root": "outage",
+        "rootPhonetic": "/ˈaʊtɪdʒ/",
+        "rootMeaning": "停运",
+        "rootPhrases": [
+          "outage system 停运系统"
+        ],
+        "wordPhrases": [
+          "outage related 与停运相关"
+        ]
+      },
+      {
+        "word": "outages",
+        "phonetic": "/outages/",
+        "partOfSpeech": "adj.",
+        "meaning": "停运相关词",
+        "memoryTip": "outage 词根相关",
+        "root": "outage",
+        "rootPhonetic": "/ˈaʊtɪdʒ/",
+        "rootMeaning": "停运",
+        "rootPhrases": [
+          "outage system 停运系统"
+        ],
+        "wordPhrases": [
+          "outages related 与停运相关"
+        ]
+      },
+      {
+        "word": "outagetime",
+        "phonetic": "/outagetime/",
+        "partOfSpeech": "v.",
+        "meaning": "停运相关词",
+        "memoryTip": "outage 词根相关",
+        "root": "outage",
+        "rootPhonetic": "/ˈaʊtɪdʒ/",
+        "rootMeaning": "停运",
+        "rootPhrases": [
+          "outage system 停运系统"
+        ],
+        "wordPhrases": [
+          "outagetime related 与停运相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "outage equipment 停运设备"
+    ],
+    "mnemonic": "outage→停运"
+  },
+  {
+    "id": 155,
+    "root": "fault",
+    "phonetic": "/fɔːlt/",
+    "partOfSpeech": "词根",
+    "meaning": "故障",
+    "frequency": 155,
+    "category": "电力",
+    "words": [
+      {
+        "word": "fault",
+        "phonetic": "/fault/",
+        "partOfSpeech": "n.",
+        "meaning": "故障相关词",
+        "memoryTip": "fault 词根相关",
+        "root": "fault",
+        "rootPhonetic": "/fɔːlt/",
+        "rootMeaning": "故障",
+        "rootPhrases": [
+          "fault system 故障系统"
+        ],
+        "wordPhrases": [
+          "fault related 与故障相关"
+        ]
+      },
+      {
+        "word": "faulty",
+        "phonetic": "/faulty/",
+        "partOfSpeech": "adj.",
+        "meaning": "故障相关词",
+        "memoryTip": "fault 词根相关",
+        "root": "fault",
+        "rootPhonetic": "/fɔːlt/",
+        "rootMeaning": "故障",
+        "rootPhrases": [
+          "fault system 故障系统"
+        ],
+        "wordPhrases": [
+          "faulty related 与故障相关"
+        ]
+      },
+      {
+        "word": "faultdetection",
+        "phonetic": "/faultdetection/",
+        "partOfSpeech": "v.",
+        "meaning": "故障相关词",
+        "memoryTip": "fault 词根相关",
+        "root": "fault",
+        "rootPhonetic": "/fɔːlt/",
+        "rootMeaning": "故障",
+        "rootPhrases": [
+          "fault system 故障系统"
+        ],
+        "wordPhrases": [
+          "faultdetection related 与故障相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "fault equipment 故障设备"
+    ],
+    "mnemonic": "fault→故障"
+  },
+  {
+    "id": 156,
+    "root": "protect",
+    "phonetic": "/prəˈtekt/",
+    "partOfSpeech": "词根",
+    "meaning": "保护",
+    "frequency": 156,
+    "category": "电力",
+    "words": [
+      {
+        "word": "protect",
+        "phonetic": "/protect/",
+        "partOfSpeech": "n.",
+        "meaning": "保护相关词",
+        "memoryTip": "protect 词根相关",
+        "root": "protect",
+        "rootPhonetic": "/prəˈtekt/",
+        "rootMeaning": "保护",
+        "rootPhrases": [
+          "protect system 保护系统"
+        ],
+        "wordPhrases": [
+          "protect related 与保护相关"
+        ]
+      },
+      {
+        "word": "protection",
+        "phonetic": "/protection/",
+        "partOfSpeech": "adj.",
+        "meaning": "保护相关词",
+        "memoryTip": "protect 词根相关",
+        "root": "protect",
+        "rootPhonetic": "/prəˈtekt/",
+        "rootMeaning": "保护",
+        "rootPhrases": [
+          "protect system 保护系统"
+        ],
+        "wordPhrases": [
+          "protection related 与保护相关"
+        ]
+      },
+      {
+        "word": "protector",
+        "phonetic": "/protector/",
+        "partOfSpeech": "v.",
+        "meaning": "保护相关词",
+        "memoryTip": "protect 词根相关",
+        "root": "protect",
+        "rootPhonetic": "/prəˈtekt/",
+        "rootMeaning": "保护",
+        "rootPhrases": [
+          "protect system 保护系统"
+        ],
+        "wordPhrases": [
+          "protector related 与保护相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "protect equipment 保护设备"
+    ],
+    "mnemonic": "protect→保护"
+  },
+  {
+    "id": 157,
+    "root": "meter",
+    "phonetic": "/ˈmiːtə/",
+    "partOfSpeech": "词根",
+    "meaning": "电表",
+    "frequency": 157,
+    "category": "电力",
+    "words": [
+      {
+        "word": "meter",
+        "phonetic": "/meter/",
+        "partOfSpeech": "n.",
+        "meaning": "电表相关词",
+        "memoryTip": "meter 词根相关",
+        "root": "meter",
+        "rootPhonetic": "/ˈmiːtə/",
+        "rootMeaning": "电表",
+        "rootPhrases": [
+          "meter system 电表系统"
+        ],
+        "wordPhrases": [
+          "meter related 与电表相关"
+        ]
+      },
+      {
+        "word": "metering",
+        "phonetic": "/metering/",
+        "partOfSpeech": "adj.",
+        "meaning": "电表相关词",
+        "memoryTip": "meter 词根相关",
+        "root": "meter",
+        "rootPhonetic": "/ˈmiːtə/",
+        "rootMeaning": "电表",
+        "rootPhrases": [
+          "meter system 电表系统"
+        ],
+        "wordPhrases": [
+          "metering related 与电表相关"
+        ]
+      },
+      {
+        "word": "meterreading",
+        "phonetic": "/meterreading/",
+        "partOfSpeech": "v.",
+        "meaning": "电表相关词",
+        "memoryTip": "meter 词根相关",
+        "root": "meter",
+        "rootPhonetic": "/ˈmiːtə/",
+        "rootMeaning": "电表",
+        "rootPhrases": [
+          "meter system 电表系统"
+        ],
+        "wordPhrases": [
+          "meterreading related 与电表相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "meter equipment 电表设备"
+    ],
+    "mnemonic": "meter→电表"
+  },
+  {
+    "id": 158,
+    "root": "tariff",
+    "phonetic": "/ˈtærɪf/",
+    "partOfSpeech": "词根",
+    "meaning": "电价",
+    "frequency": 158,
+    "category": "电力",
+    "words": [
+      {
+        "word": "tariff",
+        "phonetic": "/tariff/",
+        "partOfSpeech": "n.",
+        "meaning": "电价相关词",
+        "memoryTip": "tariff 词根相关",
+        "root": "tariff",
+        "rootPhonetic": "/ˈtærɪf/",
+        "rootMeaning": "电价",
+        "rootPhrases": [
+          "tariff system 电价系统"
+        ],
+        "wordPhrases": [
+          "tariff related 与电价相关"
+        ]
+      },
+      {
+        "word": "tariffs",
+        "phonetic": "/tariffs/",
+        "partOfSpeech": "adj.",
+        "meaning": "电价相关词",
+        "memoryTip": "tariff 词根相关",
+        "root": "tariff",
+        "rootPhonetic": "/ˈtærɪf/",
+        "rootMeaning": "电价",
+        "rootPhrases": [
+          "tariff system 电价系统"
+        ],
+        "wordPhrases": [
+          "tariffs related 与电价相关"
+        ]
+      },
+      {
+        "word": "tariffrate",
+        "phonetic": "/tariffrate/",
+        "partOfSpeech": "v.",
+        "meaning": "电价相关词",
+        "memoryTip": "tariff 词根相关",
+        "root": "tariff",
+        "rootPhonetic": "/ˈtærɪf/",
+        "rootMeaning": "电价",
+        "rootPhrases": [
+          "tariff system 电价系统"
+        ],
+        "wordPhrases": [
+          "tariffrate related 与电价相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "tariff equipment 电价设备"
+    ],
+    "mnemonic": "tariff→电价"
+  },
+  {
+    "id": 159,
+    "root": "dispatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "partOfSpeech": "词根",
+    "meaning": "调度",
+    "frequency": 159,
+    "category": "电力",
+    "words": [
+      {
+        "word": "dispatch",
+        "phonetic": "/dispatch/",
+        "partOfSpeech": "n.",
+        "meaning": "调度相关词",
+        "memoryTip": "dispatch 词根相关",
+        "root": "dispatch",
+        "rootPhonetic": "/dɪˈspætʃ/",
+        "rootMeaning": "调度",
+        "rootPhrases": [
+          "dispatch system 调度系统"
+        ],
+        "wordPhrases": [
+          "dispatch related 与调度相关"
+        ]
+      },
+      {
+        "word": "dispatching",
+        "phonetic": "/dispatching/",
+        "partOfSpeech": "adj.",
+        "meaning": "调度相关词",
+        "memoryTip": "dispatch 词根相关",
+        "root": "dispatch",
+        "rootPhonetic": "/dɪˈspætʃ/",
+        "rootMeaning": "调度",
+        "rootPhrases": [
+          "dispatch system 调度系统"
+        ],
+        "wordPhrases": [
+          "dispatching related 与调度相关"
+        ]
+      },
+      {
+        "word": "dispatcher",
+        "phonetic": "/dispatcher/",
+        "partOfSpeech": "v.",
+        "meaning": "调度相关词",
+        "memoryTip": "dispatch 词根相关",
+        "root": "dispatch",
+        "rootPhonetic": "/dɪˈspætʃ/",
+        "rootMeaning": "调度",
+        "rootPhrases": [
+          "dispatch system 调度系统"
+        ],
+        "wordPhrases": [
+          "dispatcher related 与调度相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "dispatch equipment 调度设备"
+    ],
+    "mnemonic": "dispatch→调度"
+  },
+  {
+    "id": 160,
+    "root": "scada",
+    "phonetic": "/skedə/",
+    "partOfSpeech": "词根",
+    "meaning": "监控",
+    "frequency": 160,
+    "category": "电力",
+    "words": [
+      {
+        "word": "scada",
+        "phonetic": "/scada/",
+        "partOfSpeech": "n.",
+        "meaning": "监控相关词",
+        "memoryTip": "scada 词根相关",
+        "root": "scada",
+        "rootPhonetic": "/skedə/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "scada system 监控系统"
+        ],
+        "wordPhrases": [
+          "scada related 与监控相关"
+        ]
+      },
+      {
+        "word": "scadasystem",
+        "phonetic": "/scadasystem/",
+        "partOfSpeech": "adj.",
+        "meaning": "监控相关词",
+        "memoryTip": "scada 词根相关",
+        "root": "scada",
+        "rootPhonetic": "/skedə/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "scada system 监控系统"
+        ],
+        "wordPhrases": [
+          "scadasystem related 与监控相关"
+        ]
+      },
+      {
+        "word": "scadaplatform",
+        "phonetic": "/scadaplatform/",
+        "partOfSpeech": "v.",
+        "meaning": "监控相关词",
+        "memoryTip": "scada 词根相关",
+        "root": "scada",
+        "rootPhonetic": "/skedə/",
+        "rootMeaning": "监控",
+        "rootPhrases": [
+          "scada system 监控系统"
+        ],
+        "wordPhrases": [
+          "scadaplatform related 与监控相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "scada equipment 监控设备"
+    ],
+    "mnemonic": "scada→监控"
+  },
+  {
+    "id": 161,
+    "root": "plc",
+    "phonetic": "/piː el siː/",
+    "partOfSpeech": "词根",
+    "meaning": "可编程控制器",
+    "frequency": 161,
+    "category": "电力",
+    "words": [
+      {
+        "word": "plc",
+        "phonetic": "/plc/",
+        "partOfSpeech": "n.",
+        "meaning": "可编程控制器相关词",
+        "memoryTip": "plc 词根相关",
+        "root": "plc",
+        "rootPhonetic": "/piː el siː/",
+        "rootMeaning": "可编程控制器",
+        "rootPhrases": [
+          "plc system 可编程控制器系统"
+        ],
+        "wordPhrases": [
+          "plc related 与可编程控制器相关"
+        ]
+      },
+      {
+        "word": "plcsystem",
+        "phonetic": "/plcsystem/",
+        "partOfSpeech": "adj.",
+        "meaning": "可编程控制器相关词",
+        "memoryTip": "plc 词根相关",
+        "root": "plc",
+        "rootPhonetic": "/piː el siː/",
+        "rootMeaning": "可编程控制器",
+        "rootPhrases": [
+          "plc system 可编程控制器系统"
+        ],
+        "wordPhrases": [
+          "plcsystem related 与可编程控制器相关"
+        ]
+      },
+      {
+        "word": "plcprogram",
+        "phonetic": "/plcprogram/",
+        "partOfSpeech": "v.",
+        "meaning": "可编程控制器相关词",
+        "memoryTip": "plc 词根相关",
+        "root": "plc",
+        "rootPhonetic": "/piː el siː/",
+        "rootMeaning": "可编程控制器",
+        "rootPhrases": [
+          "plc system 可编程控制器系统"
+        ],
+        "wordPhrases": [
+          "plcprogram related 与可编程控制器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "plc equipment 可编程控制器设备"
+    ],
+    "mnemonic": "plc→可编程控制器"
+  },
+  {
+    "id": 162,
+    "root": "harmonic",
+    "phonetic": "/hɑːˈmɒnɪk/",
+    "partOfSpeech": "词根",
+    "meaning": "谐波",
+    "frequency": 162,
+    "category": "电力",
+    "words": [
+      {
+        "word": "harmonic",
+        "phonetic": "/harmonic/",
+        "partOfSpeech": "n.",
+        "meaning": "谐波相关词",
+        "memoryTip": "harmonic 词根相关",
+        "root": "harmonic",
+        "rootPhonetic": "/hɑːˈmɒnɪk/",
+        "rootMeaning": "谐波",
+        "rootPhrases": [
+          "harmonic system 谐波系统"
+        ],
+        "wordPhrases": [
+          "harmonic related 与谐波相关"
+        ]
+      },
+      {
+        "word": "harmonics",
+        "phonetic": "/harmonics/",
+        "partOfSpeech": "adj.",
+        "meaning": "谐波相关词",
+        "memoryTip": "harmonic 词根相关",
+        "root": "harmonic",
+        "rootPhonetic": "/hɑːˈmɒnɪk/",
+        "rootMeaning": "谐波",
+        "rootPhrases": [
+          "harmonic system 谐波系统"
+        ],
+        "wordPhrases": [
+          "harmonics related 与谐波相关"
+        ]
+      },
+      {
+        "word": "harmonicfilter",
+        "phonetic": "/harmonicfilter/",
+        "partOfSpeech": "v.",
+        "meaning": "谐波相关词",
+        "memoryTip": "harmonic 词根相关",
+        "root": "harmonic",
+        "rootPhonetic": "/hɑːˈmɒnɪk/",
+        "rootMeaning": "谐波",
+        "rootPhrases": [
+          "harmonic system 谐波系统"
+        ],
+        "wordPhrases": [
+          "harmonicfilter related 与谐波相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "harmonic equipment 谐波设备"
+    ],
+    "mnemonic": "harmonic→谐波"
+  },
+  {
+    "id": 163,
+    "root": "flicker",
+    "phonetic": "/ˈflɪkə/",
+    "partOfSpeech": "词根",
+    "meaning": "闪变",
+    "frequency": 163,
+    "category": "电力",
+    "words": [
+      {
+        "word": "flicker",
+        "phonetic": "/flicker/",
+        "partOfSpeech": "n.",
+        "meaning": "闪变相关词",
+        "memoryTip": "flicker 词根相关",
+        "root": "flicker",
+        "rootPhonetic": "/ˈflɪkə/",
+        "rootMeaning": "闪变",
+        "rootPhrases": [
+          "flicker system 闪变系统"
+        ],
+        "wordPhrases": [
+          "flicker related 与闪变相关"
+        ]
+      },
+      {
+        "word": "flickering",
+        "phonetic": "/flickering/",
+        "partOfSpeech": "adj.",
+        "meaning": "闪变相关词",
+        "memoryTip": "flicker 词根相关",
+        "root": "flicker",
+        "rootPhonetic": "/ˈflɪkə/",
+        "rootMeaning": "闪变",
+        "rootPhrases": [
+          "flicker system 闪变系统"
+        ],
+        "wordPhrases": [
+          "flickering related 与闪变相关"
+        ]
+      },
+      {
+        "word": "flickermeter",
+        "phonetic": "/flickermeter/",
+        "partOfSpeech": "v.",
+        "meaning": "闪变相关词",
+        "memoryTip": "flicker 词根相关",
+        "root": "flicker",
+        "rootPhonetic": "/ˈflɪkə/",
+        "rootMeaning": "闪变",
+        "rootPhrases": [
+          "flicker system 闪变系统"
+        ],
+        "wordPhrases": [
+          "flickermeter related 与闪变相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "flicker equipment 闪变设备"
+    ],
+    "mnemonic": "flicker→闪变"
+  },
+  {
+    "id": 164,
+    "root": "sag",
+    "phonetic": "/sæɡ/",
+    "partOfSpeech": "词根",
+    "meaning": "电压骤降",
+    "frequency": 164,
+    "category": "电力",
+    "words": [
+      {
+        "word": "sag",
+        "phonetic": "/sag/",
+        "partOfSpeech": "n.",
+        "meaning": "电压骤降相关词",
+        "memoryTip": "sag 词根相关",
+        "root": "sag",
+        "rootPhonetic": "/sæɡ/",
+        "rootMeaning": "电压骤降",
+        "rootPhrases": [
+          "sag system 电压骤降系统"
+        ],
+        "wordPhrases": [
+          "sag related 与电压骤降相关"
+        ]
+      },
+      {
+        "word": "voltagesag",
+        "phonetic": "/voltagesag/",
+        "partOfSpeech": "adj.",
+        "meaning": "电压骤降相关词",
+        "memoryTip": "sag 词根相关",
+        "root": "sag",
+        "rootPhonetic": "/sæɡ/",
+        "rootMeaning": "电压骤降",
+        "rootPhrases": [
+          "sag system 电压骤降系统"
+        ],
+        "wordPhrases": [
+          "voltagesag related 与电压骤降相关"
+        ]
+      },
+      {
+        "word": "sagmitigation",
+        "phonetic": "/sagmitigation/",
+        "partOfSpeech": "v.",
+        "meaning": "电压骤降相关词",
+        "memoryTip": "sag 词根相关",
+        "root": "sag",
+        "rootPhonetic": "/sæɡ/",
+        "rootMeaning": "电压骤降",
+        "rootPhrases": [
+          "sag system 电压骤降系统"
+        ],
+        "wordPhrases": [
+          "sagmitigation related 与电压骤降相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "sag equipment 电压骤降设备"
+    ],
+    "mnemonic": "sag→电压骤降"
+  },
+  {
+    "id": 165,
+    "root": "swell",
+    "phonetic": "/swel/",
+    "partOfSpeech": "词根",
+    "meaning": "电压骤升",
+    "frequency": 165,
+    "category": "电力",
+    "words": [
+      {
+        "word": "swell",
+        "phonetic": "/swell/",
+        "partOfSpeech": "n.",
+        "meaning": "电压骤升相关词",
+        "memoryTip": "swell 词根相关",
+        "root": "swell",
+        "rootPhonetic": "/swel/",
+        "rootMeaning": "电压骤升",
+        "rootPhrases": [
+          "swell system 电压骤升系统"
+        ],
+        "wordPhrases": [
+          "swell related 与电压骤升相关"
+        ]
+      },
+      {
+        "word": "voltageswell",
+        "phonetic": "/voltageswell/",
+        "partOfSpeech": "adj.",
+        "meaning": "电压骤升相关词",
+        "memoryTip": "swell 词根相关",
+        "root": "swell",
+        "rootPhonetic": "/swel/",
+        "rootMeaning": "电压骤升",
+        "rootPhrases": [
+          "swell system 电压骤升系统"
+        ],
+        "wordPhrases": [
+          "voltageswell related 与电压骤升相关"
+        ]
+      },
+      {
+        "word": "swellcompensation",
+        "phonetic": "/swellcompensation/",
+        "partOfSpeech": "v.",
+        "meaning": "电压骤升相关词",
+        "memoryTip": "swell 词根相关",
+        "root": "swell",
+        "rootPhonetic": "/swel/",
+        "rootMeaning": "电压骤升",
+        "rootPhrases": [
+          "swell system 电压骤升系统"
+        ],
+        "wordPhrases": [
+          "swellcompensation related 与电压骤升相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "swell equipment 电压骤升设备"
+    ],
+    "mnemonic": "swell→电压骤升"
+  },
+  {
+    "id": 166,
+    "root": "interrup",
+    "phonetic": "/ˌɪntəˈrʌpt/",
+    "partOfSpeech": "词根",
+    "meaning": "中断",
+    "frequency": 166,
+    "category": "电力",
+    "words": [
+      {
+        "word": "interruption",
+        "phonetic": "/interruption/",
+        "partOfSpeech": "n.",
+        "meaning": "中断相关词",
+        "memoryTip": "interrup 词根相关",
+        "root": "interrup",
+        "rootPhonetic": "/ˌɪntəˈrʌpt/",
+        "rootMeaning": "中断",
+        "rootPhrases": [
+          "interrup system 中断系统"
+        ],
+        "wordPhrases": [
+          "interruption related 与中断相关"
+        ]
+      },
+      {
+        "word": "interrupt",
+        "phonetic": "/interrupt/",
+        "partOfSpeech": "adj.",
+        "meaning": "中断相关词",
+        "memoryTip": "interrup 词根相关",
+        "root": "interrup",
+        "rootPhonetic": "/ˌɪntəˈrʌpt/",
+        "rootMeaning": "中断",
+        "rootPhrases": [
+          "interrup system 中断系统"
+        ],
+        "wordPhrases": [
+          "interrupt related 与中断相关"
+        ]
+      },
+      {
+        "word": "interrupter",
+        "phonetic": "/interrupter/",
+        "partOfSpeech": "v.",
+        "meaning": "中断相关词",
+        "memoryTip": "interrup 词根相关",
+        "root": "interrup",
+        "rootPhonetic": "/ˌɪntəˈrʌpt/",
+        "rootMeaning": "中断",
+        "rootPhrases": [
+          "interrup system 中断系统"
+        ],
+        "wordPhrases": [
+          "interrupter related 与中断相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "interrup equipment 中断设备"
+    ],
+    "mnemonic": "interrup→中断"
+  },
+  {
+    "id": 167,
+    "root": "reliab",
+    "phonetic": "/rɪˈlaɪəb/",
+    "partOfSpeech": "词根",
+    "meaning": "可靠性",
+    "frequency": 167,
+    "category": "电力",
+    "words": [
+      {
+        "word": "reliability",
+        "phonetic": "/reliability/",
+        "partOfSpeech": "n.",
+        "meaning": "可靠性相关词",
+        "memoryTip": "reliab 词根相关",
+        "root": "reliab",
+        "rootPhonetic": "/rɪˈlaɪəb/",
+        "rootMeaning": "可靠性",
+        "rootPhrases": [
+          "reliab system 可靠性系统"
+        ],
+        "wordPhrases": [
+          "reliability related 与可靠性相关"
+        ]
+      },
+      {
+        "word": "reliable",
+        "phonetic": "/reliable/",
+        "partOfSpeech": "adj.",
+        "meaning": "可靠性相关词",
+        "memoryTip": "reliab 词根相关",
+        "root": "reliab",
+        "rootPhonetic": "/rɪˈlaɪəb/",
+        "rootMeaning": "可靠性",
+        "rootPhrases": [
+          "reliab system 可靠性系统"
+        ],
+        "wordPhrases": [
+          "reliable related 与可靠性相关"
+        ]
+      },
+      {
+        "word": "reliably",
+        "phonetic": "/reliably/",
+        "partOfSpeech": "v.",
+        "meaning": "可靠性相关词",
+        "memoryTip": "reliab 词根相关",
+        "root": "reliab",
+        "rootPhonetic": "/rɪˈlaɪəb/",
+        "rootMeaning": "可靠性",
+        "rootPhrases": [
+          "reliab system 可靠性系统"
+        ],
+        "wordPhrases": [
+          "reliably related 与可靠性相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "reliab equipment 可靠性设备"
+    ],
+    "mnemonic": "reliab→可靠性"
+  },
+  {
+    "id": 168,
+    "root": "effic",
+    "phonetic": "/ɪˈfɪʃ/",
+    "partOfSpeech": "词根",
+    "meaning": "效率",
+    "frequency": 168,
+    "category": "电力",
+    "words": [
+      {
+        "word": "efficiency",
+        "phonetic": "/efficiency/",
+        "partOfSpeech": "n.",
+        "meaning": "效率相关词",
+        "memoryTip": "effic 词根相关",
+        "root": "effic",
+        "rootPhonetic": "/ɪˈfɪʃ/",
+        "rootMeaning": "效率",
+        "rootPhrases": [
+          "effic system 效率系统"
+        ],
+        "wordPhrases": [
+          "efficiency related 与效率相关"
+        ]
+      },
+      {
+        "word": "efficient",
+        "phonetic": "/efficient/",
+        "partOfSpeech": "adj.",
+        "meaning": "效率相关词",
+        "memoryTip": "effic 词根相关",
+        "root": "effic",
+        "rootPhonetic": "/ɪˈfɪʃ/",
+        "rootMeaning": "效率",
+        "rootPhrases": [
+          "effic system 效率系统"
+        ],
+        "wordPhrases": [
+          "efficient related 与效率相关"
+        ]
+      },
+      {
+        "word": "efficiently",
+        "phonetic": "/efficiently/",
+        "partOfSpeech": "v.",
+        "meaning": "效率相关词",
+        "memoryTip": "effic 词根相关",
+        "root": "effic",
+        "rootPhonetic": "/ɪˈfɪʃ/",
+        "rootMeaning": "效率",
+        "rootPhrases": [
+          "effic system 效率系统"
+        ],
+        "wordPhrases": [
+          "efficiently related 与效率相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "effic equipment 效率设备"
+    ],
+    "mnemonic": "effic→效率"
+  },
+  {
+    "id": 169,
+    "root": "loss",
+    "phonetic": "/lɒs/",
+    "partOfSpeech": "词根",
+    "meaning": "损耗",
+    "frequency": 169,
+    "category": "电力",
+    "words": [
+      {
+        "word": "loss",
+        "phonetic": "/loss/",
+        "partOfSpeech": "n.",
+        "meaning": "损耗相关词",
+        "memoryTip": "loss 词根相关",
+        "root": "loss",
+        "rootPhonetic": "/lɒs/",
+        "rootMeaning": "损耗",
+        "rootPhrases": [
+          "loss system 损耗系统"
+        ],
+        "wordPhrases": [
+          "loss related 与损耗相关"
+        ]
+      },
+      {
+        "word": "losses",
+        "phonetic": "/losses/",
+        "partOfSpeech": "adj.",
+        "meaning": "损耗相关词",
+        "memoryTip": "loss 词根相关",
+        "root": "loss",
+        "rootPhonetic": "/lɒs/",
+        "rootMeaning": "损耗",
+        "rootPhrases": [
+          "loss system 损耗系统"
+        ],
+        "wordPhrases": [
+          "losses related 与损耗相关"
+        ]
+      },
+      {
+        "word": "lossreduction",
+        "phonetic": "/lossreduction/",
+        "partOfSpeech": "v.",
+        "meaning": "损耗相关词",
+        "memoryTip": "loss 词根相关",
+        "root": "loss",
+        "rootPhonetic": "/lɒs/",
+        "rootMeaning": "损耗",
+        "rootPhrases": [
+          "loss system 损耗系统"
+        ],
+        "wordPhrases": [
+          "lossreduction related 与损耗相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "loss equipment 损耗设备"
+    ],
+    "mnemonic": "loss→损耗"
+  },
+  {
+    "id": 170,
+    "root": "powerfactor",
+    "phonetic": "/ˈpaʊəˈfæktə/",
+    "partOfSpeech": "词根",
+    "meaning": "功率因数",
+    "frequency": 170,
+    "category": "电力",
+    "words": [
+      {
+        "word": "powerfactor",
+        "phonetic": "/powerfactor/",
+        "partOfSpeech": "n.",
+        "meaning": "功率因数相关词",
+        "memoryTip": "powerfactor 词根相关",
+        "root": "powerfactor",
+        "rootPhonetic": "/ˈpaʊəˈfæktə/",
+        "rootMeaning": "功率因数",
+        "rootPhrases": [
+          "powerfactor system 功率因数系统"
+        ],
+        "wordPhrases": [
+          "powerfactor related 与功率因数相关"
+        ]
+      },
+      {
+        "word": "powerfactorcorrection",
+        "phonetic": "/powerfactorcorrection/",
+        "partOfSpeech": "adj.",
+        "meaning": "功率因数相关词",
+        "memoryTip": "powerfactor 词根相关",
+        "root": "powerfactor",
+        "rootPhonetic": "/ˈpaʊəˈfæktə/",
+        "rootMeaning": "功率因数",
+        "rootPhrases": [
+          "powerfactor system 功率因数系统"
+        ],
+        "wordPhrases": [
+          "powerfactorcorrection related 与功率因数相关"
+        ]
+      },
+      {
+        "word": "pfcompensation",
+        "phonetic": "/pfcompensation/",
+        "partOfSpeech": "v.",
+        "meaning": "功率因数相关词",
+        "memoryTip": "powerfactor 词根相关",
+        "root": "powerfactor",
+        "rootPhonetic": "/ˈpaʊəˈfæktə/",
+        "rootMeaning": "功率因数",
+        "rootPhrases": [
+          "powerfactor system 功率因数系统"
+        ],
+        "wordPhrases": [
+          "pfcompensation related 与功率因数相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "powerfactor equipment 功率因数设备"
+    ],
+    "mnemonic": "powerfactor→功率因数"
+  },
+  {
+    "id": 171,
+    "root": "threephase",
+    "phonetic": "/θriː feɪz/",
+    "partOfSpeech": "词根",
+    "meaning": "三相",
+    "frequency": 171,
+    "category": "电力",
+    "words": [
+      {
+        "word": "threephase",
+        "phonetic": "/threephase/",
+        "partOfSpeech": "n.",
+        "meaning": "三相相关词",
+        "memoryTip": "threephase 词根相关",
+        "root": "threephase",
+        "rootPhonetic": "/θriː feɪz/",
+        "rootMeaning": "三相",
+        "rootPhrases": [
+          "threephase system 三相系统"
+        ],
+        "wordPhrases": [
+          "threephase related 与三相相关"
+        ]
+      },
+      {
+        "word": "threephasesystem",
+        "phonetic": "/threephasesystem/",
+        "partOfSpeech": "adj.",
+        "meaning": "三相相关词",
+        "memoryTip": "threephase 词根相关",
+        "root": "threephase",
+        "rootPhonetic": "/θriː feɪz/",
+        "rootMeaning": "三相",
+        "rootPhrases": [
+          "threephase system 三相系统"
+        ],
+        "wordPhrases": [
+          "threephasesystem related 与三相相关"
+        ]
+      },
+      {
+        "word": "threephasepower",
+        "phonetic": "/threephasepower/",
+        "partOfSpeech": "v.",
+        "meaning": "三相相关词",
+        "memoryTip": "threephase 词根相关",
+        "root": "threephase",
+        "rootPhonetic": "/θriː feɪz/",
+        "rootMeaning": "三相",
+        "rootPhrases": [
+          "threephase system 三相系统"
+        ],
+        "wordPhrases": [
+          "threephasepower related 与三相相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "threephase equipment 三相设备"
+    ],
+    "mnemonic": "threephase→三相"
+  },
+  {
+    "id": 172,
+    "root": "singlephase",
+    "phonetic": "/sɪŋɡl feɪz/",
+    "partOfSpeech": "词根",
+    "meaning": "单相",
+    "frequency": 172,
+    "category": "电力",
+    "words": [
+      {
+        "word": "singlephase",
+        "phonetic": "/singlephase/",
+        "partOfSpeech": "n.",
+        "meaning": "单相相关词",
+        "memoryTip": "singlephase 词根相关",
+        "root": "singlephase",
+        "rootPhonetic": "/sɪŋɡl feɪz/",
+        "rootMeaning": "单相",
+        "rootPhrases": [
+          "singlephase system 单相系统"
+        ],
+        "wordPhrases": [
+          "singlephase related 与单相相关"
+        ]
+      },
+      {
+        "word": "singlephasemotor",
+        "phonetic": "/singlephasemotor/",
+        "partOfSpeech": "adj.",
+        "meaning": "单相相关词",
+        "memoryTip": "singlephase 词根相关",
+        "root": "singlephase",
+        "rootPhonetic": "/sɪŋɡl feɪz/",
+        "rootMeaning": "单相",
+        "rootPhrases": [
+          "singlephase system 单相系统"
+        ],
+        "wordPhrases": [
+          "singlephasemotor related 与单相相关"
+        ]
+      },
+      {
+        "word": "singlephasesupply",
+        "phonetic": "/singlephasesupply/",
+        "partOfSpeech": "v.",
+        "meaning": "单相相关词",
+        "memoryTip": "singlephase 词根相关",
+        "root": "singlephase",
+        "rootPhonetic": "/sɪŋɡl feɪz/",
+        "rootMeaning": "单相",
+        "rootPhrases": [
+          "singlephase system 单相系统"
+        ],
+        "wordPhrases": [
+          "singlephasesupply related 与单相相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "singlephase equipment 单相设备"
+    ],
+    "mnemonic": "singlephase→单相"
+  },
+  {
+    "id": 173,
+    "root": "ground",
+    "phonetic": "/ɡraʊnd/",
+    "partOfSpeech": "词根",
+    "meaning": "接地",
+    "frequency": 173,
+    "category": "电力",
+    "words": [
+      {
+        "word": "ground",
+        "phonetic": "/ground/",
+        "partOfSpeech": "n.",
+        "meaning": "接地相关词",
+        "memoryTip": "ground 词根相关",
+        "root": "ground",
+        "rootPhonetic": "/ɡraʊnd/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "ground system 接地系统"
+        ],
+        "wordPhrases": [
+          "ground related 与接地相关"
+        ]
+      },
+      {
+        "word": "grounding",
+        "phonetic": "/grounding/",
+        "partOfSpeech": "adj.",
+        "meaning": "接地相关词",
+        "memoryTip": "ground 词根相关",
+        "root": "ground",
+        "rootPhonetic": "/ɡraʊnd/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "ground system 接地系统"
+        ],
+        "wordPhrases": [
+          "grounding related 与接地相关"
+        ]
+      },
+      {
+        "word": "grounded",
+        "phonetic": "/grounded/",
+        "partOfSpeech": "v.",
+        "meaning": "接地相关词",
+        "memoryTip": "ground 词根相关",
+        "root": "ground",
+        "rootPhonetic": "/ɡraʊnd/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "ground system 接地系统"
+        ],
+        "wordPhrases": [
+          "grounded related 与接地相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ground equipment 接地设备"
+    ],
+    "mnemonic": "ground→接地"
+  },
+  {
+    "id": 174,
+    "root": "earth",
+    "phonetic": "/ɜːθ/",
+    "partOfSpeech": "词根",
+    "meaning": "接地",
+    "frequency": 174,
+    "category": "电力",
+    "words": [
+      {
+        "word": "earth",
+        "phonetic": "/earth/",
+        "partOfSpeech": "n.",
+        "meaning": "接地相关词",
+        "memoryTip": "earth 词根相关",
+        "root": "earth",
+        "rootPhonetic": "/ɜːθ/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "earth system 接地系统"
+        ],
+        "wordPhrases": [
+          "earth related 与接地相关"
+        ]
+      },
+      {
+        "word": "earthing",
+        "phonetic": "/earthing/",
+        "partOfSpeech": "adj.",
+        "meaning": "接地相关词",
+        "memoryTip": "earth 词根相关",
+        "root": "earth",
+        "rootPhonetic": "/ɜːθ/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "earth system 接地系统"
+        ],
+        "wordPhrases": [
+          "earthing related 与接地相关"
+        ]
+      },
+      {
+        "word": "earthfault",
+        "phonetic": "/earthfault/",
+        "partOfSpeech": "v.",
+        "meaning": "接地相关词",
+        "memoryTip": "earth 词根相关",
+        "root": "earth",
+        "rootPhonetic": "/ɜːθ/",
+        "rootMeaning": "接地",
+        "rootPhrases": [
+          "earth system 接地系统"
+        ],
+        "wordPhrases": [
+          "earthfault related 与接地相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "earth equipment 接地设备"
+    ],
+    "mnemonic": "earth→接地"
+  },
+  {
+    "id": 175,
+    "root": "neutral",
+    "phonetic": "/ˈnjuːtrəl/",
+    "partOfSpeech": "词根",
+    "meaning": "中性点",
+    "frequency": 175,
+    "category": "电力",
+    "words": [
+      {
+        "word": "neutral",
+        "phonetic": "/neutral/",
+        "partOfSpeech": "n.",
+        "meaning": "中性点相关词",
+        "memoryTip": "neutral 词根相关",
+        "root": "neutral",
+        "rootPhonetic": "/ˈnjuːtrəl/",
+        "rootMeaning": "中性点",
+        "rootPhrases": [
+          "neutral system 中性点系统"
+        ],
+        "wordPhrases": [
+          "neutral related 与中性点相关"
+        ]
+      },
+      {
+        "word": "neutralpoint",
+        "phonetic": "/neutralpoint/",
+        "partOfSpeech": "adj.",
+        "meaning": "中性点相关词",
+        "memoryTip": "neutral 词根相关",
+        "root": "neutral",
+        "rootPhonetic": "/ˈnjuːtrəl/",
+        "rootMeaning": "中性点",
+        "rootPhrases": [
+          "neutral system 中性点系统"
+        ],
+        "wordPhrases": [
+          "neutralpoint related 与中性点相关"
+        ]
+      },
+      {
+        "word": "neutralgrounding",
+        "phonetic": "/neutralgrounding/",
+        "partOfSpeech": "v.",
+        "meaning": "中性点相关词",
+        "memoryTip": "neutral 词根相关",
+        "root": "neutral",
+        "rootPhonetic": "/ˈnjuːtrəl/",
+        "rootMeaning": "中性点",
+        "rootPhrases": [
+          "neutral system 中性点系统"
+        ],
+        "wordPhrases": [
+          "neutralgrounding related 与中性点相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "neutral equipment 中性点设备"
+    ],
+    "mnemonic": "neutral→中性点"
+  },
+  {
+    "id": 176,
+    "root": "phase",
+    "phonetic": "/feɪz/",
+    "partOfSpeech": "词根",
+    "meaning": "相位",
+    "frequency": 176,
+    "category": "电力",
+    "words": [
+      {
+        "word": "phase",
+        "phonetic": "/phase/",
+        "partOfSpeech": "n.",
+        "meaning": "相位相关词",
+        "memoryTip": "phase 词根相关",
+        "root": "phase",
+        "rootPhonetic": "/feɪz/",
+        "rootMeaning": "相位",
+        "rootPhrases": [
+          "phase system 相位系统"
+        ],
+        "wordPhrases": [
+          "phase related 与相位相关"
+        ]
+      },
+      {
+        "word": "phaseshift",
+        "phonetic": "/phaseshift/",
+        "partOfSpeech": "adj.",
+        "meaning": "相位相关词",
+        "memoryTip": "phase 词根相关",
+        "root": "phase",
+        "rootPhonetic": "/feɪz/",
+        "rootMeaning": "相位",
+        "rootPhrases": [
+          "phase system 相位系统"
+        ],
+        "wordPhrases": [
+          "phaseshift related 与相位相关"
+        ]
+      },
+      {
+        "word": "phaseangle",
+        "phonetic": "/phaseangle/",
+        "partOfSpeech": "v.",
+        "meaning": "相位相关词",
+        "memoryTip": "phase 词根相关",
+        "root": "phase",
+        "rootPhonetic": "/feɪz/",
+        "rootMeaning": "相位",
+        "rootPhrases": [
+          "phase system 相位系统"
+        ],
+        "wordPhrases": [
+          "phaseangle related 与相位相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "phase equipment 相位设备"
+    ],
+    "mnemonic": "phase→相位"
+  },
+  {
+    "id": 177,
+    "root": "freque",
+    "phonetic": "/ˈfriːkwənsɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "频率",
+    "frequency": 177,
+    "category": "电力",
+    "words": [
+      {
+        "word": "frequency",
+        "phonetic": "/frequency/",
+        "partOfSpeech": "n.",
+        "meaning": "频率相关词",
+        "memoryTip": "freque 词根相关",
+        "root": "freque",
+        "rootPhonetic": "/ˈfriːkwənsɪ/",
+        "rootMeaning": "频率",
+        "rootPhrases": [
+          "freque system 频率系统"
+        ],
+        "wordPhrases": [
+          "frequency related 与频率相关"
+        ]
+      },
+      {
+        "word": "frequent",
+        "phonetic": "/frequent/",
+        "partOfSpeech": "adj.",
+        "meaning": "频率相关词",
+        "memoryTip": "freque 词根相关",
+        "root": "freque",
+        "rootPhonetic": "/ˈfriːkwənsɪ/",
+        "rootMeaning": "频率",
+        "rootPhrases": [
+          "freque system 频率系统"
+        ],
+        "wordPhrases": [
+          "frequent related 与频率相关"
+        ]
+      },
+      {
+        "word": "frequencymeter",
+        "phonetic": "/frequencymeter/",
+        "partOfSpeech": "v.",
+        "meaning": "频率相关词",
+        "memoryTip": "freque 词根相关",
+        "root": "freque",
+        "rootPhonetic": "/ˈfriːkwənsɪ/",
+        "rootMeaning": "频率",
+        "rootPhrases": [
+          "freque system 频率系统"
+        ],
+        "wordPhrases": [
+          "frequencymeter related 与频率相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "freque equipment 频率设备"
+    ],
+    "mnemonic": "freque→频率"
+  },
+  {
+    "id": 178,
+    "root": "hertz",
+    "phonetic": "/hɜːts/",
+    "partOfSpeech": "词根",
+    "meaning": "赫兹",
+    "frequency": 178,
+    "category": "电力",
+    "words": [
+      {
+        "word": "hertz",
+        "phonetic": "/hertz/",
+        "partOfSpeech": "n.",
+        "meaning": "赫兹相关词",
+        "memoryTip": "hertz 词根相关",
+        "root": "hertz",
+        "rootPhonetic": "/hɜːts/",
+        "rootMeaning": "赫兹",
+        "rootPhrases": [
+          "hertz system 赫兹系统"
+        ],
+        "wordPhrases": [
+          "hertz related 与赫兹相关"
+        ]
+      },
+      {
+        "word": "kilohertz",
+        "phonetic": "/kilohertz/",
+        "partOfSpeech": "adj.",
+        "meaning": "赫兹相关词",
+        "memoryTip": "hertz 词根相关",
+        "root": "hertz",
+        "rootPhonetic": "/hɜːts/",
+        "rootMeaning": "赫兹",
+        "rootPhrases": [
+          "hertz system 赫兹系统"
+        ],
+        "wordPhrases": [
+          "kilohertz related 与赫兹相关"
+        ]
+      },
+      {
+        "word": "megahertz",
+        "phonetic": "/megahertz/",
+        "partOfSpeech": "v.",
+        "meaning": "赫兹相关词",
+        "memoryTip": "hertz 词根相关",
+        "root": "hertz",
+        "rootPhonetic": "/hɜːts/",
+        "rootMeaning": "赫兹",
+        "rootPhrases": [
+          "hertz system 赫兹系统"
+        ],
+        "wordPhrases": [
+          "megahertz related 与赫兹相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "hertz equipment 赫兹设备"
+    ],
+    "mnemonic": "hertz→赫兹"
+  },
+  {
+    "id": 179,
+    "root": "cable",
+    "phonetic": "/ˈkeɪbəl/",
+    "partOfSpeech": "词根",
+    "meaning": "电缆",
+    "frequency": 179,
+    "category": "电力",
+    "words": [
+      {
+        "word": "cable",
+        "phonetic": "/cable/",
+        "partOfSpeech": "n.",
+        "meaning": "电缆相关词",
+        "memoryTip": "cable 词根相关",
+        "root": "cable",
+        "rootPhonetic": "/ˈkeɪbəl/",
+        "rootMeaning": "电缆",
+        "rootPhrases": [
+          "cable system 电缆系统"
+        ],
+        "wordPhrases": [
+          "cable related 与电缆相关"
+        ]
+      },
+      {
+        "word": "cables",
+        "phonetic": "/cables/",
+        "partOfSpeech": "adj.",
+        "meaning": "电缆相关词",
+        "memoryTip": "cable 词根相关",
+        "root": "cable",
+        "rootPhonetic": "/ˈkeɪbəl/",
+        "rootMeaning": "电缆",
+        "rootPhrases": [
+          "cable system 电缆系统"
+        ],
+        "wordPhrases": [
+          "cables related 与电缆相关"
+        ]
+      },
+      {
+        "word": "cableline",
+        "phonetic": "/cableline/",
+        "partOfSpeech": "v.",
+        "meaning": "电缆相关词",
+        "memoryTip": "cable 词根相关",
+        "root": "cable",
+        "rootPhonetic": "/ˈkeɪbəl/",
+        "rootMeaning": "电缆",
+        "rootPhrases": [
+          "cable system 电缆系统"
+        ],
+        "wordPhrases": [
+          "cableline related 与电缆相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "cable equipment 电缆设备"
+    ],
+    "mnemonic": "cable→电缆"
+  },
+  {
+    "id": 180,
+    "root": "overhead",
+    "phonetic": "/ˌəʊvəˈhed/",
+    "partOfSpeech": "词根",
+    "meaning": "架空",
+    "frequency": 180,
+    "category": "电力",
+    "words": [
+      {
+        "word": "overhead",
+        "phonetic": "/overhead/",
+        "partOfSpeech": "n.",
+        "meaning": "架空相关词",
+        "memoryTip": "overhead 词根相关",
+        "root": "overhead",
+        "rootPhonetic": "/ˌəʊvəˈhed/",
+        "rootMeaning": "架空",
+        "rootPhrases": [
+          "overhead system 架空系统"
+        ],
+        "wordPhrases": [
+          "overhead related 与架空相关"
+        ]
+      },
+      {
+        "word": "overheadline",
+        "phonetic": "/overheadline/",
+        "partOfSpeech": "adj.",
+        "meaning": "架空相关词",
+        "memoryTip": "overhead 词根相关",
+        "root": "overhead",
+        "rootPhonetic": "/ˌəʊvəˈhed/",
+        "rootMeaning": "架空",
+        "rootPhrases": [
+          "overhead system 架空系统"
+        ],
+        "wordPhrases": [
+          "overheadline related 与架空相关"
+        ]
+      },
+      {
+        "word": "overheadline",
+        "phonetic": "/overheadline/",
+        "partOfSpeech": "v.",
+        "meaning": "架空相关词",
+        "memoryTip": "overhead 词根相关",
+        "root": "overhead",
+        "rootPhonetic": "/ˌəʊvəˈhed/",
+        "rootMeaning": "架空",
+        "rootPhrases": [
+          "overhead system 架空系统"
+        ],
+        "wordPhrases": [
+          "overheadline related 与架空相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "overhead equipment 架空设备"
+    ],
+    "mnemonic": "overhead→架空"
+  },
+  {
+    "id": 181,
+    "root": "tower",
+    "phonetic": "/ˈtaʊə/",
+    "partOfSpeech": "词根",
+    "meaning": "铁塔",
+    "frequency": 181,
+    "category": "电力",
+    "words": [
+      {
+        "word": "tower",
+        "phonetic": "/tower/",
+        "partOfSpeech": "n.",
+        "meaning": "铁塔相关词",
+        "memoryTip": "tower 词根相关",
+        "root": "tower",
+        "rootPhonetic": "/ˈtaʊə/",
+        "rootMeaning": "铁塔",
+        "rootPhrases": [
+          "tower system 铁塔系统"
+        ],
+        "wordPhrases": [
+          "tower related 与铁塔相关"
+        ]
+      },
+      {
+        "word": "towers",
+        "phonetic": "/towers/",
+        "partOfSpeech": "adj.",
+        "meaning": "铁塔相关词",
+        "memoryTip": "tower 词根相关",
+        "root": "tower",
+        "rootPhonetic": "/ˈtaʊə/",
+        "rootMeaning": "铁塔",
+        "rootPhrases": [
+          "tower system 铁塔系统"
+        ],
+        "wordPhrases": [
+          "towers related 与铁塔相关"
+        ]
+      },
+      {
+        "word": "transmissiontower",
+        "phonetic": "/transmissiontower/",
+        "partOfSpeech": "v.",
+        "meaning": "铁塔相关词",
+        "memoryTip": "tower 词根相关",
+        "root": "tower",
+        "rootPhonetic": "/ˈtaʊə/",
+        "rootMeaning": "铁塔",
+        "rootPhrases": [
+          "tower system 铁塔系统"
+        ],
+        "wordPhrases": [
+          "transmissiontower related 与铁塔相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "tower equipment 铁塔设备"
+    ],
+    "mnemonic": "tower→铁塔"
+  },
+  {
+    "id": 182,
+    "root": "pole",
+    "phonetic": "/pəʊl/",
+    "partOfSpeech": "词根",
+    "meaning": "电杆",
+    "frequency": 182,
+    "category": "电力",
+    "words": [
+      {
+        "word": "pole",
+        "phonetic": "/pole/",
+        "partOfSpeech": "n.",
+        "meaning": "电杆相关词",
+        "memoryTip": "pole 词根相关",
+        "root": "pole",
+        "rootPhonetic": "/pəʊl/",
+        "rootMeaning": "电杆",
+        "rootPhrases": [
+          "pole system 电杆系统"
+        ],
+        "wordPhrases": [
+          "pole related 与电杆相关"
+        ]
+      },
+      {
+        "word": "poles",
+        "phonetic": "/poles/",
+        "partOfSpeech": "adj.",
+        "meaning": "电杆相关词",
+        "memoryTip": "pole 词根相关",
+        "root": "pole",
+        "rootPhonetic": "/pəʊl/",
+        "rootMeaning": "电杆",
+        "rootPhrases": [
+          "pole system 电杆系统"
+        ],
+        "wordPhrases": [
+          "poles related 与电杆相关"
+        ]
+      },
+      {
+        "word": "utilitypole",
+        "phonetic": "/utilitypole/",
+        "partOfSpeech": "v.",
+        "meaning": "电杆相关词",
+        "memoryTip": "pole 词根相关",
+        "root": "pole",
+        "rootPhonetic": "/pəʊl/",
+        "rootMeaning": "电杆",
+        "rootPhrases": [
+          "pole system 电杆系统"
+        ],
+        "wordPhrases": [
+          "utilitypole related 与电杆相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "pole equipment 电杆设备"
+    ],
+    "mnemonic": "pole→电杆"
+  },
+  {
+    "id": 183,
+    "root": "insulator",
+    "phonetic": "/ˈɪnsjʊleɪtə/",
+    "partOfSpeech": "词根",
+    "meaning": "绝缘子",
+    "frequency": 183,
+    "category": "电力",
+    "words": [
+      {
+        "word": "insulator",
+        "phonetic": "/insulator/",
+        "partOfSpeech": "n.",
+        "meaning": "绝缘子相关词",
+        "memoryTip": "insulator 词根相关",
+        "root": "insulator",
+        "rootPhonetic": "/ˈɪnsjʊleɪtə/",
+        "rootMeaning": "绝缘子",
+        "rootPhrases": [
+          "insulator system 绝缘子系统"
+        ],
+        "wordPhrases": [
+          "insulator related 与绝缘子相关"
+        ]
+      },
+      {
+        "word": "insulators",
+        "phonetic": "/insulators/",
+        "partOfSpeech": "adj.",
+        "meaning": "绝缘子相关词",
+        "memoryTip": "insulator 词根相关",
+        "root": "insulator",
+        "rootPhonetic": "/ˈɪnsjʊleɪtə/",
+        "rootMeaning": "绝缘子",
+        "rootPhrases": [
+          "insulator system 绝缘子系统"
+        ],
+        "wordPhrases": [
+          "insulators related 与绝缘子相关"
+        ]
+      },
+      {
+        "word": "porcelaininsulator",
+        "phonetic": "/porcelaininsulator/",
+        "partOfSpeech": "v.",
+        "meaning": "绝缘子相关词",
+        "memoryTip": "insulator 词根相关",
+        "root": "insulator",
+        "rootPhonetic": "/ˈɪnsjʊleɪtə/",
+        "rootMeaning": "绝缘子",
+        "rootPhrases": [
+          "insulator system 绝缘子系统"
+        ],
+        "wordPhrases": [
+          "porcelaininsulator related 与绝缘子相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "insulator equipment 绝缘子设备"
+    ],
+    "mnemonic": "insulator→绝缘子"
+  },
+  {
+    "id": 184,
+    "root": "arrester",
+    "phonetic": "/əˈrestə/",
+    "partOfSpeech": "词根",
+    "meaning": "避雷器",
+    "frequency": 184,
+    "category": "电力",
+    "words": [
+      {
+        "word": "arrester",
+        "phonetic": "/arrester/",
+        "partOfSpeech": "n.",
+        "meaning": "避雷器相关词",
+        "memoryTip": "arrester 词根相关",
+        "root": "arrester",
+        "rootPhonetic": "/əˈrestə/",
+        "rootMeaning": "避雷器",
+        "rootPhrases": [
+          "arrester system 避雷器系统"
+        ],
+        "wordPhrases": [
+          "arrester related 与避雷器相关"
+        ]
+      },
+      {
+        "word": "lightningarrester",
+        "phonetic": "/lightningarrester/",
+        "partOfSpeech": "adj.",
+        "meaning": "避雷器相关词",
+        "memoryTip": "arrester 词根相关",
+        "root": "arrester",
+        "rootPhonetic": "/əˈrestə/",
+        "rootMeaning": "避雷器",
+        "rootPhrases": [
+          "arrester system 避雷器系统"
+        ],
+        "wordPhrases": [
+          "lightningarrester related 与避雷器相关"
+        ]
+      },
+      {
+        "word": "surgearrester",
+        "phonetic": "/surgearrester/",
+        "partOfSpeech": "v.",
+        "meaning": "避雷器相关词",
+        "memoryTip": "arrester 词根相关",
+        "root": "arrester",
+        "rootPhonetic": "/əˈrestə/",
+        "rootMeaning": "避雷器",
+        "rootPhrases": [
+          "arrester system 避雷器系统"
+        ],
+        "wordPhrases": [
+          "surgearrester related 与避雷器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "arrester equipment 避雷器设备"
+    ],
+    "mnemonic": "arrester→避雷器"
+  },
+  {
+    "id": 185,
+    "root": "surge",
+    "phonetic": "/sɜːdʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "浪涌",
+    "frequency": 185,
+    "category": "电力",
+    "words": [
+      {
+        "word": "surge",
+        "phonetic": "/surge/",
+        "partOfSpeech": "n.",
+        "meaning": "浪涌相关词",
+        "memoryTip": "surge 词根相关",
+        "root": "surge",
+        "rootPhonetic": "/sɜːdʒ/",
+        "rootMeaning": "浪涌",
+        "rootPhrases": [
+          "surge system 浪涌系统"
+        ],
+        "wordPhrases": [
+          "surge related 与浪涌相关"
+        ]
+      },
+      {
+        "word": "surgeprotection",
+        "phonetic": "/surgeprotection/",
+        "partOfSpeech": "adj.",
+        "meaning": "浪涌相关词",
+        "memoryTip": "surge 词根相关",
+        "root": "surge",
+        "rootPhonetic": "/sɜːdʒ/",
+        "rootMeaning": "浪涌",
+        "rootPhrases": [
+          "surge system 浪涌系统"
+        ],
+        "wordPhrases": [
+          "surgeprotection related 与浪涌相关"
+        ]
+      },
+      {
+        "word": "surgesuppressor",
+        "phonetic": "/surgesuppressor/",
+        "partOfSpeech": "v.",
+        "meaning": "浪涌相关词",
+        "memoryTip": "surge 词根相关",
+        "root": "surge",
+        "rootPhonetic": "/sɜːdʒ/",
+        "rootMeaning": "浪涌",
+        "rootPhrases": [
+          "surge system 浪涌系统"
+        ],
+        "wordPhrases": [
+          "surgesuppressor related 与浪涌相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "surge equipment 浪涌设备"
+    ],
+    "mnemonic": "surge→浪涌"
+  },
+  {
+    "id": 186,
+    "root": "lightning",
+    "phonetic": "/ˈlaɪtnɪŋ/",
+    "partOfSpeech": "词根",
+    "meaning": "雷电",
+    "frequency": 186,
+    "category": "电力",
+    "words": [
+      {
+        "word": "lightning",
+        "phonetic": "/lightning/",
+        "partOfSpeech": "n.",
+        "meaning": "雷电相关词",
+        "memoryTip": "lightning 词根相关",
+        "root": "lightning",
+        "rootPhonetic": "/ˈlaɪtnɪŋ/",
+        "rootMeaning": "雷电",
+        "rootPhrases": [
+          "lightning system 雷电系统"
+        ],
+        "wordPhrases": [
+          "lightning related 与雷电相关"
+        ]
+      },
+      {
+        "word": "lightningprotection",
+        "phonetic": "/lightningprotection/",
+        "partOfSpeech": "adj.",
+        "meaning": "雷电相关词",
+        "memoryTip": "lightning 词根相关",
+        "root": "lightning",
+        "rootPhonetic": "/ˈlaɪtnɪŋ/",
+        "rootMeaning": "雷电",
+        "rootPhrases": [
+          "lightning system 雷电系统"
+        ],
+        "wordPhrases": [
+          "lightningprotection related 与雷电相关"
+        ]
+      },
+      {
+        "word": "lightningrod",
+        "phonetic": "/lightningrod/",
+        "partOfSpeech": "v.",
+        "meaning": "雷电相关词",
+        "memoryTip": "lightning 词根相关",
+        "root": "lightning",
+        "rootPhonetic": "/ˈlaɪtnɪŋ/",
+        "rootMeaning": "雷电",
+        "rootPhrases": [
+          "lightning system 雷电系统"
+        ],
+        "wordPhrases": [
+          "lightningrod related 与雷电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "lightning equipment 雷电设备"
+    ],
+    "mnemonic": "lightning→雷电"
+  },
+  {
+    "id": 187,
+    "root": "disconnect",
+    "phonetic": "/dɪskəˈnekt/",
+    "partOfSpeech": "词根",
+    "meaning": "断开",
+    "frequency": 187,
+    "category": "电力",
+    "words": [
+      {
+        "word": "disconnect",
+        "phonetic": "/disconnect/",
+        "partOfSpeech": "n.",
+        "meaning": "断开相关词",
+        "memoryTip": "disconnect 词根相关",
+        "root": "disconnect",
+        "rootPhonetic": "/dɪskəˈnekt/",
+        "rootMeaning": "断开",
+        "rootPhrases": [
+          "disconnect system 断开系统"
+        ],
+        "wordPhrases": [
+          "disconnect related 与断开相关"
+        ]
+      },
+      {
+        "word": "disconnector",
+        "phonetic": "/disconnector/",
+        "partOfSpeech": "adj.",
+        "meaning": "断开相关词",
+        "memoryTip": "disconnect 词根相关",
+        "root": "disconnect",
+        "rootPhonetic": "/dɪskəˈnekt/",
+        "rootMeaning": "断开",
+        "rootPhrases": [
+          "disconnect system 断开系统"
+        ],
+        "wordPhrases": [
+          "disconnector related 与断开相关"
+        ]
+      },
+      {
+        "word": "disconnectswitch",
+        "phonetic": "/disconnectswitch/",
+        "partOfSpeech": "v.",
+        "meaning": "断开相关词",
+        "memoryTip": "disconnect 词根相关",
+        "root": "disconnect",
+        "rootPhonetic": "/dɪskəˈnekt/",
+        "rootMeaning": "断开",
+        "rootPhrases": [
+          "disconnect system 断开系统"
+        ],
+        "wordPhrases": [
+          "disconnectswitch related 与断开相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "disconnect equipment 断开设备"
+    ],
+    "mnemonic": "disconnect→断开"
+  },
+  {
+    "id": 188,
+    "root": "breaker",
+    "phonetic": "/ˈbreɪkə/",
+    "partOfSpeech": "词根",
+    "meaning": "断路器",
+    "frequency": 188,
+    "category": "电力",
+    "words": [
+      {
+        "word": "breaker",
+        "phonetic": "/breaker/",
+        "partOfSpeech": "n.",
+        "meaning": "断路器相关词",
+        "memoryTip": "breaker 词根相关",
+        "root": "breaker",
+        "rootPhonetic": "/ˈbreɪkə/",
+        "rootMeaning": "断路器",
+        "rootPhrases": [
+          "breaker system 断路器系统"
+        ],
+        "wordPhrases": [
+          "breaker related 与断路器相关"
+        ]
+      },
+      {
+        "word": "circuitbreaker",
+        "phonetic": "/circuitbreaker/",
+        "partOfSpeech": "adj.",
+        "meaning": "断路器相关词",
+        "memoryTip": "breaker 词根相关",
+        "root": "breaker",
+        "rootPhonetic": "/ˈbreɪkə/",
+        "rootMeaning": "断路器",
+        "rootPhrases": [
+          "breaker system 断路器系统"
+        ],
+        "wordPhrases": [
+          "circuitbreaker related 与断路器相关"
+        ]
+      },
+      {
+        "word": "breakers",
+        "phonetic": "/breakers/",
+        "partOfSpeech": "v.",
+        "meaning": "断路器相关词",
+        "memoryTip": "breaker 词根相关",
+        "root": "breaker",
+        "rootPhonetic": "/ˈbreɪkə/",
+        "rootMeaning": "断路器",
+        "rootPhrases": [
+          "breaker system 断路器系统"
+        ],
+        "wordPhrases": [
+          "breakers related 与断路器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "breaker equipment 断路器设备"
+    ],
+    "mnemonic": "breaker→断路器"
+  },
+  {
+    "id": 189,
+    "root": "isolat",
+    "phonetic": "/ˈaɪsəleɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "隔离",
+    "frequency": 189,
+    "category": "电力",
+    "words": [
+      {
+        "word": "isolate",
+        "phonetic": "/isolate/",
+        "partOfSpeech": "n.",
+        "meaning": "隔离相关词",
+        "memoryTip": "isolat 词根相关",
+        "root": "isolat",
+        "rootPhonetic": "/ˈaɪsəleɪt/",
+        "rootMeaning": "隔离",
+        "rootPhrases": [
+          "isolat system 隔离系统"
+        ],
+        "wordPhrases": [
+          "isolate related 与隔离相关"
+        ]
+      },
+      {
+        "word": "isolator",
+        "phonetic": "/isolator/",
+        "partOfSpeech": "adj.",
+        "meaning": "隔离相关词",
+        "memoryTip": "isolat 词根相关",
+        "root": "isolat",
+        "rootPhonetic": "/ˈaɪsəleɪt/",
+        "rootMeaning": "隔离",
+        "rootPhrases": [
+          "isolat system 隔离系统"
+        ],
+        "wordPhrases": [
+          "isolator related 与隔离相关"
+        ]
+      },
+      {
+        "word": "isolationswitch",
+        "phonetic": "/isolationswitch/",
+        "partOfSpeech": "v.",
+        "meaning": "隔离相关词",
+        "memoryTip": "isolat 词根相关",
+        "root": "isolat",
+        "rootPhonetic": "/ˈaɪsəleɪt/",
+        "rootMeaning": "隔离",
+        "rootPhrases": [
+          "isolat system 隔离系统"
+        ],
+        "wordPhrases": [
+          "isolationswitch related 与隔离相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "isolat equipment 隔离设备"
+    ],
+    "mnemonic": "isolat→隔离"
+  },
+  {
+    "id": 190,
+    "root": "contact",
+    "phonetic": "/ˈkɒntækt/",
+    "partOfSpeech": "词根",
+    "meaning": "触点",
+    "frequency": 190,
+    "category": "电力",
+    "words": [
+      {
+        "word": "contact",
+        "phonetic": "/contact/",
+        "partOfSpeech": "n.",
+        "meaning": "触点相关词",
+        "memoryTip": "contact 词根相关",
+        "root": "contact",
+        "rootPhonetic": "/ˈkɒntækt/",
+        "rootMeaning": "触点",
+        "rootPhrases": [
+          "contact system 触点系统"
+        ],
+        "wordPhrases": [
+          "contact related 与触点相关"
+        ]
+      },
+      {
+        "word": "contacts",
+        "phonetic": "/contacts/",
+        "partOfSpeech": "adj.",
+        "meaning": "触点相关词",
+        "memoryTip": "contact 词根相关",
+        "root": "contact",
+        "rootPhonetic": "/ˈkɒntækt/",
+        "rootMeaning": "触点",
+        "rootPhrases": [
+          "contact system 触点系统"
+        ],
+        "wordPhrases": [
+          "contacts related 与触点相关"
+        ]
+      },
+      {
+        "word": "contactor",
+        "phonetic": "/contactor/",
+        "partOfSpeech": "v.",
+        "meaning": "触点相关词",
+        "memoryTip": "contact 词根相关",
+        "root": "contact",
+        "rootPhonetic": "/ˈkɒntækt/",
+        "rootMeaning": "触点",
+        "rootPhrases": [
+          "contact system 触点系统"
+        ],
+        "wordPhrases": [
+          "contactor related 与触点相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "contact equipment 触点设备"
+    ],
+    "mnemonic": "contact→触点"
+  },
+  {
+    "id": 191,
+    "root": "motor",
+    "phonetic": "/ˈməʊtə/",
+    "partOfSpeech": "词根",
+    "meaning": "电动机",
+    "frequency": 191,
+    "category": "电力",
+    "words": [
+      {
+        "word": "motor",
+        "phonetic": "/motor/",
+        "partOfSpeech": "n.",
+        "meaning": "电动机相关词",
+        "memoryTip": "motor 词根相关",
+        "root": "motor",
+        "rootPhonetic": "/ˈməʊtə/",
+        "rootMeaning": "电动机",
+        "rootPhrases": [
+          "motor system 电动机系统"
+        ],
+        "wordPhrases": [
+          "motor related 与电动机相关"
+        ]
+      },
+      {
+        "word": "motors",
+        "phonetic": "/motors/",
+        "partOfSpeech": "adj.",
+        "meaning": "电动机相关词",
+        "memoryTip": "motor 词根相关",
+        "root": "motor",
+        "rootPhonetic": "/ˈməʊtə/",
+        "rootMeaning": "电动机",
+        "rootPhrases": [
+          "motor system 电动机系统"
+        ],
+        "wordPhrases": [
+          "motors related 与电动机相关"
+        ]
+      },
+      {
+        "word": "motorcontrol",
+        "phonetic": "/motorcontrol/",
+        "partOfSpeech": "v.",
+        "meaning": "电动机相关词",
+        "memoryTip": "motor 词根相关",
+        "root": "motor",
+        "rootPhonetic": "/ˈməʊtə/",
+        "rootMeaning": "电动机",
+        "rootPhrases": [
+          "motor system 电动机系统"
+        ],
+        "wordPhrases": [
+          "motorcontrol related 与电动机相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "motor equipment 电动机设备"
+    ],
+    "mnemonic": "motor→电动机"
+  },
+  {
+    "id": 192,
+    "root": "inverter",
+    "phonetic": "/ɪnˈvɜːtə/",
+    "partOfSpeech": "词根",
+    "meaning": "逆变器",
+    "frequency": 192,
+    "category": "电力",
+    "words": [
+      {
+        "word": "inverter",
+        "phonetic": "/inverter/",
+        "partOfSpeech": "n.",
+        "meaning": "逆变器相关词",
+        "memoryTip": "inverter 词根相关",
+        "root": "inverter",
+        "rootPhonetic": "/ɪnˈvɜːtə/",
+        "rootMeaning": "逆变器",
+        "rootPhrases": [
+          "inverter system 逆变器系统"
+        ],
+        "wordPhrases": [
+          "inverter related 与逆变器相关"
+        ]
+      },
+      {
+        "word": "inverters",
+        "phonetic": "/inverters/",
+        "partOfSpeech": "adj.",
+        "meaning": "逆变器相关词",
+        "memoryTip": "inverter 词根相关",
+        "root": "inverter",
+        "rootPhonetic": "/ɪnˈvɜːtə/",
+        "rootMeaning": "逆变器",
+        "rootPhrases": [
+          "inverter system 逆变器系统"
+        ],
+        "wordPhrases": [
+          "inverters related 与逆变器相关"
+        ]
+      },
+      {
+        "word": "inverterdrive",
+        "phonetic": "/inverterdrive/",
+        "partOfSpeech": "v.",
+        "meaning": "逆变器相关词",
+        "memoryTip": "inverter 词根相关",
+        "root": "inverter",
+        "rootPhonetic": "/ɪnˈvɜːtə/",
+        "rootMeaning": "逆变器",
+        "rootPhrases": [
+          "inverter system 逆变器系统"
+        ],
+        "wordPhrases": [
+          "inverterdrive related 与逆变器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "inverter equipment 逆变器设备"
+    ],
+    "mnemonic": "inverter→逆变器"
+  },
+  {
+    "id": 193,
+    "root": "rectifi",
+    "phonetic": "/ˈrektɪfaɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "整流",
+    "frequency": 193,
+    "category": "电力",
+    "words": [
+      {
+        "word": "rectifier",
+        "phonetic": "/rectifier/",
+        "partOfSpeech": "n.",
+        "meaning": "整流相关词",
+        "memoryTip": "rectifi 词根相关",
+        "root": "rectifi",
+        "rootPhonetic": "/ˈrektɪfaɪ/",
+        "rootMeaning": "整流",
+        "rootPhrases": [
+          "rectifi system 整流系统"
+        ],
+        "wordPhrases": [
+          "rectifier related 与整流相关"
+        ]
+      },
+      {
+        "word": "rectification",
+        "phonetic": "/rectification/",
+        "partOfSpeech": "adj.",
+        "meaning": "整流相关词",
+        "memoryTip": "rectifi 词根相关",
+        "root": "rectifi",
+        "rootPhonetic": "/ˈrektɪfaɪ/",
+        "rootMeaning": "整流",
+        "rootPhrases": [
+          "rectifi system 整流系统"
+        ],
+        "wordPhrases": [
+          "rectification related 与整流相关"
+        ]
+      },
+      {
+        "word": "rectify",
+        "phonetic": "/rectify/",
+        "partOfSpeech": "v.",
+        "meaning": "整流相关词",
+        "memoryTip": "rectifi 词根相关",
+        "root": "rectifi",
+        "rootPhonetic": "/ˈrektɪfaɪ/",
+        "rootMeaning": "整流",
+        "rootPhrases": [
+          "rectifi system 整流系统"
+        ],
+        "wordPhrases": [
+          "rectify related 与整流相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "rectifi equipment 整流设备"
+    ],
+    "mnemonic": "rectifi→整流"
+  },
+  {
+    "id": 194,
+    "root": "converter",
+    "phonetic": "/kənˈvɜːtə/",
+    "partOfSpeech": "词根",
+    "meaning": "变换器",
+    "frequency": 194,
+    "category": "电力",
+    "words": [
+      {
+        "word": "converter",
+        "phonetic": "/converter/",
+        "partOfSpeech": "n.",
+        "meaning": "变换器相关词",
+        "memoryTip": "converter 词根相关",
+        "root": "converter",
+        "rootPhonetic": "/kənˈvɜːtə/",
+        "rootMeaning": "变换器",
+        "rootPhrases": [
+          "converter system 变换器系统"
+        ],
+        "wordPhrases": [
+          "converter related 与变换器相关"
+        ]
+      },
+      {
+        "word": "converters",
+        "phonetic": "/converters/",
+        "partOfSpeech": "adj.",
+        "meaning": "变换器相关词",
+        "memoryTip": "converter 词根相关",
+        "root": "converter",
+        "rootPhonetic": "/kənˈvɜːtə/",
+        "rootMeaning": "变换器",
+        "rootPhrases": [
+          "converter system 变换器系统"
+        ],
+        "wordPhrases": [
+          "converters related 与变换器相关"
+        ]
+      },
+      {
+        "word": "frequencyconverter",
+        "phonetic": "/frequencyconverter/",
+        "partOfSpeech": "v.",
+        "meaning": "变换器相关词",
+        "memoryTip": "converter 词根相关",
+        "root": "converter",
+        "rootPhonetic": "/kənˈvɜːtə/",
+        "rootMeaning": "变换器",
+        "rootPhrases": [
+          "converter system 变换器系统"
+        ],
+        "wordPhrases": [
+          "frequencyconverter related 与变换器相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "converter equipment 变换器设备"
+    ],
+    "mnemonic": "converter→变换器"
+  },
+  {
+    "id": 195,
+    "root": "backup",
+    "phonetic": "/ˈbækʌp/",
+    "partOfSpeech": "词根",
+    "meaning": "备用",
+    "frequency": 195,
+    "category": "电力",
+    "words": [
+      {
+        "word": "backup",
+        "phonetic": "/backup/",
+        "partOfSpeech": "n.",
+        "meaning": "备用相关词",
+        "memoryTip": "backup 词根相关",
+        "root": "backup",
+        "rootPhonetic": "/ˈbækʌp/",
+        "rootMeaning": "备用",
+        "rootPhrases": [
+          "backup system 备用系统"
+        ],
+        "wordPhrases": [
+          "backup related 与备用相关"
+        ]
+      },
+      {
+        "word": "backuppower",
+        "phonetic": "/backuppower/",
+        "partOfSpeech": "adj.",
+        "meaning": "备用相关词",
+        "memoryTip": "backup 词根相关",
+        "root": "backup",
+        "rootPhonetic": "/ˈbækʌp/",
+        "rootMeaning": "备用",
+        "rootPhrases": [
+          "backup system 备用系统"
+        ],
+        "wordPhrases": [
+          "backuppower related 与备用相关"
+        ]
+      },
+      {
+        "word": "backupgenerator",
+        "phonetic": "/backupgenerator/",
+        "partOfSpeech": "v.",
+        "meaning": "备用相关词",
+        "memoryTip": "backup 词根相关",
+        "root": "backup",
+        "rootPhonetic": "/ˈbækʌp/",
+        "rootMeaning": "备用",
+        "rootPhrases": [
+          "backup system 备用系统"
+        ],
+        "wordPhrases": [
+          "backupgenerator related 与备用相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "backup equipment 备用设备"
+    ],
+    "mnemonic": "backup→备用"
+  },
+  {
+    "id": 196,
+    "root": "ups",
+    "phonetic": "/juː piː es/",
+    "partOfSpeech": "词根",
+    "meaning": "不间断电源",
+    "frequency": 196,
+    "category": "电力",
+    "words": [
+      {
+        "word": "ups",
+        "phonetic": "/ups/",
+        "partOfSpeech": "n.",
+        "meaning": "不间断电源相关词",
+        "memoryTip": "ups 词根相关",
+        "root": "ups",
+        "rootPhonetic": "/juː piː es/",
+        "rootMeaning": "不间断电源",
+        "rootPhrases": [
+          "ups system 不间断电源系统"
+        ],
+        "wordPhrases": [
+          "ups related 与不间断电源相关"
+        ]
+      },
+      {
+        "word": "upssystem",
+        "phonetic": "/upssystem/",
+        "partOfSpeech": "adj.",
+        "meaning": "不间断电源相关词",
+        "memoryTip": "ups 词根相关",
+        "root": "ups",
+        "rootPhonetic": "/juː piː es/",
+        "rootMeaning": "不间断电源",
+        "rootPhrases": [
+          "ups system 不间断电源系统"
+        ],
+        "wordPhrases": [
+          "upssystem related 与不间断电源相关"
+        ]
+      },
+      {
+        "word": "uninterruptible",
+        "phonetic": "/uninterruptible/",
+        "partOfSpeech": "v.",
+        "meaning": "不间断电源相关词",
+        "memoryTip": "ups 词根相关",
+        "root": "ups",
+        "rootPhonetic": "/juː piː es/",
+        "rootMeaning": "不间断电源",
+        "rootPhrases": [
+          "ups system 不间断电源系统"
+        ],
+        "wordPhrases": [
+          "uninterruptible related 与不间断电源相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ups equipment 不间断电源设备"
+    ],
+    "mnemonic": "ups→不间断电源"
+  },
+  {
+    "id": 197,
+    "root": "diesel",
+    "phonetic": "/ˈdiːzəl/",
+    "partOfSpeech": "词根",
+    "meaning": "柴油发电机",
+    "frequency": 197,
+    "category": "电力",
+    "words": [
+      {
+        "word": "diesel",
+        "phonetic": "/diesel/",
+        "partOfSpeech": "n.",
+        "meaning": "柴油发电机相关词",
+        "memoryTip": "diesel 词根相关",
+        "root": "diesel",
+        "rootPhonetic": "/ˈdiːzəl/",
+        "rootMeaning": "柴油发电机",
+        "rootPhrases": [
+          "diesel system 柴油发电机系统"
+        ],
+        "wordPhrases": [
+          "diesel related 与柴油发电机相关"
+        ]
+      },
+      {
+        "word": "dieselgenerator",
+        "phonetic": "/dieselgenerator/",
+        "partOfSpeech": "adj.",
+        "meaning": "柴油发电机相关词",
+        "memoryTip": "diesel 词根相关",
+        "root": "diesel",
+        "rootPhonetic": "/ˈdiːzəl/",
+        "rootMeaning": "柴油发电机",
+        "rootPhrases": [
+          "diesel system 柴油发电机系统"
+        ],
+        "wordPhrases": [
+          "dieselgenerator related 与柴油发电机相关"
+        ]
+      },
+      {
+        "word": "dieselengine",
+        "phonetic": "/dieselengine/",
+        "partOfSpeech": "v.",
+        "meaning": "柴油发电机相关词",
+        "memoryTip": "diesel 词根相关",
+        "root": "diesel",
+        "rootPhonetic": "/ˈdiːzəl/",
+        "rootMeaning": "柴油发电机",
+        "rootPhrases": [
+          "diesel system 柴油发电机系统"
+        ],
+        "wordPhrases": [
+          "dieselengine related 与柴油发电机相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "diesel equipment 柴油发电机设备"
+    ],
+    "mnemonic": "diesel→柴油发电机"
+  },
+  {
+    "id": 198,
+    "root": "hydro",
+    "phonetic": "/ˈhaɪdrəʊ/",
+    "partOfSpeech": "词根",
+    "meaning": "水电",
+    "frequency": 198,
+    "category": "电力",
+    "words": [
+      {
+        "word": "hydroelectric",
+        "phonetic": "/hydroelectric/",
+        "partOfSpeech": "n.",
+        "meaning": "水电相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水电",
+        "rootPhrases": [
+          "hydro system 水电系统"
+        ],
+        "wordPhrases": [
+          "hydroelectric related 与水电相关"
+        ]
+      },
+      {
+        "word": "hydropower",
+        "phonetic": "/hydropower/",
+        "partOfSpeech": "adj.",
+        "meaning": "水电相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水电",
+        "rootPhrases": [
+          "hydro system 水电系统"
+        ],
+        "wordPhrases": [
+          "hydropower related 与水电相关"
+        ]
+      },
+      {
+        "word": "hydroplant",
+        "phonetic": "/hydroplant/",
+        "partOfSpeech": "v.",
+        "meaning": "水电相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水电",
+        "rootPhrases": [
+          "hydro system 水电系统"
+        ],
+        "wordPhrases": [
+          "hydroplant related 与水电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "hydro equipment 水电设备"
+    ],
+    "mnemonic": "hydro→水电"
+  },
+  {
+    "id": 199,
+    "root": "thermal",
+    "phonetic": "/ˈθɜːməl/",
+    "partOfSpeech": "词根",
+    "meaning": "火电",
+    "frequency": 199,
+    "category": "电力",
+    "words": [
+      {
+        "word": "thermal",
+        "phonetic": "/thermal/",
+        "partOfSpeech": "n.",
+        "meaning": "火电相关词",
+        "memoryTip": "thermal 词根相关",
+        "root": "thermal",
+        "rootPhonetic": "/ˈθɜːməl/",
+        "rootMeaning": "火电",
+        "rootPhrases": [
+          "thermal system 火电系统"
+        ],
+        "wordPhrases": [
+          "thermal related 与火电相关"
+        ]
+      },
+      {
+        "word": "thermalpower",
+        "phonetic": "/thermalpower/",
+        "partOfSpeech": "adj.",
+        "meaning": "火电相关词",
+        "memoryTip": "thermal 词根相关",
+        "root": "thermal",
+        "rootPhonetic": "/ˈθɜːməl/",
+        "rootMeaning": "火电",
+        "rootPhrases": [
+          "thermal system 火电系统"
+        ],
+        "wordPhrases": [
+          "thermalpower related 与火电相关"
+        ]
+      },
+      {
+        "word": "thermalplant",
+        "phonetic": "/thermalplant/",
+        "partOfSpeech": "v.",
+        "meaning": "火电相关词",
+        "memoryTip": "thermal 词根相关",
+        "root": "thermal",
+        "rootPhonetic": "/ˈθɜːməl/",
+        "rootMeaning": "火电",
+        "rootPhrases": [
+          "thermal system 火电系统"
+        ],
+        "wordPhrases": [
+          "thermalplant related 与火电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "thermal equipment 火电设备"
+    ],
+    "mnemonic": "thermal→火电"
+  },
+  {
+    "id": 200,
+    "root": "nuclear",
+    "phonetic": "/ˈnjuːkliə/",
+    "partOfSpeech": "词根",
+    "meaning": "核电",
+    "frequency": 200,
+    "category": "电力",
+    "words": [
+      {
+        "word": "nuclear",
+        "phonetic": "/ˈnjuːkliə/",
+        "partOfSpeech": "adj.",
+        "meaning": "核能的",
+        "memoryTip": "nuclear 核能相关",
+        "root": "nuclear",
+        "rootPhonetic": "/ˈnjuːkliə/",
+        "rootMeaning": "核电",
+        "rootPhrases": [
+          "nuclear power 核电"
+        ],
+        "wordPhrases": [
+          "nuclear related 与核电相关"
+        ]
+      },
+      {
+        "word": "nuclearpower",
+        "phonetic": "/ˈnjuːkliəˈpaʊə/",
+        "partOfSpeech": "n.",
+        "meaning": "核电站",
+        "memoryTip": "nuclear 核能相关",
+        "root": "nuclear",
+        "rootPhonetic": "/ˈnjuːkliə/",
+        "rootMeaning": "核电",
+        "rootPhrases": [
+          "nuclear plant 核电站"
+        ],
+        "wordPhrases": [
+          "nuclearpower related 与核电站相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "nuclear generation 核能发电"
+    ],
+    "mnemonic": "nuclear→核电"
   }
 ]

@@ -9196,5 +9196,3407 @@
       "ship system ship化系统"
     ],
     "mnemonic": "ship→ship化"
+  },
+  {
+    "id": 147,
+    "root": "polymer",
+    "phonetic": "/ˈpɒlɪmə/",
+    "partOfSpeech": "词根",
+    "meaning": "聚合物",
+    "frequency": 147,
+    "category": "化工",
+    "words": [
+      {
+        "word": "polymer",
+        "phonetic": "/polymer/",
+        "partOfSpeech": "n.",
+        "meaning": "聚合物相关词",
+        "memoryTip": "polymer 词根相关",
+        "root": "polymer",
+        "rootPhonetic": "/ˈpɒlɪmə/",
+        "rootMeaning": "聚合物",
+        "rootPhrases": [
+          "polymer process 聚合物过程"
+        ],
+        "wordPhrases": [
+          "polymer related 与聚合物相关"
+        ]
+      },
+      {
+        "word": "polymeric",
+        "phonetic": "/polymeric/",
+        "partOfSpeech": "adj.",
+        "meaning": "聚合物相关词",
+        "memoryTip": "polymer 词根相关",
+        "root": "polymer",
+        "rootPhonetic": "/ˈpɒlɪmə/",
+        "rootMeaning": "聚合物",
+        "rootPhrases": [
+          "polymer process 聚合物过程"
+        ],
+        "wordPhrases": [
+          "polymeric related 与聚合物相关"
+        ]
+      },
+      {
+        "word": "polymerize",
+        "phonetic": "/polymerize/",
+        "partOfSpeech": "v.",
+        "meaning": "聚合物相关词",
+        "memoryTip": "polymer 词根相关",
+        "root": "polymer",
+        "rootPhonetic": "/ˈpɒlɪmə/",
+        "rootMeaning": "聚合物",
+        "rootPhrases": [
+          "polymer process 聚合物过程"
+        ],
+        "wordPhrases": [
+          "polymerize related 与聚合物相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "polymer system 聚合物系统"
+    ],
+    "mnemonic": "polymer→聚合物"
+  },
+  {
+    "id": 148,
+    "root": "catal",
+    "phonetic": "/ˈkætəl/",
+    "partOfSpeech": "词根",
+    "meaning": "催化",
+    "frequency": 148,
+    "category": "化工",
+    "words": [
+      {
+        "word": "catalyst",
+        "phonetic": "/catalyst/",
+        "partOfSpeech": "n.",
+        "meaning": "催化相关词",
+        "memoryTip": "catal 词根相关",
+        "root": "catal",
+        "rootPhonetic": "/ˈkætəl/",
+        "rootMeaning": "催化",
+        "rootPhrases": [
+          "catal process 催化过程"
+        ],
+        "wordPhrases": [
+          "catalyst related 与催化相关"
+        ]
+      },
+      {
+        "word": "catalytic",
+        "phonetic": "/catalytic/",
+        "partOfSpeech": "adj.",
+        "meaning": "催化相关词",
+        "memoryTip": "catal 词根相关",
+        "root": "catal",
+        "rootPhonetic": "/ˈkætəl/",
+        "rootMeaning": "催化",
+        "rootPhrases": [
+          "catal process 催化过程"
+        ],
+        "wordPhrases": [
+          "catalytic related 与催化相关"
+        ]
+      },
+      {
+        "word": "catalyze",
+        "phonetic": "/catalyze/",
+        "partOfSpeech": "v.",
+        "meaning": "催化相关词",
+        "memoryTip": "catal 词根相关",
+        "root": "catal",
+        "rootPhonetic": "/ˈkætəl/",
+        "rootMeaning": "催化",
+        "rootPhrases": [
+          "catal process 催化过程"
+        ],
+        "wordPhrases": [
+          "catalyze related 与催化相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "catal system 催化系统"
+    ],
+    "mnemonic": "catal→催化"
+  },
+  {
+    "id": 149,
+    "root": "oxid",
+    "phonetic": "/ˈɒksɪd/",
+    "partOfSpeech": "词根",
+    "meaning": "氧化",
+    "frequency": 149,
+    "category": "化工",
+    "words": [
+      {
+        "word": "oxide",
+        "phonetic": "/oxide/",
+        "partOfSpeech": "n.",
+        "meaning": "氧化相关词",
+        "memoryTip": "oxid 词根相关",
+        "root": "oxid",
+        "rootPhonetic": "/ˈɒksɪd/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "oxid process 氧化过程"
+        ],
+        "wordPhrases": [
+          "oxide related 与氧化相关"
+        ]
+      },
+      {
+        "word": "oxidize",
+        "phonetic": "/oxidize/",
+        "partOfSpeech": "adj.",
+        "meaning": "氧化相关词",
+        "memoryTip": "oxid 词根相关",
+        "root": "oxid",
+        "rootPhonetic": "/ˈɒksɪd/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "oxid process 氧化过程"
+        ],
+        "wordPhrases": [
+          "oxidize related 与氧化相关"
+        ]
+      },
+      {
+        "word": "oxidation",
+        "phonetic": "/oxidation/",
+        "partOfSpeech": "v.",
+        "meaning": "氧化相关词",
+        "memoryTip": "oxid 词根相关",
+        "root": "oxid",
+        "rootPhonetic": "/ˈɒksɪd/",
+        "rootMeaning": "氧化",
+        "rootPhrases": [
+          "oxid process 氧化过程"
+        ],
+        "wordPhrases": [
+          "oxidation related 与氧化相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "oxid system 氧化系统"
+    ],
+    "mnemonic": "oxid→氧化"
+  },
+  {
+    "id": 150,
+    "root": "synth",
+    "phonetic": "/sɪnθ/",
+    "partOfSpeech": "词根",
+    "meaning": "合成",
+    "frequency": 150,
+    "category": "化工",
+    "words": [
+      {
+        "word": "synthesis",
+        "phonetic": "/synthesis/",
+        "partOfSpeech": "n.",
+        "meaning": "合成相关词",
+        "memoryTip": "synth 词根相关",
+        "root": "synth",
+        "rootPhonetic": "/sɪnθ/",
+        "rootMeaning": "合成",
+        "rootPhrases": [
+          "synth process 合成过程"
+        ],
+        "wordPhrases": [
+          "synthesis related 与合成相关"
+        ]
+      },
+      {
+        "word": "synthesize",
+        "phonetic": "/synthesize/",
+        "partOfSpeech": "adj.",
+        "meaning": "合成相关词",
+        "memoryTip": "synth 词根相关",
+        "root": "synth",
+        "rootPhonetic": "/sɪnθ/",
+        "rootMeaning": "合成",
+        "rootPhrases": [
+          "synth process 合成过程"
+        ],
+        "wordPhrases": [
+          "synthesize related 与合成相关"
+        ]
+      },
+      {
+        "word": "synthetic",
+        "phonetic": "/synthetic/",
+        "partOfSpeech": "v.",
+        "meaning": "合成相关词",
+        "memoryTip": "synth 词根相关",
+        "root": "synth",
+        "rootPhonetic": "/sɪnθ/",
+        "rootMeaning": "合成",
+        "rootPhrases": [
+          "synth process 合成过程"
+        ],
+        "wordPhrases": [
+          "synthetic related 与合成相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "synth system 合成系统"
+    ],
+    "mnemonic": "synth→合成"
+  },
+  {
+    "id": 151,
+    "root": "solut",
+    "phonetic": "/səˈluːt/",
+    "partOfSpeech": "词根",
+    "meaning": "溶解",
+    "frequency": 151,
+    "category": "化工",
+    "words": [
+      {
+        "word": "solution",
+        "phonetic": "/solution/",
+        "partOfSpeech": "n.",
+        "meaning": "溶解相关词",
+        "memoryTip": "solut 词根相关",
+        "root": "solut",
+        "rootPhonetic": "/səˈluːt/",
+        "rootMeaning": "溶解",
+        "rootPhrases": [
+          "solut process 溶解过程"
+        ],
+        "wordPhrases": [
+          "solution related 与溶解相关"
+        ]
+      },
+      {
+        "word": "soluble",
+        "phonetic": "/soluble/",
+        "partOfSpeech": "adj.",
+        "meaning": "溶解相关词",
+        "memoryTip": "solut 词根相关",
+        "root": "solut",
+        "rootPhonetic": "/səˈluːt/",
+        "rootMeaning": "溶解",
+        "rootPhrases": [
+          "solut process 溶解过程"
+        ],
+        "wordPhrases": [
+          "soluble related 与溶解相关"
+        ]
+      },
+      {
+        "word": "solvent",
+        "phonetic": "/solvent/",
+        "partOfSpeech": "v.",
+        "meaning": "溶解相关词",
+        "memoryTip": "solut 词根相关",
+        "root": "solut",
+        "rootPhonetic": "/səˈluːt/",
+        "rootMeaning": "溶解",
+        "rootPhrases": [
+          "solut process 溶解过程"
+        ],
+        "wordPhrases": [
+          "solvent related 与溶解相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "solut system 溶解系统"
+    ],
+    "mnemonic": "solut→溶解"
+  },
+  {
+    "id": 152,
+    "root": "cryst",
+    "phonetic": "/krɪst/",
+    "partOfSpeech": "词根",
+    "meaning": "晶体",
+    "frequency": 152,
+    "category": "化工",
+    "words": [
+      {
+        "word": "crystal",
+        "phonetic": "/crystal/",
+        "partOfSpeech": "n.",
+        "meaning": "晶体相关词",
+        "memoryTip": "cryst 词根相关",
+        "root": "cryst",
+        "rootPhonetic": "/krɪst/",
+        "rootMeaning": "晶体",
+        "rootPhrases": [
+          "cryst process 晶体过程"
+        ],
+        "wordPhrases": [
+          "crystal related 与晶体相关"
+        ]
+      },
+      {
+        "word": "crystalline",
+        "phonetic": "/crystalline/",
+        "partOfSpeech": "adj.",
+        "meaning": "晶体相关词",
+        "memoryTip": "cryst 词根相关",
+        "root": "cryst",
+        "rootPhonetic": "/krɪst/",
+        "rootMeaning": "晶体",
+        "rootPhrases": [
+          "cryst process 晶体过程"
+        ],
+        "wordPhrases": [
+          "crystalline related 与晶体相关"
+        ]
+      },
+      {
+        "word": "crystallize",
+        "phonetic": "/crystallize/",
+        "partOfSpeech": "v.",
+        "meaning": "晶体相关词",
+        "memoryTip": "cryst 词根相关",
+        "root": "cryst",
+        "rootPhonetic": "/krɪst/",
+        "rootMeaning": "晶体",
+        "rootPhrases": [
+          "cryst process 晶体过程"
+        ],
+        "wordPhrases": [
+          "crystallize related 与晶体相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "cryst system 晶体系统"
+    ],
+    "mnemonic": "cryst→晶体"
+  },
+  {
+    "id": 153,
+    "root": "distil",
+    "phonetic": "/dɪˈstɪl/",
+    "partOfSpeech": "词根",
+    "meaning": "蒸馏",
+    "frequency": 153,
+    "category": "化工",
+    "words": [
+      {
+        "word": "distill",
+        "phonetic": "/distill/",
+        "partOfSpeech": "n.",
+        "meaning": "蒸馏相关词",
+        "memoryTip": "distil 词根相关",
+        "root": "distil",
+        "rootPhonetic": "/dɪˈstɪl/",
+        "rootMeaning": "蒸馏",
+        "rootPhrases": [
+          "distil process 蒸馏过程"
+        ],
+        "wordPhrases": [
+          "distill related 与蒸馏相关"
+        ]
+      },
+      {
+        "word": "distillation",
+        "phonetic": "/distillation/",
+        "partOfSpeech": "adj.",
+        "meaning": "蒸馏相关词",
+        "memoryTip": "distil 词根相关",
+        "root": "distil",
+        "rootPhonetic": "/dɪˈstɪl/",
+        "rootMeaning": "蒸馏",
+        "rootPhrases": [
+          "distil process 蒸馏过程"
+        ],
+        "wordPhrases": [
+          "distillation related 与蒸馏相关"
+        ]
+      },
+      {
+        "word": "distillate",
+        "phonetic": "/distillate/",
+        "partOfSpeech": "v.",
+        "meaning": "蒸馏相关词",
+        "memoryTip": "distil 词根相关",
+        "root": "distil",
+        "rootPhonetic": "/dɪˈstɪl/",
+        "rootMeaning": "蒸馏",
+        "rootPhrases": [
+          "distil process 蒸馏过程"
+        ],
+        "wordPhrases": [
+          "distillate related 与蒸馏相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "distil system 蒸馏系统"
+    ],
+    "mnemonic": "distil→蒸馏"
+  },
+  {
+    "id": 154,
+    "root": "filtr",
+    "phonetic": "/fɪltr/",
+    "partOfSpeech": "词根",
+    "meaning": "过滤",
+    "frequency": 154,
+    "category": "化工",
+    "words": [
+      {
+        "word": "filter",
+        "phonetic": "/filter/",
+        "partOfSpeech": "n.",
+        "meaning": "过滤相关词",
+        "memoryTip": "filtr 词根相关",
+        "root": "filtr",
+        "rootPhonetic": "/fɪltr/",
+        "rootMeaning": "过滤",
+        "rootPhrases": [
+          "filtr process 过滤过程"
+        ],
+        "wordPhrases": [
+          "filter related 与过滤相关"
+        ]
+      },
+      {
+        "word": "filtration",
+        "phonetic": "/filtration/",
+        "partOfSpeech": "adj.",
+        "meaning": "过滤相关词",
+        "memoryTip": "filtr 词根相关",
+        "root": "filtr",
+        "rootPhonetic": "/fɪltr/",
+        "rootMeaning": "过滤",
+        "rootPhrases": [
+          "filtr process 过滤过程"
+        ],
+        "wordPhrases": [
+          "filtration related 与过滤相关"
+        ]
+      },
+      {
+        "word": "filtrate",
+        "phonetic": "/filtrate/",
+        "partOfSpeech": "v.",
+        "meaning": "过滤相关词",
+        "memoryTip": "filtr 词根相关",
+        "root": "filtr",
+        "rootPhonetic": "/fɪltr/",
+        "rootMeaning": "过滤",
+        "rootPhrases": [
+          "filtr process 过滤过程"
+        ],
+        "wordPhrases": [
+          "filtrate related 与过滤相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "filtr system 过滤系统"
+    ],
+    "mnemonic": "filtr→过滤"
+  },
+  {
+    "id": 155,
+    "root": "evap",
+    "phonetic": "/ɪˈvæp/",
+    "partOfSpeech": "词根",
+    "meaning": "蒸发",
+    "frequency": 155,
+    "category": "化工",
+    "words": [
+      {
+        "word": "evaporate",
+        "phonetic": "/evaporate/",
+        "partOfSpeech": "n.",
+        "meaning": "蒸发相关词",
+        "memoryTip": "evap 词根相关",
+        "root": "evap",
+        "rootPhonetic": "/ɪˈvæp/",
+        "rootMeaning": "蒸发",
+        "rootPhrases": [
+          "evap process 蒸发过程"
+        ],
+        "wordPhrases": [
+          "evaporate related 与蒸发相关"
+        ]
+      },
+      {
+        "word": "evaporation",
+        "phonetic": "/evaporation/",
+        "partOfSpeech": "adj.",
+        "meaning": "蒸发相关词",
+        "memoryTip": "evap 词根相关",
+        "root": "evap",
+        "rootPhonetic": "/ɪˈvæp/",
+        "rootMeaning": "蒸发",
+        "rootPhrases": [
+          "evap process 蒸发过程"
+        ],
+        "wordPhrases": [
+          "evaporation related 与蒸发相关"
+        ]
+      },
+      {
+        "word": "evaporator",
+        "phonetic": "/evaporator/",
+        "partOfSpeech": "v.",
+        "meaning": "蒸发相关词",
+        "memoryTip": "evap 词根相关",
+        "root": "evap",
+        "rootPhonetic": "/ɪˈvæp/",
+        "rootMeaning": "蒸发",
+        "rootPhrases": [
+          "evap process 蒸发过程"
+        ],
+        "wordPhrases": [
+          "evaporator related 与蒸发相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "evap system 蒸发系统"
+    ],
+    "mnemonic": "evap→蒸发"
+  },
+  {
+    "id": 156,
+    "root": "absorb",
+    "phonetic": "/əbˈsɔːb/",
+    "partOfSpeech": "词根",
+    "meaning": "吸收",
+    "frequency": 156,
+    "category": "化工",
+    "words": [
+      {
+        "word": "absorb",
+        "phonetic": "/absorb/",
+        "partOfSpeech": "n.",
+        "meaning": "吸收相关词",
+        "memoryTip": "absorb 词根相关",
+        "root": "absorb",
+        "rootPhonetic": "/əbˈsɔːb/",
+        "rootMeaning": "吸收",
+        "rootPhrases": [
+          "absorb process 吸收过程"
+        ],
+        "wordPhrases": [
+          "absorb related 与吸收相关"
+        ]
+      },
+      {
+        "word": "absorption",
+        "phonetic": "/absorption/",
+        "partOfSpeech": "adj.",
+        "meaning": "吸收相关词",
+        "memoryTip": "absorb 词根相关",
+        "root": "absorb",
+        "rootPhonetic": "/əbˈsɔːb/",
+        "rootMeaning": "吸收",
+        "rootPhrases": [
+          "absorb process 吸收过程"
+        ],
+        "wordPhrases": [
+          "absorption related 与吸收相关"
+        ]
+      },
+      {
+        "word": "absorbent",
+        "phonetic": "/absorbent/",
+        "partOfSpeech": "v.",
+        "meaning": "吸收相关词",
+        "memoryTip": "absorb 词根相关",
+        "root": "absorb",
+        "rootPhonetic": "/əbˈsɔːb/",
+        "rootMeaning": "吸收",
+        "rootPhrases": [
+          "absorb process 吸收过程"
+        ],
+        "wordPhrases": [
+          "absorbent related 与吸收相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "absorb system 吸收系统"
+    ],
+    "mnemonic": "absorb→吸收"
+  },
+  {
+    "id": 157,
+    "root": "adsorb",
+    "phonetic": "/ædˈsɔːb/",
+    "partOfSpeech": "词根",
+    "meaning": "吸附",
+    "frequency": 157,
+    "category": "化工",
+    "words": [
+      {
+        "word": "adsorb",
+        "phonetic": "/adsorb/",
+        "partOfSpeech": "n.",
+        "meaning": "吸附相关词",
+        "memoryTip": "adsorb 词根相关",
+        "root": "adsorb",
+        "rootPhonetic": "/ædˈsɔːb/",
+        "rootMeaning": "吸附",
+        "rootPhrases": [
+          "adsorb process 吸附过程"
+        ],
+        "wordPhrases": [
+          "adsorb related 与吸附相关"
+        ]
+      },
+      {
+        "word": "adsorption",
+        "phonetic": "/adsorption/",
+        "partOfSpeech": "adj.",
+        "meaning": "吸附相关词",
+        "memoryTip": "adsorb 词根相关",
+        "root": "adsorb",
+        "rootPhonetic": "/ædˈsɔːb/",
+        "rootMeaning": "吸附",
+        "rootPhrases": [
+          "adsorb process 吸附过程"
+        ],
+        "wordPhrases": [
+          "adsorption related 与吸附相关"
+        ]
+      },
+      {
+        "word": "adsorbent",
+        "phonetic": "/adsorbent/",
+        "partOfSpeech": "v.",
+        "meaning": "吸附相关词",
+        "memoryTip": "adsorb 词根相关",
+        "root": "adsorb",
+        "rootPhonetic": "/ædˈsɔːb/",
+        "rootMeaning": "吸附",
+        "rootPhrases": [
+          "adsorb process 吸附过程"
+        ],
+        "wordPhrases": [
+          "adsorbent related 与吸附相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "adsorb system 吸附系统"
+    ],
+    "mnemonic": "adsorb→吸附"
+  },
+  {
+    "id": 158,
+    "root": "precip",
+    "phonetic": "/prɪˈsɪp/",
+    "partOfSpeech": "词根",
+    "meaning": "沉淀",
+    "frequency": 158,
+    "category": "化工",
+    "words": [
+      {
+        "word": "precipitate",
+        "phonetic": "/precipitate/",
+        "partOfSpeech": "n.",
+        "meaning": "沉淀相关词",
+        "memoryTip": "precip 词根相关",
+        "root": "precip",
+        "rootPhonetic": "/prɪˈsɪp/",
+        "rootMeaning": "沉淀",
+        "rootPhrases": [
+          "precip process 沉淀过程"
+        ],
+        "wordPhrases": [
+          "precipitate related 与沉淀相关"
+        ]
+      },
+      {
+        "word": "precipitation",
+        "phonetic": "/precipitation/",
+        "partOfSpeech": "adj.",
+        "meaning": "沉淀相关词",
+        "memoryTip": "precip 词根相关",
+        "root": "precip",
+        "rootPhonetic": "/prɪˈsɪp/",
+        "rootMeaning": "沉淀",
+        "rootPhrases": [
+          "precip process 沉淀过程"
+        ],
+        "wordPhrases": [
+          "precipitation related 与沉淀相关"
+        ]
+      },
+      {
+        "word": "precipitant",
+        "phonetic": "/precipitant/",
+        "partOfSpeech": "v.",
+        "meaning": "沉淀相关词",
+        "memoryTip": "precip 词根相关",
+        "root": "precip",
+        "rootPhonetic": "/prɪˈsɪp/",
+        "rootMeaning": "沉淀",
+        "rootPhrases": [
+          "precip process 沉淀过程"
+        ],
+        "wordPhrases": [
+          "precipitant related 与沉淀相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "precip system 沉淀系统"
+    ],
+    "mnemonic": "precip→沉淀"
+  },
+  {
+    "id": 159,
+    "root": "hydro",
+    "phonetic": "/ˈhaɪdrəʊ/",
+    "partOfSpeech": "词根",
+    "meaning": "水/氢",
+    "frequency": 159,
+    "category": "化工",
+    "words": [
+      {
+        "word": "hydrolysis",
+        "phonetic": "/hydrolysis/",
+        "partOfSpeech": "n.",
+        "meaning": "水/氢相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水/氢",
+        "rootPhrases": [
+          "hydro process 水/氢过程"
+        ],
+        "wordPhrases": [
+          "hydrolysis related 与水/氢相关"
+        ]
+      },
+      {
+        "word": "hydrocarbon",
+        "phonetic": "/hydrocarbon/",
+        "partOfSpeech": "adj.",
+        "meaning": "水/氢相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水/氢",
+        "rootPhrases": [
+          "hydro process 水/氢过程"
+        ],
+        "wordPhrases": [
+          "hydrocarbon related 与水/氢相关"
+        ]
+      },
+      {
+        "word": "hydrogen",
+        "phonetic": "/hydrogen/",
+        "partOfSpeech": "v.",
+        "meaning": "水/氢相关词",
+        "memoryTip": "hydro 词根相关",
+        "root": "hydro",
+        "rootPhonetic": "/ˈhaɪdrəʊ/",
+        "rootMeaning": "水/氢",
+        "rootPhrases": [
+          "hydro process 水/氢过程"
+        ],
+        "wordPhrases": [
+          "hydrogen related 与水/氢相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "hydro system 水/氢系统"
+    ],
+    "mnemonic": "hydro→水/氢"
+  },
+  {
+    "id": 160,
+    "root": "carb",
+    "phonetic": "/kɑːb/",
+    "partOfSpeech": "词根",
+    "meaning": "碳",
+    "frequency": 160,
+    "category": "化工",
+    "words": [
+      {
+        "word": "carbon",
+        "phonetic": "/carbon/",
+        "partOfSpeech": "n.",
+        "meaning": "碳相关词",
+        "memoryTip": "carb 词根相关",
+        "root": "carb",
+        "rootPhonetic": "/kɑːb/",
+        "rootMeaning": "碳",
+        "rootPhrases": [
+          "carb process 碳过程"
+        ],
+        "wordPhrases": [
+          "carbon related 与碳相关"
+        ]
+      },
+      {
+        "word": "carbide",
+        "phonetic": "/carbide/",
+        "partOfSpeech": "adj.",
+        "meaning": "碳相关词",
+        "memoryTip": "carb 词根相关",
+        "root": "carb",
+        "rootPhonetic": "/kɑːb/",
+        "rootMeaning": "碳",
+        "rootPhrases": [
+          "carb process 碳过程"
+        ],
+        "wordPhrases": [
+          "carbide related 与碳相关"
+        ]
+      },
+      {
+        "word": "carbohydrate",
+        "phonetic": "/carbohydrate/",
+        "partOfSpeech": "v.",
+        "meaning": "碳相关词",
+        "memoryTip": "carb 词根相关",
+        "root": "carb",
+        "rootPhonetic": "/kɑːb/",
+        "rootMeaning": "碳",
+        "rootPhrases": [
+          "carb process 碳过程"
+        ],
+        "wordPhrases": [
+          "carbohydrate related 与碳相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "carb system 碳系统"
+    ],
+    "mnemonic": "carb→碳"
+  },
+  {
+    "id": 161,
+    "root": "nitro",
+    "phonetic": "/ˈnaɪtrəʊ/",
+    "partOfSpeech": "词根",
+    "meaning": "氮/硝基",
+    "frequency": 161,
+    "category": "化工",
+    "words": [
+      {
+        "word": "nitrogen",
+        "phonetic": "/nitrogen/",
+        "partOfSpeech": "n.",
+        "meaning": "氮/硝基相关词",
+        "memoryTip": "nitro 词根相关",
+        "root": "nitro",
+        "rootPhonetic": "/ˈnaɪtrəʊ/",
+        "rootMeaning": "氮/硝基",
+        "rootPhrases": [
+          "nitro process 氮/硝基过程"
+        ],
+        "wordPhrases": [
+          "nitrogen related 与氮/硝基相关"
+        ]
+      },
+      {
+        "word": "nitrate",
+        "phonetic": "/nitrate/",
+        "partOfSpeech": "adj.",
+        "meaning": "氮/硝基相关词",
+        "memoryTip": "nitro 词根相关",
+        "root": "nitro",
+        "rootPhonetic": "/ˈnaɪtrəʊ/",
+        "rootMeaning": "氮/硝基",
+        "rootPhrases": [
+          "nitro process 氮/硝基过程"
+        ],
+        "wordPhrases": [
+          "nitrate related 与氮/硝基相关"
+        ]
+      },
+      {
+        "word": "nitrocompound",
+        "phonetic": "/nitrocompound/",
+        "partOfSpeech": "v.",
+        "meaning": "氮/硝基相关词",
+        "memoryTip": "nitro 词根相关",
+        "root": "nitro",
+        "rootPhonetic": "/ˈnaɪtrəʊ/",
+        "rootMeaning": "氮/硝基",
+        "rootPhrases": [
+          "nitro process 氮/硝基过程"
+        ],
+        "wordPhrases": [
+          "nitrocompound related 与氮/硝基相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "nitro system 氮/硝基系统"
+    ],
+    "mnemonic": "nitro→氮/硝基"
+  },
+  {
+    "id": 162,
+    "root": "sulf",
+    "phonetic": "/sʌlf/",
+    "partOfSpeech": "词根",
+    "meaning": "硫",
+    "frequency": 162,
+    "category": "化工",
+    "words": [
+      {
+        "word": "sulfur",
+        "phonetic": "/sulfur/",
+        "partOfSpeech": "n.",
+        "meaning": "硫相关词",
+        "memoryTip": "sulf 词根相关",
+        "root": "sulf",
+        "rootPhonetic": "/sʌlf/",
+        "rootMeaning": "硫",
+        "rootPhrases": [
+          "sulf process 硫过程"
+        ],
+        "wordPhrases": [
+          "sulfur related 与硫相关"
+        ]
+      },
+      {
+        "word": "sulfate",
+        "phonetic": "/sulfate/",
+        "partOfSpeech": "adj.",
+        "meaning": "硫相关词",
+        "memoryTip": "sulf 词根相关",
+        "root": "sulf",
+        "rootPhonetic": "/sʌlf/",
+        "rootMeaning": "硫",
+        "rootPhrases": [
+          "sulf process 硫过程"
+        ],
+        "wordPhrases": [
+          "sulfate related 与硫相关"
+        ]
+      },
+      {
+        "word": "sulfide",
+        "phonetic": "/sulfide/",
+        "partOfSpeech": "v.",
+        "meaning": "硫相关词",
+        "memoryTip": "sulf 词根相关",
+        "root": "sulf",
+        "rootPhonetic": "/sʌlf/",
+        "rootMeaning": "硫",
+        "rootPhrases": [
+          "sulf process 硫过程"
+        ],
+        "wordPhrases": [
+          "sulfide related 与硫相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "sulf system 硫系统"
+    ],
+    "mnemonic": "sulf→硫"
+  },
+  {
+    "id": 163,
+    "root": "phosph",
+    "phonetic": "/fɒsf/",
+    "partOfSpeech": "词根",
+    "meaning": "磷",
+    "frequency": 163,
+    "category": "化工",
+    "words": [
+      {
+        "word": "phosphorus",
+        "phonetic": "/phosphorus/",
+        "partOfSpeech": "n.",
+        "meaning": "磷相关词",
+        "memoryTip": "phosph 词根相关",
+        "root": "phosph",
+        "rootPhonetic": "/fɒsf/",
+        "rootMeaning": "磷",
+        "rootPhrases": [
+          "phosph process 磷过程"
+        ],
+        "wordPhrases": [
+          "phosphorus related 与磷相关"
+        ]
+      },
+      {
+        "word": "phosphate",
+        "phonetic": "/phosphate/",
+        "partOfSpeech": "adj.",
+        "meaning": "磷相关词",
+        "memoryTip": "phosph 词根相关",
+        "root": "phosph",
+        "rootPhonetic": "/fɒsf/",
+        "rootMeaning": "磷",
+        "rootPhrases": [
+          "phosph process 磷过程"
+        ],
+        "wordPhrases": [
+          "phosphate related 与磷相关"
+        ]
+      },
+      {
+        "word": "phosphide",
+        "phonetic": "/phosphide/",
+        "partOfSpeech": "v.",
+        "meaning": "磷相关词",
+        "memoryTip": "phosph 词根相关",
+        "root": "phosph",
+        "rootPhonetic": "/fɒsf/",
+        "rootMeaning": "磷",
+        "rootPhrases": [
+          "phosph process 磷过程"
+        ],
+        "wordPhrases": [
+          "phosphide related 与磷相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "phosph system 磷系统"
+    ],
+    "mnemonic": "phosph→磷"
+  },
+  {
+    "id": 164,
+    "root": "chlor",
+    "phonetic": "/klɔː/",
+    "partOfSpeech": "词根",
+    "meaning": "氯",
+    "frequency": 164,
+    "category": "化工",
+    "words": [
+      {
+        "word": "chlorine",
+        "phonetic": "/chlorine/",
+        "partOfSpeech": "n.",
+        "meaning": "氯相关词",
+        "memoryTip": "chlor 词根相关",
+        "root": "chlor",
+        "rootPhonetic": "/klɔː/",
+        "rootMeaning": "氯",
+        "rootPhrases": [
+          "chlor process 氯过程"
+        ],
+        "wordPhrases": [
+          "chlorine related 与氯相关"
+        ]
+      },
+      {
+        "word": "chloride",
+        "phonetic": "/chloride/",
+        "partOfSpeech": "adj.",
+        "meaning": "氯相关词",
+        "memoryTip": "chlor 词根相关",
+        "root": "chlor",
+        "rootPhonetic": "/klɔː/",
+        "rootMeaning": "氯",
+        "rootPhrases": [
+          "chlor process 氯过程"
+        ],
+        "wordPhrases": [
+          "chloride related 与氯相关"
+        ]
+      },
+      {
+        "word": "chlorate",
+        "phonetic": "/chlorate/",
+        "partOfSpeech": "v.",
+        "meaning": "氯相关词",
+        "memoryTip": "chlor 词根相关",
+        "root": "chlor",
+        "rootPhonetic": "/klɔː/",
+        "rootMeaning": "氯",
+        "rootPhrases": [
+          "chlor process 氯过程"
+        ],
+        "wordPhrases": [
+          "chlorate related 与氯相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "chlor system 氯系统"
+    ],
+    "mnemonic": "chlor→氯"
+  },
+  {
+    "id": 165,
+    "root": "alk",
+    "phonetic": "/ælk/",
+    "partOfSpeech": "词根",
+    "meaning": "碱/醇",
+    "frequency": 165,
+    "category": "化工",
+    "words": [
+      {
+        "word": "alkali",
+        "phonetic": "/alkali/",
+        "partOfSpeech": "n.",
+        "meaning": "碱/醇相关词",
+        "memoryTip": "alk 词根相关",
+        "root": "alk",
+        "rootPhonetic": "/ælk/",
+        "rootMeaning": "碱/醇",
+        "rootPhrases": [
+          "alk process 碱/醇过程"
+        ],
+        "wordPhrases": [
+          "alkali related 与碱/醇相关"
+        ]
+      },
+      {
+        "word": "alkaline",
+        "phonetic": "/alkaline/",
+        "partOfSpeech": "adj.",
+        "meaning": "碱/醇相关词",
+        "memoryTip": "alk 词根相关",
+        "root": "alk",
+        "rootPhonetic": "/ælk/",
+        "rootMeaning": "碱/醇",
+        "rootPhrases": [
+          "alk process 碱/醇过程"
+        ],
+        "wordPhrases": [
+          "alkaline related 与碱/醇相关"
+        ]
+      },
+      {
+        "word": "alcohol",
+        "phonetic": "/alcohol/",
+        "partOfSpeech": "v.",
+        "meaning": "碱/醇相关词",
+        "memoryTip": "alk 词根相关",
+        "root": "alk",
+        "rootPhonetic": "/ælk/",
+        "rootMeaning": "碱/醇",
+        "rootPhrases": [
+          "alk process 碱/醇过程"
+        ],
+        "wordPhrases": [
+          "alcohol related 与碱/醇相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "alk system 碱/醇系统"
+    ],
+    "mnemonic": "alk→碱/醇"
+  },
+  {
+    "id": 166,
+    "root": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "partOfSpeech": "词根",
+    "meaning": "酸",
+    "frequency": 166,
+    "category": "化工",
+    "words": [
+      {
+        "word": "acid",
+        "phonetic": "/acid/",
+        "partOfSpeech": "n.",
+        "meaning": "酸相关词",
+        "memoryTip": "acid 词根相关",
+        "root": "acid",
+        "rootPhonetic": "/ˈæsɪd/",
+        "rootMeaning": "酸",
+        "rootPhrases": [
+          "acid process 酸过程"
+        ],
+        "wordPhrases": [
+          "acid related 与酸相关"
+        ]
+      },
+      {
+        "word": "acidic",
+        "phonetic": "/acidic/",
+        "partOfSpeech": "adj.",
+        "meaning": "酸相关词",
+        "memoryTip": "acid 词根相关",
+        "root": "acid",
+        "rootPhonetic": "/ˈæsɪd/",
+        "rootMeaning": "酸",
+        "rootPhrases": [
+          "acid process 酸过程"
+        ],
+        "wordPhrases": [
+          "acidic related 与酸相关"
+        ]
+      },
+      {
+        "word": "acidify",
+        "phonetic": "/acidify/",
+        "partOfSpeech": "v.",
+        "meaning": "酸相关词",
+        "memoryTip": "acid 词根相关",
+        "root": "acid",
+        "rootPhonetic": "/ˈæsɪd/",
+        "rootMeaning": "酸",
+        "rootPhrases": [
+          "acid process 酸过程"
+        ],
+        "wordPhrases": [
+          "acidify related 与酸相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "acid system 酸系统"
+    ],
+    "mnemonic": "acid→酸"
+  },
+  {
+    "id": 167,
+    "root": "ester",
+    "phonetic": "/ˈestə/",
+    "partOfSpeech": "词根",
+    "meaning": "酯",
+    "frequency": 167,
+    "category": "化工",
+    "words": [
+      {
+        "word": "ester",
+        "phonetic": "/ester/",
+        "partOfSpeech": "n.",
+        "meaning": "酯相关词",
+        "memoryTip": "ester 词根相关",
+        "root": "ester",
+        "rootPhonetic": "/ˈestə/",
+        "rootMeaning": "酯",
+        "rootPhrases": [
+          "ester process 酯过程"
+        ],
+        "wordPhrases": [
+          "ester related 与酯相关"
+        ]
+      },
+      {
+        "word": "esterify",
+        "phonetic": "/esterify/",
+        "partOfSpeech": "adj.",
+        "meaning": "酯相关词",
+        "memoryTip": "ester 词根相关",
+        "root": "ester",
+        "rootPhonetic": "/ˈestə/",
+        "rootMeaning": "酯",
+        "rootPhrases": [
+          "ester process 酯过程"
+        ],
+        "wordPhrases": [
+          "esterify related 与酯相关"
+        ]
+      },
+      {
+        "word": "esterification",
+        "phonetic": "/esterification/",
+        "partOfSpeech": "v.",
+        "meaning": "酯相关词",
+        "memoryTip": "ester 词根相关",
+        "root": "ester",
+        "rootPhonetic": "/ˈestə/",
+        "rootMeaning": "酯",
+        "rootPhrases": [
+          "ester process 酯过程"
+        ],
+        "wordPhrases": [
+          "esterification related 与酯相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ester system 酯系统"
+    ],
+    "mnemonic": "ester→酯"
+  },
+  {
+    "id": 168,
+    "root": "eth",
+    "phonetic": "/eθ/",
+    "partOfSpeech": "词根",
+    "meaning": "乙基",
+    "frequency": 168,
+    "category": "化工",
+    "words": [
+      {
+        "word": "ethyl",
+        "phonetic": "/ethyl/",
+        "partOfSpeech": "n.",
+        "meaning": "乙基相关词",
+        "memoryTip": "eth 词根相关",
+        "root": "eth",
+        "rootPhonetic": "/eθ/",
+        "rootMeaning": "乙基",
+        "rootPhrases": [
+          "eth process 乙基过程"
+        ],
+        "wordPhrases": [
+          "ethyl related 与乙基相关"
+        ]
+      },
+      {
+        "word": "ethanol",
+        "phonetic": "/ethanol/",
+        "partOfSpeech": "adj.",
+        "meaning": "乙基相关词",
+        "memoryTip": "eth 词根相关",
+        "root": "eth",
+        "rootPhonetic": "/eθ/",
+        "rootMeaning": "乙基",
+        "rootPhrases": [
+          "eth process 乙基过程"
+        ],
+        "wordPhrases": [
+          "ethanol related 与乙基相关"
+        ]
+      },
+      {
+        "word": "ethylene",
+        "phonetic": "/ethylene/",
+        "partOfSpeech": "v.",
+        "meaning": "乙基相关词",
+        "memoryTip": "eth 词根相关",
+        "root": "eth",
+        "rootPhonetic": "/eθ/",
+        "rootMeaning": "乙基",
+        "rootPhrases": [
+          "eth process 乙基过程"
+        ],
+        "wordPhrases": [
+          "ethylene related 与乙基相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "eth system 乙基系统"
+    ],
+    "mnemonic": "eth→乙基"
+  },
+  {
+    "id": 169,
+    "root": "meth",
+    "phonetic": "/meθ/",
+    "partOfSpeech": "词根",
+    "meaning": "甲基",
+    "frequency": 169,
+    "category": "化工",
+    "words": [
+      {
+        "word": "methyl",
+        "phonetic": "/methyl/",
+        "partOfSpeech": "n.",
+        "meaning": "甲基相关词",
+        "memoryTip": "meth 词根相关",
+        "root": "meth",
+        "rootPhonetic": "/meθ/",
+        "rootMeaning": "甲基",
+        "rootPhrases": [
+          "meth process 甲基过程"
+        ],
+        "wordPhrases": [
+          "methyl related 与甲基相关"
+        ]
+      },
+      {
+        "word": "methanol",
+        "phonetic": "/methanol/",
+        "partOfSpeech": "adj.",
+        "meaning": "甲基相关词",
+        "memoryTip": "meth 词根相关",
+        "root": "meth",
+        "rootPhonetic": "/meθ/",
+        "rootMeaning": "甲基",
+        "rootPhrases": [
+          "meth process 甲基过程"
+        ],
+        "wordPhrases": [
+          "methanol related 与甲基相关"
+        ]
+      },
+      {
+        "word": "methane",
+        "phonetic": "/methane/",
+        "partOfSpeech": "v.",
+        "meaning": "甲基相关词",
+        "memoryTip": "meth 词根相关",
+        "root": "meth",
+        "rootPhonetic": "/meθ/",
+        "rootMeaning": "甲基",
+        "rootPhrases": [
+          "meth process 甲基过程"
+        ],
+        "wordPhrases": [
+          "methane related 与甲基相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "meth system 甲基系统"
+    ],
+    "mnemonic": "meth→甲基"
+  },
+  {
+    "id": 170,
+    "root": "prop",
+    "phonetic": "/prəʊp/",
+    "partOfSpeech": "词根",
+    "meaning": "丙基",
+    "frequency": 170,
+    "category": "化工",
+    "words": [
+      {
+        "word": "propyl",
+        "phonetic": "/propyl/",
+        "partOfSpeech": "n.",
+        "meaning": "丙基相关词",
+        "memoryTip": "prop 词根相关",
+        "root": "prop",
+        "rootPhonetic": "/prəʊp/",
+        "rootMeaning": "丙基",
+        "rootPhrases": [
+          "prop process 丙基过程"
+        ],
+        "wordPhrases": [
+          "propyl related 与丙基相关"
+        ]
+      },
+      {
+        "word": "propane",
+        "phonetic": "/propane/",
+        "partOfSpeech": "adj.",
+        "meaning": "丙基相关词",
+        "memoryTip": "prop 词根相关",
+        "root": "prop",
+        "rootPhonetic": "/prəʊp/",
+        "rootMeaning": "丙基",
+        "rootPhrases": [
+          "prop process 丙基过程"
+        ],
+        "wordPhrases": [
+          "propane related 与丙基相关"
+        ]
+      },
+      {
+        "word": "propylene",
+        "phonetic": "/propylene/",
+        "partOfSpeech": "v.",
+        "meaning": "丙基相关词",
+        "memoryTip": "prop 词根相关",
+        "root": "prop",
+        "rootPhonetic": "/prəʊp/",
+        "rootMeaning": "丙基",
+        "rootPhrases": [
+          "prop process 丙基过程"
+        ],
+        "wordPhrases": [
+          "propylene related 与丙基相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "prop system 丙基系统"
+    ],
+    "mnemonic": "prop→丙基"
+  },
+  {
+    "id": 171,
+    "root": "but",
+    "phonetic": "/bjuːt/",
+    "partOfSpeech": "词根",
+    "meaning": "丁基",
+    "frequency": 171,
+    "category": "化工",
+    "words": [
+      {
+        "word": "butyl",
+        "phonetic": "/butyl/",
+        "partOfSpeech": "n.",
+        "meaning": "丁基相关词",
+        "memoryTip": "but 词根相关",
+        "root": "but",
+        "rootPhonetic": "/bjuːt/",
+        "rootMeaning": "丁基",
+        "rootPhrases": [
+          "but process 丁基过程"
+        ],
+        "wordPhrases": [
+          "butyl related 与丁基相关"
+        ]
+      },
+      {
+        "word": "butane",
+        "phonetic": "/butane/",
+        "partOfSpeech": "adj.",
+        "meaning": "丁基相关词",
+        "memoryTip": "but 词根相关",
+        "root": "but",
+        "rootPhonetic": "/bjuːt/",
+        "rootMeaning": "丁基",
+        "rootPhrases": [
+          "but process 丁基过程"
+        ],
+        "wordPhrases": [
+          "butane related 与丁基相关"
+        ]
+      },
+      {
+        "word": "butylene",
+        "phonetic": "/butylene/",
+        "partOfSpeech": "v.",
+        "meaning": "丁基相关词",
+        "memoryTip": "but 词根相关",
+        "root": "but",
+        "rootPhonetic": "/bjuːt/",
+        "rootMeaning": "丁基",
+        "rootPhrases": [
+          "but process 丁基过程"
+        ],
+        "wordPhrases": [
+          "butylene related 与丁基相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "but system 丁基系统"
+    ],
+    "mnemonic": "but→丁基"
+  },
+  {
+    "id": 172,
+    "root": "benz",
+    "phonetic": "/benz/",
+    "partOfSpeech": "词根",
+    "meaning": "苯",
+    "frequency": 172,
+    "category": "化工",
+    "words": [
+      {
+        "word": "benzene",
+        "phonetic": "/benzene/",
+        "partOfSpeech": "n.",
+        "meaning": "苯相关词",
+        "memoryTip": "benz 词根相关",
+        "root": "benz",
+        "rootPhonetic": "/benz/",
+        "rootMeaning": "苯",
+        "rootPhrases": [
+          "benz process 苯过程"
+        ],
+        "wordPhrases": [
+          "benzene related 与苯相关"
+        ]
+      },
+      {
+        "word": "benzoic",
+        "phonetic": "/benzoic/",
+        "partOfSpeech": "adj.",
+        "meaning": "苯相关词",
+        "memoryTip": "benz 词根相关",
+        "root": "benz",
+        "rootPhonetic": "/benz/",
+        "rootMeaning": "苯",
+        "rootPhrases": [
+          "benz process 苯过程"
+        ],
+        "wordPhrases": [
+          "benzoic related 与苯相关"
+        ]
+      },
+      {
+        "word": "benzyl",
+        "phonetic": "/benzyl/",
+        "partOfSpeech": "v.",
+        "meaning": "苯相关词",
+        "memoryTip": "benz 词根相关",
+        "root": "benz",
+        "rootPhonetic": "/benz/",
+        "rootMeaning": "苯",
+        "rootPhrases": [
+          "benz process 苯过程"
+        ],
+        "wordPhrases": [
+          "benzyl related 与苯相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "benz system 苯系统"
+    ],
+    "mnemonic": "benz→苯"
+  },
+  {
+    "id": 173,
+    "root": "phen",
+    "phonetic": "/fiːn/",
+    "partOfSpeech": "词根",
+    "meaning": "酚",
+    "frequency": 173,
+    "category": "化工",
+    "words": [
+      {
+        "word": "phenol",
+        "phonetic": "/phenol/",
+        "partOfSpeech": "n.",
+        "meaning": "酚相关词",
+        "memoryTip": "phen 词根相关",
+        "root": "phen",
+        "rootPhonetic": "/fiːn/",
+        "rootMeaning": "酚",
+        "rootPhrases": [
+          "phen process 酚过程"
+        ],
+        "wordPhrases": [
+          "phenol related 与酚相关"
+        ]
+      },
+      {
+        "word": "phenolic",
+        "phonetic": "/phenolic/",
+        "partOfSpeech": "adj.",
+        "meaning": "酚相关词",
+        "memoryTip": "phen 词根相关",
+        "root": "phen",
+        "rootPhonetic": "/fiːn/",
+        "rootMeaning": "酚",
+        "rootPhrases": [
+          "phen process 酚过程"
+        ],
+        "wordPhrases": [
+          "phenolic related 与酚相关"
+        ]
+      },
+      {
+        "word": "phenyl",
+        "phonetic": "/phenyl/",
+        "partOfSpeech": "v.",
+        "meaning": "酚相关词",
+        "memoryTip": "phen 词根相关",
+        "root": "phen",
+        "rootPhonetic": "/fiːn/",
+        "rootMeaning": "酚",
+        "rootPhrases": [
+          "phen process 酚过程"
+        ],
+        "wordPhrases": [
+          "phenyl related 与酚相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "phen system 酚系统"
+    ],
+    "mnemonic": "phen→酚"
+  },
+  {
+    "id": 174,
+    "root": "amin",
+    "phonetic": "/əˈmiːn/",
+    "partOfSpeech": "词根",
+    "meaning": "胺",
+    "frequency": 174,
+    "category": "化工",
+    "words": [
+      {
+        "word": "amine",
+        "phonetic": "/amine/",
+        "partOfSpeech": "n.",
+        "meaning": "胺相关词",
+        "memoryTip": "amin 词根相关",
+        "root": "amin",
+        "rootPhonetic": "/əˈmiːn/",
+        "rootMeaning": "胺",
+        "rootPhrases": [
+          "amin process 胺过程"
+        ],
+        "wordPhrases": [
+          "amine related 与胺相关"
+        ]
+      },
+      {
+        "word": "amino",
+        "phonetic": "/amino/",
+        "partOfSpeech": "adj.",
+        "meaning": "胺相关词",
+        "memoryTip": "amin 词根相关",
+        "root": "amin",
+        "rootPhonetic": "/əˈmiːn/",
+        "rootMeaning": "胺",
+        "rootPhrases": [
+          "amin process 胺过程"
+        ],
+        "wordPhrases": [
+          "amino related 与胺相关"
+        ]
+      },
+      {
+        "word": "ammonia",
+        "phonetic": "/ammonia/",
+        "partOfSpeech": "v.",
+        "meaning": "胺相关词",
+        "memoryTip": "amin 词根相关",
+        "root": "amin",
+        "rootPhonetic": "/əˈmiːn/",
+        "rootMeaning": "胺",
+        "rootPhrases": [
+          "amin process 胺过程"
+        ],
+        "wordPhrases": [
+          "ammonia related 与胺相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "amin system 胺系统"
+    ],
+    "mnemonic": "amin→胺"
+  },
+  {
+    "id": 175,
+    "root": "aldehyd",
+    "phonetic": "/ˈældɪhaɪd/",
+    "partOfSpeech": "词根",
+    "meaning": "醛",
+    "frequency": 175,
+    "category": "化工",
+    "words": [
+      {
+        "word": "aldehyde",
+        "phonetic": "/aldehyde/",
+        "partOfSpeech": "n.",
+        "meaning": "醛相关词",
+        "memoryTip": "aldehyd 词根相关",
+        "root": "aldehyd",
+        "rootPhonetic": "/ˈældɪhaɪd/",
+        "rootMeaning": "醛",
+        "rootPhrases": [
+          "aldehyd process 醛过程"
+        ],
+        "wordPhrases": [
+          "aldehyde related 与醛相关"
+        ]
+      },
+      {
+        "word": "formaldehyde",
+        "phonetic": "/formaldehyde/",
+        "partOfSpeech": "adj.",
+        "meaning": "醛相关词",
+        "memoryTip": "aldehyd 词根相关",
+        "root": "aldehyd",
+        "rootPhonetic": "/ˈældɪhaɪd/",
+        "rootMeaning": "醛",
+        "rootPhrases": [
+          "aldehyd process 醛过程"
+        ],
+        "wordPhrases": [
+          "formaldehyde related 与醛相关"
+        ]
+      },
+      {
+        "word": "acetaldehyde",
+        "phonetic": "/acetaldehyde/",
+        "partOfSpeech": "v.",
+        "meaning": "醛相关词",
+        "memoryTip": "aldehyd 词根相关",
+        "root": "aldehyd",
+        "rootPhonetic": "/ˈældɪhaɪd/",
+        "rootMeaning": "醛",
+        "rootPhrases": [
+          "aldehyd process 醛过程"
+        ],
+        "wordPhrases": [
+          "acetaldehyde related 与醛相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "aldehyd system 醛系统"
+    ],
+    "mnemonic": "aldehyd→醛"
+  },
+  {
+    "id": 176,
+    "root": "ket",
+    "phonetic": "/kiːtəʊn/",
+    "partOfSpeech": "词根",
+    "meaning": "酮",
+    "frequency": 176,
+    "category": "化工",
+    "words": [
+      {
+        "word": "ketone",
+        "phonetic": "/ketone/",
+        "partOfSpeech": "n.",
+        "meaning": "酮相关词",
+        "memoryTip": "ket 词根相关",
+        "root": "ket",
+        "rootPhonetic": "/kiːtəʊn/",
+        "rootMeaning": "酮",
+        "rootPhrases": [
+          "ket process 酮过程"
+        ],
+        "wordPhrases": [
+          "ketone related 与酮相关"
+        ]
+      },
+      {
+        "word": "acetone",
+        "phonetic": "/acetone/",
+        "partOfSpeech": "adj.",
+        "meaning": "酮相关词",
+        "memoryTip": "ket 词根相关",
+        "root": "ket",
+        "rootPhonetic": "/kiːtəʊn/",
+        "rootMeaning": "酮",
+        "rootPhrases": [
+          "ket process 酮过程"
+        ],
+        "wordPhrases": [
+          "acetone related 与酮相关"
+        ]
+      },
+      {
+        "word": "ketonic",
+        "phonetic": "/ketonic/",
+        "partOfSpeech": "v.",
+        "meaning": "酮相关词",
+        "memoryTip": "ket 词根相关",
+        "root": "ket",
+        "rootPhonetic": "/kiːtəʊn/",
+        "rootMeaning": "酮",
+        "rootPhrases": [
+          "ket process 酮过程"
+        ],
+        "wordPhrases": [
+          "ketonic related 与酮相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ket system 酮系统"
+    ],
+    "mnemonic": "ket→酮"
+  },
+  {
+    "id": 177,
+    "root": "ether",
+    "phonetic": "/ˈiːθə/",
+    "partOfSpeech": "词根",
+    "meaning": "醚",
+    "frequency": 177,
+    "category": "化工",
+    "words": [
+      {
+        "word": "ether",
+        "phonetic": "/ether/",
+        "partOfSpeech": "n.",
+        "meaning": "醚相关词",
+        "memoryTip": "ether 词根相关",
+        "root": "ether",
+        "rootPhonetic": "/ˈiːθə/",
+        "rootMeaning": "醚",
+        "rootPhrases": [
+          "ether process 醚过程"
+        ],
+        "wordPhrases": [
+          "ether related 与醚相关"
+        ]
+      },
+      {
+        "word": "ethyl ether",
+        "phonetic": "/ethyl ether/",
+        "partOfSpeech": "adj.",
+        "meaning": "醚相关词",
+        "memoryTip": "ether 词根相关",
+        "root": "ether",
+        "rootPhonetic": "/ˈiːθə/",
+        "rootMeaning": "醚",
+        "rootPhrases": [
+          "ether process 醚过程"
+        ],
+        "wordPhrases": [
+          "ethyl ether related 与醚相关"
+        ]
+      },
+      {
+        "word": "ethereal",
+        "phonetic": "/ethereal/",
+        "partOfSpeech": "v.",
+        "meaning": "醚相关词",
+        "memoryTip": "ether 词根相关",
+        "root": "ether",
+        "rootPhonetic": "/ˈiːθə/",
+        "rootMeaning": "醚",
+        "rootPhrases": [
+          "ether process 醚过程"
+        ],
+        "wordPhrases": [
+          "ethereal related 与醚相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ether system 醚系统"
+    ],
+    "mnemonic": "ether→醚"
+  },
+  {
+    "id": 178,
+    "root": "visc",
+    "phonetic": "/vɪsk/",
+    "partOfSpeech": "词根",
+    "meaning": "粘度",
+    "frequency": 178,
+    "category": "化工",
+    "words": [
+      {
+        "word": "viscous",
+        "phonetic": "/viscous/",
+        "partOfSpeech": "n.",
+        "meaning": "粘度相关词",
+        "memoryTip": "visc 词根相关",
+        "root": "visc",
+        "rootPhonetic": "/vɪsk/",
+        "rootMeaning": "粘度",
+        "rootPhrases": [
+          "visc process 粘度过程"
+        ],
+        "wordPhrases": [
+          "viscous related 与粘度相关"
+        ]
+      },
+      {
+        "word": "viscosity",
+        "phonetic": "/viscosity/",
+        "partOfSpeech": "adj.",
+        "meaning": "粘度相关词",
+        "memoryTip": "visc 词根相关",
+        "root": "visc",
+        "rootPhonetic": "/vɪsk/",
+        "rootMeaning": "粘度",
+        "rootPhrases": [
+          "visc process 粘度过程"
+        ],
+        "wordPhrases": [
+          "viscosity related 与粘度相关"
+        ]
+      },
+      {
+        "word": "viscometer",
+        "phonetic": "/viscometer/",
+        "partOfSpeech": "v.",
+        "meaning": "粘度相关词",
+        "memoryTip": "visc 词根相关",
+        "root": "visc",
+        "rootPhonetic": "/vɪsk/",
+        "rootMeaning": "粘度",
+        "rootPhrases": [
+          "visc process 粘度过程"
+        ],
+        "wordPhrases": [
+          "viscometer related 与粘度相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "visc system 粘度系统"
+    ],
+    "mnemonic": "visc→粘度"
+  },
+  {
+    "id": 179,
+    "root": "therm",
+    "phonetic": "/θɜːm/",
+    "partOfSpeech": "词根",
+    "meaning": "热",
+    "frequency": 179,
+    "category": "化工",
+    "words": [
+      {
+        "word": "thermal",
+        "phonetic": "/thermal/",
+        "partOfSpeech": "n.",
+        "meaning": "热相关词",
+        "memoryTip": "therm 词根相关",
+        "root": "therm",
+        "rootPhonetic": "/θɜːm/",
+        "rootMeaning": "热",
+        "rootPhrases": [
+          "therm process 热过程"
+        ],
+        "wordPhrases": [
+          "thermal related 与热相关"
+        ]
+      },
+      {
+        "word": "thermometer",
+        "phonetic": "/thermometer/",
+        "partOfSpeech": "adj.",
+        "meaning": "热相关词",
+        "memoryTip": "therm 词根相关",
+        "root": "therm",
+        "rootPhonetic": "/θɜːm/",
+        "rootMeaning": "热",
+        "rootPhrases": [
+          "therm process 热过程"
+        ],
+        "wordPhrases": [
+          "thermometer related 与热相关"
+        ]
+      },
+      {
+        "word": "thermodynamic",
+        "phonetic": "/thermodynamic/",
+        "partOfSpeech": "v.",
+        "meaning": "热相关词",
+        "memoryTip": "therm 词根相关",
+        "root": "therm",
+        "rootPhonetic": "/θɜːm/",
+        "rootMeaning": "热",
+        "rootPhrases": [
+          "therm process 热过程"
+        ],
+        "wordPhrases": [
+          "thermodynamic related 与热相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "therm system 热系统"
+    ],
+    "mnemonic": "therm→热"
+  },
+  {
+    "id": 180,
+    "root": "electr",
+    "phonetic": "/ɪˈlektr/",
+    "partOfSpeech": "词根",
+    "meaning": "电",
+    "frequency": 180,
+    "category": "化工",
+    "words": [
+      {
+        "word": "electrolyte",
+        "phonetic": "/electrolyte/",
+        "partOfSpeech": "n.",
+        "meaning": "电相关词",
+        "memoryTip": "electr 词根相关",
+        "root": "electr",
+        "rootPhonetic": "/ɪˈlektr/",
+        "rootMeaning": "电",
+        "rootPhrases": [
+          "electr process 电过程"
+        ],
+        "wordPhrases": [
+          "electrolyte related 与电相关"
+        ]
+      },
+      {
+        "word": "electrode",
+        "phonetic": "/electrode/",
+        "partOfSpeech": "adj.",
+        "meaning": "电相关词",
+        "memoryTip": "electr 词根相关",
+        "root": "electr",
+        "rootPhonetic": "/ɪˈlektr/",
+        "rootMeaning": "电",
+        "rootPhrases": [
+          "electr process 电过程"
+        ],
+        "wordPhrases": [
+          "electrode related 与电相关"
+        ]
+      },
+      {
+        "word": "electrolysis",
+        "phonetic": "/electrolysis/",
+        "partOfSpeech": "v.",
+        "meaning": "电相关词",
+        "memoryTip": "electr 词根相关",
+        "root": "electr",
+        "rootPhonetic": "/ɪˈlektr/",
+        "rootMeaning": "电",
+        "rootPhrases": [
+          "electr process 电过程"
+        ],
+        "wordPhrases": [
+          "electrolysis related 与电相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "electr system 电系统"
+    ],
+    "mnemonic": "electr→电"
+  },
+  {
+    "id": 181,
+    "root": "ion",
+    "phonetic": "/aɪən/",
+    "partOfSpeech": "词根",
+    "meaning": "离子",
+    "frequency": 181,
+    "category": "化工",
+    "words": [
+      {
+        "word": "ion",
+        "phonetic": "/ion/",
+        "partOfSpeech": "n.",
+        "meaning": "离子相关词",
+        "memoryTip": "ion 词根相关",
+        "root": "ion",
+        "rootPhonetic": "/aɪən/",
+        "rootMeaning": "离子",
+        "rootPhrases": [
+          "ion process 离子过程"
+        ],
+        "wordPhrases": [
+          "ion related 与离子相关"
+        ]
+      },
+      {
+        "word": "ionic",
+        "phonetic": "/ionic/",
+        "partOfSpeech": "adj.",
+        "meaning": "离子相关词",
+        "memoryTip": "ion 词根相关",
+        "root": "ion",
+        "rootPhonetic": "/aɪən/",
+        "rootMeaning": "离子",
+        "rootPhrases": [
+          "ion process 离子过程"
+        ],
+        "wordPhrases": [
+          "ionic related 与离子相关"
+        ]
+      },
+      {
+        "word": "ionize",
+        "phonetic": "/ionize/",
+        "partOfSpeech": "v.",
+        "meaning": "离子相关词",
+        "memoryTip": "ion 词根相关",
+        "root": "ion",
+        "rootPhonetic": "/aɪən/",
+        "rootMeaning": "离子",
+        "rootPhrases": [
+          "ion process 离子过程"
+        ],
+        "wordPhrases": [
+          "ionize related 与离子相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "ion system 离子系统"
+    ],
+    "mnemonic": "ion→离子"
+  },
+  {
+    "id": 182,
+    "root": "mol",
+    "phonetic": "/məʊl/",
+    "partOfSpeech": "词根",
+    "meaning": "摩尔",
+    "frequency": 182,
+    "category": "化工",
+    "words": [
+      {
+        "word": "mole",
+        "phonetic": "/mole/",
+        "partOfSpeech": "n.",
+        "meaning": "摩尔相关词",
+        "memoryTip": "mol 词根相关",
+        "root": "mol",
+        "rootPhonetic": "/məʊl/",
+        "rootMeaning": "摩尔",
+        "rootPhrases": [
+          "mol process 摩尔过程"
+        ],
+        "wordPhrases": [
+          "mole related 与摩尔相关"
+        ]
+      },
+      {
+        "word": "molecular",
+        "phonetic": "/molecular/",
+        "partOfSpeech": "adj.",
+        "meaning": "摩尔相关词",
+        "memoryTip": "mol 词根相关",
+        "root": "mol",
+        "rootPhonetic": "/məʊl/",
+        "rootMeaning": "摩尔",
+        "rootPhrases": [
+          "mol process 摩尔过程"
+        ],
+        "wordPhrases": [
+          "molecular related 与摩尔相关"
+        ]
+      },
+      {
+        "word": "molecule",
+        "phonetic": "/molecule/",
+        "partOfSpeech": "v.",
+        "meaning": "摩尔相关词",
+        "memoryTip": "mol 词根相关",
+        "root": "mol",
+        "rootPhonetic": "/məʊl/",
+        "rootMeaning": "摩尔",
+        "rootPhrases": [
+          "mol process 摩尔过程"
+        ],
+        "wordPhrases": [
+          "molecule related 与摩尔相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "mol system 摩尔系统"
+    ],
+    "mnemonic": "mol→摩尔"
+  },
+  {
+    "id": 183,
+    "root": "atom",
+    "phonetic": "/ˈætəm/",
+    "partOfSpeech": "词根",
+    "meaning": "原子",
+    "frequency": 183,
+    "category": "化工",
+    "words": [
+      {
+        "word": "atom",
+        "phonetic": "/atom/",
+        "partOfSpeech": "n.",
+        "meaning": "原子相关词",
+        "memoryTip": "atom 词根相关",
+        "root": "atom",
+        "rootPhonetic": "/ˈætəm/",
+        "rootMeaning": "原子",
+        "rootPhrases": [
+          "atom process 原子过程"
+        ],
+        "wordPhrases": [
+          "atom related 与原子相关"
+        ]
+      },
+      {
+        "word": "atomic",
+        "phonetic": "/atomic/",
+        "partOfSpeech": "adj.",
+        "meaning": "原子相关词",
+        "memoryTip": "atom 词根相关",
+        "root": "atom",
+        "rootPhonetic": "/ˈætəm/",
+        "rootMeaning": "原子",
+        "rootPhrases": [
+          "atom process 原子过程"
+        ],
+        "wordPhrases": [
+          "atomic related 与原子相关"
+        ]
+      },
+      {
+        "word": "atomize",
+        "phonetic": "/atomize/",
+        "partOfSpeech": "v.",
+        "meaning": "原子相关词",
+        "memoryTip": "atom 词根相关",
+        "root": "atom",
+        "rootPhonetic": "/ˈætəm/",
+        "rootMeaning": "原子",
+        "rootPhrases": [
+          "atom process 原子过程"
+        ],
+        "wordPhrases": [
+          "atomize related 与原子相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "atom system 原子系统"
+    ],
+    "mnemonic": "atom→原子"
+  },
+  {
+    "id": 184,
+    "root": "valv",
+    "phonetic": "/vælv/",
+    "partOfSpeech": "词根",
+    "meaning": "阀门",
+    "frequency": 184,
+    "category": "化工",
+    "words": [
+      {
+        "word": "valve",
+        "phonetic": "/valve/",
+        "partOfSpeech": "n.",
+        "meaning": "阀门相关词",
+        "memoryTip": "valv 词根相关",
+        "root": "valv",
+        "rootPhonetic": "/vælv/",
+        "rootMeaning": "阀门",
+        "rootPhrases": [
+          "valv process 阀门过程"
+        ],
+        "wordPhrases": [
+          "valve related 与阀门相关"
+        ]
+      },
+      {
+        "word": "valveless",
+        "phonetic": "/valveless/",
+        "partOfSpeech": "adj.",
+        "meaning": "阀门相关词",
+        "memoryTip": "valv 词根相关",
+        "root": "valv",
+        "rootPhonetic": "/vælv/",
+        "rootMeaning": "阀门",
+        "rootPhrases": [
+          "valv process 阀门过程"
+        ],
+        "wordPhrases": [
+          "valveless related 与阀门相关"
+        ]
+      },
+      {
+        "word": "multivalve",
+        "phonetic": "/multivalve/",
+        "partOfSpeech": "v.",
+        "meaning": "阀门相关词",
+        "memoryTip": "valv 词根相关",
+        "root": "valv",
+        "rootPhonetic": "/vælv/",
+        "rootMeaning": "阀门",
+        "rootPhrases": [
+          "valv process 阀门过程"
+        ],
+        "wordPhrases": [
+          "multivalve related 与阀门相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "valv system 阀门系统"
+    ],
+    "mnemonic": "valv→阀门"
+  },
+  {
+    "id": 185,
+    "root": "pump",
+    "phonetic": "/pʌmp/",
+    "partOfSpeech": "词根",
+    "meaning": "泵",
+    "frequency": 185,
+    "category": "化工",
+    "words": [
+      {
+        "word": "pump",
+        "phonetic": "/pump/",
+        "partOfSpeech": "n.",
+        "meaning": "泵相关词",
+        "memoryTip": "pump 词根相关",
+        "root": "pump",
+        "rootPhonetic": "/pʌmp/",
+        "rootMeaning": "泵",
+        "rootPhrases": [
+          "pump process 泵过程"
+        ],
+        "wordPhrases": [
+          "pump related 与泵相关"
+        ]
+      },
+      {
+        "word": "pumping",
+        "phonetic": "/pumping/",
+        "partOfSpeech": "adj.",
+        "meaning": "泵相关词",
+        "memoryTip": "pump 词根相关",
+        "root": "pump",
+        "rootPhonetic": "/pʌmp/",
+        "rootMeaning": "泵",
+        "rootPhrases": [
+          "pump process 泵过程"
+        ],
+        "wordPhrases": [
+          "pumping related 与泵相关"
+        ]
+      },
+      {
+        "word": "pumpable",
+        "phonetic": "/pumpable/",
+        "partOfSpeech": "v.",
+        "meaning": "泵相关词",
+        "memoryTip": "pump 词根相关",
+        "root": "pump",
+        "rootPhonetic": "/pʌmp/",
+        "rootMeaning": "泵",
+        "rootPhrases": [
+          "pump process 泵过程"
+        ],
+        "wordPhrases": [
+          "pumpable related 与泵相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "pump system 泵系统"
+    ],
+    "mnemonic": "pump→泵"
+  },
+  {
+    "id": 186,
+    "root": "pip",
+    "phonetic": "/paɪp/",
+    "partOfSpeech": "词根",
+    "meaning": "管道",
+    "frequency": 186,
+    "category": "化工",
+    "words": [
+      {
+        "word": "pipe",
+        "phonetic": "/pipe/",
+        "partOfSpeech": "n.",
+        "meaning": "管道相关词",
+        "memoryTip": "pip 词根相关",
+        "root": "pip",
+        "rootPhonetic": "/paɪp/",
+        "rootMeaning": "管道",
+        "rootPhrases": [
+          "pip process 管道过程"
+        ],
+        "wordPhrases": [
+          "pipe related 与管道相关"
+        ]
+      },
+      {
+        "word": "pipeline",
+        "phonetic": "/pipeline/",
+        "partOfSpeech": "adj.",
+        "meaning": "管道相关词",
+        "memoryTip": "pip 词根相关",
+        "root": "pip",
+        "rootPhonetic": "/paɪp/",
+        "rootMeaning": "管道",
+        "rootPhrases": [
+          "pip process 管道过程"
+        ],
+        "wordPhrases": [
+          "pipeline related 与管道相关"
+        ]
+      },
+      {
+        "word": "piping",
+        "phonetic": "/piping/",
+        "partOfSpeech": "v.",
+        "meaning": "管道相关词",
+        "memoryTip": "pip 词根相关",
+        "root": "pip",
+        "rootPhonetic": "/paɪp/",
+        "rootMeaning": "管道",
+        "rootPhrases": [
+          "pip process 管道过程"
+        ],
+        "wordPhrases": [
+          "piping related 与管道相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "pip system 管道系统"
+    ],
+    "mnemonic": "pip→管道"
+  },
+  {
+    "id": 187,
+    "root": "tank",
+    "phonetic": "/tæŋk/",
+    "partOfSpeech": "词根",
+    "meaning": "储罐",
+    "frequency": 187,
+    "category": "化工",
+    "words": [
+      {
+        "word": "tank",
+        "phonetic": "/tank/",
+        "partOfSpeech": "n.",
+        "meaning": "储罐相关词",
+        "memoryTip": "tank 词根相关",
+        "root": "tank",
+        "rootPhonetic": "/tæŋk/",
+        "rootMeaning": "储罐",
+        "rootPhrases": [
+          "tank process 储罐过程"
+        ],
+        "wordPhrases": [
+          "tank related 与储罐相关"
+        ]
+      },
+      {
+        "word": "tanker",
+        "phonetic": "/tanker/",
+        "partOfSpeech": "adj.",
+        "meaning": "储罐相关词",
+        "memoryTip": "tank 词根相关",
+        "root": "tank",
+        "rootPhonetic": "/tæŋk/",
+        "rootMeaning": "储罐",
+        "rootPhrases": [
+          "tank process 储罐过程"
+        ],
+        "wordPhrases": [
+          "tanker related 与储罐相关"
+        ]
+      },
+      {
+        "word": "tankfarm",
+        "phonetic": "/tankfarm/",
+        "partOfSpeech": "v.",
+        "meaning": "储罐相关词",
+        "memoryTip": "tank 词根相关",
+        "root": "tank",
+        "rootPhonetic": "/tæŋk/",
+        "rootMeaning": "储罐",
+        "rootPhrases": [
+          "tank process 储罐过程"
+        ],
+        "wordPhrases": [
+          "tankfarm related 与储罐相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "tank system 储罐系统"
+    ],
+    "mnemonic": "tank→储罐"
+  },
+  {
+    "id": 188,
+    "root": "react",
+    "phonetic": "/riˈækt/",
+    "partOfSpeech": "词根",
+    "meaning": "反应",
+    "frequency": 188,
+    "category": "化工",
+    "words": [
+      {
+        "word": "reactor",
+        "phonetic": "/reactor/",
+        "partOfSpeech": "n.",
+        "meaning": "反应相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "反应",
+        "rootPhrases": [
+          "react process 反应过程"
+        ],
+        "wordPhrases": [
+          "reactor related 与反应相关"
+        ]
+      },
+      {
+        "word": "reaction",
+        "phonetic": "/reaction/",
+        "partOfSpeech": "adj.",
+        "meaning": "反应相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "反应",
+        "rootPhrases": [
+          "react process 反应过程"
+        ],
+        "wordPhrases": [
+          "reaction related 与反应相关"
+        ]
+      },
+      {
+        "word": "reactant",
+        "phonetic": "/reactant/",
+        "partOfSpeech": "v.",
+        "meaning": "反应相关词",
+        "memoryTip": "react 词根相关",
+        "root": "react",
+        "rootPhonetic": "/riˈækt/",
+        "rootMeaning": "反应",
+        "rootPhrases": [
+          "react process 反应过程"
+        ],
+        "wordPhrases": [
+          "reactant related 与反应相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "react system 反应系统"
+    ],
+    "mnemonic": "react→反应"
+  },
+  {
+    "id": 189,
+    "root": "batch",
+    "phonetic": "/bætʃ/",
+    "partOfSpeech": "词根",
+    "meaning": "批次",
+    "frequency": 189,
+    "category": "化工",
+    "words": [
+      {
+        "word": "batch",
+        "phonetic": "/batch/",
+        "partOfSpeech": "n.",
+        "meaning": "批次相关词",
+        "memoryTip": "batch 词根相关",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch process 批次过程"
+        ],
+        "wordPhrases": [
+          "batch related 与批次相关"
+        ]
+      },
+      {
+        "word": "batching",
+        "phonetic": "/batching/",
+        "partOfSpeech": "adj.",
+        "meaning": "批次相关词",
+        "memoryTip": "batch 词根相关",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch process 批次过程"
+        ],
+        "wordPhrases": [
+          "batching related 与批次相关"
+        ]
+      },
+      {
+        "word": "batchwise",
+        "phonetic": "/batchwise/",
+        "partOfSpeech": "v.",
+        "meaning": "批次相关词",
+        "memoryTip": "batch 词根相关",
+        "root": "batch",
+        "rootPhonetic": "/bætʃ/",
+        "rootMeaning": "批次",
+        "rootPhrases": [
+          "batch process 批次过程"
+        ],
+        "wordPhrases": [
+          "batchwise related 与批次相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "batch system 批次系统"
+    ],
+    "mnemonic": "batch→批次"
+  },
+  {
+    "id": 190,
+    "root": "continu",
+    "phonetic": "/kənˈtɪnjuː/",
+    "partOfSpeech": "词根",
+    "meaning": "连续",
+    "frequency": 190,
+    "category": "化工",
+    "words": [
+      {
+        "word": "continuous",
+        "phonetic": "/continuous/",
+        "partOfSpeech": "n.",
+        "meaning": "连续相关词",
+        "memoryTip": "continu 词根相关",
+        "root": "continu",
+        "rootPhonetic": "/kənˈtɪnjuː/",
+        "rootMeaning": "连续",
+        "rootPhrases": [
+          "continu process 连续过程"
+        ],
+        "wordPhrases": [
+          "continuous related 与连续相关"
+        ]
+      },
+      {
+        "word": "continuously",
+        "phonetic": "/continuously/",
+        "partOfSpeech": "adj.",
+        "meaning": "连续相关词",
+        "memoryTip": "continu 词根相关",
+        "root": "continu",
+        "rootPhonetic": "/kənˈtɪnjuː/",
+        "rootMeaning": "连续",
+        "rootPhrases": [
+          "continu process 连续过程"
+        ],
+        "wordPhrases": [
+          "continuously related 与连续相关"
+        ]
+      },
+      {
+        "word": "continuity",
+        "phonetic": "/continuity/",
+        "partOfSpeech": "v.",
+        "meaning": "连续相关词",
+        "memoryTip": "continu 词根相关",
+        "root": "continu",
+        "rootPhonetic": "/kənˈtɪnjuː/",
+        "rootMeaning": "连续",
+        "rootPhrases": [
+          "continu process 连续过程"
+        ],
+        "wordPhrases": [
+          "continuity related 与连续相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "continu system 连续系统"
+    ],
+    "mnemonic": "continu→连续"
+  },
+  {
+    "id": 191,
+    "root": "reflux",
+    "phonetic": "/ˈriːflʌks/",
+    "partOfSpeech": "词根",
+    "meaning": "回流",
+    "frequency": 191,
+    "category": "化工",
+    "words": [
+      {
+        "word": "reflux",
+        "phonetic": "/reflux/",
+        "partOfSpeech": "n.",
+        "meaning": "回流相关词",
+        "memoryTip": "reflux 词根相关",
+        "root": "reflux",
+        "rootPhonetic": "/ˈriːflʌks/",
+        "rootMeaning": "回流",
+        "rootPhrases": [
+          "reflux process 回流过程"
+        ],
+        "wordPhrases": [
+          "reflux related 与回流相关"
+        ]
+      },
+      {
+        "word": "refluxing",
+        "phonetic": "/refluxing/",
+        "partOfSpeech": "adj.",
+        "meaning": "回流相关词",
+        "memoryTip": "reflux 词根相关",
+        "root": "reflux",
+        "rootPhonetic": "/ˈriːflʌks/",
+        "rootMeaning": "回流",
+        "rootPhrases": [
+          "reflux process 回流过程"
+        ],
+        "wordPhrases": [
+          "refluxing related 与回流相关"
+        ]
+      },
+      {
+        "word": "refluxratio",
+        "phonetic": "/refluxratio/",
+        "partOfSpeech": "v.",
+        "meaning": "回流相关词",
+        "memoryTip": "reflux 词根相关",
+        "root": "reflux",
+        "rootPhonetic": "/ˈriːflʌks/",
+        "rootMeaning": "回流",
+        "rootPhrases": [
+          "reflux process 回流过程"
+        ],
+        "wordPhrases": [
+          "refluxratio related 与回流相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "reflux system 回流系统"
+    ],
+    "mnemonic": "reflux→回流"
+  },
+  {
+    "id": 192,
+    "root": "extract",
+    "phonetic": "/ɪkˈstrækt/",
+    "partOfSpeech": "词根",
+    "meaning": "萃取",
+    "frequency": 192,
+    "category": "化工",
+    "words": [
+      {
+        "word": "extract",
+        "phonetic": "/extract/",
+        "partOfSpeech": "n.",
+        "meaning": "萃取相关词",
+        "memoryTip": "extract 词根相关",
+        "root": "extract",
+        "rootPhonetic": "/ɪkˈstrækt/",
+        "rootMeaning": "萃取",
+        "rootPhrases": [
+          "extract process 萃取过程"
+        ],
+        "wordPhrases": [
+          "extract related 与萃取相关"
+        ]
+      },
+      {
+        "word": "extraction",
+        "phonetic": "/extraction/",
+        "partOfSpeech": "adj.",
+        "meaning": "萃取相关词",
+        "memoryTip": "extract 词根相关",
+        "root": "extract",
+        "rootPhonetic": "/ɪkˈstrækt/",
+        "rootMeaning": "萃取",
+        "rootPhrases": [
+          "extract process 萃取过程"
+        ],
+        "wordPhrases": [
+          "extraction related 与萃取相关"
+        ]
+      },
+      {
+        "word": "extractant",
+        "phonetic": "/extractant/",
+        "partOfSpeech": "v.",
+        "meaning": "萃取相关词",
+        "memoryTip": "extract 词根相关",
+        "root": "extract",
+        "rootPhonetic": "/ɪkˈstrækt/",
+        "rootMeaning": "萃取",
+        "rootPhrases": [
+          "extract process 萃取过程"
+        ],
+        "wordPhrases": [
+          "extractant related 与萃取相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "extract system 萃取系统"
+    ],
+    "mnemonic": "extract→萃取"
+  },
+  {
+    "id": 193,
+    "root": "mix",
+    "phonetic": "/mɪks/",
+    "partOfSpeech": "词根",
+    "meaning": "混合",
+    "frequency": 193,
+    "category": "化工",
+    "words": [
+      {
+        "word": "mixture",
+        "phonetic": "/mixture/",
+        "partOfSpeech": "n.",
+        "meaning": "混合相关词",
+        "memoryTip": "mix 词根相关",
+        "root": "mix",
+        "rootPhonetic": "/mɪks/",
+        "rootMeaning": "混合",
+        "rootPhrases": [
+          "mix process 混合过程"
+        ],
+        "wordPhrases": [
+          "mixture related 与混合相关"
+        ]
+      },
+      {
+        "word": "mixing",
+        "phonetic": "/mixing/",
+        "partOfSpeech": "adj.",
+        "meaning": "混合相关词",
+        "memoryTip": "mix 词根相关",
+        "root": "mix",
+        "rootPhonetic": "/mɪks/",
+        "rootMeaning": "混合",
+        "rootPhrases": [
+          "mix process 混合过程"
+        ],
+        "wordPhrases": [
+          "mixing related 与混合相关"
+        ]
+      },
+      {
+        "word": "mixer",
+        "phonetic": "/mixer/",
+        "partOfSpeech": "v.",
+        "meaning": "混合相关词",
+        "memoryTip": "mix 词根相关",
+        "root": "mix",
+        "rootPhonetic": "/mɪks/",
+        "rootMeaning": "混合",
+        "rootPhrases": [
+          "mix process 混合过程"
+        ],
+        "wordPhrases": [
+          "mixer related 与混合相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "mix system 混合系统"
+    ],
+    "mnemonic": "mix→混合"
+  },
+  {
+    "id": 194,
+    "root": "separ",
+    "phonetic": "/ˈsepəreɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "分离",
+    "frequency": 194,
+    "category": "化工",
+    "words": [
+      {
+        "word": "separate",
+        "phonetic": "/separate/",
+        "partOfSpeech": "n.",
+        "meaning": "分离相关词",
+        "memoryTip": "separ 词根相关",
+        "root": "separ",
+        "rootPhonetic": "/ˈsepəreɪt/",
+        "rootMeaning": "分离",
+        "rootPhrases": [
+          "separ process 分离过程"
+        ],
+        "wordPhrases": [
+          "separate related 与分离相关"
+        ]
+      },
+      {
+        "word": "separation",
+        "phonetic": "/separation/",
+        "partOfSpeech": "adj.",
+        "meaning": "分离相关词",
+        "memoryTip": "separ 词根相关",
+        "root": "separ",
+        "rootPhonetic": "/ˈsepəreɪt/",
+        "rootMeaning": "分离",
+        "rootPhrases": [
+          "separ process 分离过程"
+        ],
+        "wordPhrases": [
+          "separation related 与分离相关"
+        ]
+      },
+      {
+        "word": "separator",
+        "phonetic": "/separator/",
+        "partOfSpeech": "v.",
+        "meaning": "分离相关词",
+        "memoryTip": "separ 词根相关",
+        "root": "separ",
+        "rootPhonetic": "/ˈsepəreɪt/",
+        "rootMeaning": "分离",
+        "rootPhrases": [
+          "separ process 分离过程"
+        ],
+        "wordPhrases": [
+          "separator related 与分离相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "separ system 分离系统"
+    ],
+    "mnemonic": "separ→分离"
+  },
+  {
+    "id": 195,
+    "root": "corros",
+    "phonetic": "/kəˈrəʊs/",
+    "partOfSpeech": "词根",
+    "meaning": "腐蚀",
+    "frequency": 195,
+    "category": "化工",
+    "words": [
+      {
+        "word": "corrosion",
+        "phonetic": "/corrosion/",
+        "partOfSpeech": "n.",
+        "meaning": "腐蚀相关词",
+        "memoryTip": "corros 词根相关",
+        "root": "corros",
+        "rootPhonetic": "/kəˈrəʊs/",
+        "rootMeaning": "腐蚀",
+        "rootPhrases": [
+          "corros process 腐蚀过程"
+        ],
+        "wordPhrases": [
+          "corrosion related 与腐蚀相关"
+        ]
+      },
+      {
+        "word": "corrosive",
+        "phonetic": "/corrosive/",
+        "partOfSpeech": "adj.",
+        "meaning": "腐蚀相关词",
+        "memoryTip": "corros 词根相关",
+        "root": "corros",
+        "rootPhonetic": "/kəˈrəʊs/",
+        "rootMeaning": "腐蚀",
+        "rootPhrases": [
+          "corros process 腐蚀过程"
+        ],
+        "wordPhrases": [
+          "corrosive related 与腐蚀相关"
+        ]
+      },
+      {
+        "word": "corrode",
+        "phonetic": "/corrode/",
+        "partOfSpeech": "v.",
+        "meaning": "腐蚀相关词",
+        "memoryTip": "corros 词根相关",
+        "root": "corros",
+        "rootPhonetic": "/kəˈrəʊs/",
+        "rootMeaning": "腐蚀",
+        "rootPhrases": [
+          "corros process 腐蚀过程"
+        ],
+        "wordPhrases": [
+          "corrode related 与腐蚀相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "corros system 腐蚀系统"
+    ],
+    "mnemonic": "corros→腐蚀"
+  },
+  {
+    "id": 196,
+    "root": "tox",
+    "phonetic": "/tɒks/",
+    "partOfSpeech": "词根",
+    "meaning": "毒",
+    "frequency": 196,
+    "category": "化工",
+    "words": [
+      {
+        "word": "toxic",
+        "phonetic": "/toxic/",
+        "partOfSpeech": "n.",
+        "meaning": "毒相关词",
+        "memoryTip": "tox 词根相关",
+        "root": "tox",
+        "rootPhonetic": "/tɒks/",
+        "rootMeaning": "毒",
+        "rootPhrases": [
+          "tox process 毒过程"
+        ],
+        "wordPhrases": [
+          "toxic related 与毒相关"
+        ]
+      },
+      {
+        "word": "toxicity",
+        "phonetic": "/toxicity/",
+        "partOfSpeech": "adj.",
+        "meaning": "毒相关词",
+        "memoryTip": "tox 词根相关",
+        "root": "tox",
+        "rootPhonetic": "/tɒks/",
+        "rootMeaning": "毒",
+        "rootPhrases": [
+          "tox process 毒过程"
+        ],
+        "wordPhrases": [
+          "toxicity related 与毒相关"
+        ]
+      },
+      {
+        "word": "toxin",
+        "phonetic": "/toxin/",
+        "partOfSpeech": "v.",
+        "meaning": "毒相关词",
+        "memoryTip": "tox 词根相关",
+        "root": "tox",
+        "rootPhonetic": "/tɒks/",
+        "rootMeaning": "毒",
+        "rootPhrases": [
+          "tox process 毒过程"
+        ],
+        "wordPhrases": [
+          "toxin related 与毒相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "tox system 毒系统"
+    ],
+    "mnemonic": "tox→毒"
+  },
+  {
+    "id": 197,
+    "root": "flamm",
+    "phonetic": "/flæm/",
+    "partOfSpeech": "词根",
+    "meaning": "易燃",
+    "frequency": 197,
+    "category": "化工",
+    "words": [
+      {
+        "word": "flammable",
+        "phonetic": "/flammable/",
+        "partOfSpeech": "n.",
+        "meaning": "易燃相关词",
+        "memoryTip": "flamm 词根相关",
+        "root": "flamm",
+        "rootPhonetic": "/flæm/",
+        "rootMeaning": "易燃",
+        "rootPhrases": [
+          "flamm process 易燃过程"
+        ],
+        "wordPhrases": [
+          "flammable related 与易燃相关"
+        ]
+      },
+      {
+        "word": "inflammable",
+        "phonetic": "/inflammable/",
+        "partOfSpeech": "adj.",
+        "meaning": "易燃相关词",
+        "memoryTip": "flamm 词根相关",
+        "root": "flamm",
+        "rootPhonetic": "/flæm/",
+        "rootMeaning": "易燃",
+        "rootPhrases": [
+          "flamm process 易燃过程"
+        ],
+        "wordPhrases": [
+          "inflammable related 与易燃相关"
+        ]
+      },
+      {
+        "word": "flammability",
+        "phonetic": "/flammability/",
+        "partOfSpeech": "v.",
+        "meaning": "易燃相关词",
+        "memoryTip": "flamm 词根相关",
+        "root": "flamm",
+        "rootPhonetic": "/flæm/",
+        "rootMeaning": "易燃",
+        "rootPhrases": [
+          "flamm process 易燃过程"
+        ],
+        "wordPhrases": [
+          "flammability related 与易燃相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "flamm system 易燃系统"
+    ],
+    "mnemonic": "flamm→易燃"
+  },
+  {
+    "id": 198,
+    "root": "volat",
+    "phonetic": "/vɒlət/",
+    "partOfSpeech": "词根",
+    "meaning": "挥发",
+    "frequency": 198,
+    "category": "化工",
+    "words": [
+      {
+        "word": "volatile",
+        "phonetic": "/volatile/",
+        "partOfSpeech": "n.",
+        "meaning": "挥发相关词",
+        "memoryTip": "volat 词根相关",
+        "root": "volat",
+        "rootPhonetic": "/vɒlət/",
+        "rootMeaning": "挥发",
+        "rootPhrases": [
+          "volat process 挥发过程"
+        ],
+        "wordPhrases": [
+          "volatile related 与挥发相关"
+        ]
+      },
+      {
+        "word": "volatility",
+        "phonetic": "/volatility/",
+        "partOfSpeech": "adj.",
+        "meaning": "挥发相关词",
+        "memoryTip": "volat 词根相关",
+        "root": "volat",
+        "rootPhonetic": "/vɒlət/",
+        "rootMeaning": "挥发",
+        "rootPhrases": [
+          "volat process 挥发过程"
+        ],
+        "wordPhrases": [
+          "volatility related 与挥发相关"
+        ]
+      },
+      {
+        "word": "volatilize",
+        "phonetic": "/volatilize/",
+        "partOfSpeech": "v.",
+        "meaning": "挥发相关词",
+        "memoryTip": "volat 词根相关",
+        "root": "volat",
+        "rootPhonetic": "/vɒlət/",
+        "rootMeaning": "挥发",
+        "rootPhrases": [
+          "volat process 挥发过程"
+        ],
+        "wordPhrases": [
+          "volatilize related 与挥发相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "volat system 挥发系统"
+    ],
+    "mnemonic": "volat→挥发"
+  },
+  {
+    "id": 199,
+    "root": "stabl",
+    "phonetic": "/steɪb/",
+    "partOfSpeech": "词根",
+    "meaning": "稳定",
+    "frequency": 199,
+    "category": "化工",
+    "words": [
+      {
+        "word": "stable",
+        "phonetic": "/stable/",
+        "partOfSpeech": "n.",
+        "meaning": "稳定相关词",
+        "memoryTip": "stabl 词根相关",
+        "root": "stabl",
+        "rootPhonetic": "/steɪb/",
+        "rootMeaning": "稳定",
+        "rootPhrases": [
+          "stabl process 稳定过程"
+        ],
+        "wordPhrases": [
+          "stable related 与稳定相关"
+        ]
+      },
+      {
+        "word": "stability",
+        "phonetic": "/stability/",
+        "partOfSpeech": "adj.",
+        "meaning": "稳定相关词",
+        "memoryTip": "stabl 词根相关",
+        "root": "stabl",
+        "rootPhonetic": "/steɪb/",
+        "rootMeaning": "稳定",
+        "rootPhrases": [
+          "stabl process 稳定过程"
+        ],
+        "wordPhrases": [
+          "stability related 与稳定相关"
+        ]
+      },
+      {
+        "word": "stabilize",
+        "phonetic": "/stabilize/",
+        "partOfSpeech": "v.",
+        "meaning": "稳定相关词",
+        "memoryTip": "stabl 词根相关",
+        "root": "stabl",
+        "rootPhonetic": "/steɪb/",
+        "rootMeaning": "稳定",
+        "rootPhrases": [
+          "stabl process 稳定过程"
+        ],
+        "wordPhrases": [
+          "stabilize related 与稳定相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "stabl system 稳定系统"
+    ],
+    "mnemonic": "stabl→稳定"
+  },
+  {
+    "id": 200,
+    "root": "catalys",
+    "phonetic": "/kəˈtælɪs/",
+    "partOfSpeech": "词根",
+    "meaning": "催化作用",
+    "frequency": 200,
+    "category": "化工",
+    "words": [
+      {
+        "word": "catalysis",
+        "phonetic": "/catalysis/",
+        "partOfSpeech": "n.",
+        "meaning": "催化作用相关词",
+        "memoryTip": "catalys 词根相关",
+        "root": "catalys",
+        "rootPhonetic": "/kəˈtælɪs/",
+        "rootMeaning": "催化作用",
+        "rootPhrases": [
+          "catalys process 催化作用过程"
+        ],
+        "wordPhrases": [
+          "catalysis related 与催化作用相关"
+        ]
+      },
+      {
+        "word": "catalyst",
+        "phonetic": "/catalyst/",
+        "partOfSpeech": "adj.",
+        "meaning": "催化作用相关词",
+        "memoryTip": "catalys 词根相关",
+        "root": "catalys",
+        "rootPhonetic": "/kəˈtælɪs/",
+        "rootMeaning": "催化作用",
+        "rootPhrases": [
+          "catalys process 催化作用过程"
+        ],
+        "wordPhrases": [
+          "catalyst related 与催化作用相关"
+        ]
+      },
+      {
+        "word": "catalytic",
+        "phonetic": "/catalytic/",
+        "partOfSpeech": "v.",
+        "meaning": "催化作用相关词",
+        "memoryTip": "catalys 词根相关",
+        "root": "catalys",
+        "rootPhonetic": "/kəˈtælɪs/",
+        "rootMeaning": "催化作用",
+        "rootPhrases": [
+          "catalys process 催化作用过程"
+        ],
+        "wordPhrases": [
+          "catalytic related 与催化作用相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "catalys system 催化作用系统"
+    ],
+    "mnemonic": "catalys→催化作用"
   }
 ]

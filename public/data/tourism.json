@@ -8784,5 +8784,3643 @@
       "banquet tourism 旅游术语"
     ],
     "mnemonic": "banquet→banquet旅游"
+  },
+  {
+    "id": 143,
+    "root": "dest",
+    "phonetic": "/ˈdestɪneɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "目的地",
+    "frequency": 143,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "destination",
+        "phonetic": "/destination/",
+        "partOfSpeech": "n.",
+        "meaning": "目的地相关词",
+        "memoryTip": "dest 词根相关",
+        "root": "dest",
+        "rootPhonetic": "/ˈdestɪneɪt/",
+        "rootMeaning": "目的地",
+        "rootPhrases": [
+          "dest tourism 目的地旅游"
+        ],
+        "wordPhrases": [
+          "destination related 与目的地相关"
+        ]
+      },
+      {
+        "word": "destined",
+        "phonetic": "/destined/",
+        "partOfSpeech": "adj.",
+        "meaning": "目的地相关词",
+        "memoryTip": "dest 词根相关",
+        "root": "dest",
+        "rootPhonetic": "/ˈdestɪneɪt/",
+        "rootMeaning": "目的地",
+        "rootPhrases": [
+          "dest tourism 目的地旅游"
+        ],
+        "wordPhrases": [
+          "destined related 与目的地相关"
+        ]
+      },
+      {
+        "word": "destinate",
+        "phonetic": "/destinate/",
+        "partOfSpeech": "v.",
+        "meaning": "目的地相关词",
+        "memoryTip": "dest 词根相关",
+        "root": "dest",
+        "rootPhonetic": "/ˈdestɪneɪt/",
+        "rootMeaning": "目的地",
+        "rootPhrases": [
+          "dest tourism 目的地旅游"
+        ],
+        "wordPhrases": [
+          "destinate related 与目的地相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "dest travel 目的地旅行"
+    ],
+    "mnemonic": "dest→目的地"
+  },
+  {
+    "id": 144,
+    "root": "reserv",
+    "phonetic": "/rɪˈzɜːv/",
+    "partOfSpeech": "词根",
+    "meaning": "预订",
+    "frequency": 144,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "reserve",
+        "phonetic": "/reserve/",
+        "partOfSpeech": "n.",
+        "meaning": "预订相关词",
+        "memoryTip": "reserv 词根相关",
+        "root": "reserv",
+        "rootPhonetic": "/rɪˈzɜːv/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "reserv tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "reserve related 与预订相关"
+        ]
+      },
+      {
+        "word": "reservation",
+        "phonetic": "/reservation/",
+        "partOfSpeech": "adj.",
+        "meaning": "预订相关词",
+        "memoryTip": "reserv 词根相关",
+        "root": "reserv",
+        "rootPhonetic": "/rɪˈzɜːv/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "reserv tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "reservation related 与预订相关"
+        ]
+      },
+      {
+        "word": "reserved",
+        "phonetic": "/reserved/",
+        "partOfSpeech": "v.",
+        "meaning": "预订相关词",
+        "memoryTip": "reserv 词根相关",
+        "root": "reserv",
+        "rootPhonetic": "/rɪˈzɜːv/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "reserv tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "reserved related 与预订相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "reserv travel 预订旅行"
+    ],
+    "mnemonic": "reserv→预订"
+  },
+  {
+    "id": 145,
+    "root": "book",
+    "phonetic": "/bʊk/",
+    "partOfSpeech": "词根",
+    "meaning": "预订",
+    "frequency": 145,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "book",
+        "phonetic": "/book/",
+        "partOfSpeech": "n.",
+        "meaning": "预订相关词",
+        "memoryTip": "book 词根相关",
+        "root": "book",
+        "rootPhonetic": "/bʊk/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "book tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "book related 与预订相关"
+        ]
+      },
+      {
+        "word": "booking",
+        "phonetic": "/booking/",
+        "partOfSpeech": "adj.",
+        "meaning": "预订相关词",
+        "memoryTip": "book 词根相关",
+        "root": "book",
+        "rootPhonetic": "/bʊk/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "book tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "booking related 与预订相关"
+        ]
+      },
+      {
+        "word": "bookable",
+        "phonetic": "/bookable/",
+        "partOfSpeech": "v.",
+        "meaning": "预订相关词",
+        "memoryTip": "book 词根相关",
+        "root": "book",
+        "rootPhonetic": "/bʊk/",
+        "rootMeaning": "预订",
+        "rootPhrases": [
+          "book tourism 预订旅游"
+        ],
+        "wordPhrases": [
+          "bookable related 与预订相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "book travel 预订旅行"
+    ],
+    "mnemonic": "book→预订"
+  },
+  {
+    "id": 146,
+    "root": "tour",
+    "phonetic": "/tʊə/",
+    "partOfSpeech": "词根",
+    "meaning": "旅游",
+    "frequency": 146,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "tour",
+        "phonetic": "/tour/",
+        "partOfSpeech": "n.",
+        "meaning": "旅游相关词",
+        "memoryTip": "tour 词根相关",
+        "root": "tour",
+        "rootPhonetic": "/tʊə/",
+        "rootMeaning": "旅游",
+        "rootPhrases": [
+          "tour tourism 旅游旅游"
+        ],
+        "wordPhrases": [
+          "tour related 与旅游相关"
+        ]
+      },
+      {
+        "word": "tourism",
+        "phonetic": "/tourism/",
+        "partOfSpeech": "adj.",
+        "meaning": "旅游相关词",
+        "memoryTip": "tour 词根相关",
+        "root": "tour",
+        "rootPhonetic": "/tʊə/",
+        "rootMeaning": "旅游",
+        "rootPhrases": [
+          "tour tourism 旅游旅游"
+        ],
+        "wordPhrases": [
+          "tourism related 与旅游相关"
+        ]
+      },
+      {
+        "word": "tourist",
+        "phonetic": "/tourist/",
+        "partOfSpeech": "v.",
+        "meaning": "旅游相关词",
+        "memoryTip": "tour 词根相关",
+        "root": "tour",
+        "rootPhonetic": "/tʊə/",
+        "rootMeaning": "旅游",
+        "rootPhrases": [
+          "tour tourism 旅游旅游"
+        ],
+        "wordPhrases": [
+          "tourist related 与旅游相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "tour travel 旅游旅行"
+    ],
+    "mnemonic": "tour→旅游"
+  },
+  {
+    "id": 147,
+    "root": "hospit",
+    "phonetic": "/ˈhɒspɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "待客",
+    "frequency": 147,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "hospitality",
+        "phonetic": "/hospitality/",
+        "partOfSpeech": "n.",
+        "meaning": "待客相关词",
+        "memoryTip": "hospit 词根相关",
+        "root": "hospit",
+        "rootPhonetic": "/ˈhɒspɪt/",
+        "rootMeaning": "待客",
+        "rootPhrases": [
+          "hospit tourism 待客旅游"
+        ],
+        "wordPhrases": [
+          "hospitality related 与待客相关"
+        ]
+      },
+      {
+        "word": "hospital",
+        "phonetic": "/hospital/",
+        "partOfSpeech": "adj.",
+        "meaning": "待客相关词",
+        "memoryTip": "hospit 词根相关",
+        "root": "hospit",
+        "rootPhonetic": "/ˈhɒspɪt/",
+        "rootMeaning": "待客",
+        "rootPhrases": [
+          "hospit tourism 待客旅游"
+        ],
+        "wordPhrases": [
+          "hospital related 与待客相关"
+        ]
+      },
+      {
+        "word": "hospitable",
+        "phonetic": "/hospitable/",
+        "partOfSpeech": "v.",
+        "meaning": "待客相关词",
+        "memoryTip": "hospit 词根相关",
+        "root": "hospit",
+        "rootPhonetic": "/ˈhɒspɪt/",
+        "rootMeaning": "待客",
+        "rootPhrases": [
+          "hospit tourism 待客旅游"
+        ],
+        "wordPhrases": [
+          "hospitable related 与待客相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "hospit travel 待客旅行"
+    ],
+    "mnemonic": "hospit→待客"
+  },
+  {
+    "id": 148,
+    "root": "voyag",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "航行",
+    "frequency": 148,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "voyage",
+        "phonetic": "/voyage/",
+        "partOfSpeech": "n.",
+        "meaning": "航行相关词",
+        "memoryTip": "voyag 词根相关",
+        "root": "voyag",
+        "rootPhonetic": "/ˈvɔɪɪdʒ/",
+        "rootMeaning": "航行",
+        "rootPhrases": [
+          "voyag tourism 航行旅游"
+        ],
+        "wordPhrases": [
+          "voyage related 与航行相关"
+        ]
+      },
+      {
+        "word": "voyager",
+        "phonetic": "/voyager/",
+        "partOfSpeech": "adj.",
+        "meaning": "航行相关词",
+        "memoryTip": "voyag 词根相关",
+        "root": "voyag",
+        "rootPhonetic": "/ˈvɔɪɪdʒ/",
+        "rootMeaning": "航行",
+        "rootPhrases": [
+          "voyag tourism 航行旅游"
+        ],
+        "wordPhrases": [
+          "voyager related 与航行相关"
+        ]
+      },
+      {
+        "word": "voyaging",
+        "phonetic": "/voyaging/",
+        "partOfSpeech": "v.",
+        "meaning": "航行相关词",
+        "memoryTip": "voyag 词根相关",
+        "root": "voyag",
+        "rootPhonetic": "/ˈvɔɪɪdʒ/",
+        "rootMeaning": "航行",
+        "rootPhrases": [
+          "voyag tourism 航行旅游"
+        ],
+        "wordPhrases": [
+          "voyaging related 与航行相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "voyag travel 航行旅行"
+    ],
+    "mnemonic": "voyag→航行"
+  },
+  {
+    "id": 149,
+    "root": "cruis",
+    "phonetic": "/kruːz/",
+    "partOfSpeech": "词根",
+    "meaning": "邮轮",
+    "frequency": 149,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "cruise",
+        "phonetic": "/cruise/",
+        "partOfSpeech": "n.",
+        "meaning": "邮轮相关词",
+        "memoryTip": "cruis 词根相关",
+        "root": "cruis",
+        "rootPhonetic": "/kruːz/",
+        "rootMeaning": "邮轮",
+        "rootPhrases": [
+          "cruis tourism 邮轮旅游"
+        ],
+        "wordPhrases": [
+          "cruise related 与邮轮相关"
+        ]
+      },
+      {
+        "word": "cruiser",
+        "phonetic": "/cruiser/",
+        "partOfSpeech": "adj.",
+        "meaning": "邮轮相关词",
+        "memoryTip": "cruis 词根相关",
+        "root": "cruis",
+        "rootPhonetic": "/kruːz/",
+        "rootMeaning": "邮轮",
+        "rootPhrases": [
+          "cruis tourism 邮轮旅游"
+        ],
+        "wordPhrases": [
+          "cruiser related 与邮轮相关"
+        ]
+      },
+      {
+        "word": "cruising",
+        "phonetic": "/cruising/",
+        "partOfSpeech": "v.",
+        "meaning": "邮轮相关词",
+        "memoryTip": "cruis 词根相关",
+        "root": "cruis",
+        "rootPhonetic": "/kruːz/",
+        "rootMeaning": "邮轮",
+        "rootPhrases": [
+          "cruis tourism 邮轮旅游"
+        ],
+        "wordPhrases": [
+          "cruising related 与邮轮相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "cruis travel 邮轮旅行"
+    ],
+    "mnemonic": "cruis→邮轮"
+  },
+  {
+    "id": 150,
+    "root": "excurs",
+    "phonetic": "/ɪkˈskɜːʃən/",
+    "partOfSpeech": "词根",
+    "meaning": "短途旅行",
+    "frequency": 150,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "excursion",
+        "phonetic": "/excursion/",
+        "partOfSpeech": "n.",
+        "meaning": "短途旅行相关词",
+        "memoryTip": "excurs 词根相关",
+        "root": "excurs",
+        "rootPhonetic": "/ɪkˈskɜːʃən/",
+        "rootMeaning": "短途旅行",
+        "rootPhrases": [
+          "excurs tourism 短途旅行旅游"
+        ],
+        "wordPhrases": [
+          "excursion related 与短途旅行相关"
+        ]
+      },
+      {
+        "word": "excursions",
+        "phonetic": "/excursions/",
+        "partOfSpeech": "adj.",
+        "meaning": "短途旅行相关词",
+        "memoryTip": "excurs 词根相关",
+        "root": "excurs",
+        "rootPhonetic": "/ɪkˈskɜːʃən/",
+        "rootMeaning": "短途旅行",
+        "rootPhrases": [
+          "excurs tourism 短途旅行旅游"
+        ],
+        "wordPhrases": [
+          "excursions related 与短途旅行相关"
+        ]
+      },
+      {
+        "word": "excursionist",
+        "phonetic": "/excursionist/",
+        "partOfSpeech": "v.",
+        "meaning": "短途旅行相关词",
+        "memoryTip": "excurs 词根相关",
+        "root": "excurs",
+        "rootPhonetic": "/ɪkˈskɜːʃən/",
+        "rootMeaning": "短途旅行",
+        "rootPhrases": [
+          "excurs tourism 短途旅行旅游"
+        ],
+        "wordPhrases": [
+          "excursionist related 与短途旅行相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "excurs travel 短途旅行旅行"
+    ],
+    "mnemonic": "excurs→短途旅行"
+  },
+  {
+    "id": 151,
+    "root": "itiner",
+    "phonetic": "/aɪˈtɪnərərɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "行程",
+    "frequency": 151,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "itinerary",
+        "phonetic": "/itinerary/",
+        "partOfSpeech": "n.",
+        "meaning": "行程相关词",
+        "memoryTip": "itiner 词根相关",
+        "root": "itiner",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程",
+        "rootPhrases": [
+          "itiner tourism 行程旅游"
+        ],
+        "wordPhrases": [
+          "itinerary related 与行程相关"
+        ]
+      },
+      {
+        "word": "itinerant",
+        "phonetic": "/itinerant/",
+        "partOfSpeech": "adj.",
+        "meaning": "行程相关词",
+        "memoryTip": "itiner 词根相关",
+        "root": "itiner",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程",
+        "rootPhrases": [
+          "itiner tourism 行程旅游"
+        ],
+        "wordPhrases": [
+          "itinerant related 与行程相关"
+        ]
+      },
+      {
+        "word": "itineraries",
+        "phonetic": "/itineraries/",
+        "partOfSpeech": "v.",
+        "meaning": "行程相关词",
+        "memoryTip": "itiner 词根相关",
+        "root": "itiner",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程",
+        "rootPhrases": [
+          "itiner tourism 行程旅游"
+        ],
+        "wordPhrases": [
+          "itineraries related 与行程相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "itiner travel 行程旅行"
+    ],
+    "mnemonic": "itiner→行程"
+  },
+  {
+    "id": 152,
+    "root": "expedi",
+    "phonetic": "/ekspəˈdɪʃən/",
+    "partOfSpeech": "词根",
+    "meaning": "探险",
+    "frequency": 152,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "expedition",
+        "phonetic": "/expedition/",
+        "partOfSpeech": "n.",
+        "meaning": "探险相关词",
+        "memoryTip": "expedi 词根相关",
+        "root": "expedi",
+        "rootPhonetic": "/ekspəˈdɪʃən/",
+        "rootMeaning": "探险",
+        "rootPhrases": [
+          "expedi tourism 探险旅游"
+        ],
+        "wordPhrases": [
+          "expedition related 与探险相关"
+        ]
+      },
+      {
+        "word": "expeditions",
+        "phonetic": "/expeditions/",
+        "partOfSpeech": "adj.",
+        "meaning": "探险相关词",
+        "memoryTip": "expedi 词根相关",
+        "root": "expedi",
+        "rootPhonetic": "/ekspəˈdɪʃən/",
+        "rootMeaning": "探险",
+        "rootPhrases": [
+          "expedi tourism 探险旅游"
+        ],
+        "wordPhrases": [
+          "expeditions related 与探险相关"
+        ]
+      },
+      {
+        "word": "expeditionary",
+        "phonetic": "/expeditionary/",
+        "partOfSpeech": "v.",
+        "meaning": "探险相关词",
+        "memoryTip": "expedi 词根相关",
+        "root": "expedi",
+        "rootPhonetic": "/ekspəˈdɪʃən/",
+        "rootMeaning": "探险",
+        "rootPhrases": [
+          "expedi tourism 探险旅游"
+        ],
+        "wordPhrases": [
+          "expeditionary related 与探险相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "expedi travel 探险旅行"
+    ],
+    "mnemonic": "expedi→探险"
+  },
+  {
+    "id": 153,
+    "root": "safari",
+    "phonetic": "/səˈfɑːrɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "野生动物观赏",
+    "frequency": 153,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "safari",
+        "phonetic": "/safari/",
+        "partOfSpeech": "n.",
+        "meaning": "野生动物观赏相关词",
+        "memoryTip": "safari 词根相关",
+        "root": "safari",
+        "rootPhonetic": "/səˈfɑːrɪ/",
+        "rootMeaning": "野生动物观赏",
+        "rootPhrases": [
+          "safari tourism 野生动物观赏旅游"
+        ],
+        "wordPhrases": [
+          "safari related 与野生动物观赏相关"
+        ]
+      },
+      {
+        "word": "safaris",
+        "phonetic": "/safaris/",
+        "partOfSpeech": "adj.",
+        "meaning": "野生动物观赏相关词",
+        "memoryTip": "safari 词根相关",
+        "root": "safari",
+        "rootPhonetic": "/səˈfɑːrɪ/",
+        "rootMeaning": "野生动物观赏",
+        "rootPhrases": [
+          "safari tourism 野生动物观赏旅游"
+        ],
+        "wordPhrases": [
+          "safaris related 与野生动物观赏相关"
+        ]
+      },
+      {
+        "word": "safaripark",
+        "phonetic": "/safaripark/",
+        "partOfSpeech": "v.",
+        "meaning": "野生动物观赏相关词",
+        "memoryTip": "safari 词根相关",
+        "root": "safari",
+        "rootPhonetic": "/səˈfɑːrɪ/",
+        "rootMeaning": "野生动物观赏",
+        "rootPhrases": [
+          "safari tourism 野生动物观赏旅游"
+        ],
+        "wordPhrases": [
+          "safaripark related 与野生动物观赏相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "safari travel 野生动物观赏旅行"
+    ],
+    "mnemonic": "safari→野生动物观赏"
+  },
+  {
+    "id": 154,
+    "root": "trek",
+    "phonetic": "/trek/",
+    "partOfSpeech": "词根",
+    "meaning": "徒步旅行",
+    "frequency": 154,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "trek",
+        "phonetic": "/trek/",
+        "partOfSpeech": "n.",
+        "meaning": "徒步旅行相关词",
+        "memoryTip": "trek 词根相关",
+        "root": "trek",
+        "rootPhonetic": "/trek/",
+        "rootMeaning": "徒步旅行",
+        "rootPhrases": [
+          "trek tourism 徒步旅行旅游"
+        ],
+        "wordPhrases": [
+          "trek related 与徒步旅行相关"
+        ]
+      },
+      {
+        "word": "trekking",
+        "phonetic": "/trekking/",
+        "partOfSpeech": "adj.",
+        "meaning": "徒步旅行相关词",
+        "memoryTip": "trek 词根相关",
+        "root": "trek",
+        "rootPhonetic": "/trek/",
+        "rootMeaning": "徒步旅行",
+        "rootPhrases": [
+          "trek tourism 徒步旅行旅游"
+        ],
+        "wordPhrases": [
+          "trekking related 与徒步旅行相关"
+        ]
+      },
+      {
+        "word": "trekker",
+        "phonetic": "/trekker/",
+        "partOfSpeech": "v.",
+        "meaning": "徒步旅行相关词",
+        "memoryTip": "trek 词根相关",
+        "root": "trek",
+        "rootPhonetic": "/trek/",
+        "rootMeaning": "徒步旅行",
+        "rootPhrases": [
+          "trek tourism 徒步旅行旅游"
+        ],
+        "wordPhrases": [
+          "trekker related 与徒步旅行相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "trek travel 徒步旅行旅行"
+    ],
+    "mnemonic": "trek→徒步旅行"
+  },
+  {
+    "id": 155,
+    "root": "backpack",
+    "phonetic": "/ˈbækpæk/",
+    "partOfSpeech": "词根",
+    "meaning": "背包旅行",
+    "frequency": 155,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "backpack",
+        "phonetic": "/backpack/",
+        "partOfSpeech": "n.",
+        "meaning": "背包旅行相关词",
+        "memoryTip": "backpack 词根相关",
+        "root": "backpack",
+        "rootPhonetic": "/ˈbækpæk/",
+        "rootMeaning": "背包旅行",
+        "rootPhrases": [
+          "backpack tourism 背包旅行旅游"
+        ],
+        "wordPhrases": [
+          "backpack related 与背包旅行相关"
+        ]
+      },
+      {
+        "word": "backpacking",
+        "phonetic": "/backpacking/",
+        "partOfSpeech": "adj.",
+        "meaning": "背包旅行相关词",
+        "memoryTip": "backpack 词根相关",
+        "root": "backpack",
+        "rootPhonetic": "/ˈbækpæk/",
+        "rootMeaning": "背包旅行",
+        "rootPhrases": [
+          "backpack tourism 背包旅行旅游"
+        ],
+        "wordPhrases": [
+          "backpacking related 与背包旅行相关"
+        ]
+      },
+      {
+        "word": "backpacker",
+        "phonetic": "/backpacker/",
+        "partOfSpeech": "v.",
+        "meaning": "背包旅行相关词",
+        "memoryTip": "backpack 词根相关",
+        "root": "backpack",
+        "rootPhonetic": "/ˈbækpæk/",
+        "rootMeaning": "背包旅行",
+        "rootPhrases": [
+          "backpack tourism 背包旅行旅游"
+        ],
+        "wordPhrases": [
+          "backpacker related 与背包旅行相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "backpack travel 背包旅行旅行"
+    ],
+    "mnemonic": "backpack→背包旅行"
+  },
+  {
+    "id": 156,
+    "root": "hostel",
+    "phonetic": "/ˈhɒstəl/",
+    "partOfSpeech": "词根",
+    "meaning": "青年旅舍",
+    "frequency": 156,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "hostel",
+        "phonetic": "/hostel/",
+        "partOfSpeech": "n.",
+        "meaning": "青年旅舍相关词",
+        "memoryTip": "hostel 词根相关",
+        "root": "hostel",
+        "rootPhonetic": "/ˈhɒstəl/",
+        "rootMeaning": "青年旅舍",
+        "rootPhrases": [
+          "hostel tourism 青年旅舍旅游"
+        ],
+        "wordPhrases": [
+          "hostel related 与青年旅舍相关"
+        ]
+      },
+      {
+        "word": "hostels",
+        "phonetic": "/hostels/",
+        "partOfSpeech": "adj.",
+        "meaning": "青年旅舍相关词",
+        "memoryTip": "hostel 词根相关",
+        "root": "hostel",
+        "rootPhonetic": "/ˈhɒstəl/",
+        "rootMeaning": "青年旅舍",
+        "rootPhrases": [
+          "hostel tourism 青年旅舍旅游"
+        ],
+        "wordPhrases": [
+          "hostels related 与青年旅舍相关"
+        ]
+      },
+      {
+        "word": "hostelling",
+        "phonetic": "/hostelling/",
+        "partOfSpeech": "v.",
+        "meaning": "青年旅舍相关词",
+        "memoryTip": "hostel 词根相关",
+        "root": "hostel",
+        "rootPhonetic": "/ˈhɒstəl/",
+        "rootMeaning": "青年旅舍",
+        "rootPhrases": [
+          "hostel tourism 青年旅舍旅游"
+        ],
+        "wordPhrases": [
+          "hostelling related 与青年旅舍相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "hostel travel 青年旅舍旅行"
+    ],
+    "mnemonic": "hostel→青年旅舍"
+  },
+  {
+    "id": 157,
+    "root": "inn",
+    "phonetic": "/ɪn/",
+    "partOfSpeech": "词根",
+    "meaning": "客栈",
+    "frequency": 157,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "inn",
+        "phonetic": "/inn/",
+        "partOfSpeech": "n.",
+        "meaning": "客栈相关词",
+        "memoryTip": "inn 词根相关",
+        "root": "inn",
+        "rootPhonetic": "/ɪn/",
+        "rootMeaning": "客栈",
+        "rootPhrases": [
+          "inn tourism 客栈旅游"
+        ],
+        "wordPhrases": [
+          "inn related 与客栈相关"
+        ]
+      },
+      {
+        "word": "inns",
+        "phonetic": "/inns/",
+        "partOfSpeech": "adj.",
+        "meaning": "客栈相关词",
+        "memoryTip": "inn 词根相关",
+        "root": "inn",
+        "rootPhonetic": "/ɪn/",
+        "rootMeaning": "客栈",
+        "rootPhrases": [
+          "inn tourism 客栈旅游"
+        ],
+        "wordPhrases": [
+          "inns related 与客栈相关"
+        ]
+      },
+      {
+        "word": "innkeeper",
+        "phonetic": "/innkeeper/",
+        "partOfSpeech": "v.",
+        "meaning": "客栈相关词",
+        "memoryTip": "inn 词根相关",
+        "root": "inn",
+        "rootPhonetic": "/ɪn/",
+        "rootMeaning": "客栈",
+        "rootPhrases": [
+          "inn tourism 客栈旅游"
+        ],
+        "wordPhrases": [
+          "innkeeper related 与客栈相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "inn travel 客栈旅行"
+    ],
+    "mnemonic": "inn→客栈"
+  },
+  {
+    "id": 158,
+    "root": "motel",
+    "phonetic": "/məʊˈtel/",
+    "partOfSpeech": "词根",
+    "meaning": "汽车旅馆",
+    "frequency": 158,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "motel",
+        "phonetic": "/motel/",
+        "partOfSpeech": "n.",
+        "meaning": "汽车旅馆相关词",
+        "memoryTip": "motel 词根相关",
+        "root": "motel",
+        "rootPhonetic": "/məʊˈtel/",
+        "rootMeaning": "汽车旅馆",
+        "rootPhrases": [
+          "motel tourism 汽车旅馆旅游"
+        ],
+        "wordPhrases": [
+          "motel related 与汽车旅馆相关"
+        ]
+      },
+      {
+        "word": "motels",
+        "phonetic": "/motels/",
+        "partOfSpeech": "adj.",
+        "meaning": "汽车旅馆相关词",
+        "memoryTip": "motel 词根相关",
+        "root": "motel",
+        "rootPhonetic": "/məʊˈtel/",
+        "rootMeaning": "汽车旅馆",
+        "rootPhrases": [
+          "motel tourism 汽车旅馆旅游"
+        ],
+        "wordPhrases": [
+          "motels related 与汽车旅馆相关"
+        ]
+      },
+      {
+        "word": "motelroom",
+        "phonetic": "/motelroom/",
+        "partOfSpeech": "v.",
+        "meaning": "汽车旅馆相关词",
+        "memoryTip": "motel 词根相关",
+        "root": "motel",
+        "rootPhonetic": "/məʊˈtel/",
+        "rootMeaning": "汽车旅馆",
+        "rootPhrases": [
+          "motel tourism 汽车旅馆旅游"
+        ],
+        "wordPhrases": [
+          "motelroom related 与汽车旅馆相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "motel travel 汽车旅馆旅行"
+    ],
+    "mnemonic": "motel→汽车旅馆"
+  },
+  {
+    "id": 159,
+    "root": "resort",
+    "phonetic": "/rɪˈzɔːt/",
+    "partOfSpeech": "词根",
+    "meaning": "度假村",
+    "frequency": 159,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "resort",
+        "phonetic": "/resort/",
+        "partOfSpeech": "n.",
+        "meaning": "度假村相关词",
+        "memoryTip": "resort 词根相关",
+        "root": "resort",
+        "rootPhonetic": "/rɪˈzɔːt/",
+        "rootMeaning": "度假村",
+        "rootPhrases": [
+          "resort tourism 度假村旅游"
+        ],
+        "wordPhrases": [
+          "resort related 与度假村相关"
+        ]
+      },
+      {
+        "word": "resorts",
+        "phonetic": "/resorts/",
+        "partOfSpeech": "adj.",
+        "meaning": "度假村相关词",
+        "memoryTip": "resort 词根相关",
+        "root": "resort",
+        "rootPhonetic": "/rɪˈzɔːt/",
+        "rootMeaning": "度假村",
+        "rootPhrases": [
+          "resort tourism 度假村旅游"
+        ],
+        "wordPhrases": [
+          "resorts related 与度假村相关"
+        ]
+      },
+      {
+        "word": "resorthotel",
+        "phonetic": "/resorthotel/",
+        "partOfSpeech": "v.",
+        "meaning": "度假村相关词",
+        "memoryTip": "resort 词根相关",
+        "root": "resort",
+        "rootPhonetic": "/rɪˈzɔːt/",
+        "rootMeaning": "度假村",
+        "rootPhrases": [
+          "resort tourism 度假村旅游"
+        ],
+        "wordPhrases": [
+          "resorthotel related 与度假村相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "resort travel 度假村旅行"
+    ],
+    "mnemonic": "resort→度假村"
+  },
+  {
+    "id": 160,
+    "root": "spa",
+    "phonetic": "/spɑː/",
+    "partOfSpeech": "词根",
+    "meaning": "水疗",
+    "frequency": 160,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "spa",
+        "phonetic": "/spa/",
+        "partOfSpeech": "n.",
+        "meaning": "水疗相关词",
+        "memoryTip": "spa 词根相关",
+        "root": "spa",
+        "rootPhonetic": "/spɑː/",
+        "rootMeaning": "水疗",
+        "rootPhrases": [
+          "spa tourism 水疗旅游"
+        ],
+        "wordPhrases": [
+          "spa related 与水疗相关"
+        ]
+      },
+      {
+        "word": "spas",
+        "phonetic": "/spas/",
+        "partOfSpeech": "adj.",
+        "meaning": "水疗相关词",
+        "memoryTip": "spa 词根相关",
+        "root": "spa",
+        "rootPhonetic": "/spɑː/",
+        "rootMeaning": "水疗",
+        "rootPhrases": [
+          "spa tourism 水疗旅游"
+        ],
+        "wordPhrases": [
+          "spas related 与水疗相关"
+        ]
+      },
+      {
+        "word": "sparesort",
+        "phonetic": "/sparesort/",
+        "partOfSpeech": "v.",
+        "meaning": "水疗相关词",
+        "memoryTip": "spa 词根相关",
+        "root": "spa",
+        "rootPhonetic": "/spɑː/",
+        "rootMeaning": "水疗",
+        "rootPhrases": [
+          "spa tourism 水疗旅游"
+        ],
+        "wordPhrases": [
+          "sparesort related 与水疗相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "spa travel 水疗旅行"
+    ],
+    "mnemonic": "spa→水疗"
+  },
+  {
+    "id": 161,
+    "root": "wellness",
+    "phonetic": "/ˈwelnəs/",
+    "partOfSpeech": "词根",
+    "meaning": "健康养生",
+    "frequency": 161,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "wellness",
+        "phonetic": "/wellness/",
+        "partOfSpeech": "n.",
+        "meaning": "健康养生相关词",
+        "memoryTip": "wellness 词根相关",
+        "root": "wellness",
+        "rootPhonetic": "/ˈwelnəs/",
+        "rootMeaning": "健康养生",
+        "rootPhrases": [
+          "wellness tourism 健康养生旅游"
+        ],
+        "wordPhrases": [
+          "wellness related 与健康养生相关"
+        ]
+      },
+      {
+        "word": "wellnesstourism",
+        "phonetic": "/wellnesstourism/",
+        "partOfSpeech": "adj.",
+        "meaning": "健康养生相关词",
+        "memoryTip": "wellness 词根相关",
+        "root": "wellness",
+        "rootPhonetic": "/ˈwelnəs/",
+        "rootMeaning": "健康养生",
+        "rootPhrases": [
+          "wellness tourism 健康养生旅游"
+        ],
+        "wordPhrases": [
+          "wellnesstourism related 与健康养生相关"
+        ]
+      },
+      {
+        "word": "wellnesscenter",
+        "phonetic": "/wellnesscenter/",
+        "partOfSpeech": "v.",
+        "meaning": "健康养生相关词",
+        "memoryTip": "wellness 词根相关",
+        "root": "wellness",
+        "rootPhonetic": "/ˈwelnəs/",
+        "rootMeaning": "健康养生",
+        "rootPhrases": [
+          "wellness tourism 健康养生旅游"
+        ],
+        "wordPhrases": [
+          "wellnesscenter related 与健康养生相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "wellness travel 健康养生旅行"
+    ],
+    "mnemonic": "wellness→健康养生"
+  },
+  {
+    "id": 162,
+    "root": "heritag",
+    "phonetic": "/ˈherɪtɪdʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "遗产",
+    "frequency": 162,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "heritage",
+        "phonetic": "/heritage/",
+        "partOfSpeech": "n.",
+        "meaning": "遗产相关词",
+        "memoryTip": "heritag 词根相关",
+        "root": "heritag",
+        "rootPhonetic": "/ˈherɪtɪdʒ/",
+        "rootMeaning": "遗产",
+        "rootPhrases": [
+          "heritag tourism 遗产旅游"
+        ],
+        "wordPhrases": [
+          "heritage related 与遗产相关"
+        ]
+      },
+      {
+        "word": "heritagesite",
+        "phonetic": "/heritagesite/",
+        "partOfSpeech": "adj.",
+        "meaning": "遗产相关词",
+        "memoryTip": "heritag 词根相关",
+        "root": "heritag",
+        "rootPhonetic": "/ˈherɪtɪdʒ/",
+        "rootMeaning": "遗产",
+        "rootPhrases": [
+          "heritag tourism 遗产旅游"
+        ],
+        "wordPhrases": [
+          "heritagesite related 与遗产相关"
+        ]
+      },
+      {
+        "word": "heritagetourism",
+        "phonetic": "/heritagetourism/",
+        "partOfSpeech": "v.",
+        "meaning": "遗产相关词",
+        "memoryTip": "heritag 词根相关",
+        "root": "heritag",
+        "rootPhonetic": "/ˈherɪtɪdʒ/",
+        "rootMeaning": "遗产",
+        "rootPhrases": [
+          "heritag tourism 遗产旅游"
+        ],
+        "wordPhrases": [
+          "heritagetourism related 与遗产相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "heritag travel 遗产旅行"
+    ],
+    "mnemonic": "heritag→遗产"
+  },
+  {
+    "id": 163,
+    "root": "landmark",
+    "phonetic": "/ˈlændmɑːk/",
+    "partOfSpeech": "词根",
+    "meaning": "地标",
+    "frequency": 163,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "landmark",
+        "phonetic": "/landmark/",
+        "partOfSpeech": "n.",
+        "meaning": "地标相关词",
+        "memoryTip": "landmark 词根相关",
+        "root": "landmark",
+        "rootPhonetic": "/ˈlændmɑːk/",
+        "rootMeaning": "地标",
+        "rootPhrases": [
+          "landmark tourism 地标旅游"
+        ],
+        "wordPhrases": [
+          "landmark related 与地标相关"
+        ]
+      },
+      {
+        "word": "landmarks",
+        "phonetic": "/landmarks/",
+        "partOfSpeech": "adj.",
+        "meaning": "地标相关词",
+        "memoryTip": "landmark 词根相关",
+        "root": "landmark",
+        "rootPhonetic": "/ˈlændmɑːk/",
+        "rootMeaning": "地标",
+        "rootPhrases": [
+          "landmark tourism 地标旅游"
+        ],
+        "wordPhrases": [
+          "landmarks related 与地标相关"
+        ]
+      },
+      {
+        "word": "landmarkbuilding",
+        "phonetic": "/landmarkbuilding/",
+        "partOfSpeech": "v.",
+        "meaning": "地标相关词",
+        "memoryTip": "landmark 词根相关",
+        "root": "landmark",
+        "rootPhonetic": "/ˈlændmɑːk/",
+        "rootMeaning": "地标",
+        "rootPhrases": [
+          "landmark tourism 地标旅游"
+        ],
+        "wordPhrases": [
+          "landmarkbuilding related 与地标相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "landmark travel 地标旅行"
+    ],
+    "mnemonic": "landmark→地标"
+  },
+  {
+    "id": 164,
+    "root": "monument",
+    "phonetic": "/ˈmɒnjʊmənt/",
+    "partOfSpeech": "词根",
+    "meaning": "纪念碑",
+    "frequency": 164,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "monument",
+        "phonetic": "/monument/",
+        "partOfSpeech": "n.",
+        "meaning": "纪念碑相关词",
+        "memoryTip": "monument 词根相关",
+        "root": "monument",
+        "rootPhonetic": "/ˈmɒnjʊmənt/",
+        "rootMeaning": "纪念碑",
+        "rootPhrases": [
+          "monument tourism 纪念碑旅游"
+        ],
+        "wordPhrases": [
+          "monument related 与纪念碑相关"
+        ]
+      },
+      {
+        "word": "monuments",
+        "phonetic": "/monuments/",
+        "partOfSpeech": "adj.",
+        "meaning": "纪念碑相关词",
+        "memoryTip": "monument 词根相关",
+        "root": "monument",
+        "rootPhonetic": "/ˈmɒnjʊmənt/",
+        "rootMeaning": "纪念碑",
+        "rootPhrases": [
+          "monument tourism 纪念碑旅游"
+        ],
+        "wordPhrases": [
+          "monuments related 与纪念碑相关"
+        ]
+      },
+      {
+        "word": "monumental",
+        "phonetic": "/monumental/",
+        "partOfSpeech": "v.",
+        "meaning": "纪念碑相关词",
+        "memoryTip": "monument 词根相关",
+        "root": "monument",
+        "rootPhonetic": "/ˈmɒnjʊmənt/",
+        "rootMeaning": "纪念碑",
+        "rootPhrases": [
+          "monument tourism 纪念碑旅游"
+        ],
+        "wordPhrases": [
+          "monumental related 与纪念碑相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "monument travel 纪念碑旅行"
+    ],
+    "mnemonic": "monument→纪念碑"
+  },
+  {
+    "id": 165,
+    "root": "attract",
+    "phonetic": "/əˈtrækt/",
+    "partOfSpeech": "词根",
+    "meaning": "景点",
+    "frequency": 165,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "attraction",
+        "phonetic": "/attraction/",
+        "partOfSpeech": "n.",
+        "meaning": "景点相关词",
+        "memoryTip": "attract 词根相关",
+        "root": "attract",
+        "rootPhonetic": "/əˈtrækt/",
+        "rootMeaning": "景点",
+        "rootPhrases": [
+          "attract tourism 景点旅游"
+        ],
+        "wordPhrases": [
+          "attraction related 与景点相关"
+        ]
+      },
+      {
+        "word": "attract",
+        "phonetic": "/attract/",
+        "partOfSpeech": "adj.",
+        "meaning": "景点相关词",
+        "memoryTip": "attract 词根相关",
+        "root": "attract",
+        "rootPhonetic": "/əˈtrækt/",
+        "rootMeaning": "景点",
+        "rootPhrases": [
+          "attract tourism 景点旅游"
+        ],
+        "wordPhrases": [
+          "attract related 与景点相关"
+        ]
+      },
+      {
+        "word": "attractive",
+        "phonetic": "/attractive/",
+        "partOfSpeech": "v.",
+        "meaning": "景点相关词",
+        "memoryTip": "attract 词根相关",
+        "root": "attract",
+        "rootPhonetic": "/əˈtrækt/",
+        "rootMeaning": "景点",
+        "rootPhrases": [
+          "attract tourism 景点旅游"
+        ],
+        "wordPhrases": [
+          "attractive related 与景点相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "attract travel 景点旅行"
+    ],
+    "mnemonic": "attract→景点"
+  },
+  {
+    "id": 166,
+    "root": "scenic",
+    "phonetic": "/ˈsiːnɪk/",
+    "partOfSpeech": "词根",
+    "meaning": "风景",
+    "frequency": 166,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "scenic",
+        "phonetic": "/scenic/",
+        "partOfSpeech": "n.",
+        "meaning": "风景相关词",
+        "memoryTip": "scenic 词根相关",
+        "root": "scenic",
+        "rootPhonetic": "/ˈsiːnɪk/",
+        "rootMeaning": "风景",
+        "rootPhrases": [
+          "scenic tourism 风景旅游"
+        ],
+        "wordPhrases": [
+          "scenic related 与风景相关"
+        ]
+      },
+      {
+        "word": "scenery",
+        "phonetic": "/scenery/",
+        "partOfSpeech": "adj.",
+        "meaning": "风景相关词",
+        "memoryTip": "scenic 词根相关",
+        "root": "scenic",
+        "rootPhonetic": "/ˈsiːnɪk/",
+        "rootMeaning": "风景",
+        "rootPhrases": [
+          "scenic tourism 风景旅游"
+        ],
+        "wordPhrases": [
+          "scenery related 与风景相关"
+        ]
+      },
+      {
+        "word": "scenicspot",
+        "phonetic": "/scenicspot/",
+        "partOfSpeech": "v.",
+        "meaning": "风景相关词",
+        "memoryTip": "scenic 词根相关",
+        "root": "scenic",
+        "rootPhonetic": "/ˈsiːnɪk/",
+        "rootMeaning": "风景",
+        "rootPhrases": [
+          "scenic tourism 风景旅游"
+        ],
+        "wordPhrases": [
+          "scenicspot related 与风景相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "scenic travel 风景旅行"
+    ],
+    "mnemonic": "scenic→风景"
+  },
+  {
+    "id": 167,
+    "root": "view",
+    "phonetic": "/vjuː/",
+    "partOfSpeech": "词根",
+    "meaning": "景观",
+    "frequency": 167,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "view",
+        "phonetic": "/view/",
+        "partOfSpeech": "n.",
+        "meaning": "景观相关词",
+        "memoryTip": "view 词根相关",
+        "root": "view",
+        "rootPhonetic": "/vjuː/",
+        "rootMeaning": "景观",
+        "rootPhrases": [
+          "view tourism 景观旅游"
+        ],
+        "wordPhrases": [
+          "view related 与景观相关"
+        ]
+      },
+      {
+        "word": "viewpoint",
+        "phonetic": "/viewpoint/",
+        "partOfSpeech": "adj.",
+        "meaning": "景观相关词",
+        "memoryTip": "view 词根相关",
+        "root": "view",
+        "rootPhonetic": "/vjuː/",
+        "rootMeaning": "景观",
+        "rootPhrases": [
+          "view tourism 景观旅游"
+        ],
+        "wordPhrases": [
+          "viewpoint related 与景观相关"
+        ]
+      },
+      {
+        "word": "viewing",
+        "phonetic": "/viewing/",
+        "partOfSpeech": "v.",
+        "meaning": "景观相关词",
+        "memoryTip": "view 词根相关",
+        "root": "view",
+        "rootPhonetic": "/vjuː/",
+        "rootMeaning": "景观",
+        "rootPhrases": [
+          "view tourism 景观旅游"
+        ],
+        "wordPhrases": [
+          "viewing related 与景观相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "view travel 景观旅行"
+    ],
+    "mnemonic": "view→景观"
+  },
+  {
+    "id": 168,
+    "root": "panoram",
+    "phonetic": "/pænəˈræmə/",
+    "partOfSpeech": "词根",
+    "meaning": "全景",
+    "frequency": 168,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "panorama",
+        "phonetic": "/panorama/",
+        "partOfSpeech": "n.",
+        "meaning": "全景相关词",
+        "memoryTip": "panoram 词根相关",
+        "root": "panoram",
+        "rootPhonetic": "/pænəˈræmə/",
+        "rootMeaning": "全景",
+        "rootPhrases": [
+          "panoram tourism 全景旅游"
+        ],
+        "wordPhrases": [
+          "panorama related 与全景相关"
+        ]
+      },
+      {
+        "word": "panoramic",
+        "phonetic": "/panoramic/",
+        "partOfSpeech": "adj.",
+        "meaning": "全景相关词",
+        "memoryTip": "panoram 词根相关",
+        "root": "panoram",
+        "rootPhonetic": "/pænəˈræmə/",
+        "rootMeaning": "全景",
+        "rootPhrases": [
+          "panoram tourism 全景旅游"
+        ],
+        "wordPhrases": [
+          "panoramic related 与全景相关"
+        ]
+      },
+      {
+        "word": "panoramas",
+        "phonetic": "/panoramas/",
+        "partOfSpeech": "v.",
+        "meaning": "全景相关词",
+        "memoryTip": "panoram 词根相关",
+        "root": "panoram",
+        "rootPhonetic": "/pænəˈræmə/",
+        "rootMeaning": "全景",
+        "rootPhrases": [
+          "panoram tourism 全景旅游"
+        ],
+        "wordPhrases": [
+          "panoramas related 与全景相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "panoram travel 全景旅行"
+    ],
+    "mnemonic": "panoram→全景"
+  },
+  {
+    "id": 169,
+    "root": "souven",
+    "phonetic": "/suːvəˈnɪə/",
+    "partOfSpeech": "词根",
+    "meaning": "纪念品",
+    "frequency": 169,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "souvenir",
+        "phonetic": "/souvenir/",
+        "partOfSpeech": "n.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/suːvəˈnɪə/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "souvenir related 与纪念品相关"
+        ]
+      },
+      {
+        "word": "souvenirs",
+        "phonetic": "/souvenirs/",
+        "partOfSpeech": "adj.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/suːvəˈnɪə/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "souvenirs related 与纪念品相关"
+        ]
+      },
+      {
+        "word": "souvenirshop",
+        "phonetic": "/souvenirshop/",
+        "partOfSpeech": "v.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/suːvəˈnɪə/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "souvenirshop related 与纪念品相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "souven travel 纪念品旅行"
+    ],
+    "mnemonic": "souven→纪念品"
+  },
+  {
+    "id": 170,
+    "root": "memor",
+    "phonetic": "/memˈɔːrɪə/",
+    "partOfSpeech": "词根",
+    "meaning": "纪念",
+    "frequency": 170,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "memorial",
+        "phonetic": "/memorial/",
+        "partOfSpeech": "n.",
+        "meaning": "纪念相关词",
+        "memoryTip": "memor 词根相关",
+        "root": "memor",
+        "rootPhonetic": "/memˈɔːrɪə/",
+        "rootMeaning": "纪念",
+        "rootPhrases": [
+          "memor tourism 纪念旅游"
+        ],
+        "wordPhrases": [
+          "memorial related 与纪念相关"
+        ]
+      },
+      {
+        "word": "memory",
+        "phonetic": "/memory/",
+        "partOfSpeech": "adj.",
+        "meaning": "纪念相关词",
+        "memoryTip": "memor 词根相关",
+        "root": "memor",
+        "rootPhonetic": "/memˈɔːrɪə/",
+        "rootMeaning": "纪念",
+        "rootPhrases": [
+          "memor tourism 纪念旅游"
+        ],
+        "wordPhrases": [
+          "memory related 与纪念相关"
+        ]
+      },
+      {
+        "word": "memorable",
+        "phonetic": "/memorable/",
+        "partOfSpeech": "v.",
+        "meaning": "纪念相关词",
+        "memoryTip": "memor 词根相关",
+        "root": "memor",
+        "rootPhonetic": "/memˈɔːrɪə/",
+        "rootMeaning": "纪念",
+        "rootPhrases": [
+          "memor tourism 纪念旅游"
+        ],
+        "wordPhrases": [
+          "memorable related 与纪念相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "memor travel 纪念旅行"
+    ],
+    "mnemonic": "memor→纪念"
+  },
+  {
+    "id": 171,
+    "root": "souven",
+    "phonetic": "/ˈmeməntəʊ/",
+    "partOfSpeech": "词根",
+    "meaning": "纪念品",
+    "frequency": 171,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "memento",
+        "phonetic": "/memento/",
+        "partOfSpeech": "n.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/ˈmeməntəʊ/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "memento related 与纪念品相关"
+        ]
+      },
+      {
+        "word": "mementos",
+        "phonetic": "/mementos/",
+        "partOfSpeech": "adj.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/ˈmeməntəʊ/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "mementos related 与纪念品相关"
+        ]
+      },
+      {
+        "word": "mementoes",
+        "phonetic": "/mementoes/",
+        "partOfSpeech": "v.",
+        "meaning": "纪念品相关词",
+        "memoryTip": "souven 词根相关",
+        "root": "souven",
+        "rootPhonetic": "/ˈmeməntəʊ/",
+        "rootMeaning": "纪念品",
+        "rootPhrases": [
+          "souven tourism 纪念品旅游"
+        ],
+        "wordPhrases": [
+          "mementoes related 与纪念品相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "souven travel 纪念品旅行"
+    ],
+    "mnemonic": "souven→纪念品"
+  },
+  {
+    "id": 172,
+    "root": "passport",
+    "phonetic": "/ˈpɑːspɔːt/",
+    "partOfSpeech": "词根",
+    "meaning": "护照",
+    "frequency": 172,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "passport",
+        "phonetic": "/passport/",
+        "partOfSpeech": "n.",
+        "meaning": "护照相关词",
+        "memoryTip": "passport 词根相关",
+        "root": "passport",
+        "rootPhonetic": "/ˈpɑːspɔːt/",
+        "rootMeaning": "护照",
+        "rootPhrases": [
+          "passport tourism 护照旅游"
+        ],
+        "wordPhrases": [
+          "passport related 与护照相关"
+        ]
+      },
+      {
+        "word": "passports",
+        "phonetic": "/passports/",
+        "partOfSpeech": "adj.",
+        "meaning": "护照相关词",
+        "memoryTip": "passport 词根相关",
+        "root": "passport",
+        "rootPhonetic": "/ˈpɑːspɔːt/",
+        "rootMeaning": "护照",
+        "rootPhrases": [
+          "passport tourism 护照旅游"
+        ],
+        "wordPhrases": [
+          "passports related 与护照相关"
+        ]
+      },
+      {
+        "word": "passportcontrol",
+        "phonetic": "/passportcontrol/",
+        "partOfSpeech": "v.",
+        "meaning": "护照相关词",
+        "memoryTip": "passport 词根相关",
+        "root": "passport",
+        "rootPhonetic": "/ˈpɑːspɔːt/",
+        "rootMeaning": "护照",
+        "rootPhrases": [
+          "passport tourism 护照旅游"
+        ],
+        "wordPhrases": [
+          "passportcontrol related 与护照相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "passport travel 护照旅行"
+    ],
+    "mnemonic": "passport→护照"
+  },
+  {
+    "id": 173,
+    "root": "visa",
+    "phonetic": "/ˈviːzə/",
+    "partOfSpeech": "词根",
+    "meaning": "签证",
+    "frequency": 173,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "visa",
+        "phonetic": "/visa/",
+        "partOfSpeech": "n.",
+        "meaning": "签证相关词",
+        "memoryTip": "visa 词根相关",
+        "root": "visa",
+        "rootPhonetic": "/ˈviːzə/",
+        "rootMeaning": "签证",
+        "rootPhrases": [
+          "visa tourism 签证旅游"
+        ],
+        "wordPhrases": [
+          "visa related 与签证相关"
+        ]
+      },
+      {
+        "word": "visas",
+        "phonetic": "/visas/",
+        "partOfSpeech": "adj.",
+        "meaning": "签证相关词",
+        "memoryTip": "visa 词根相关",
+        "root": "visa",
+        "rootPhonetic": "/ˈviːzə/",
+        "rootMeaning": "签证",
+        "rootPhrases": [
+          "visa tourism 签证旅游"
+        ],
+        "wordPhrases": [
+          "visas related 与签证相关"
+        ]
+      },
+      {
+        "word": "visaapplication",
+        "phonetic": "/visaapplication/",
+        "partOfSpeech": "v.",
+        "meaning": "签证相关词",
+        "memoryTip": "visa 词根相关",
+        "root": "visa",
+        "rootPhonetic": "/ˈviːzə/",
+        "rootMeaning": "签证",
+        "rootPhrases": [
+          "visa tourism 签证旅游"
+        ],
+        "wordPhrases": [
+          "visaapplication related 与签证相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "visa travel 签证旅行"
+    ],
+    "mnemonic": "visa→签证"
+  },
+  {
+    "id": 174,
+    "root": "custom",
+    "phonetic": "/ˈkʌstəm/",
+    "partOfSpeech": "词根",
+    "meaning": "海关",
+    "frequency": 174,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "customs",
+        "phonetic": "/customs/",
+        "partOfSpeech": "n.",
+        "meaning": "海关相关词",
+        "memoryTip": "custom 词根相关",
+        "root": "custom",
+        "rootPhonetic": "/ˈkʌstəm/",
+        "rootMeaning": "海关",
+        "rootPhrases": [
+          "custom tourism 海关旅游"
+        ],
+        "wordPhrases": [
+          "customs related 与海关相关"
+        ]
+      },
+      {
+        "word": "customsofficer",
+        "phonetic": "/customsofficer/",
+        "partOfSpeech": "adj.",
+        "meaning": "海关相关词",
+        "memoryTip": "custom 词根相关",
+        "root": "custom",
+        "rootPhonetic": "/ˈkʌstəm/",
+        "rootMeaning": "海关",
+        "rootPhrases": [
+          "custom tourism 海关旅游"
+        ],
+        "wordPhrases": [
+          "customsofficer related 与海关相关"
+        ]
+      },
+      {
+        "word": "customsdeclaration",
+        "phonetic": "/customsdeclaration/",
+        "partOfSpeech": "v.",
+        "meaning": "海关相关词",
+        "memoryTip": "custom 词根相关",
+        "root": "custom",
+        "rootPhonetic": "/ˈkʌstəm/",
+        "rootMeaning": "海关",
+        "rootPhrases": [
+          "custom tourism 海关旅游"
+        ],
+        "wordPhrases": [
+          "customsdeclaration related 与海关相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "custom travel 海关旅行"
+    ],
+    "mnemonic": "custom→海关"
+  },
+  {
+    "id": 175,
+    "root": "immigr",
+    "phonetic": "/ɪmɪˈɡreɪʃən/",
+    "partOfSpeech": "词根",
+    "meaning": "移民局",
+    "frequency": 175,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "immigration",
+        "phonetic": "/immigration/",
+        "partOfSpeech": "n.",
+        "meaning": "移民局相关词",
+        "memoryTip": "immigr 词根相关",
+        "root": "immigr",
+        "rootPhonetic": "/ɪmɪˈɡreɪʃən/",
+        "rootMeaning": "移民局",
+        "rootPhrases": [
+          "immigr tourism 移民局旅游"
+        ],
+        "wordPhrases": [
+          "immigration related 与移民局相关"
+        ]
+      },
+      {
+        "word": "immigrate",
+        "phonetic": "/immigrate/",
+        "partOfSpeech": "adj.",
+        "meaning": "移民局相关词",
+        "memoryTip": "immigr 词根相关",
+        "root": "immigr",
+        "rootPhonetic": "/ɪmɪˈɡreɪʃən/",
+        "rootMeaning": "移民局",
+        "rootPhrases": [
+          "immigr tourism 移民局旅游"
+        ],
+        "wordPhrases": [
+          "immigrate related 与移民局相关"
+        ]
+      },
+      {
+        "word": "immigrant",
+        "phonetic": "/immigrant/",
+        "partOfSpeech": "v.",
+        "meaning": "移民局相关词",
+        "memoryTip": "immigr 词根相关",
+        "root": "immigr",
+        "rootPhonetic": "/ɪmɪˈɡreɪʃən/",
+        "rootMeaning": "移民局",
+        "rootPhrases": [
+          "immigr tourism 移民局旅游"
+        ],
+        "wordPhrases": [
+          "immigrant related 与移民局相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "immigr travel 移民局旅行"
+    ],
+    "mnemonic": "immigr→移民局"
+  },
+  {
+    "id": 176,
+    "root": "depart",
+    "phonetic": "/dɪˈpɑːt/",
+    "partOfSpeech": "词根",
+    "meaning": "出发",
+    "frequency": 176,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "departure",
+        "phonetic": "/departure/",
+        "partOfSpeech": "n.",
+        "meaning": "出发相关词",
+        "memoryTip": "depart 词根相关",
+        "root": "depart",
+        "rootPhonetic": "/dɪˈpɑːt/",
+        "rootMeaning": "出发",
+        "rootPhrases": [
+          "depart tourism 出发旅游"
+        ],
+        "wordPhrases": [
+          "departure related 与出发相关"
+        ]
+      },
+      {
+        "word": "depart",
+        "phonetic": "/depart/",
+        "partOfSpeech": "adj.",
+        "meaning": "出发相关词",
+        "memoryTip": "depart 词根相关",
+        "root": "depart",
+        "rootPhonetic": "/dɪˈpɑːt/",
+        "rootMeaning": "出发",
+        "rootPhrases": [
+          "depart tourism 出发旅游"
+        ],
+        "wordPhrases": [
+          "depart related 与出发相关"
+        ]
+      },
+      {
+        "word": "departing",
+        "phonetic": "/departing/",
+        "partOfSpeech": "v.",
+        "meaning": "出发相关词",
+        "memoryTip": "depart 词根相关",
+        "root": "depart",
+        "rootPhonetic": "/dɪˈpɑːt/",
+        "rootMeaning": "出发",
+        "rootPhrases": [
+          "depart tourism 出发旅游"
+        ],
+        "wordPhrases": [
+          "departing related 与出发相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "depart travel 出发旅行"
+    ],
+    "mnemonic": "depart→出发"
+  },
+  {
+    "id": 177,
+    "root": "arriv",
+    "phonetic": "/əˈraɪv/",
+    "partOfSpeech": "词根",
+    "meaning": "到达",
+    "frequency": 177,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "arrival",
+        "phonetic": "/arrival/",
+        "partOfSpeech": "n.",
+        "meaning": "到达相关词",
+        "memoryTip": "arriv 词根相关",
+        "root": "arriv",
+        "rootPhonetic": "/əˈraɪv/",
+        "rootMeaning": "到达",
+        "rootPhrases": [
+          "arriv tourism 到达旅游"
+        ],
+        "wordPhrases": [
+          "arrival related 与到达相关"
+        ]
+      },
+      {
+        "word": "arrive",
+        "phonetic": "/arrive/",
+        "partOfSpeech": "adj.",
+        "meaning": "到达相关词",
+        "memoryTip": "arriv 词根相关",
+        "root": "arriv",
+        "rootPhonetic": "/əˈraɪv/",
+        "rootMeaning": "到达",
+        "rootPhrases": [
+          "arriv tourism 到达旅游"
+        ],
+        "wordPhrases": [
+          "arrive related 与到达相关"
+        ]
+      },
+      {
+        "word": "arriving",
+        "phonetic": "/arriving/",
+        "partOfSpeech": "v.",
+        "meaning": "到达相关词",
+        "memoryTip": "arriv 词根相关",
+        "root": "arriv",
+        "rootPhonetic": "/əˈraɪv/",
+        "rootMeaning": "到达",
+        "rootPhrases": [
+          "arriv tourism 到达旅游"
+        ],
+        "wordPhrases": [
+          "arriving related 与到达相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "arriv travel 到达旅行"
+    ],
+    "mnemonic": "arriv→到达"
+  },
+  {
+    "id": 178,
+    "root": "transfer",
+    "phonetic": "/trænsˈfɜː/",
+    "partOfSpeech": "词根",
+    "meaning": "转机/换乘",
+    "frequency": 178,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "transfer",
+        "phonetic": "/transfer/",
+        "partOfSpeech": "n.",
+        "meaning": "转机/换乘相关词",
+        "memoryTip": "transfer 词根相关",
+        "root": "transfer",
+        "rootPhonetic": "/trænsˈfɜː/",
+        "rootMeaning": "转机/换乘",
+        "rootPhrases": [
+          "transfer tourism 转机/换乘旅游"
+        ],
+        "wordPhrases": [
+          "transfer related 与转机/换乘相关"
+        ]
+      },
+      {
+        "word": "transfers",
+        "phonetic": "/transfers/",
+        "partOfSpeech": "adj.",
+        "meaning": "转机/换乘相关词",
+        "memoryTip": "transfer 词根相关",
+        "root": "transfer",
+        "rootPhonetic": "/trænsˈfɜː/",
+        "rootMeaning": "转机/换乘",
+        "rootPhrases": [
+          "transfer tourism 转机/换乘旅游"
+        ],
+        "wordPhrases": [
+          "transfers related 与转机/换乘相关"
+        ]
+      },
+      {
+        "word": "transferring",
+        "phonetic": "/transferring/",
+        "partOfSpeech": "v.",
+        "meaning": "转机/换乘相关词",
+        "memoryTip": "transfer 词根相关",
+        "root": "transfer",
+        "rootPhonetic": "/trænsˈfɜː/",
+        "rootMeaning": "转机/换乘",
+        "rootPhrases": [
+          "transfer tourism 转机/换乘旅游"
+        ],
+        "wordPhrases": [
+          "transferring related 与转机/换乘相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "transfer travel 转机/换乘旅行"
+    ],
+    "mnemonic": "transfer→转机/换乘"
+  },
+  {
+    "id": 179,
+    "root": "transit",
+    "phonetic": "/ˈtrænzɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "过境",
+    "frequency": 179,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "transit",
+        "phonetic": "/transit/",
+        "partOfSpeech": "n.",
+        "meaning": "过境相关词",
+        "memoryTip": "transit 词根相关",
+        "root": "transit",
+        "rootPhonetic": "/ˈtrænzɪt/",
+        "rootMeaning": "过境",
+        "rootPhrases": [
+          "transit tourism 过境旅游"
+        ],
+        "wordPhrases": [
+          "transit related 与过境相关"
+        ]
+      },
+      {
+        "word": "transiting",
+        "phonetic": "/transiting/",
+        "partOfSpeech": "adj.",
+        "meaning": "过境相关词",
+        "memoryTip": "transit 词根相关",
+        "root": "transit",
+        "rootPhonetic": "/ˈtrænzɪt/",
+        "rootMeaning": "过境",
+        "rootPhrases": [
+          "transit tourism 过境旅游"
+        ],
+        "wordPhrases": [
+          "transiting related 与过境相关"
+        ]
+      },
+      {
+        "word": "transitpassenger",
+        "phonetic": "/transitpassenger/",
+        "partOfSpeech": "v.",
+        "meaning": "过境相关词",
+        "memoryTip": "transit 词根相关",
+        "root": "transit",
+        "rootPhonetic": "/ˈtrænzɪt/",
+        "rootMeaning": "过境",
+        "rootPhrases": [
+          "transit tourism 过境旅游"
+        ],
+        "wordPhrases": [
+          "transitpassenger related 与过境相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "transit travel 过境旅行"
+    ],
+    "mnemonic": "transit→过境"
+  },
+  {
+    "id": 180,
+    "root": "luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "行李",
+    "frequency": 180,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "luggage",
+        "phonetic": "/luggage/",
+        "partOfSpeech": "n.",
+        "meaning": "行李相关词",
+        "memoryTip": "luggage 词根相关",
+        "root": "luggage",
+        "rootPhonetic": "/ˈlʌɡɪdʒ/",
+        "rootMeaning": "行李",
+        "rootPhrases": [
+          "luggage tourism 行李旅游"
+        ],
+        "wordPhrases": [
+          "luggage related 与行李相关"
+        ]
+      },
+      {
+        "word": "baggage",
+        "phonetic": "/baggage/",
+        "partOfSpeech": "adj.",
+        "meaning": "行李相关词",
+        "memoryTip": "luggage 词根相关",
+        "root": "luggage",
+        "rootPhonetic": "/ˈlʌɡɪdʒ/",
+        "rootMeaning": "行李",
+        "rootPhrases": [
+          "luggage tourism 行李旅游"
+        ],
+        "wordPhrases": [
+          "baggage related 与行李相关"
+        ]
+      },
+      {
+        "word": "suitcase",
+        "phonetic": "/suitcase/",
+        "partOfSpeech": "v.",
+        "meaning": "行李相关词",
+        "memoryTip": "luggage 词根相关",
+        "root": "luggage",
+        "rootPhonetic": "/ˈlʌɡɪdʒ/",
+        "rootMeaning": "行李",
+        "rootPhrases": [
+          "luggage tourism 行李旅游"
+        ],
+        "wordPhrases": [
+          "suitcase related 与行李相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "luggage travel 行李旅行"
+    ],
+    "mnemonic": "luggage→行李"
+  },
+  {
+    "id": 181,
+    "root": "checkin",
+    "phonetic": "/tʃek ɪn/",
+    "partOfSpeech": "词根",
+    "meaning": "办理登机",
+    "frequency": 181,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "checkin",
+        "phonetic": "/checkin/",
+        "partOfSpeech": "n.",
+        "meaning": "办理登机相关词",
+        "memoryTip": "checkin 词根相关",
+        "root": "checkin",
+        "rootPhonetic": "/tʃek ɪn/",
+        "rootMeaning": "办理登机",
+        "rootPhrases": [
+          "checkin tourism 办理登机旅游"
+        ],
+        "wordPhrases": [
+          "checkin related 与办理登机相关"
+        ]
+      },
+      {
+        "word": "checkincounter",
+        "phonetic": "/checkincounter/",
+        "partOfSpeech": "adj.",
+        "meaning": "办理登机相关词",
+        "memoryTip": "checkin 词根相关",
+        "root": "checkin",
+        "rootPhonetic": "/tʃek ɪn/",
+        "rootMeaning": "办理登机",
+        "rootPhrases": [
+          "checkin tourism 办理登机旅游"
+        ],
+        "wordPhrases": [
+          "checkincounter related 与办理登机相关"
+        ]
+      },
+      {
+        "word": "checkintime",
+        "phonetic": "/checkintime/",
+        "partOfSpeech": "v.",
+        "meaning": "办理登机相关词",
+        "memoryTip": "checkin 词根相关",
+        "root": "checkin",
+        "rootPhonetic": "/tʃek ɪn/",
+        "rootMeaning": "办理登机",
+        "rootPhrases": [
+          "checkin tourism 办理登机旅游"
+        ],
+        "wordPhrases": [
+          "checkintime related 与办理登机相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "checkin travel 办理登机旅行"
+    ],
+    "mnemonic": "checkin→办理登机"
+  },
+  {
+    "id": 182,
+    "root": "board",
+    "phonetic": "/bɔːd/",
+    "partOfSpeech": "词根",
+    "meaning": "登机",
+    "frequency": 182,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "boarding",
+        "phonetic": "/boarding/",
+        "partOfSpeech": "n.",
+        "meaning": "登机相关词",
+        "memoryTip": "board 词根相关",
+        "root": "board",
+        "rootPhonetic": "/bɔːd/",
+        "rootMeaning": "登机",
+        "rootPhrases": [
+          "board tourism 登机旅游"
+        ],
+        "wordPhrases": [
+          "boarding related 与登机相关"
+        ]
+      },
+      {
+        "word": "board",
+        "phonetic": "/board/",
+        "partOfSpeech": "adj.",
+        "meaning": "登机相关词",
+        "memoryTip": "board 词根相关",
+        "root": "board",
+        "rootPhonetic": "/bɔːd/",
+        "rootMeaning": "登机",
+        "rootPhrases": [
+          "board tourism 登机旅游"
+        ],
+        "wordPhrases": [
+          "board related 与登机相关"
+        ]
+      },
+      {
+        "word": "boardingpass",
+        "phonetic": "/boardingpass/",
+        "partOfSpeech": "v.",
+        "meaning": "登机相关词",
+        "memoryTip": "board 词根相关",
+        "root": "board",
+        "rootPhonetic": "/bɔːd/",
+        "rootMeaning": "登机",
+        "rootPhrases": [
+          "board tourism 登机旅游"
+        ],
+        "wordPhrases": [
+          "boardingpass related 与登机相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "board travel 登机旅行"
+    ],
+    "mnemonic": "board→登机"
+  },
+  {
+    "id": 183,
+    "root": "lounge",
+    "phonetic": "/laʊndʒ/",
+    "partOfSpeech": "词根",
+    "meaning": "候机室",
+    "frequency": 183,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "lounge",
+        "phonetic": "/lounge/",
+        "partOfSpeech": "n.",
+        "meaning": "候机室相关词",
+        "memoryTip": "lounge 词根相关",
+        "root": "lounge",
+        "rootPhonetic": "/laʊndʒ/",
+        "rootMeaning": "候机室",
+        "rootPhrases": [
+          "lounge tourism 候机室旅游"
+        ],
+        "wordPhrases": [
+          "lounge related 与候机室相关"
+        ]
+      },
+      {
+        "word": "lounges",
+        "phonetic": "/lounges/",
+        "partOfSpeech": "adj.",
+        "meaning": "候机室相关词",
+        "memoryTip": "lounge 词根相关",
+        "root": "lounge",
+        "rootPhonetic": "/laʊndʒ/",
+        "rootMeaning": "候机室",
+        "rootPhrases": [
+          "lounge tourism 候机室旅游"
+        ],
+        "wordPhrases": [
+          "lounges related 与候机室相关"
+        ]
+      },
+      {
+        "word": "airportlounge",
+        "phonetic": "/airportlounge/",
+        "partOfSpeech": "v.",
+        "meaning": "候机室相关词",
+        "memoryTip": "lounge 词根相关",
+        "root": "lounge",
+        "rootPhonetic": "/laʊndʒ/",
+        "rootMeaning": "候机室",
+        "rootPhrases": [
+          "lounge tourism 候机室旅游"
+        ],
+        "wordPhrases": [
+          "airportlounge related 与候机室相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "lounge travel 候机室旅行"
+    ],
+    "mnemonic": "lounge→候机室"
+  },
+  {
+    "id": 184,
+    "root": "termin",
+    "phonetic": "/ˈtɜːmɪnəl/",
+    "partOfSpeech": "词根",
+    "meaning": "航站楼",
+    "frequency": 184,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "terminal",
+        "phonetic": "/terminal/",
+        "partOfSpeech": "n.",
+        "meaning": "航站楼相关词",
+        "memoryTip": "termin 词根相关",
+        "root": "termin",
+        "rootPhonetic": "/ˈtɜːmɪnəl/",
+        "rootMeaning": "航站楼",
+        "rootPhrases": [
+          "termin tourism 航站楼旅游"
+        ],
+        "wordPhrases": [
+          "terminal related 与航站楼相关"
+        ]
+      },
+      {
+        "word": "terminals",
+        "phonetic": "/terminals/",
+        "partOfSpeech": "adj.",
+        "meaning": "航站楼相关词",
+        "memoryTip": "termin 词根相关",
+        "root": "termin",
+        "rootPhonetic": "/ˈtɜːmɪnəl/",
+        "rootMeaning": "航站楼",
+        "rootPhrases": [
+          "termin tourism 航站楼旅游"
+        ],
+        "wordPhrases": [
+          "terminals related 与航站楼相关"
+        ]
+      },
+      {
+        "word": "terminalbuilding",
+        "phonetic": "/terminalbuilding/",
+        "partOfSpeech": "v.",
+        "meaning": "航站楼相关词",
+        "memoryTip": "termin 词根相关",
+        "root": "termin",
+        "rootPhonetic": "/ˈtɜːmɪnəl/",
+        "rootMeaning": "航站楼",
+        "rootPhrases": [
+          "termin tourism 航站楼旅游"
+        ],
+        "wordPhrases": [
+          "terminalbuilding related 与航站楼相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "termin travel 航站楼旅行"
+    ],
+    "mnemonic": "termin→航站楼"
+  },
+  {
+    "id": 185,
+    "root": "gate",
+    "phonetic": "/ɡeɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "登机口",
+    "frequency": 185,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "gate",
+        "phonetic": "/gate/",
+        "partOfSpeech": "n.",
+        "meaning": "登机口相关词",
+        "memoryTip": "gate 词根相关",
+        "root": "gate",
+        "rootPhonetic": "/ɡeɪt/",
+        "rootMeaning": "登机口",
+        "rootPhrases": [
+          "gate tourism 登机口旅游"
+        ],
+        "wordPhrases": [
+          "gate related 与登机口相关"
+        ]
+      },
+      {
+        "word": "gates",
+        "phonetic": "/gates/",
+        "partOfSpeech": "adj.",
+        "meaning": "登机口相关词",
+        "memoryTip": "gate 词根相关",
+        "root": "gate",
+        "rootPhonetic": "/ɡeɪt/",
+        "rootMeaning": "登机口",
+        "rootPhrases": [
+          "gate tourism 登机口旅游"
+        ],
+        "wordPhrases": [
+          "gates related 与登机口相关"
+        ]
+      },
+      {
+        "word": "boardinggate",
+        "phonetic": "/boardinggate/",
+        "partOfSpeech": "v.",
+        "meaning": "登机口相关词",
+        "memoryTip": "gate 词根相关",
+        "root": "gate",
+        "rootPhonetic": "/ɡeɪt/",
+        "rootMeaning": "登机口",
+        "rootPhrases": [
+          "gate tourism 登机口旅游"
+        ],
+        "wordPhrases": [
+          "boardinggate related 与登机口相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "gate travel 登机口旅行"
+    ],
+    "mnemonic": "gate→登机口"
+  },
+  {
+    "id": 186,
+    "root": "delay",
+    "phonetic": "/dɪˈleɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "延误",
+    "frequency": 186,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "delay",
+        "phonetic": "/delay/",
+        "partOfSpeech": "n.",
+        "meaning": "延误相关词",
+        "memoryTip": "delay 词根相关",
+        "root": "delay",
+        "rootPhonetic": "/dɪˈleɪ/",
+        "rootMeaning": "延误",
+        "rootPhrases": [
+          "delay tourism 延误旅游"
+        ],
+        "wordPhrases": [
+          "delay related 与延误相关"
+        ]
+      },
+      {
+        "word": "delayed",
+        "phonetic": "/delayed/",
+        "partOfSpeech": "adj.",
+        "meaning": "延误相关词",
+        "memoryTip": "delay 词根相关",
+        "root": "delay",
+        "rootPhonetic": "/dɪˈleɪ/",
+        "rootMeaning": "延误",
+        "rootPhrases": [
+          "delay tourism 延误旅游"
+        ],
+        "wordPhrases": [
+          "delayed related 与延误相关"
+        ]
+      },
+      {
+        "word": "delays",
+        "phonetic": "/delays/",
+        "partOfSpeech": "v.",
+        "meaning": "延误相关词",
+        "memoryTip": "delay 词根相关",
+        "root": "delay",
+        "rootPhonetic": "/dɪˈleɪ/",
+        "rootMeaning": "延误",
+        "rootPhrases": [
+          "delay tourism 延误旅游"
+        ],
+        "wordPhrases": [
+          "delays related 与延误相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "delay travel 延误旅行"
+    ],
+    "mnemonic": "delay→延误"
+  },
+  {
+    "id": 187,
+    "root": "cancel",
+    "phonetic": "/ˈkænsəl/",
+    "partOfSpeech": "词根",
+    "meaning": "取消",
+    "frequency": 187,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "cancel",
+        "phonetic": "/cancel/",
+        "partOfSpeech": "n.",
+        "meaning": "取消相关词",
+        "memoryTip": "cancel 词根相关",
+        "root": "cancel",
+        "rootPhonetic": "/ˈkænsəl/",
+        "rootMeaning": "取消",
+        "rootPhrases": [
+          "cancel tourism 取消旅游"
+        ],
+        "wordPhrases": [
+          "cancel related 与取消相关"
+        ]
+      },
+      {
+        "word": "cancellation",
+        "phonetic": "/cancellation/",
+        "partOfSpeech": "adj.",
+        "meaning": "取消相关词",
+        "memoryTip": "cancel 词根相关",
+        "root": "cancel",
+        "rootPhonetic": "/ˈkænsəl/",
+        "rootMeaning": "取消",
+        "rootPhrases": [
+          "cancel tourism 取消旅游"
+        ],
+        "wordPhrases": [
+          "cancellation related 与取消相关"
+        ]
+      },
+      {
+        "word": "cancelled",
+        "phonetic": "/cancelled/",
+        "partOfSpeech": "v.",
+        "meaning": "取消相关词",
+        "memoryTip": "cancel 词根相关",
+        "root": "cancel",
+        "rootPhonetic": "/ˈkænsəl/",
+        "rootMeaning": "取消",
+        "rootPhrases": [
+          "cancel tourism 取消旅游"
+        ],
+        "wordPhrases": [
+          "cancelled related 与取消相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "cancel travel 取消旅行"
+    ],
+    "mnemonic": "cancel→取消"
+  },
+  {
+    "id": 188,
+    "root": "overbook",
+    "phonetic": "/ˌəʊvəˈbʊk/",
+    "partOfSpeech": "词根",
+    "meaning": "超售",
+    "frequency": 188,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "overbook",
+        "phonetic": "/overbook/",
+        "partOfSpeech": "n.",
+        "meaning": "超售相关词",
+        "memoryTip": "overbook 词根相关",
+        "root": "overbook",
+        "rootPhonetic": "/ˌəʊvəˈbʊk/",
+        "rootMeaning": "超售",
+        "rootPhrases": [
+          "overbook tourism 超售旅游"
+        ],
+        "wordPhrases": [
+          "overbook related 与超售相关"
+        ]
+      },
+      {
+        "word": "overbooked",
+        "phonetic": "/overbooked/",
+        "partOfSpeech": "adj.",
+        "meaning": "超售相关词",
+        "memoryTip": "overbook 词根相关",
+        "root": "overbook",
+        "rootPhonetic": "/ˌəʊvəˈbʊk/",
+        "rootMeaning": "超售",
+        "rootPhrases": [
+          "overbook tourism 超售旅游"
+        ],
+        "wordPhrases": [
+          "overbooked related 与超售相关"
+        ]
+      },
+      {
+        "word": "overbooking",
+        "phonetic": "/overbooking/",
+        "partOfSpeech": "v.",
+        "meaning": "超售相关词",
+        "memoryTip": "overbook 词根相关",
+        "root": "overbook",
+        "rootPhonetic": "/ˌəʊvəˈbʊk/",
+        "rootMeaning": "超售",
+        "rootPhrases": [
+          "overbook tourism 超售旅游"
+        ],
+        "wordPhrases": [
+          "overbooking related 与超售相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "overbook travel 超售旅行"
+    ],
+    "mnemonic": "overbook→超售"
+  },
+  {
+    "id": 189,
+    "root": "compens",
+    "phonetic": "/ˈkɒmpənseɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "补偿",
+    "frequency": 189,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "compensation",
+        "phonetic": "/compensation/",
+        "partOfSpeech": "n.",
+        "meaning": "补偿相关词",
+        "memoryTip": "compens 词根相关",
+        "root": "compens",
+        "rootPhonetic": "/ˈkɒmpənseɪt/",
+        "rootMeaning": "补偿",
+        "rootPhrases": [
+          "compens tourism 补偿旅游"
+        ],
+        "wordPhrases": [
+          "compensation related 与补偿相关"
+        ]
+      },
+      {
+        "word": "compensate",
+        "phonetic": "/compensate/",
+        "partOfSpeech": "adj.",
+        "meaning": "补偿相关词",
+        "memoryTip": "compens 词根相关",
+        "root": "compens",
+        "rootPhonetic": "/ˈkɒmpənseɪt/",
+        "rootMeaning": "补偿",
+        "rootPhrases": [
+          "compens tourism 补偿旅游"
+        ],
+        "wordPhrases": [
+          "compensate related 与补偿相关"
+        ]
+      },
+      {
+        "word": "compensated",
+        "phonetic": "/compensated/",
+        "partOfSpeech": "v.",
+        "meaning": "补偿相关词",
+        "memoryTip": "compens 词根相关",
+        "root": "compens",
+        "rootPhonetic": "/ˈkɒmpənseɪt/",
+        "rootMeaning": "补偿",
+        "rootPhrases": [
+          "compens tourism 补偿旅游"
+        ],
+        "wordPhrases": [
+          "compensated related 与补偿相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "compens travel 补偿旅行"
+    ],
+    "mnemonic": "compens→补偿"
+  },
+  {
+    "id": 190,
+    "root": "refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "partOfSpeech": "词根",
+    "meaning": "退款",
+    "frequency": 190,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "refund",
+        "phonetic": "/refund/",
+        "partOfSpeech": "n.",
+        "meaning": "退款相关词",
+        "memoryTip": "refund 词根相关",
+        "root": "refund",
+        "rootPhonetic": "/ˈriːfʌnd/",
+        "rootMeaning": "退款",
+        "rootPhrases": [
+          "refund tourism 退款旅游"
+        ],
+        "wordPhrases": [
+          "refund related 与退款相关"
+        ]
+      },
+      {
+        "word": "refunds",
+        "phonetic": "/refunds/",
+        "partOfSpeech": "adj.",
+        "meaning": "退款相关词",
+        "memoryTip": "refund 词根相关",
+        "root": "refund",
+        "rootPhonetic": "/ˈriːfʌnd/",
+        "rootMeaning": "退款",
+        "rootPhrases": [
+          "refund tourism 退款旅游"
+        ],
+        "wordPhrases": [
+          "refunds related 与退款相关"
+        ]
+      },
+      {
+        "word": "refundable",
+        "phonetic": "/refundable/",
+        "partOfSpeech": "v.",
+        "meaning": "退款相关词",
+        "memoryTip": "refund 词根相关",
+        "root": "refund",
+        "rootPhonetic": "/ˈriːfʌnd/",
+        "rootMeaning": "退款",
+        "rootPhrases": [
+          "refund tourism 退款旅游"
+        ],
+        "wordPhrases": [
+          "refundable related 与退款相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "refund travel 退款旅行"
+    ],
+    "mnemonic": "refund→退款"
+  },
+  {
+    "id": 191,
+    "root": "voucher",
+    "phonetic": "/ˈvaʊtʃə/",
+    "partOfSpeech": "词根",
+    "meaning": "代金券",
+    "frequency": 191,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "voucher",
+        "phonetic": "/voucher/",
+        "partOfSpeech": "n.",
+        "meaning": "代金券相关词",
+        "memoryTip": "voucher 词根相关",
+        "root": "voucher",
+        "rootPhonetic": "/ˈvaʊtʃə/",
+        "rootMeaning": "代金券",
+        "rootPhrases": [
+          "voucher tourism 代金券旅游"
+        ],
+        "wordPhrases": [
+          "voucher related 与代金券相关"
+        ]
+      },
+      {
+        "word": "vouchers",
+        "phonetic": "/vouchers/",
+        "partOfSpeech": "adj.",
+        "meaning": "代金券相关词",
+        "memoryTip": "voucher 词根相关",
+        "root": "voucher",
+        "rootPhonetic": "/ˈvaʊtʃə/",
+        "rootMeaning": "代金券",
+        "rootPhrases": [
+          "voucher tourism 代金券旅游"
+        ],
+        "wordPhrases": [
+          "vouchers related 与代金券相关"
+        ]
+      },
+      {
+        "word": "giftvoucher",
+        "phonetic": "/giftvoucher/",
+        "partOfSpeech": "v.",
+        "meaning": "代金券相关词",
+        "memoryTip": "voucher 词根相关",
+        "root": "voucher",
+        "rootPhonetic": "/ˈvaʊtʃə/",
+        "rootMeaning": "代金券",
+        "rootPhrases": [
+          "voucher tourism 代金券旅游"
+        ],
+        "wordPhrases": [
+          "giftvoucher related 与代金券相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "voucher travel 代金券旅行"
+    ],
+    "mnemonic": "voucher→代金券"
+  },
+  {
+    "id": 192,
+    "root": "itinerary",
+    "phonetic": "/aɪˈtɪnərərɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "行程单",
+    "frequency": 192,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "itinerary",
+        "phonetic": "/itinerary/",
+        "partOfSpeech": "n.",
+        "meaning": "行程单相关词",
+        "memoryTip": "itinerary 词根相关",
+        "root": "itinerary",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程单",
+        "rootPhrases": [
+          "itinerary tourism 行程单旅游"
+        ],
+        "wordPhrases": [
+          "itinerary related 与行程单相关"
+        ]
+      },
+      {
+        "word": "itineraries",
+        "phonetic": "/itineraries/",
+        "partOfSpeech": "adj.",
+        "meaning": "行程单相关词",
+        "memoryTip": "itinerary 词根相关",
+        "root": "itinerary",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程单",
+        "rootPhrases": [
+          "itinerary tourism 行程单旅游"
+        ],
+        "wordPhrases": [
+          "itineraries related 与行程单相关"
+        ]
+      },
+      {
+        "word": "travelplan",
+        "phonetic": "/travelplan/",
+        "partOfSpeech": "v.",
+        "meaning": "行程单相关词",
+        "memoryTip": "itinerary 词根相关",
+        "root": "itinerary",
+        "rootPhonetic": "/aɪˈtɪnərərɪ/",
+        "rootMeaning": "行程单",
+        "rootPhrases": [
+          "itinerary tourism 行程单旅游"
+        ],
+        "wordPhrases": [
+          "travelplan related 与行程单相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "itinerary travel 行程单旅行"
+    ],
+    "mnemonic": "itinerary→行程单"
+  },
+  {
+    "id": 193,
+    "root": "guide",
+    "phonetic": "/ɡaɪd/",
+    "partOfSpeech": "词根",
+    "meaning": "导游",
+    "frequency": 193,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "guide",
+        "phonetic": "/guide/",
+        "partOfSpeech": "n.",
+        "meaning": "导游相关词",
+        "memoryTip": "guide 词根相关",
+        "root": "guide",
+        "rootPhonetic": "/ɡaɪd/",
+        "rootMeaning": "导游",
+        "rootPhrases": [
+          "guide tourism 导游旅游"
+        ],
+        "wordPhrases": [
+          "guide related 与导游相关"
+        ]
+      },
+      {
+        "word": "guides",
+        "phonetic": "/guides/",
+        "partOfSpeech": "adj.",
+        "meaning": "导游相关词",
+        "memoryTip": "guide 词根相关",
+        "root": "guide",
+        "rootPhonetic": "/ɡaɪd/",
+        "rootMeaning": "导游",
+        "rootPhrases": [
+          "guide tourism 导游旅游"
+        ],
+        "wordPhrases": [
+          "guides related 与导游相关"
+        ]
+      },
+      {
+        "word": "tourguide",
+        "phonetic": "/tourguide/",
+        "partOfSpeech": "v.",
+        "meaning": "导游相关词",
+        "memoryTip": "guide 词根相关",
+        "root": "guide",
+        "rootPhonetic": "/ɡaɪd/",
+        "rootMeaning": "导游",
+        "rootPhrases": [
+          "guide tourism 导游旅游"
+        ],
+        "wordPhrases": [
+          "tourguide related 与导游相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "guide travel 导游旅行"
+    ],
+    "mnemonic": "guide→导游"
+  },
+  {
+    "id": 194,
+    "root": "escort",
+    "phonetic": "/ɪˈskɔːt/",
+    "partOfSpeech": "词根",
+    "meaning": "陪同",
+    "frequency": 194,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "escort",
+        "phonetic": "/escort/",
+        "partOfSpeech": "n.",
+        "meaning": "陪同相关词",
+        "memoryTip": "escort 词根相关",
+        "root": "escort",
+        "rootPhonetic": "/ɪˈskɔːt/",
+        "rootMeaning": "陪同",
+        "rootPhrases": [
+          "escort tourism 陪同旅游"
+        ],
+        "wordPhrases": [
+          "escort related 与陪同相关"
+        ]
+      },
+      {
+        "word": "escorted",
+        "phonetic": "/escorted/",
+        "partOfSpeech": "adj.",
+        "meaning": "陪同相关词",
+        "memoryTip": "escort 词根相关",
+        "root": "escort",
+        "rootPhonetic": "/ɪˈskɔːt/",
+        "rootMeaning": "陪同",
+        "rootPhrases": [
+          "escort tourism 陪同旅游"
+        ],
+        "wordPhrases": [
+          "escorted related 与陪同相关"
+        ]
+      },
+      {
+        "word": "escorting",
+        "phonetic": "/escorting/",
+        "partOfSpeech": "v.",
+        "meaning": "陪同相关词",
+        "memoryTip": "escort 词根相关",
+        "root": "escort",
+        "rootPhonetic": "/ɪˈskɔːt/",
+        "rootMeaning": "陪同",
+        "rootPhrases": [
+          "escort tourism 陪同旅游"
+        ],
+        "wordPhrases": [
+          "escorting related 与陪同相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "escort travel 陪同旅行"
+    ],
+    "mnemonic": "escort→陪同"
+  },
+  {
+    "id": 195,
+    "root": "interpret",
+    "phonetic": "/ɪnˈtɜːprɪt/",
+    "partOfSpeech": "词根",
+    "meaning": "口译",
+    "frequency": 195,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "interpreter",
+        "phonetic": "/interpreter/",
+        "partOfSpeech": "n.",
+        "meaning": "口译相关词",
+        "memoryTip": "interpret 词根相关",
+        "root": "interpret",
+        "rootPhonetic": "/ɪnˈtɜːprɪt/",
+        "rootMeaning": "口译",
+        "rootPhrases": [
+          "interpret tourism 口译旅游"
+        ],
+        "wordPhrases": [
+          "interpreter related 与口译相关"
+        ]
+      },
+      {
+        "word": "interpret",
+        "phonetic": "/interpret/",
+        "partOfSpeech": "adj.",
+        "meaning": "口译相关词",
+        "memoryTip": "interpret 词根相关",
+        "root": "interpret",
+        "rootPhonetic": "/ɪnˈtɜːprɪt/",
+        "rootMeaning": "口译",
+        "rootPhrases": [
+          "interpret tourism 口译旅游"
+        ],
+        "wordPhrases": [
+          "interpret related 与口译相关"
+        ]
+      },
+      {
+        "word": "interpretation",
+        "phonetic": "/interpretation/",
+        "partOfSpeech": "v.",
+        "meaning": "口译相关词",
+        "memoryTip": "interpret 词根相关",
+        "root": "interpret",
+        "rootPhonetic": "/ɪnˈtɜːprɪt/",
+        "rootMeaning": "口译",
+        "rootPhrases": [
+          "interpret tourism 口译旅游"
+        ],
+        "wordPhrases": [
+          "interpretation related 与口译相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "interpret travel 口译旅行"
+    ],
+    "mnemonic": "interpret→口译"
+  },
+  {
+    "id": 196,
+    "root": "season",
+    "phonetic": "/ˈsiːzən/",
+    "partOfSpeech": "词根",
+    "meaning": "季节",
+    "frequency": 196,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "season",
+        "phonetic": "/season/",
+        "partOfSpeech": "n.",
+        "meaning": "季节相关词",
+        "memoryTip": "season 词根相关",
+        "root": "season",
+        "rootPhonetic": "/ˈsiːzən/",
+        "rootMeaning": "季节",
+        "rootPhrases": [
+          "season tourism 季节旅游"
+        ],
+        "wordPhrases": [
+          "season related 与季节相关"
+        ]
+      },
+      {
+        "word": "seasonal",
+        "phonetic": "/seasonal/",
+        "partOfSpeech": "adj.",
+        "meaning": "季节相关词",
+        "memoryTip": "season 词根相关",
+        "root": "season",
+        "rootPhonetic": "/ˈsiːzən/",
+        "rootMeaning": "季节",
+        "rootPhrases": [
+          "season tourism 季节旅游"
+        ],
+        "wordPhrases": [
+          "seasonal related 与季节相关"
+        ]
+      },
+      {
+        "word": "peakseason",
+        "phonetic": "/peakseason/",
+        "partOfSpeech": "v.",
+        "meaning": "季节相关词",
+        "memoryTip": "season 词根相关",
+        "root": "season",
+        "rootPhonetic": "/ˈsiːzən/",
+        "rootMeaning": "季节",
+        "rootPhrases": [
+          "season tourism 季节旅游"
+        ],
+        "wordPhrases": [
+          "peakseason related 与季节相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "season travel 季节旅行"
+    ],
+    "mnemonic": "season→季节"
+  },
+  {
+    "id": 197,
+    "root": "offpeak",
+    "phonetic": "/ɒf piːk/",
+    "partOfSpeech": "词根",
+    "meaning": "淡季",
+    "frequency": 197,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "offpeak",
+        "phonetic": "/offpeak/",
+        "partOfSpeech": "n.",
+        "meaning": "淡季相关词",
+        "memoryTip": "offpeak 词根相关",
+        "root": "offpeak",
+        "rootPhonetic": "/ɒf piːk/",
+        "rootMeaning": "淡季",
+        "rootPhrases": [
+          "offpeak tourism 淡季旅游"
+        ],
+        "wordPhrases": [
+          "offpeak related 与淡季相关"
+        ]
+      },
+      {
+        "word": "offpeaktimes",
+        "phonetic": "/offpeaktimes/",
+        "partOfSpeech": "adj.",
+        "meaning": "淡季相关词",
+        "memoryTip": "offpeak 词根相关",
+        "root": "offpeak",
+        "rootPhonetic": "/ɒf piːk/",
+        "rootMeaning": "淡季",
+        "rootPhrases": [
+          "offpeak tourism 淡季旅游"
+        ],
+        "wordPhrases": [
+          "offpeaktimes related 与淡季相关"
+        ]
+      },
+      {
+        "word": "offpeakrate",
+        "phonetic": "/offpeakrate/",
+        "partOfSpeech": "v.",
+        "meaning": "淡季相关词",
+        "memoryTip": "offpeak 词根相关",
+        "root": "offpeak",
+        "rootPhonetic": "/ɒf piːk/",
+        "rootMeaning": "淡季",
+        "rootPhrases": [
+          "offpeak tourism 淡季旅游"
+        ],
+        "wordPhrases": [
+          "offpeakrate related 与淡季相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "offpeak travel 淡季旅行"
+    ],
+    "mnemonic": "offpeak→淡季"
+  },
+  {
+    "id": 198,
+    "root": "vacat",
+    "phonetic": "/vəˈkeɪʃən/",
+    "partOfSpeech": "词根",
+    "meaning": "假期",
+    "frequency": 198,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "vacation",
+        "phonetic": "/vacation/",
+        "partOfSpeech": "n.",
+        "meaning": "假期相关词",
+        "memoryTip": "vacat 词根相关",
+        "root": "vacat",
+        "rootPhonetic": "/vəˈkeɪʃən/",
+        "rootMeaning": "假期",
+        "rootPhrases": [
+          "vacat tourism 假期旅游"
+        ],
+        "wordPhrases": [
+          "vacation related 与假期相关"
+        ]
+      },
+      {
+        "word": "vacations",
+        "phonetic": "/vacations/",
+        "partOfSpeech": "adj.",
+        "meaning": "假期相关词",
+        "memoryTip": "vacat 词根相关",
+        "root": "vacat",
+        "rootPhonetic": "/vəˈkeɪʃən/",
+        "rootMeaning": "假期",
+        "rootPhrases": [
+          "vacat tourism 假期旅游"
+        ],
+        "wordPhrases": [
+          "vacations related 与假期相关"
+        ]
+      },
+      {
+        "word": "vacationer",
+        "phonetic": "/vacationer/",
+        "partOfSpeech": "v.",
+        "meaning": "假期相关词",
+        "memoryTip": "vacat 词根相关",
+        "root": "vacat",
+        "rootPhonetic": "/vəˈkeɪʃən/",
+        "rootMeaning": "假期",
+        "rootPhrases": [
+          "vacat tourism 假期旅游"
+        ],
+        "wordPhrases": [
+          "vacationer related 与假期相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "vacat travel 假期旅行"
+    ],
+    "mnemonic": "vacat→假期"
+  },
+  {
+    "id": 199,
+    "root": "holiday",
+    "phonetic": "/ˈhɒlədeɪ/",
+    "partOfSpeech": "词根",
+    "meaning": "假日",
+    "frequency": 199,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "holiday",
+        "phonetic": "/holiday/",
+        "partOfSpeech": "n.",
+        "meaning": "假日相关词",
+        "memoryTip": "holiday 词根相关",
+        "root": "holiday",
+        "rootPhonetic": "/ˈhɒlədeɪ/",
+        "rootMeaning": "假日",
+        "rootPhrases": [
+          "holiday tourism 假日旅游"
+        ],
+        "wordPhrases": [
+          "holiday related 与假日相关"
+        ]
+      },
+      {
+        "word": "holidays",
+        "phonetic": "/holidays/",
+        "partOfSpeech": "adj.",
+        "meaning": "假日相关词",
+        "memoryTip": "holiday 词根相关",
+        "root": "holiday",
+        "rootPhonetic": "/ˈhɒlədeɪ/",
+        "rootMeaning": "假日",
+        "rootPhrases": [
+          "holiday tourism 假日旅游"
+        ],
+        "wordPhrases": [
+          "holidays related 与假日相关"
+        ]
+      },
+      {
+        "word": "holidaymaker",
+        "phonetic": "/holidaymaker/",
+        "partOfSpeech": "v.",
+        "meaning": "假日相关词",
+        "memoryTip": "holiday 词根相关",
+        "root": "holiday",
+        "rootPhonetic": "/ˈhɒlədeɪ/",
+        "rootMeaning": "假日",
+        "rootPhrases": [
+          "holiday tourism 假日旅游"
+        ],
+        "wordPhrases": [
+          "holidaymaker related 与假日相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "holiday travel 假日旅行"
+    ],
+    "mnemonic": "holiday→假日"
+  },
+  {
+    "id": 200,
+    "root": "travel",
+    "phonetic": "/ˈtrævəl/",
+    "partOfSpeech": "词根",
+    "meaning": "旅行",
+    "frequency": 200,
+    "category": "旅游",
+    "words": [
+      {
+        "word": "travel",
+        "phonetic": "/ˈtrævəl/",
+        "partOfSpeech": "v.",
+        "meaning": "旅行",
+        "memoryTip": "travel 旅行相关",
+        "root": "travel",
+        "rootPhonetic": "/ˈtrævəl/",
+        "rootMeaning": "旅行",
+        "rootPhrases": [
+          "travel agency 旅行社"
+        ],
+        "wordPhrases": [
+          "travel related 与旅行相关"
+        ]
+      },
+      {
+        "word": "traveler",
+        "phonetic": "/ˈtrævələ/",
+        "partOfSpeech": "n.",
+        "meaning": "旅行者",
+        "memoryTip": "travel 旅行相关",
+        "root": "travel",
+        "rootPhonetic": "/ˈtrævəl/",
+        "rootMeaning": "旅行",
+        "rootPhrases": [
+          "travel guide 旅游指南"
+        ],
+        "wordPhrases": [
+          "traveler related 与旅行者相关"
+        ]
+      }
+    ],
+    "phrases": [
+      "travel plan 旅行计划"
+    ],
+    "mnemonic": "travel→旅行"
   }
 ]
