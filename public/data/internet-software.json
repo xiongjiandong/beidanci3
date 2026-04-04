@@ -4387,10 +4387,10 @@
       }
     ],
     "phrases": [
-      "compile code (待翻译)",
-      "compile error (待翻译)",
-      "C compiler (待翻译)",
-      "compile time (待翻译)"
+      "compile code",
+      "compile error",
+      "C compiler",
+      "compile time"
     ],
     "mnemonic": "compile（堆一起）→ 将代码堆成可执行文件 → 编译",
     "meaning": "堆；堆积"
@@ -4469,10 +4469,10 @@
       }
     ],
     "phrases": [
-      "deploy application (待翻译)",
-      "server deployment (待翻译)",
-      "deploy to cloud (待翻译)",
-      "deployment process (待翻译)"
+      "deploy application",
+      "server deployment",
+      "deploy to cloud",
+      "deployment process"
     ],
     "mnemonic": "deploy（展开）→ 将应用发布到服务器 → 部署",
     "meaning": "展开；策略"
@@ -4575,10 +4575,10 @@
       }
     ],
     "phrases": [
-      "software testing (待翻译)",
-      "test case (待翻译)",
-      "automated test (待翻译)",
-      "test result (待翻译)"
+      "software testing",
+      "test case",
+      "automated test",
+      "test result"
     ],
     "mnemonic": "test（测试）→ 验证程序是否正常 → 测试",
     "meaning": "测试"
@@ -4681,10 +4681,10 @@
       }
     ],
     "phrases": [
-      "latest version (待翻译)",
-      "version number (待翻译)",
-      "release version (待翻译)",
-      "beta version (待翻译)"
+      "latest version",
+      "version number",
+      "release version",
+      "beta version"
     ],
     "mnemonic": "version（转变）→ 每次更新都是转变 → 版本",
     "meaning": "版本"
@@ -4875,10 +4875,10 @@
       }
     ],
     "phrases": [
-      "security patch (待翻译)",
-      "patch update (待翻译)",
-      "apply patch (待翻译)",
-      "patch management (待翻译)"
+      "security patch",
+      "patch update",
+      "apply patch",
+      "patch management"
     ],
     "mnemonic": "patch（补片）→ 修补程序的缺口 → 补丁",
     "meaning": "补丁"
@@ -4981,10 +4981,10 @@
       }
     ],
     "phrases": [
-      "config file (待翻译)",
-      "system configuration (待翻译)",
-      "configure settings (待翻译)",
-      "config panel (待翻译)"
+      "config file",
+      "system configuration",
+      "configure settings",
+      "config panel"
     ],
     "mnemonic": "config（配置）→ 系统参数设置 → 配置",
     "meaning": "配置"
@@ -5087,10 +5087,10 @@
       }
     ],
     "phrases": [
-      "run script (待翻译)",
-      "script file (待翻译)",
-      "batch script (待翻译)",
-      "script language (待翻译)"
+      "run script",
+      "script file",
+      "batch script",
+      "script language"
     ],
     "mnemonic": "script（写）→ 自动执行的指令集 → 脚本",
     "meaning": "脚本"
@@ -5193,10 +5193,10 @@
       }
     ],
     "phrases": [
-      "API call (待翻译)",
-      "public API (待翻译)",
-      "API key (待翻译)",
-      "API documentation (待翻译)"
+      "API call",
+      "public API",
+      "API key",
+      "API documentation"
     ],
     "mnemonic": "API → 程序之间的桥梁 → 接口",
     "meaning": "应用程序接口"
@@ -5299,10 +5299,10 @@
       }
     ],
     "phrases": [
-      "Android SDK (待翻译)",
-      "iOS SDK (待翻译)",
-      "SDK download (待翻译)",
-      "SDK documentation (待翻译)"
+      "Android SDK",
+      "iOS SDK",
+      "SDK download",
+      "SDK documentation"
     ],
     "mnemonic": "SDK → 开发应用的工具集 → 开发包",
     "meaning": "软件开发工具包"
@@ -5405,10 +5405,10 @@
       }
     ],
     "phrases": [
-      "frontend framework (待翻译)",
-      "frontend development (待翻译)",
-      "frontend engineer (待翻译)",
-      "frontend technology (待翻译)"
+      "frontend framework",
+      "frontend development",
+      "frontend engineer",
+      "frontend technology"
     ],
     "mnemonic": "frontend（前端）→ 用户直接看到的部分 → 前端",
     "meaning": "前端"
@@ -5511,10 +5511,10 @@
       }
     ],
     "phrases": [
-      "backend service (待翻译)",
-      "backend development (待翻译)",
-      "backend engineer (待翻译)",
-      "backend API (待翻译)"
+      "backend service",
+      "backend development",
+      "backend engineer",
+      "backend API"
     ],
     "mnemonic": "backend（后端）→ 服务器端处理逻辑 → 后端",
     "meaning": "后端"
@@ -5617,10 +5617,10 @@
       }
     ],
     "phrases": [
-      "cloud platform (待翻译)",
-      "cloud server (待翻译)",
-      "cloud native (待翻译)",
-      "deploy to cloud (待翻译)"
+      "cloud platform",
+      "cloud server",
+      "cloud native",
+      "deploy to cloud"
     ],
     "mnemonic": "cloud（云）→ 像云一样分布的计算资源 → 云计算",
     "meaning": "云"
@@ -5723,10 +5723,10 @@
       }
     ],
     "phrases": [
-      "container image (待翻译)",
-      "container orchestration (待翻译)",
-      "run container (待翻译)",
-      "container engine (待翻译)"
+      "container image",
+      "container orchestration",
+      "run container",
+      "container engine"
     ],
     "mnemonic": "container（容器）→ 打包应用的标准化单元 → 容器",
     "meaning": "容器"
@@ -5829,10 +5829,10 @@
       }
     ],
     "phrases": [
-      "git clone (待翻译)",
-      "git push (待翻译)",
-      "git pull (待翻译)",
-      "git branch (待翻译)"
+      "git clone",
+      "git push",
+      "git pull",
+      "git branch"
     ],
     "mnemonic": "git → 分布式版本控制系统 → Git",
     "meaning": "Git版本控制"
@@ -5935,10 +5935,10 @@
       }
     ],
     "phrases": [
-      "create branch (待翻译)",
-      "switch branch (待翻译)",
-      "merge branch (待翻译)",
-      "delete branch (待翻译)"
+      "create branch",
+      "switch branch",
+      "merge branch",
+      "delete branch"
     ],
     "mnemonic": "branch（树枝）→ 代码的分叉 → 分支",
     "meaning": "分支"
@@ -6041,10 +6041,10 @@
       }
     ],
     "phrases": [
-      "git pull (待翻译)",
-      "pull latest (待翻译)",
-      "pull changes (待翻译)",
-      "pull image (待翻译)"
+      "git pull",
+      "pull latest",
+      "pull changes",
+      "pull image"
     ],
     "mnemonic": "pull（拉）→ 将远程代码拉到本地 → 拉取",
     "meaning": "拉取"
@@ -6147,10 +6147,10 @@
       }
     ],
     "phrases": [
-      "git push (待翻译)",
-      "push to remote (待翻译)",
-      "push changes (待翻译)",
-      "push commit (待翻译)"
+      "git push",
+      "push to remote",
+      "push changes",
+      "push commit"
     ],
     "mnemonic": "push（推）→ 将本地代码推到远程 → 推送",
     "meaning": "推送"
@@ -6253,10 +6253,10 @@
       }
     ],
     "phrases": [
-      "make commit (待翻译)",
-      "commit changes (待翻译)",
-      "commit history (待翻译)",
-      "commit hash (待翻译)"
+      "make commit",
+      "commit changes",
+      "commit history",
+      "commit hash"
     ],
     "mnemonic": "commit（委托）→ 将代码委托给仓库 → 提交",
     "meaning": "提交"
@@ -6359,10 +6359,10 @@
       }
     ],
     "phrases": [
-      "merge branch (待翻译)",
-      "merge request (待翻译)",
-      "auto merge (待翻译)",
-      "merge conflict (待翻译)"
+      "merge branch",
+      "merge request",
+      "auto merge",
+      "merge conflict"
     ],
     "mnemonic": "merge（合并）→ 将分支合并到主线 → 合并",
     "meaning": "合并"
@@ -6465,10 +6465,10 @@
       }
     ],
     "phrases": [
-      "error log (待翻译)",
-      "system log (待翻译)",
-      "access log (待翻译)",
-      "log level (待翻译)"
+      "error log",
+      "system log",
+      "access log",
+      "log level"
     ],
     "mnemonic": "log（记录）→ 程序运行记录 → 日志",
     "meaning": "日志"
@@ -6571,10 +6571,10 @@
       }
     ],
     "phrases": [
-      "cache hit (待翻译)",
-      "cache miss (待翻译)",
-      "browser cache (待翻译)",
-      "cache memory (待翻译)"
+      "cache hit",
+      "cache miss",
+      "browser cache",
+      "cache memory"
     ],
     "mnemonic": "cache（隐藏）→ 隐藏起来快速访问 → 缓存",
     "meaning": "缓存"
@@ -6677,10 +6677,10 @@
       }
     ],
     "phrases": [
-      "job queue (待翻译)",
-      "task queue (待翻译)",
-      "queue length (待翻译)",
-      "priority queue (待翻译)"
+      "job queue",
+      "task queue",
+      "queue length",
+      "priority queue"
     ],
     "mnemonic": "queue（排队）→ 先进先出的数据结构 → 队列",
     "meaning": "队列"
@@ -6783,10 +6783,10 @@
       }
     ],
     "phrases": [
-      "push to stack (待翻译)",
-      "pop from stack (待翻译)",
-      "stack overflow (待翻译)",
-      "LAMP stack (待翻译)"
+      "push to stack",
+      "pop from stack",
+      "stack overflow",
+      "LAMP stack"
     ],
     "mnemonic": "stack（堆）→ 后进先出的数据结构 → 栈",
     "meaning": "栈，技术栈"
@@ -6889,10 +6889,10 @@
       }
     ],
     "phrases": [
-      "main thread (待翻译)",
-      "worker thread (待翻译)",
-      "thread safe (待翻译)",
-      "thread pool (待翻译)"
+      "main thread",
+      "worker thread",
+      "thread safe",
+      "thread pool"
     ],
     "mnemonic": "thread（线）→ 程序执行的线索 → 线程",
     "meaning": "线程"
@@ -6995,10 +6995,10 @@
       }
     ],
     "phrases": [
-      "running process (待翻译)",
-      "background process (待翻译)",
-      "kill process (待翻译)",
-      "process manager (待翻译)"
+      "running process",
+      "background process",
+      "kill process",
+      "process manager"
     ],
     "mnemonic": "process（前进）→ 正在运行的程序 → 进程",
     "meaning": "进程"
@@ -7101,10 +7101,10 @@
       }
     ],
     "phrases": [
-      "async/await (待翻译)",
-      "async function (待翻译)",
-      "async call (待翻译)",
-      "async programming (待翻译)"
+      "async/await",
+      "async function",
+      "async call",
+      "async programming"
     ],
     "mnemonic": "async（异步）→ 不同时间执行 → 异步",
     "meaning": "异步的"
@@ -7207,10 +7207,10 @@
       }
     ],
     "phrases": [
-      "use callback (待翻译)",
-      "callback pattern (待翻译)",
-      "register callback (待翻译)",
-      "callback queue (待翻译)"
+      "use callback",
+      "callback pattern",
+      "register callback",
+      "callback queue"
     ],
     "mnemonic": "callback（回调）→ 函数执行完再调回来 → 回调函数",
     "meaning": "回调函数"
@@ -7313,10 +7313,10 @@
       }
     ],
     "phrases": [
-      "return promise (待翻译)",
-      "promise chain (待翻译)",
-      "resolve promise (待翻译)",
-      "reject promise (待翻译)"
+      "return promise",
+      "promise chain",
+      "resolve promise",
+      "reject promise"
     ],
     "mnemonic": "promise（承诺）→ 异步操作的承诺对象 → Promise",
     "meaning": "Promise对象"
@@ -7419,10 +7419,10 @@
       }
     ],
     "phrases": [
-      "await promise (待翻译)",
-      "await fetch (待翻译)",
-      "await response (待翻译)",
-      "async function await (待翻译)"
+      "await promise",
+      "await fetch",
+      "await response",
+      "async function await"
     ],
     "mnemonic": "await（等待）→ 等待异步操作完成 → await",
     "meaning": "等待"
@@ -7525,10 +7525,10 @@
       }
     ],
     "phrases": [
-      "fetch data (待翻译)",
-      "fetch request (待翻译)",
-      "fetch response (待翻译)",
-      "fetch error (待翻译)"
+      "fetch data",
+      "fetch request",
+      "fetch response",
+      "fetch error"
     ],
     "mnemonic": "fetch（取来）→ 从服务器获取数据 → 请求",
     "meaning": "获取，请求"
@@ -7631,10 +7631,10 @@
       }
     ],
     "phrases": [
-      "send request (待翻译)",
-      "post request (待翻译)",
-      "get request (待翻译)",
-      "request body (待翻译)"
+      "send request",
+      "post request",
+      "get request",
+      "request body"
     ],
     "mnemonic": "request（请求）→ 向服务器发送的请求 → 请求",
     "meaning": "请求"
@@ -7737,10 +7737,10 @@
       }
     ],
     "phrases": [
-      "server response (待翻译)",
-      "response time (待翻译)",
-      "response data (待翻译)",
-      "json response (待翻译)"
+      "server response",
+      "response time",
+      "response data",
+      "json response"
     ],
     "mnemonic": "response（响应）→ 服务器返回的数据 → 响应",
     "meaning": "响应"
@@ -7843,10 +7843,10 @@
       }
     ],
     "phrases": [
-      "http request (待翻译)",
-      "http response (待翻译)",
-      "http header (待翻译)",
-      "http protocol (待翻译)"
+      "http request",
+      "http response",
+      "http header",
+      "http protocol"
     ],
     "mnemonic": "HTTP → 网页传输的基础协议 → HTTP",
     "meaning": "超文本传输协议"
@@ -7949,10 +7949,10 @@
       }
     ],
     "phrases": [
-      "http get (待翻译)",
-      "get method (待翻译)",
-      "get data (待翻译)",
-      "get api (待翻译)"
+      "http get",
+      "get method",
+      "get data",
+      "get api"
     ],
     "mnemonic": "GET（获取）→ 从服务器获取资源 → GET请求",
     "meaning": "GET请求"
@@ -8055,10 +8055,10 @@
       }
     ],
     "phrases": [
-      "http post (待翻译)",
-      "post method (待翻译)",
-      "post data (待翻译)",
-      "post api (待翻译)"
+      "http post",
+      "post method",
+      "post data",
+      "post api"
     ],
     "mnemonic": "POST（投递）→ 向服务器提交数据 → POST请求",
     "meaning": "POST请求"
@@ -8161,10 +8161,10 @@
       }
     ],
     "phrases": [
-      "http put (待翻译)",
-      "put method (待翻译)",
-      "put data (待翻译)",
-      "put api (待翻译)"
+      "http put",
+      "put method",
+      "put data",
+      "put api"
     ],
     "mnemonic": "PUT（放置）→ 更新/替换服务器资源 → PUT请求",
     "meaning": "PUT请求"
@@ -8267,10 +8267,10 @@
       }
     ],
     "phrases": [
-      "http delete (待翻译)",
-      "delete method (待翻译)",
-      "delete api (待翻译)",
-      "delete resource (待翻译)"
+      "http delete",
+      "delete method",
+      "delete api",
+      "delete resource"
     ],
     "mnemonic": "DELETE（删除）→ 删除服务器资源 → DELETE请求",
     "meaning": "DELETE请求"
@@ -8373,10 +8373,10 @@
       }
     ],
     "phrases": [
-      "json data (待翻译)",
-      "json format (待翻译)",
-      "json file (待翻译)",
-      "json response (待翻译)"
+      "json data",
+      "json format",
+      "json file",
+      "json response"
     ],
     "mnemonic": "JSON → 轻量级数据交换格式 → JSON",
     "meaning": "JSON数据格式"
@@ -8479,10 +8479,10 @@
       }
     ],
     "phrases": [
-      "xml format (待翻译)",
-      "xml document (待翻译)",
-      "xml file (待翻译)",
-      "xml data (待翻译)"
+      "xml format",
+      "xml document",
+      "xml file",
+      "xml data"
     ],
     "mnemonic": "XML → 可扩展的标记语言 → XML",
     "meaning": "可扩展标记语言"
@@ -8585,10 +8585,10 @@
       }
     ],
     "phrases": [
-      "html page (待翻译)",
-      "html code (待翻译)",
-      "html document (待翻译)",
-      "html structure (待翻译)"
+      "html page",
+      "html code",
+      "html document",
+      "html structure"
     ],
     "mnemonic": "HTML → 网页的骨架结构 → HTML",
     "meaning": "超文本标记语言"
@@ -8691,10 +8691,10 @@
       }
     ],
     "phrases": [
-      "css style (待翻译)",
-      "css file (待翻译)",
-      "css class (待翻译)",
-      "css animation (待翻译)"
+      "css style",
+      "css file",
+      "css class",
+      "css animation"
     ],
     "mnemonic": "CSS → 网页的样式装饰 → CSS",
     "meaning": "层叠样式表"
@@ -8797,10 +8797,10 @@
       }
     ],
     "phrases": [
-      "virtual dom (待翻译)",
-      "dom node (待翻译)",
-      "dom event (待翻译)",
-      "dom structure (待翻译)"
+      "virtual dom",
+      "dom node",
+      "dom event",
+      "dom structure"
     ],
     "mnemonic": "DOM → 网页的编程接口 → DOM",
     "meaning": "文档对象模型"
@@ -8903,10 +8903,10 @@
       }
     ],
     "phrases": [
-      "render page (待翻译)",
-      "render component (待翻译)",
-      "client rendering (待翻译)",
-      "server rendering (待翻译)"
+      "render page",
+      "render component",
+      "client rendering",
+      "server rendering"
     ],
     "mnemonic": "render（渲染）→ 将代码转换为可视化界面 → 渲染",
     "meaning": "渲染"
@@ -9009,10 +9009,10 @@
       }
     ],
     "phrases": [
-      "ui component (待翻译)",
-      "component library (待翻译)",
-      "component props (待翻译)",
-      "component state (待翻译)"
+      "ui component",
+      "component library",
+      "component props",
+      "component state"
     ],
     "mnemonic": "component（组件）→ 可复用的UI单元 → 组件",
     "meaning": "组件"
@@ -9115,10 +9115,10 @@
       }
     ],
     "phrases": [
-      "component props (待翻译)",
-      "pass props (待翻译)",
-      "receive props (待翻译)",
-      "props type (待翻译)"
+      "component props",
+      "pass props",
+      "receive props",
+      "props type"
     ],
     "mnemonic": "props（属性）→ 组件间传递的数据 → 属性",
     "meaning": "属性"
@@ -9221,10 +9221,10 @@
       }
     ],
     "phrases": [
-      "component state (待翻译)",
-      "state change (待翻译)",
-      "local state (待翻译)",
-      "global state (待翻译)"
+      "component state",
+      "state change",
+      "local state",
+      "global state"
     ],
     "mnemonic": "state（状态）→ 组件内部的数据状态 → 状态",
     "meaning": "状态"
@@ -9327,10 +9327,10 @@
       }
     ],
     "phrases": [
-      "react hooks (待翻译)",
-      "custom hook (待翻译)",
-      "hook rules (待翻译)",
-      "hook function (待翻译)"
+      "react hooks",
+      "custom hook",
+      "hook rules",
+      "hook function"
     ],
     "mnemonic": "hook（钩子）→ 钩入组件生命周期的函数 → Hook",
     "meaning": "钩子，Hook"
@@ -9433,10 +9433,10 @@
       }
     ],
     "phrases": [
-      "application context (待翻译)",
-      "context api (待翻译)",
-      "global context (待翻译)",
-      "context value (待翻译)"
+      "application context",
+      "context api",
+      "global context",
+      "context value"
     ],
     "mnemonic": "context（上下文）→ 全局共享的状态 → 上下文",
     "meaning": "上下文"
@@ -9539,10 +9539,10 @@
       }
     ],
     "phrases": [
-      "redux toolkit (待翻译)",
-      "redux middleware (待翻译)",
-      "redux devtools (待翻译)",
-      "redux thunk (待翻译)"
+      "redux toolkit",
+      "redux middleware",
+      "redux devtools",
+      "redux thunk"
     ],
     "mnemonic": "Redux → 可预测的状态容器 → Redux",
     "meaning": "Redux状态管理"
@@ -9645,10 +9645,10 @@
       }
     ],
     "phrases": [
-      "vuex module (待翻译)",
-      "vuex getter (待翻译)",
-      "vuex mapstate (待翻译)",
-      "vuex mapactions (待翻译)"
+      "vuex module",
+      "vuex getter",
+      "vuex mapstate",
+      "vuex mapactions"
     ],
     "mnemonic": "Vuex → Vue的状态管理 → Vuex",
     "meaning": "Vuex状态管理"
@@ -9751,10 +9751,10 @@
       }
     ],
     "phrases": [
-      "router link (待翻译)",
-      "dynamic route (待翻译)",
-      "nested route (待翻译)",
-      "route guard (待翻译)"
+      "router link",
+      "dynamic route",
+      "nested route",
+      "route guard"
     ],
     "mnemonic": "Router → 路由选择 → 路由器",
     "meaning": "路由器"
@@ -9857,10 +9857,10 @@
       }
     ],
     "phrases": [
-      "middleware chain (待翻译)",
-      "custom middleware (待翻译)",
-      "error middleware (待翻译)",
-      "logging middleware (待翻译)"
+      "middleware chain",
+      "custom middleware",
+      "error middleware",
+      "logging middleware"
     ],
     "mnemonic": "Middleware → 中间处理层 → 中间件",
     "meaning": "中间件"
@@ -9963,10 +9963,10 @@
       }
     ],
     "phrases": [
-      "install plugin (待翻译)",
-      "plugin system (待翻译)",
-      "third-party plugin (待翻译)",
-      "plugin configuration (待翻译)"
+      "install plugin",
+      "plugin system",
+      "third-party plugin",
+      "plugin configuration"
     ],
     "mnemonic": "Plugin → 插入扩展功能 → 插件",
     "meaning": "插件"
@@ -10069,10 +10069,10 @@
       }
     ],
     "phrases": [
-      "module import (待翻译)",
-      "module export (待翻译)",
-      "node module (待翻译)",
-      "feature module (待翻译)"
+      "module import",
+      "module export",
+      "node module",
+      "feature module"
     ],
     "mnemonic": "Module → 可复用的代码单元 → 模块",
     "meaning": "模块"
@@ -10175,10 +10175,10 @@
       }
     ],
     "phrases": [
-      "install package (待翻译)",
-      "publish package (待翻译)",
-      "package version (待翻译)",
-      "dependency package (待翻译)"
+      "install package",
+      "publish package",
+      "package version",
+      "dependency package"
     ],
     "mnemonic": "Package → 打包的代码 → 包",
     "meaning": "包"
@@ -10281,10 +10281,10 @@
       }
     ],
     "phrases": [
-      "dependency injection (待翻译)",
-      "dependency graph (待翻译)",
-      "install dependencies (待翻译)",
-      "update dependencies (待翻译)"
+      "dependency injection",
+      "dependency graph",
+      "install dependencies",
+      "update dependencies"
     ],
     "mnemonic": "Dependency → 依靠其他包 → 依赖",
     "meaning": "依赖"
@@ -10387,10 +10387,10 @@
       }
     ],
     "phrases": [
-      "bundle file (待翻译)",
-      "bundle analysis (待翻译)",
-      "webpack bundle (待翻译)",
-      "bundle optimization (待翻译)"
+      "bundle file",
+      "bundle analysis",
+      "webpack bundle",
+      "bundle optimization"
     ],
     "mnemonic": "Bundle → 打包成捆 → 打包",
     "meaning": "打包"
@@ -10493,10 +10493,10 @@
       }
     ],
     "phrases": [
-      "webpack build (待翻译)",
-      "webpack plugin (待翻译)",
-      "webpack bundle (待翻译)",
-      "webpack hot reload (待翻译)"
+      "webpack build",
+      "webpack plugin",
+      "webpack bundle",
+      "webpack hot reload"
     ],
     "mnemonic": "Webpack → Web打包工具 → Webpack",
     "meaning": "Webpack"
@@ -10599,10 +10599,10 @@
       }
     ],
     "phrases": [
-      "vite dev server (待翻译)",
-      "vite build (待翻译)",
-      "vite preview (待翻译)",
-      "vite ssr (待翻译)"
+      "vite dev server",
+      "vite build",
+      "vite preview",
+      "vite ssr"
     ],
     "mnemonic": "Vite → 快速的构建工具 → Vite",
     "meaning": "Vite构建工具"
@@ -10705,10 +10705,10 @@
       }
     ],
     "phrases": [
-      "typescript compiler (待翻译)",
-      "type annotation (待翻译)",
-      "type inference (待翻译)",
-      "type guard (待翻译)"
+      "typescript compiler",
+      "type annotation",
+      "type inference",
+      "type guard"
     ],
     "mnemonic": "TypeScript → 有类型的JavaScript → TypeScript",
     "meaning": "TypeScript"
@@ -10811,10 +10811,10 @@
       }
     ],
     "phrases": [
-      "eslint plugin (待翻译)",
-      "fix lint errors (待翻译)",
-      "lint warning (待翻译)",
-      "lint check (待翻译)"
+      "eslint plugin",
+      "fix lint errors",
+      "lint warning",
+      "lint check"
     ],
     "mnemonic": "ESLint → JavaScript代码检查 → ESLint",
     "meaning": "ESLint"
@@ -10917,10 +10917,10 @@
       }
     ],
     "phrases": [
-      "prettier format (待翻译)",
-      "prettier rule (待翻译)",
-      "run prettier (待翻译)",
-      "prettier plugin (待翻译)"
+      "prettier format",
+      "prettier rule",
+      "run prettier",
+      "prettier plugin"
     ],
     "mnemonic": "Prettier → 让代码更漂亮 → Prettier",
     "meaning": "Prettier格式化"
@@ -11023,10 +11023,10 @@
       }
     ],
     "phrases": [
-      "run tests (待翻译)",
-      "unit test (待翻译)",
-      "integration test (待翻译)",
-      "test coverage (待翻译)"
+      "run tests",
+      "unit test",
+      "integration test",
+      "test coverage"
     ],
     "mnemonic": "Jest → JavaScript测试框架 → Jest",
     "meaning": "Jest测试框架"
@@ -11129,10 +11129,10 @@
       }
     ],
     "phrases": [
-      "cypress run (待翻译)",
-      "cypress open (待翻译)",
-      "cypress test (待翻译)",
-      "visual testing (待翻译)"
+      "cypress run",
+      "cypress open",
+      "cypress test",
+      "visual testing"
     ],
     "mnemonic": "Cypress → E2E测试框架 → Cypress",
     "meaning": "Cypress测试框架"
@@ -11235,10 +11235,10 @@
       }
     ],
     "phrases": [
-      "storybook docs (待翻译)",
-      "storybook preview (待翻译)",
-      "storybook config (待翻译)",
-      "story file (待翻译)"
+      "storybook docs",
+      "storybook preview",
+      "storybook config",
+      "story file"
     ],
     "mnemonic": "Storybook → 组件故事书 → Storybook",
     "meaning": "Storybook组件文档"
@@ -11341,10 +11341,10 @@
       }
     ],
     "phrases": [
-      "docker compose (待翻译)",
-      "docker hub (待翻译)",
-      "docker run (待翻译)",
-      "docker build (待翻译)"
+      "docker compose",
+      "docker hub",
+      "docker run",
+      "docker build"
     ],
     "mnemonic": "Docker → 码头集装箱 → Docker",
     "meaning": "Docker容器"
@@ -11447,10 +11447,10 @@
       }
     ],
     "phrases": [
-      "kubernetes cluster (待翻译)",
-      "kubectl command (待翻译)",
-      "kubernetes service (待翻译)",
-      "kubernetes node (待翻译)"
+      "kubernetes cluster",
+      "kubectl command",
+      "kubernetes service",
+      "kubernetes node"
     ],
     "mnemonic": "Kubernetes → 容器编排平台 → K8s",
     "meaning": "Kubernetes容器编排"
@@ -11553,10 +11553,10 @@
       }
     ],
     "phrases": [
-      "build pipeline (待翻译)",
-      "deploy pipeline (待翻译)",
-      "ci runner (待翻译)",
-      "automated testing (待翻译)"
+      "build pipeline",
+      "deploy pipeline",
+      "ci runner",
+      "automated testing"
     ],
     "mnemonic": "CI/CD → 持续集成持续部署 → CI/CD",
     "meaning": "CI/CD持续集成"
@@ -11659,10 +11659,10 @@
       }
     ],
     "phrases": [
-      "serverless framework (待翻译)",
-      "serverless deployment (待翻译)",
-      "cloud function (待翻译)",
-      "edge function (待翻译)"
+      "serverless framework",
+      "serverless deployment",
+      "cloud function",
+      "edge function"
     ],
     "mnemonic": "Serverless → 无需管理服务器 → Serverless",
     "meaning": "无服务器"
@@ -11765,10 +11765,10 @@
       }
     ],
     "phrases": [
-      "microservice architecture (待翻译)",
-      "service discovery (待翻译)",
-      "inter-service communication (待翻译)",
-      "distributed system (待翻译)"
+      "microservice architecture",
+      "service discovery",
+      "inter-service communication",
+      "distributed system"
     ],
     "mnemonic": "Microservice → 小型独立服务 → 微服务",
     "meaning": "微服务"
@@ -11871,10 +11871,10 @@
       }
     ],
     "phrases": [
-      "graphql resolver (待翻译)",
-      "graphql server (待翻译)",
-      "graphql client (待翻译)",
-      "apollo graphql (待翻译)"
+      "graphql resolver",
+      "graphql server",
+      "graphql client",
+      "apollo graphql"
     ],
     "mnemonic": "GraphQL → 图查询语言 → GraphQL",
     "meaning": "GraphQL查询语言"
@@ -11977,10 +11977,10 @@
       }
     ],
     "phrases": [
-      "websocket connection (待翻译)",
-      "real-time communication (待翻译)",
-      "socket.io (待翻译)",
-      "bidirectional communication (待翻译)"
+      "websocket connection",
+      "real-time communication",
+      "socket.io",
+      "bidirectional communication"
     ],
     "mnemonic": "WebSocket → 实时双向通信 → WebSocket",
     "meaning": "WebSocket协议"
@@ -12083,10 +12083,10 @@
       }
     ],
     "phrases": [
-      "redis cluster (待翻译)",
-      "redis pub/sub (待翻译)",
-      "in-memory database (待翻译)",
-      "session cache (待翻译)"
+      "redis cluster",
+      "redis pub/sub",
+      "in-memory database",
+      "session cache"
     ],
     "mnemonic": "Redis → 内存键值数据库 → Redis",
     "meaning": "Redis数据库"
@@ -12189,10 +12189,10 @@
       }
     ],
     "phrases": [
-      "mongo collection (待翻译)",
-      "mongo query (待翻译)",
-      "document database (待翻译)",
-      "bson format (待翻译)"
+      "mongo collection",
+      "mongo query",
+      "document database",
+      "bson format"
     ],
     "mnemonic": "MongoDB → 文档数据库 → MongoDB",
     "meaning": "MongoDB数据库"
@@ -12295,10 +12295,10 @@
       }
     ],
     "phrases": [
-      "sql query (待翻译)",
-      "database table (待翻译)",
-      "sql join (待翻译)",
-      "postgres function (待翻译)"
+      "sql query",
+      "database table",
+      "sql join",
+      "postgres function"
     ],
     "mnemonic": "PostgreSQL → 关系型数据库 → PostgreSQL",
     "meaning": "PostgreSQL数据库"
@@ -12401,10 +12401,10 @@
       }
     ],
     "phrases": [
-      "prisma migrate (待翻译)",
-      "prisma studio (待翻译)",
-      "database client (待翻译)",
-      "type-safe query (待翻译)"
+      "prisma migrate",
+      "prisma studio",
+      "database client",
+      "type-safe query"
     ],
     "mnemonic": "Prisma → 类型安全的ORM → Prisma",
     "meaning": "Prisma ORM"
@@ -12507,10 +12507,10 @@
       }
     ],
     "phrases": [
-      "user authentication (待翻译)",
-      "login authentication (待翻译)",
-      "auth provider (待翻译)",
-      "auth token (待翻译)"
+      "user authentication",
+      "login authentication",
+      "auth provider",
+      "auth token"
     ],
     "mnemonic": "Authentication → 验证身份 → 认证",
     "meaning": "认证"
@@ -12613,10 +12613,10 @@
       }
     ],
     "phrases": [
-      "user authorization (待翻译)",
-      "access control (待翻译)",
-      "permission check (待翻译)",
-      "rbac authorization (待翻译)"
+      "user authorization",
+      "access control",
+      "permission check",
+      "rbac authorization"
     ],
     "mnemonic": "Authorization → 授予权限 → 授权",
     "meaning": "授权"
@@ -12719,10 +12719,10 @@
       }
     ],
     "phrases": [
-      "data encryption (待翻译)",
-      "encryption key (待翻译)",
-      "aes encryption (待翻译)",
-      "https encryption (待翻译)"
+      "data encryption",
+      "encryption key",
+      "aes encryption",
+      "https encryption"
     ],
     "mnemonic": "Encryption → 数据隐藏加密 → 加密",
     "meaning": "加密"
@@ -12825,10 +12825,10 @@
       }
     ],
     "phrases": [
-      "cors header (待翻译)",
-      "enable cors (待翻译)",
-      "cors middleware (待翻译)",
-      "preflight request (待翻译)"
+      "cors header",
+      "enable cors",
+      "cors middleware",
+      "preflight request"
     ],
     "mnemonic": "CORS → 跨域资源共享 → CORS",
     "meaning": "CORS跨域"
@@ -12931,10 +12931,10 @@
       }
     ],
     "phrases": [
-      "rate limiting (待翻译)",
-      "request limit (待翻译)",
-      "api throttle (待翻译)",
-      "spam protection (待翻译)"
+      "rate limiting",
+      "request limit",
+      "api throttle",
+      "spam protection"
     ],
     "mnemonic": "Rate-limit → 限制请求速率 → 速率限制",
     "meaning": "速率限制"
@@ -13037,10 +13037,10 @@
       }
     ],
     "phrases": [
-      "error log (待翻译)",
-      "access log (待翻译)",
-      "log analysis (待翻译)",
-      "structured logging (待翻译)"
+      "error log",
+      "access log",
+      "log analysis",
+      "structured logging"
     ],
     "mnemonic": "Logger → 记录日志 → 日志记录器",
     "meaning": "日志记录器"
@@ -13143,10 +13143,10 @@
       }
     ],
     "phrases": [
-      "performance monitoring (待翻译)",
-      "error monitoring (待翻译)",
-      "uptime monitoring (待翻译)",
-      "monitoring dashboard (待翻译)"
+      "performance monitoring",
+      "error monitoring",
+      "uptime monitoring",
+      "monitoring dashboard"
     ],
     "mnemonic": "Monitoring → 系统监控 → 监控",
     "meaning": "监控"
@@ -13249,10 +13249,10 @@
       }
     ],
     "phrases": [
-      "sentry integration (待翻译)",
-      "capture exception (待翻译)",
-      "error report (待翻译)",
-      "stack trace (待翻译)"
+      "sentry integration",
+      "capture exception",
+      "error report",
+      "stack trace"
     ],
     "mnemonic": "Sentry → 哨兵般的错误追踪 → Sentry",
     "meaning": "Sentry错误追踪"
@@ -13355,10 +13355,10 @@
       }
     ],
     "phrases": [
-      "google analytics (待翻译)",
-      "data analytics (待翻译)",
-      "analytics dashboard (待翻译)",
-      "tracking analytics (待翻译)"
+      "google analytics",
+      "data analytics",
+      "analytics dashboard",
+      "tracking analytics"
     ],
     "mnemonic": "Analytics → 数据分析 → 分析统计",
     "meaning": "分析统计"
@@ -13461,10 +13461,10 @@
       }
     ],
     "phrases": [
-      "performance optimization (待翻译)",
-      "page speed (待翻译)",
-      "load time (待翻译)",
-      "core web vitals (待翻译)"
+      "performance optimization",
+      "page speed",
+      "load time",
+      "core web vitals"
     ],
     "mnemonic": "Performance → 性能表现 → 性能",
     "meaning": "性能"
@@ -13567,10 +13567,10 @@
       }
     ],
     "phrases": [
-      "wcag compliance (待翻译)",
-      "keyboard navigation (待翻译)",
-      "alt text (待翻译)",
-      "semantic html (待翻译)"
+      "wcag compliance",
+      "keyboard navigation",
+      "alt text",
+      "semantic html"
     ],
     "mnemonic": "Accessibility → 可访问性 → 无障碍访问",
     "meaning": "无障碍访问"
@@ -13673,10 +13673,10 @@
       }
     ],
     "phrases": [
-      "on-page seo (待翻译)",
-      "off-page seo (待翻译)",
-      "keyword optimization (待翻译)",
-      "search ranking (待翻译)"
+      "on-page seo",
+      "off-page seo",
+      "keyword optimization",
+      "search ranking"
     ],
     "mnemonic": "SEO → 搜索引擎优化 → SEO",
     "meaning": "SEO搜索引擎优化"
@@ -13779,10 +13779,10 @@
       }
     ],
     "phrases": [
-      "installable app (待翻译)",
-      "push notification (待翻译)",
-      "background sync (待翻译)",
-      "app shell (待翻译)"
+      "installable app",
+      "push notification",
+      "background sync",
+      "app shell"
     ],
     "mnemonic": "PWA → 渐进式Web应用 → PWA",
     "meaning": "PWA渐进式应用"
@@ -13885,10 +13885,10 @@
       }
     ],
     "phrases": [
-      "server rendering (待翻译)",
-      "hydration (待翻译)",
-      "render strategy (待翻译)",
-      "next.js ssr (待翻译)"
+      "server rendering",
+      "hydration",
+      "render strategy",
+      "next.js ssr"
     ],
     "mnemonic": "SSR → 服务端渲染 → SSR",
     "meaning": "SSR服务端渲染"
@@ -13991,10 +13991,10 @@
       }
     ],
     "phrases": [
-      "next.js app router (待翻译)",
-      "next.js pages (待翻译)",
-      "next.js middleware (待翻译)",
-      "next.js image (待翻译)"
+      "next.js app router",
+      "next.js pages",
+      "next.js middleware",
+      "next.js image"
     ],
     "mnemonic": "Next.js → React全栈框架 → Next.js",
     "meaning": "Next.js框架"
@@ -14097,10 +14097,10 @@
       }
     ],
     "phrases": [
-      "nuxt.js ssr (待翻译)",
-      "nuxt.js modules (待翻译)",
-      "nuxt.js plugins (待翻译)",
-      "nuxt.js layout (待翻译)"
+      "nuxt.js ssr",
+      "nuxt.js modules",
+      "nuxt.js plugins",
+      "nuxt.js layout"
     ],
     "mnemonic": "Nuxt.js → Vue全栈框架 → Nuxt.js",
     "meaning": "Nuxt.js框架"
@@ -14203,10 +14203,10 @@
       }
     ],
     "phrases": [
-      "tailwind classes (待翻译)",
-      "responsive design (待翻译)",
-      "dark mode (待翻译)",
-      "custom theme (待翻译)"
+      "tailwind classes",
+      "responsive design",
+      "dark mode",
+      "custom theme"
     ],
     "mnemonic": "Tailwind → 实用优先的CSS框架 → Tailwind",
     "meaning": "Tailwind CSS"
@@ -14309,10 +14309,10 @@
       }
     ],
     "phrases": [
-      "sass nesting (待翻译)",
-      "sass function (待翻译)",
-      "sass import (待翻译)",
-      "sass extend (待翻译)"
+      "sass nesting",
+      "sass function",
+      "sass import",
+      "sass extend"
     ],
     "mnemonic": "Sass → CSS预处理器 → Sass",
     "meaning": "Sass CSS预处理器"
@@ -14415,10 +14415,10 @@
       }
     ],
     "phrases": [
-      "figma plugin (待翻译)",
-      "figma design (待翻译)",
-      "design handoff (待翻译)",
-      "component library (待翻译)"
+      "figma plugin",
+      "figma design",
+      "design handoff",
+      "component library"
     ],
     "mnemonic": "Figma → UI设计协作工具 → Figma",
     "meaning": "Figma设计工具"
@@ -14521,10 +14521,10 @@
       }
     ],
     "phrases": [
-      "git workflow (待翻译)",
-      "branch strategy (待翻译)",
-      "merge request (待翻译)",
-      "code review process (待翻译)"
+      "git workflow",
+      "branch strategy",
+      "merge request",
+      "code review process"
     ],
     "mnemonic": "Git-flow → Git分支工作流 → Git-flow",
     "meaning": "Git工作流"
@@ -14627,10 +14627,10 @@
       }
     ],
     "phrases": [
-      "agile development (待翻译)",
-      "sprint planning (待翻译)",
-      "daily standup (待翻译)",
-      "retrospective (待翻译)"
+      "agile development",
+      "sprint planning",
+      "daily standup",
+      "retrospective"
     ],
     "mnemonic": "Agile → 敏捷开发方法 → Agile",
     "meaning": "敏捷的"
@@ -14733,10 +14733,10 @@
       }
     ],
     "phrases": [
-      "devops pipeline (待翻译)",
-      "infrastructure as code (待翻译)",
-      "continuous delivery (待翻译)",
-      "deployment automation (待翻译)"
+      "devops pipeline",
+      "infrastructure as code",
+      "continuous delivery",
+      "deployment automation"
     ],
     "mnemonic": "DevOps → 开发运维一体化 → DevOps",
     "meaning": "DevOps开发运维"
@@ -14839,10 +14839,10 @@
       }
     ],
     "phrases": [
-      "version control (待翻译)",
-      "api version (待翻译)",
-      "major version (待翻译)",
-      "breaking change (待翻译)"
+      "version control",
+      "api version",
+      "major version",
+      "breaking change"
     ],
     "mnemonic": "API-versioning → API版本管理 → API版本控制",
     "meaning": "API版本控制"
@@ -14945,10 +14945,10 @@
       }
     ],
     "phrases": [
-      "websocket connection (待翻译)",
-      "socket communication (待翻译)",
-      "real-time update (待翻译)",
-      "live chat (待翻译)"
+      "websocket connection",
+      "socket communication",
+      "real-time update",
+      "live chat"
     ],
     "mnemonic": "WebSocket → 实时双向通信 → WebSocket",
     "meaning": "WebSocket"
@@ -15051,10 +15051,10 @@
       }
     ],
     "phrases": [
-      "grpc service (待翻译)",
-      "protocol buffers (待翻译)",
-      "service definition (待翻译)",
-      "grpc client (待翻译)"
+      "grpc service",
+      "protocol buffers",
+      "service definition",
+      "grpc client"
     ],
     "mnemonic": "gRPC → 高性能RPC框架 → gRPC",
     "meaning": "gRPC框架"
@@ -15157,10 +15157,10 @@
       }
     ],
     "phrases": [
-      "restful api (待翻译)",
-      "resource endpoint (待翻译)",
-      "http verb (待翻译)",
-      "stateless protocol (待翻译)"
+      "restful api",
+      "resource endpoint",
+      "http verb",
+      "stateless protocol"
     ],
     "mnemonic": "RESTful → REST风格API → RESTful",
     "meaning": "RESTful风格"
@@ -15263,10 +15263,10 @@
       }
     ],
     "phrases": [
-      "swagger specification (待翻译)",
-      "api documentation (待翻译)",
-      "swagger editor (待翻译)",
-      "swagger codegen (待翻译)"
+      "swagger specification",
+      "api documentation",
+      "swagger editor",
+      "swagger codegen"
     ],
     "mnemonic": "Swagger → API文档工具 → Swagger",
     "meaning": "Swagger API文档"
@@ -15369,10 +15369,10 @@
       }
     ],
     "phrases": [
-      "postman collection (待翻译)",
-      "api request (待翻译)",
-      "test script (待翻译)",
-      "environment variable (待翻译)"
+      "postman collection",
+      "api request",
+      "test script",
+      "environment variable"
     ],
     "mnemonic": "Postman → API测试工具 → Postman",
     "meaning": "Postman API测试"
@@ -15475,10 +15475,10 @@
       }
     ],
     "phrases": [
-      "rest client (待翻译)",
-      "graphql client (待翻译)",
-      "import collection (待翻译)",
-      "debug api (待翻译)"
+      "rest client",
+      "graphql client",
+      "import collection",
+      "debug api"
     ],
     "mnemonic": "Insomnia → API测试客户端 → Insomnia",
     "meaning": "Insomnia API客户端"
@@ -15581,10 +15581,10 @@
       }
     ],
     "phrases": [
-      "jira board (待翻译)",
-      "create issue (待翻译)",
-      "assign issue (待翻译)",
-      "track progress (待翻译)"
+      "jira board",
+      "create issue",
+      "assign issue",
+      "track progress"
     ],
     "mnemonic": "Jira → 项目问题追踪 → Jira",
     "meaning": "Jira项目管理"
@@ -15687,10 +15687,10 @@
       }
     ],
     "phrases": [
-      "create page (待翻译)",
-      "team collaboration (待翻译)",
-      "document sharing (待翻译)",
-      "wiki page (待翻译)"
+      "create page",
+      "team collaboration",
+      "document sharing",
+      "wiki page"
     ],
     "mnemonic": "Confluence → 团队知识库 → Confluence",
     "meaning": "Confluence知识库"
@@ -15793,10 +15793,10 @@
       }
     ],
     "phrases": [
-      "slack workspace (待翻译)",
-      "send message (待翻译)",
-      "slack integration (待翻译)",
-      "team communication (待翻译)"
+      "slack workspace",
+      "send message",
+      "slack integration",
+      "team communication"
     ],
     "mnemonic": "Slack → 团队沟通工具 → Slack",
     "meaning": "Slack团队协作"
@@ -15899,10 +15899,10 @@
       }
     ],
     "phrases": [
-      "notion page (待翻译)",
-      "notion database (待翻译)",
-      "notion template (待翻译)",
-      "block editor (待翻译)"
+      "notion page",
+      "notion database",
+      "notion template",
+      "block editor"
     ],
     "mnemonic": "Notion → All-in-one工作空间 → Notion",
     "meaning": "Notion笔记工具"
@@ -16005,10 +16005,10 @@
       }
     ],
     "phrases": [
-      "vscode extension (待翻译)",
-      "keyboard shortcut (待翻译)",
-      "intellisense (待翻译)",
-      "debug configuration (待翻译)"
+      "vscode extension",
+      "keyboard shortcut",
+      "intellisense",
+      "debug configuration"
     ],
     "mnemonic": "VS Code → 代码编辑器 → VS Code",
     "meaning": "VS Code编辑器"
@@ -16111,10 +16111,10 @@
       }
     ],
     "phrases": [
-      "intellij idea (待翻译)",
-      "java ide (待翻译)",
-      "code analysis (待翻译)",
-      "plugin ecosystem (待翻译)"
+      "intellij idea",
+      "java ide",
+      "code analysis",
+      "plugin ecosystem"
     ],
     "mnemonic": "IntelliJ → Java开发IDE → IntelliJ",
     "meaning": "IntelliJ IDE"
@@ -16217,10 +16217,10 @@
       }
     ],
     "phrases": [
-      "terminal command (待翻译)",
-      "shell script (待翻译)",
-      "command prompt (待翻译)",
-      "terminal window (待翻译)"
+      "terminal command",
+      "shell script",
+      "command prompt",
+      "terminal window"
     ],
     "mnemonic": "Terminal → 命令行终端 → Terminal",
     "meaning": "终端"
@@ -16323,10 +16323,10 @@
       }
     ],
     "phrases": [
-      "brew update (待翻译)",
-      "brew search (待翻译)",
-      "brew upgrade (待翻译)",
-      "brew uninstall (待翻译)"
+      "brew update",
+      "brew search",
+      "brew upgrade",
+      "brew uninstall"
     ],
     "mnemonic": "Homebrew → macOS包管理器 → Homebrew",
     "meaning": "Homebrew包管理器"
@@ -16429,10 +16429,10 @@
       }
     ],
     "phrases": [
-      "npm script (待翻译)",
-      "npm registry (待翻译)",
-      "npm package (待翻译)",
-      "npm update (待翻译)"
+      "npm script",
+      "npm registry",
+      "npm package",
+      "npm update"
     ],
     "mnemonic": "NPM → Node.js包管理器 → NPM",
     "meaning": "NPM包管理器"
@@ -16535,10 +16535,10 @@
       }
     ],
     "phrases": [
-      "yarn workspace (待翻译)",
-      "yarn script (待翻译)",
-      "yarn global (待翻译)",
-      "yarn upgrade (待翻译)"
+      "yarn workspace",
+      "yarn script",
+      "yarn global",
+      "yarn upgrade"
     ],
     "mnemonic": "Yarn → 快速包管理器 → Yarn",
     "meaning": "Yarn包管理器"
@@ -16641,10 +16641,10 @@
       }
     ],
     "phrases": [
-      "pnpm add (待翻译)",
-      "pnpm run (待翻译)",
-      "pnpm store (待翻译)",
-      "disk efficient (待翻译)"
+      "pnpm add",
+      "pnpm run",
+      "pnpm store",
+      "disk efficient"
     ],
     "mnemonic": "pnpm → 高效包管理器 → pnpm",
     "meaning": "pnpm包管理器"
@@ -16747,10 +16747,10 @@
       }
     ],
     "phrases": [
-      "nvm list (待翻译)",
-      "node version (待翻译)",
-      "switch node (待翻译)",
-      "lts version (待翻译)"
+      "nvm list",
+      "node version",
+      "switch node",
+      "lts version"
     ],
     "mnemonic": "NVM → Node版本管理器 → NVM",
     "meaning": "NVM Node版本管理"
@@ -16853,10 +16853,10 @@
       }
     ],
     "phrases": [
-      "pyenv install (待翻译)",
-      "python environment (待翻译)",
-      "pip install (待翻译)",
-      "virtual environment (待翻译)"
+      "pyenv install",
+      "python environment",
+      "pip install",
+      "virtual environment"
     ],
     "mnemonic": "pyenv → Python版本管理器 → pyenv",
     "meaning": "pyenv Python版本管理"
@@ -16959,10 +16959,10 @@
       }
     ],
     "phrases": [
-      "nginx server (待翻译)",
-      "web server (待翻译)",
-      "static file (待翻译)",
-      "upstream config (待翻译)"
+      "nginx server",
+      "web server",
+      "static file",
+      "upstream config"
     ],
     "mnemonic": "Nginx → 高性能Web服务器 → Nginx",
     "meaning": "Nginx服务器"
@@ -17065,10 +17065,10 @@
       }
     ],
     "phrases": [
-      "apache server (待翻译)",
-      "virtual host (待翻译)",
-      "apache module (待翻译)",
-      "directory config (待翻译)"
+      "apache server",
+      "virtual host",
+      "apache module",
+      "directory config"
     ],
     "mnemonic": "Apache → 开源Web服务器 → Apache",
     "meaning": "Apache服务器"
@@ -17171,10 +17171,10 @@
       }
     ],
     "phrases": [
-      "cdn distribution (待翻译)",
-      "content delivery (待翻译)",
-      "edge caching (待翻译)",
-      "cdn provider (待翻译)"
+      "cdn distribution",
+      "content delivery",
+      "edge caching",
+      "cdn provider"
     ],
     "mnemonic": "CDN → 内容分发网络 → CDN",
     "meaning": "CDN内容分发网络"
@@ -17277,10 +17277,10 @@
       }
     ],
     "phrases": [
-      "dns resolution (待翻译)",
-      "a record (待翻译)",
-      "cname record (待翻译)",
-      "dns propagation (待翻译)"
+      "dns resolution",
+      "a record",
+      "cname record",
+      "dns propagation"
     ],
     "mnemonic": "DNS → 域名系统 → DNS",
     "meaning": "DNS域名解析"
@@ -17383,10 +17383,10 @@
       }
     ],
     "phrases": [
-      "ssl certificate (待翻译)",
-      "https connection (待翻译)",
-      "secure connection (待翻译)",
-      "certificate authority (待翻译)"
+      "ssl certificate",
+      "https connection",
+      "secure connection",
+      "certificate authority"
     ],
     "mnemonic": "SSL证书 → 安全连接 → SSL",
     "meaning": "SSL证书"
@@ -17489,10 +17489,10 @@
       }
     ],
     "phrases": [
-      "oauth flow (待翻译)",
-      "authorization grant (待翻译)",
-      "token refresh (待翻译)",
-      "oauth provider (待翻译)"
+      "oauth flow",
+      "authorization grant",
+      "token refresh",
+      "oauth provider"
     ],
     "mnemonic": "OAuth2 → 开放授权协议 → OAuth2",
     "meaning": "OAuth 2.0授权"
@@ -17595,10 +17595,10 @@
       }
     ],
     "phrases": [
-      "openid provider (待翻译)",
-      "identity token (待翻译)",
-      "user authentication (待翻译)",
-      "sso login (待翻译)"
+      "openid provider",
+      "identity token",
+      "user authentication",
+      "sso login"
     ],
     "mnemonic": "OpenID Connect → 身份认证协议 → OIDC",
     "meaning": "OpenID Connect身份认证"
@@ -17701,10 +17701,10 @@
       }
     ],
     "phrases": [
-      "saml response (待翻译)",
-      "saml assertion (待翻译)",
-      "enterprise sso (待翻译)",
-      "federation (待翻译)"
+      "saml response",
+      "saml assertion",
+      "enterprise sso",
+      "federation"
     ],
     "mnemonic": "SAML → 企业单点登录 → SAML",
     "meaning": "SAML安全断言"
@@ -17807,10 +17807,10 @@
       }
     ],
     "phrases": [
-      "verify captcha (待翻译)",
-      "captcha challenge (待翻译)",
-      "spam protection (待翻译)",
-      "bot detection (待翻译)"
+      "verify captcha",
+      "captcha challenge",
+      "spam protection",
+      "bot detection"
     ],
     "mnemonic": "CAPTCHA → 验证码 → CAPTCHA",
     "meaning": "验证码"
@@ -17913,10 +17913,10 @@
       }
     ],
     "phrases": [
-      "enable 2fa (待翻译)",
-      "authenticator code (待翻译)",
-      "verification code (待翻译)",
-      "security key (待翻译)"
+      "enable 2fa",
+      "authenticator code",
+      "verification code",
+      "security key"
     ],
     "mnemonic": "Two-factor → 双因素认证 → 2FA",
     "meaning": "双因素认证(2FA)"
@@ -18019,10 +18019,10 @@
       }
     ],
     "phrases": [
-      "passwordless login (待翻译)",
-      "fingerprint authentication (待翻译)",
-      "face id (待翻译)",
-      "security key (待翻译)"
+      "passwordless login",
+      "fingerprint authentication",
+      "face id",
+      "security key"
     ],
     "mnemonic": "Passwordless → 无密码登录 → Passwordless",
     "meaning": "无密码认证"
@@ -18125,10 +18125,10 @@
       }
     ],
     "phrases": [
-      "user role (待翻译)",
-      "assign permission (待翻译)",
-      "role hierarchy (待翻译)",
-      "access policy (待翻译)"
+      "user role",
+      "assign permission",
+      "role hierarchy",
+      "access policy"
     ],
     "mnemonic": "RBAC → 基于角色的访问控制 → RBAC",
     "meaning": "RBAC权限控制"
@@ -18231,10 +18231,10 @@
       }
     ],
     "phrases": [
-      "audit record (待翻译)",
-      "log analysis (待翻译)",
-      "security audit (待翻译)",
-      "audit report (待翻译)"
+      "audit record",
+      "log analysis",
+      "security audit",
+      "audit report"
     ],
     "mnemonic": "Audit-log → 审计追踪日志 → Audit-log",
     "meaning": "审计日志"
@@ -18337,10 +18337,10 @@
       }
     ],
     "phrases": [
-      "gdpr compliance (待翻译)",
-      "privacy policy (待翻译)",
-      "data protection (待翻译)",
-      "user consent (待翻译)"
+      "gdpr compliance",
+      "privacy policy",
+      "data protection",
+      "user consent"
     ],
     "mnemonic": "GDPR → 数据保护法规 → GDPR",
     "meaning": "GDPR数据保护"
@@ -18443,10 +18443,10 @@
       }
     ],
     "phrases": [
-      "set cookie (待翻译)",
-      "cookie policy (待翻译)",
-      "third-party cookie (待翻译)",
-      "cookie banner (待翻译)"
+      "set cookie",
+      "cookie policy",
+      "third-party cookie",
+      "cookie banner"
     ],
     "mnemonic": "Cookie → 浏览器存储 → Cookie",
     "meaning": "Cookie浏览器缓存"
@@ -18549,10 +18549,10 @@
       }
     ],
     "phrases": [
-      "store data (待翻译)",
-      "local storage api (待翻译)",
-      "persistent storage (待翻译)",
-      "storage limit (待翻译)"
+      "store data",
+      "local storage api",
+      "persistent storage",
+      "storage limit"
     ],
     "mnemonic": "LocalStorage → 浏览器本地存储 → LocalStorage",
     "meaning": "本地存储"
@@ -18655,10 +18655,10 @@
       }
     ],
     "phrases": [
-      "webhook endpoint (待翻译)",
-      "receive webhook (待翻译)",
-      "webhook secret (待翻译)",
-      "event notification (待翻译)"
+      "webhook endpoint",
+      "receive webhook",
+      "webhook secret",
+      "event notification"
     ],
     "mnemonic": "Webhook → HTTP回调通知 → Webhook",
     "meaning": "Webhook回调"
@@ -18761,10 +18761,10 @@
       }
     ],
     "phrases": [
-      "cron schedule (待翻译)",
-      "scheduled task (待翻译)",
-      "run periodically (待翻译)",
-      "job scheduler (待翻译)"
+      "cron schedule",
+      "scheduled task",
+      "run periodically",
+      "job scheduler"
     ],
     "mnemonic": "Cron → 定时任务调度 → Cron",
     "meaning": "Cron定时任务"
@@ -18867,10 +18867,10 @@
       }
     ],
     "phrases": [
-      "job queue (待翻译)",
-      "task queue (待翻译)",
-      "message broker (待翻译)",
-      "event queue (待翻译)"
+      "job queue",
+      "task queue",
+      "message broker",
+      "event queue"
     ],
     "mnemonic": "Queue → 消息队列 → Queue",
     "meaning": "队列"
@@ -18973,10 +18973,10 @@
       }
     ],
     "phrases": [
-      "worker process (待翻译)",
-      "background worker (待翻译)",
-      "worker pool (待翻译)",
-      "thread worker (待翻译)"
+      "worker process",
+      "background worker",
+      "worker pool",
+      "thread worker"
     ],
     "mnemonic": "Worker → 后台工作进程 → Worker",
     "meaning": "工作线程"
@@ -19079,10 +19079,10 @@
       }
     ],
     "phrases": [
-      "celery task (待翻译)",
-      "async task (待翻译)",
-      "distributed task (待翻译)",
-      "task result (待翻译)"
+      "celery task",
+      "async task",
+      "distributed task",
+      "task result"
     ],
     "mnemonic": "Celery → Python异步任务队列 → Celery",
     "meaning": "Celery任务队列"
@@ -19185,10 +19185,10 @@
       }
     ],
     "phrases": [
-      "bull queue (待翻译)",
-      "job queue (待翻译)",
-      "redis-based (待翻译)",
-      "queue processing (待翻译)"
+      "bull queue",
+      "job queue",
+      "redis-based",
+      "queue processing"
     ],
     "mnemonic": "Bull → Node.js任务队列 → Bull",
     "meaning": "Bull任务队列"
@@ -19291,10 +19291,10 @@
       }
     ],
     "phrases": [
-      "search engine (待翻译)",
-      "text search (待翻译)",
-      "search index (待翻译)",
-      "elasticsearch query (待翻译)"
+      "search engine",
+      "text search",
+      "search index",
+      "elasticsearch query"
     ],
     "mnemonic": "Elasticsearch → 分布式搜索引擎 → Elasticsearch",
     "meaning": "Elasticsearch搜索引擎"
@@ -19397,10 +19397,10 @@
       }
     ],
     "phrases": [
-      "kibana dashboard (待翻译)",
-      "data visualization (待翻译)",
-      "log dashboard (待翻译)",
-      "create visualization (待翻译)"
+      "kibana dashboard",
+      "data visualization",
+      "log dashboard",
+      "create visualization"
     ],
     "mnemonic": "Kibana → 数据可视化平台 → Kibana",
     "meaning": "Kibana可视化平台"
@@ -19503,10 +19503,10 @@
       }
     ],
     "phrases": [
-      "grafana dashboard (待翻译)",
-      "monitoring system (待翻译)",
-      "prometheus metrics (待翻译)",
-      "alert rule (待翻译)"
+      "grafana dashboard",
+      "monitoring system",
+      "prometheus metrics",
+      "alert rule"
     ],
     "mnemonic": "Grafana → 监控可视化平台 → Grafana",
     "meaning": "Grafana监控平台"
@@ -19609,10 +19609,10 @@
       }
     ],
     "phrases": [
-      "sentry sdk (待翻译)",
-      "capture error (待翻译)",
-      "error monitoring (待翻译)",
-      "stacktrace (待翻译)"
+      "sentry sdk",
+      "capture error",
+      "error monitoring",
+      "stacktrace"
     ],
     "mnemonic": "Sentry → 应用错误监控 → Sentry",
     "meaning": "Sentry错误追踪"
@@ -19715,10 +19715,10 @@
       }
     ],
     "phrases": [
-      "datadog agent (待翻译)",
-      "monitoring dashboard (待翻译)",
-      "apm tracing (待翻译)",
-      "log management (待翻译)"
+      "datadog agent",
+      "monitoring dashboard",
+      "apm tracing",
+      "log management"
     ],
     "mnemonic": "Datadog → 云监控平台 → Datadog",
     "meaning": "Datadog监控平台"
@@ -19821,10 +19821,10 @@
       }
     ],
     "phrases": [
-      "newrelic agent (待翻译)",
-      "apm insight (待翻译)",
-      "error analytics (待翻译)",
-      "performance monitoring (待翻译)"
+      "newrelic agent",
+      "apm insight",
+      "error analytics",
+      "performance monitoring"
     ],
     "mnemonic": "New Relic → 应用性能监控 → New Relic",
     "meaning": "New Relic监控"
@@ -19927,10 +19927,10 @@
       }
     ],
     "phrases": [
-      "alert management (待翻译)",
-      "incident response (待翻译)",
-      "on-call schedule (待翻译)",
-      "escalation policy (待翻译)"
+      "alert management",
+      "incident response",
+      "on-call schedule",
+      "escalation policy"
     ],
     "mnemonic": "PagerDuty → 告警响应平台 → PagerDuty",
     "meaning": "PagerDuty告警平台"
@@ -20033,10 +20033,10 @@
       }
     ],
     "phrases": [
-      "distributed tracing (待翻译)",
-      "metrics collection (待翻译)",
-      "log correlation (待翻译)",
-      "trace context (待翻译)"
+      "distributed tracing",
+      "metrics collection",
+      "log correlation",
+      "trace context"
     ],
     "mnemonic": "OpenTelemetry → 开源可观测性 → OpenTelemetry",
     "meaning": "OpenTelemetry可观测性"

@@ -97,10 +97,10 @@
       }
     ],
     "phrases": [
-      "mechanical engineering (待翻译)",
-      "mechanical device (待翻译)",
-      "skilled mechanic (待翻译)",
-      "mechanized farming (待翻译)"
+      "mechanical engineering",
+      "mechanical device",
+      "skilled mechanic",
+      "mechanized farming"
     ],
     "mnemonic": "mechan（机器）→ 与机器相关 → 机械的",
     "meaning": "机械的"
@@ -203,10 +203,10 @@
       }
     ],
     "phrases": [
-      "automatic transmission (待翻译)",
-      "automobile industry (待翻译)",
-      "factory automation (待翻译)",
-      "automotive parts (待翻译)"
+      "automatic transmission",
+      "automobile industry",
+      "factory automation",
+      "automotive parts"
     ],
     "mnemonic": "autom（自己）→ 自主行动 → 自动",
     "meaning": "自动的"
@@ -309,10 +309,10 @@
       }
     ],
     "phrases": [
-      "electric motor (待翻译)",
-      "linear motion (待翻译)",
-      "motive power (待翻译)",
-      "promote development (待翻译)"
+      "electric motor",
+      "linear motion",
+      "motive power",
+      "promote development"
     ],
     "mnemonic": "mot（动）→ 移动运行 → 运动",
     "meaning": "电动机"
@@ -415,10 +415,10 @@
       }
     ],
     "phrases": [
-      "rotate around (待翻译)",
-      "rotation speed (待翻译)",
-      "helicopter rotor (待翻译)",
-      "rotary engine (待翻译)"
+      "rotate around",
+      "rotation speed",
+      "helicopter rotor",
+      "rotary engine"
     ],
     "mnemonic": "rot（轮/转）→ 绕轴转动 → 旋转",
     "meaning": "旋转"
@@ -521,10 +521,10 @@
       }
     ],
     "phrases": [
-      "revolve around (待翻译)",
-      "evolve from (待翻译)",
-      "control valve (待翻译)",
-      "six-shooter revolver (待翻译)"
+      "revolve around",
+      "evolve from",
+      "control valve",
+      "six-shooter revolver"
     ],
     "mnemonic": "volv（转）→ 滚动旋转 → 阀门",
     "meaning": "旋转"
@@ -627,10 +627,10 @@
       }
     ],
     "phrases": [
-      "hydraulic press (待翻译)",
-      "high pressure (待翻译)",
-      "compress air (待翻译)",
-      "depress the pedal (待翻译)"
+      "hydraulic press",
+      "high pressure",
+      "compress air",
+      "depress the pedal"
     ],
     "mnemonic": "press（压）→ 施加压力 → 压力机",
     "meaning": "压力机"
@@ -733,10 +733,10 @@
       }
     ],
     "phrases": [
-      "farm tractor (待翻译)",
-      "attract attention (待翻译)",
-      "extract oil (待翻译)",
-      "retract landing gear (待翻译)"
+      "farm tractor",
+      "attract attention",
+      "extract oil",
+      "retract landing gear"
     ],
     "mnemonic": "tract（拉）→ 牵引拉动 → 拖拉机",
     "meaning": "拖拉机"
@@ -839,10 +839,10 @@
       }
     ],
     "phrases": [
-      "power transfer (待翻译)",
-      "belt conveyor (待翻译)",
-      "take the ferry (待翻译)",
-      "differ from (待翻译)"
+      "power transfer",
+      "belt conveyor",
+      "take the ferry",
+      "differ from"
     ],
     "mnemonic": "fer（带）→ 传送运输 → 输送",
     "meaning": "转移，传动"
@@ -945,10 +945,10 @@
       }
     ],
     "phrases": [
-      "steam turbine (待翻译)",
-      "turbo charger (待翻译)",
-      "turbulent flow (待翻译)",
-      "disturb the peace (待翻译)"
+      "steam turbine",
+      "turbo charger",
+      "turbulent flow",
+      "disturb the peace"
     ],
     "mnemonic": "turb（扰乱/转）→ 高速旋转 → 涡轮机",
     "meaning": "涡轮机"
@@ -1051,10 +1051,10 @@
       }
     ],
     "phrases": [
-      "water pump (待翻译)",
-      "oil pump (待翻译)",
-      "pump station (待翻译)",
-      "pump up (待翻译)"
+      "water pump",
+      "oil pump",
+      "pump station",
+      "pump up"
     ],
     "mnemonic": "pump（泵）→ 输送液体的设备 → 泵",
     "meaning": "泵"
@@ -1157,10 +1157,10 @@
       }
     ],
     "phrases": [
-      "hydraulic system (待翻译)",
-      "hydraulic press (待翻译)",
-      "hydraulic cylinder (待翻译)",
-      "hydraulic fluid (待翻译)"
+      "hydraulic system",
+      "hydraulic press",
+      "hydraulic cylinder",
+      "hydraulic fluid"
     ],
     "mnemonic": "hydr（水）→ 利用水/液体压力 → 液压",
     "meaning": "液压的"
@@ -1263,10 +1263,10 @@
       }
     ],
     "phrases": [
-      "pneumatic tool (待翻译)",
-      "pneumatic cylinder (待翻译)",
-      "pneumatic system (待翻译)",
-      "pneumatic drill (待翻译)"
+      "pneumatic tool",
+      "pneumatic cylinder",
+      "pneumatic system",
+      "pneumatic drill"
     ],
     "mnemonic": "pneum（气）→ 利用压缩空气 → 气动",
     "meaning": "气动的"
@@ -1369,10 +1369,10 @@
       }
     ],
     "phrases": [
-      "lubricate the bearing (待翻译)",
-      "engine lubricant (待翻译)",
-      "lubrication system (待翻译)",
-      "self-lubricating (待翻译)"
+      "lubricate the bearing",
+      "engine lubricant",
+      "lubrication system",
+      "self-lubricating"
     ],
     "mnemonic": "lubric（滑）→ 减少摩擦 → 润滑",
     "meaning": "润滑"
@@ -1475,10 +1475,10 @@
       }
     ],
     "phrases": [
-      "reduce friction (待翻译)",
-      "friction coefficient (待翻译)",
-      "friction loss (待翻译)",
-      "friction force (待翻译)"
+      "reduce friction",
+      "friction coefficient",
+      "friction loss",
+      "friction force"
     ],
     "mnemonic": "frict（摩擦）→ 相互接触运动 → 摩擦",
     "meaning": "摩擦"
@@ -1581,10 +1581,10 @@
       }
     ],
     "phrases": [
-      "main bearing (待翻译)",
-      "bearing housing (待翻译)",
-      "bearing capacity (待翻译)",
-      "self-aligning bearing (待翻译)"
+      "main bearing",
+      "bearing housing",
+      "bearing capacity",
+      "self-aligning bearing"
     ],
     "mnemonic": "bear（承受）→ 承载转动的部件 → 轴承",
     "meaning": "轴承"
@@ -1687,10 +1687,10 @@
       }
     ],
     "phrases": [
-      "gear ratio (待翻译)",
-      "spur gear (待翻译)",
-      "bevel gear (待翻译)",
-      "gear train (待翻译)"
+      "gear ratio",
+      "spur gear",
+      "bevel gear",
+      "gear train"
     ],
     "mnemonic": "gear（齿轮）→ 传递动力的轮 → 齿轮",
     "meaning": "齿轮"
@@ -1793,10 +1793,10 @@
       }
     ],
     "phrases": [
-      "propeller shaft (待翻译)",
-      "shaft bearing (待翻译)",
-      "shaft coupling (待翻译)",
-      "main shaft (待翻译)"
+      "propeller shaft",
+      "shaft bearing",
+      "shaft coupling",
+      "main shaft"
     ],
     "mnemonic": "shaft（轴）→ 旋转传递动力的杆 → 轴",
     "meaning": "轴"
@@ -1899,10 +1899,10 @@
       }
     ],
     "phrases": [
-      "engine cylinder (待翻译)",
-      "cylinder block (待翻译)",
-      "cylinder head (待翻译)",
-      "master cylinder (待翻译)"
+      "engine cylinder",
+      "cylinder block",
+      "cylinder head",
+      "master cylinder"
     ],
     "mnemonic": "cylind（滚）→ 圆筒形状 → 气缸",
     "meaning": "气缸，圆柱体"
@@ -2005,10 +2005,10 @@
       }
     ],
     "phrases": [
-      "piston stroke (待翻译)",
-      "piston displacement (待翻译)",
-      "free piston (待翻译)",
-      "opposed piston (待翻译)"
+      "piston stroke",
+      "piston displacement",
+      "free piston",
+      "opposed piston"
     ],
     "mnemonic": "pist（捣）→ 上下运动的部件 → 活塞",
     "meaning": "活塞"
@@ -2111,10 +2111,10 @@
       }
     ],
     "phrases": [
-      "control valve (待翻译)",
-      "safety valve (待翻译)",
-      "butterfly valve (待翻译)",
-      "gate valve (待翻译)"
+      "control valve",
+      "safety valve",
+      "butterfly valve",
+      "gate valve"
     ],
     "mnemonic": "valv（转）→ 控制流动的转动部件 → 阀门",
     "meaning": "阀门"
@@ -2217,10 +2217,10 @@
       }
     ],
     "phrases": [
-      "disk cam (待翻译)",
-      "cylindrical cam (待翻译)",
-      "cam mechanism (待翻译)",
-      "cam profile (待翻译)"
+      "disk cam",
+      "cylindrical cam",
+      "cam mechanism",
+      "cam profile"
     ],
     "mnemonic": "cam（凸轮）→ 非圆形的转动件 → 凸轮",
     "meaning": "凸轮"
@@ -2323,10 +2323,10 @@
       }
     ],
     "phrases": [
-      "compression spring (待翻译)",
-      "spring steel (待翻译)",
-      "spring constant (待翻译)",
-      "shock spring (待翻译)"
+      "compression spring",
+      "spring steel",
+      "spring constant",
+      "shock spring"
     ],
     "mnemonic": "spring（弹/跳）→ 弹性元件 → 弹簧",
     "meaning": "弹簧"
@@ -2429,10 +2429,10 @@
       }
     ],
     "phrases": [
-      "link mechanism (待翻译)",
-      "link arm (待翻译)",
-      "control linkage (待翻译)",
-      "steering linkage (待翻译)"
+      "link mechanism",
+      "link arm",
+      "control linkage",
+      "steering linkage"
     ],
     "mnemonic": "link（连接）→ 连接两部件的杆 → 连杆",
     "meaning": "连杆"
@@ -2535,10 +2535,10 @@
       }
     ],
     "phrases": [
-      "lever arm (待翻译)",
-      "control lever (待翻译)",
-      "brake lever (待翻译)",
-      "lever principle (待翻译)"
+      "lever arm",
+      "control lever",
+      "brake lever",
+      "lever principle"
     ],
     "mnemonic": "lev（举）+ er → 省力工具 → 杠杆",
     "meaning": "杠杆"
@@ -2641,10 +2641,10 @@
       }
     ],
     "phrases": [
-      "expansion joint (待翻译)",
-      "flexible joint (待翻译)",
-      "joint coupling (待翻译)",
-      "joint seal (待翻译)"
+      "expansion joint",
+      "flexible joint",
+      "joint coupling",
+      "joint seal"
     ],
     "mnemonic": "joint（连接）→ 两部件连接处 → 接头",
     "meaning": "接头，关节"
@@ -2747,10 +2747,10 @@
       }
     ],
     "phrases": [
-      "shaft coupling (待翻译)",
-      "fluid coupling (待翻译)",
-      "coupling bolt (待翻译)",
-      "quick coupling (待翻译)"
+      "shaft coupling",
+      "fluid coupling",
+      "coupling bolt",
+      "quick coupling"
     ],
     "mnemonic": "coupl（连接）→ 连接两轴的装置 → 联轴器",
     "meaning": "联轴器"
@@ -2853,10 +2853,10 @@
       }
     ],
     "phrases": [
-      "friction clutch (待翻译)",
-      "clutch pedal (待翻译)",
-      "clutch engagement (待翻译)",
-      "clutch release (待翻译)"
+      "friction clutch",
+      "clutch pedal",
+      "clutch engagement",
+      "clutch release"
     ],
     "mnemonic": "clutch（抓）→ 控制动力接合/分离 → 离合器",
     "meaning": "离合器"
@@ -2959,10 +2959,10 @@
       }
     ],
     "phrases": [
-      "hydraulic brake (待翻译)",
-      "emergency brake (待翻译)",
-      "brake system (待翻译)",
-      "brake fluid (待翻译)"
+      "hydraulic brake",
+      "emergency brake",
+      "brake system",
+      "brake fluid"
     ],
     "mnemonic": "brake（制动）→ 减速停止的装置 → 刹车",
     "meaning": "制动器，刹车"
@@ -3065,10 +3065,10 @@
       }
     ],
     "phrases": [
-      "conveyor belt (待翻译)",
-      "belt pulley (待翻译)",
-      "belt tensioner (待翻译)",
-      "serpentine belt (待翻译)"
+      "conveyor belt",
+      "belt pulley",
+      "belt tensioner",
+      "serpentine belt"
     ],
     "mnemonic": "belt（带）→ 柔性传动元件 → 皮带",
     "meaning": "皮带"
@@ -3171,10 +3171,10 @@
       }
     ],
     "phrases": [
-      "chain wheel (待翻译)",
-      "bicycle chain (待翻译)",
-      "chain tension (待翻译)",
-      "timing chain (待翻译)"
+      "chain wheel",
+      "bicycle chain",
+      "chain tension",
+      "timing chain"
     ],
     "mnemonic": "chain（链）→ 刚性连接的传动元件 → 链条",
     "meaning": "链条"
@@ -3277,10 +3277,10 @@
       }
     ],
     "phrases": [
-      "gas welding (待翻译)",
-      "spot welding (待翻译)",
-      "weld seam (待翻译)",
-      "weld joint (待翻译)"
+      "gas welding",
+      "spot welding",
+      "weld seam",
+      "weld joint"
     ],
     "mnemonic": "weld（焊接）→ 通过加热熔合 → 焊接",
     "meaning": "焊接"
@@ -3383,10 +3383,10 @@
       }
     ],
     "phrases": [
-      "steel casting (待翻译)",
-      "sand casting (待翻译)",
-      "investment casting (待翻译)",
-      "casting mold (待翻译)"
+      "steel casting",
+      "sand casting",
+      "investment casting",
+      "casting mold"
     ],
     "mnemonic": "cast（铸造）→ 将熔融金属倒入模具 → 铸造",
     "meaning": "铸造"
@@ -3489,10 +3489,10 @@
       }
     ],
     "phrases": [
-      "forge hammer (待翻译)",
-      "hot forging (待翻译)",
-      "cold forging (待翻译)",
-      "forging die (待翻译)"
+      "forge hammer",
+      "hot forging",
+      "cold forging",
+      "forging die"
     ],
     "mnemonic": "forge（锻造）→ 通过加热和压力成型 → 锻造",
     "meaning": "锻造"
@@ -3595,10 +3595,10 @@
       }
     ],
     "phrases": [
-      "heavy machinery (待翻译)",
-      "machine part (待翻译)",
-      "CNC machining (待翻译)",
-      "machine shop (待翻译)"
+      "heavy machinery",
+      "machine part",
+      "CNC machining",
+      "machine shop"
     ],
     "mnemonic": "machin（机器）→ 执行特定功能的装置 → 机器",
     "meaning": "机器"
@@ -3701,10 +3701,10 @@
       }
     ],
     "phrases": [
-      "turning lathe (待翻译)",
-      "lathe work (待翻译)",
-      "lathe cutting (待翻译)",
-      "engine lathe (待翻译)"
+      "turning lathe",
+      "lathe work",
+      "lathe cutting",
+      "engine lathe"
     ],
     "mnemonic": "lathe（车床）→ 工件旋转切削加工 → 车床",
     "meaning": "车床"
@@ -3807,10 +3807,10 @@
       }
     ],
     "phrases": [
-      "CNC mill (待翻译)",
-      "milling cutter (待翻译)",
-      "face mill (待翻译)",
-      "vertical mill (待翻译)"
+      "CNC mill",
+      "milling cutter",
+      "face mill",
+      "vertical mill"
     ],
     "mnemonic": "mill（铣）→ 刀具旋转切削加工 → 铣床",
     "meaning": "铣床"
@@ -3913,10 +3913,10 @@
       }
     ],
     "phrases": [
-      "twist drill (待翻译)",
-      "radial drill (待翻译)",
-      "drilling machine (待翻译)",
-      "drill hole (待翻译)"
+      "twist drill",
+      "radial drill",
+      "drilling machine",
+      "drill hole"
     ],
     "mnemonic": "drill（钻）→ 旋转切削孔 → 钻头",
     "meaning": "钻头，钻床"
@@ -4019,10 +4019,10 @@
       }
     ],
     "phrases": [
-      "surface grinding (待翻译)",
-      "cylindrical grinding (待翻译)",
-      "grinding machine (待翻译)",
-      "precision grinding (待翻译)"
+      "surface grinding",
+      "cylindrical grinding",
+      "grinding machine",
+      "precision grinding"
     ],
     "mnemonic": "grind（磨）→ 用砂轮精密加工 → 磨削",
     "meaning": "磨削"
@@ -4125,10 +4125,10 @@
       }
     ],
     "phrases": [
-      "cutting edge (待翻译)",
-      "metal cutting (待翻译)",
-      "cutting force (待翻译)",
-      "cutting parameter (待翻译)"
+      "cutting edge",
+      "metal cutting",
+      "cutting force",
+      "cutting parameter"
     ],
     "mnemonic": "cut（切）→ 去除材料的加工 → 切削",
     "meaning": "切削"
@@ -4231,10 +4231,10 @@
       }
     ],
     "phrases": [
-      "cutting tool (待翻译)",
-      "hand tool (待翻译)",
-      "tool steel (待翻译)",
-      "tool life (待翻译)"
+      "cutting tool",
+      "hand tool",
+      "tool steel",
+      "tool life"
     ],
     "mnemonic": "tool（工具）→ 机械加工用的器具 → 刀具",
     "meaning": "工具，刀具"
@@ -4337,10 +4337,10 @@
       }
     ],
     "phrases": [
-      "assembly process (待翻译)",
-      "assembly drawing (待翻译)",
-      "sub-assembly (待翻译)",
-      "assembly plant (待翻译)"
+      "assembly process",
+      "assembly drawing",
+      "sub-assembly",
+      "assembly plant"
     ],
     "mnemonic": "assembl（一起）→ 将零件组合 → 装配",
     "meaning": "装配"
@@ -4443,10 +4443,10 @@
       }
     ],
     "phrases": [
-      "equipment maintenance (待翻译)",
-      "routine maintenance (待翻译)",
-      "maintenance crew (待翻译)",
-      "maintenance cost (待翻译)"
+      "equipment maintenance",
+      "routine maintenance",
+      "maintenance crew",
+      "maintenance cost"
     ],
     "mnemonic": "maintain（保持）→ 保持设备正常运转 → 维护",
     "meaning": "维护，保养"
@@ -4549,10 +4549,10 @@
       }
     ],
     "phrases": [
-      "lubricating oil (待翻译)",
-      "oil circulation (待翻译)",
-      "grease fitting (待翻译)",
-      "oil reservoir (待翻译)"
+      "lubricating oil",
+      "oil circulation",
+      "grease fitting",
+      "oil reservoir"
     ],
     "mnemonic": "lubric（滑）→ 减少摩擦的系统 → 润滑系统",
     "meaning": "润滑系统"
@@ -4655,10 +4655,10 @@
       }
     ],
     "phrases": [
-      "water cooling (待翻译)",
-      "air cooling (待翻译)",
-      "cooling fan (待翻译)",
-      "cooling tower (待翻译)"
+      "water cooling",
+      "air cooling",
+      "cooling fan",
+      "cooling tower"
     ],
     "mnemonic": "cool（冷）→ 散热降温 → 冷却",
     "meaning": "冷却"
@@ -4761,10 +4761,10 @@
       }
     ],
     "phrases": [
-      "induction heating (待翻译)",
-      "heat resistant (待翻译)",
-      "heat dissipation (待翻译)",
-      "annealing (待翻译)"
+      "induction heating",
+      "heat resistant",
+      "heat dissipation",
+      "annealing"
     ],
     "mnemonic": "heat（热）→ 改变材料性能 → 热处理",
     "meaning": "加热"
@@ -4867,10 +4867,10 @@
       }
     ],
     "phrases": [
-      "tolerance range (待翻译)",
-      "interference fit (待翻译)",
-      "transition fit (待翻译)",
-      "clearance fit (待翻译)"
+      "tolerance range",
+      "interference fit",
+      "transition fit",
+      "clearance fit"
     ],
     "mnemonic": "toler（容忍）+ ance → 允许的误差范围 → 公差",
     "meaning": "公差"
@@ -4973,10 +4973,10 @@
       }
     ],
     "phrases": [
-      "precision machining (待翻译)",
-      "precision instrument (待翻译)",
-      "measurement accuracy (待翻译)",
-      "precision engineering (待翻译)"
+      "precision machining",
+      "precision instrument",
+      "measurement accuracy",
+      "precision engineering"
     ],
     "mnemonic": "precis（切）+ ion → 预先精确切割 → 精度",
     "meaning": "精度"
@@ -5079,10 +5079,10 @@
       }
     ],
     "phrases": [
-      "yield stress (待翻译)",
-      "shear stress (待翻译)",
-      "stress analysis (待翻译)",
-      "fatigue failure (待翻译)"
+      "yield stress",
+      "shear stress",
+      "stress analysis",
+      "fatigue failure"
     ],
     "mnemonic": "stress（压力）→ 材料内部受力 → 应力",
     "meaning": "应力"
@@ -5185,10 +5185,10 @@
       }
     ],
     "phrases": [
-      "mechanical vibration (待翻译)",
-      "vibration isolation (待翻译)",
-      "natural frequency (待翻译)",
-      "resonance (待翻译)"
+      "mechanical vibration",
+      "vibration isolation",
+      "natural frequency",
+      "resonance"
     ],
     "mnemonic": "vibr（摇动）→ 周期性运动 → 振动",
     "meaning": "振动"
@@ -5291,10 +5291,10 @@
       }
     ],
     "phrases": [
-      "process automation (待翻译)",
-      "automated production (待翻译)",
-      "robot arm (待翻译)",
-      "smart manufacturing (待翻译)"
+      "process automation",
+      "automated production",
+      "robot arm",
+      "smart manufacturing"
     ],
     "mnemonic": "automat（自动）→ 机器自主运行 → 自动化",
     "meaning": "自动化"
@@ -21298,10 +21298,10 @@
       }
     ],
     "phrases": [
-      "rotate (待翻译)",
-      "rotation (待翻译)",
-      "rotary (待翻译)",
-      "rotor (待翻译)"
+      "rotate",
+      "rotation",
+      "rotary",
+      "rotor"
     ],
     "mnemonic": "rotat→旋转"
   },
@@ -21404,10 +21404,10 @@
       }
     ],
     "phrases": [
-      "friction (待翻译)",
-      "frictional (待翻译)",
-      "frictionless (待翻译)",
-      "frictional resistance (待翻译)"
+      "friction",
+      "frictional",
+      "frictionless",
+      "frictional resistance"
     ],
     "mnemonic": "frict→摩擦"
   },
@@ -21510,10 +21510,10 @@
       }
     ],
     "phrases": [
-      "torsion (待翻译)",
-      "torsional (待翻译)",
-      "torque (待翻译)",
-      "torque wrench (待翻译)"
+      "torsion",
+      "torsional",
+      "torque",
+      "torque wrench"
     ],
     "mnemonic": "tors→扭转"
   },
@@ -21616,10 +21616,10 @@
       }
     ],
     "phrases": [
-      "vibrate (待翻译)",
-      "vibration (待翻译)",
-      "vibrator (待翻译)",
-      "vibrational (待翻译)"
+      "vibrate",
+      "vibration",
+      "vibrator",
+      "vibrational"
     ],
     "mnemonic": "vibr→振动"
   },
@@ -21722,10 +21722,10 @@
       }
     ],
     "phrases": [
-      "compress (待翻译)",
-      "compression (待翻译)",
-      "compressor (待翻译)",
-      "compressed (待翻译)"
+      "compress",
+      "compression",
+      "compressor",
+      "compressed"
     ],
     "mnemonic": "compress→压缩"
   },
@@ -21828,10 +21828,10 @@
       }
     ],
     "phrases": [
-      "tension (待翻译)",
-      "tensile (待翻译)",
-      "tensometer (待翻译)",
-      "tensioner (待翻译)"
+      "tension",
+      "tensile",
+      "tensometer",
+      "tensioner"
     ],
     "mnemonic": "tens→张力"
   },
@@ -21934,10 +21934,10 @@
       }
     ],
     "phrases": [
-      "deform (待翻译)",
-      "deformation (待翻译)",
-      "deformable (待翻译)",
-      "deformed (待翻译)"
+      "deform",
+      "deformation",
+      "deformable",
+      "deformed"
     ],
     "mnemonic": "deform→变形"
   },
@@ -22040,10 +22040,10 @@
       }
     ],
     "phrases": [
-      "elastic (待翻译)",
-      "elasticity (待翻译)",
-      "elastomer (待翻译)",
-      "elastic limit (待翻译)"
+      "elastic",
+      "elasticity",
+      "elastomer",
+      "elastic limit"
     ],
     "mnemonic": "elast→弹性"
   },
@@ -22146,10 +22146,10 @@
       }
     ],
     "phrases": [
-      "plastic (待翻译)",
-      "plasticity (待翻译)",
-      "plastics (待翻译)",
-      "plastic deformation (待翻译)"
+      "plastic",
+      "plasticity",
+      "plastics",
+      "plastic deformation"
     ],
     "mnemonic": "plastic→塑性"
   },
@@ -22252,10 +22252,10 @@
       }
     ],
     "phrases": [
-      "strain (待翻译)",
-      "strain gauge (待翻译)",
-      "straining (待翻译)",
-      "strain hardening (待翻译)"
+      "strain",
+      "strain gauge",
+      "straining",
+      "strain hardening"
     ],
     "mnemonic": "strain→应变"
   },
@@ -22358,10 +22358,10 @@
       }
     ],
     "phrases": [
-      "stress (待翻译)",
-      "stress analysis (待翻译)",
-      "stress relief (待翻译)",
-      "stress concentration (待翻译)"
+      "stress",
+      "stress analysis",
+      "stress relief",
+      "stress concentration"
     ],
     "mnemonic": "stress→应力"
   },
@@ -22464,10 +22464,10 @@
       }
     ],
     "phrases": [
-      "load (待翻译)",
-      "loading (待翻译)",
-      "loaded (待翻译)",
-      "load bearing (待翻译)"
+      "load",
+      "loading",
+      "loaded",
+      "load bearing"
     ],
     "mnemonic": "load→载荷"
   },
@@ -22570,10 +22570,10 @@
       }
     ],
     "phrases": [
-      "bear (待翻译)",
-      "bearing (待翻译)",
-      "load bearing (待翻译)",
-      "bearing capacity (待翻译)"
+      "bear",
+      "bearing",
+      "load bearing",
+      "bearing capacity"
     ],
     "mnemonic": "bear→承受"
   },
@@ -22676,10 +22676,10 @@
       }
     ],
     "phrases": [
-      "lubricate (待翻译)",
-      "lubrication (待翻译)",
-      "lubricant (待翻译)",
-      "lubricator (待翻译)"
+      "lubricate",
+      "lubrication",
+      "lubricant",
+      "lubricator"
     ],
     "mnemonic": "lubric→润滑"
   },
@@ -22782,10 +22782,10 @@
       }
     ],
     "phrases": [
-      "cool (待翻译)",
-      "cooling (待翻译)",
-      "coolant (待翻译)",
-      "cooler (待翻译)"
+      "cool",
+      "cooling",
+      "coolant",
+      "cooler"
     ],
     "mnemonic": "cool→冷却"
   },
@@ -22888,10 +22888,10 @@
       }
     ],
     "phrases": [
-      "heat (待翻译)",
-      "heating (待翻译)",
-      "heater (待翻译)",
-      "heat treatment (待翻译)"
+      "heat",
+      "heating",
+      "heater",
+      "heat treatment"
     ],
     "mnemonic": "heat→加热"
   },
@@ -22994,10 +22994,10 @@
       }
     ],
     "phrases": [
-      "weld (待翻译)",
-      "welding (待翻译)",
-      "welder (待翻译)",
-      "welded (待翻译)"
+      "weld",
+      "welding",
+      "welder",
+      "welded"
     ],
     "mnemonic": "weld→焊接"
   },
@@ -23100,10 +23100,10 @@
       }
     ],
     "phrases": [
-      "cast (待翻译)",
-      "casting (待翻译)",
-      "caster (待翻译)",
-      "cast iron (待翻译)"
+      "cast",
+      "casting",
+      "caster",
+      "cast iron"
     ],
     "mnemonic": "cast→铸造"
   },
@@ -23206,10 +23206,10 @@
       }
     ],
     "phrases": [
-      "machine (待翻译)",
-      "machining (待翻译)",
-      "machined (待翻译)",
-      "machine tool (待翻译)"
+      "machine",
+      "machining",
+      "machined",
+      "machine tool"
     ],
     "mnemonic": "machin→加工"
   },
@@ -23312,10 +23312,10 @@
       }
     ],
     "phrases": [
-      "grind (待翻译)",
-      "grinding (待翻译)",
-      "grinder (待翻译)",
-      "ground (待翻译)"
+      "grind",
+      "grinding",
+      "grinder",
+      "ground"
     ],
     "mnemonic": "grind→磨削"
   },
@@ -23418,10 +23418,10 @@
       }
     ],
     "phrases": [
-      "axle (待翻译)",
-      "axis (待翻译)",
-      "axial (待翻译)",
-      "coaxial (待翻译)"
+      "axle",
+      "axis",
+      "axial",
+      "coaxial"
     ],
     "mnemonic": "ax→轴"
   },
@@ -23524,10 +23524,10 @@
       }
     ],
     "phrases": [
-      "bearing (待翻译)",
-      "ball bearing (待翻译)",
-      "roller bearing (待翻译)",
-      "bearing housing (待翻译)"
+      "bearing",
+      "ball bearing",
+      "roller bearing",
+      "bearing housing"
     ],
     "mnemonic": "bear→轴承"
   },
@@ -23630,10 +23630,10 @@
       }
     ],
     "phrases": [
-      "gear (待翻译)",
-      "gearing (待翻译)",
-      "gearbox (待翻译)",
-      "geared (待翻译)"
+      "gear",
+      "gearing",
+      "gearbox",
+      "geared"
     ],
     "mnemonic": "gear→齿轮"
   },
@@ -23736,10 +23736,10 @@
       }
     ],
     "phrases": [
-      "belt (待翻译)",
-      "belt drive (待翻译)",
-      "conveyor belt (待翻译)",
-      "timing belt (待翻译)"
+      "belt",
+      "belt drive",
+      "conveyor belt",
+      "timing belt"
     ],
     "mnemonic": "belt→带"
   },
@@ -23842,10 +23842,10 @@
       }
     ],
     "phrases": [
-      "chain (待翻译)",
-      "chain drive (待翻译)",
-      "roller chain (待翻译)",
-      "chain sprocket (待翻译)"
+      "chain",
+      "chain drive",
+      "roller chain",
+      "chain sprocket"
     ],
     "mnemonic": "chain→链"
   },
@@ -23948,10 +23948,10 @@
       }
     ],
     "phrases": [
-      "pulley (待翻译)",
-      "pulley block (待翻译)",
-      "belt pulley (待翻译)",
-      "pulley system (待翻译)"
+      "pulley",
+      "pulley block",
+      "belt pulley",
+      "pulley system"
     ],
     "mnemonic": "pulley→滑轮"
   },
@@ -24054,10 +24054,10 @@
       }
     ],
     "phrases": [
-      "cam (待翻译)",
-      "camshaft (待翻译)",
-      "cam profile (待翻译)",
-      "cam mechanism (待翻译)"
+      "cam",
+      "camshaft",
+      "cam profile",
+      "cam mechanism"
     ],
     "mnemonic": "cam→凸轮"
   },
@@ -24160,10 +24160,10 @@
       }
     ],
     "phrases": [
-      "valve (待翻译)",
-      "valve stem (待翻译)",
-      "valve seat (待翻译)",
-      "solenoid valve (待翻译)"
+      "valve",
+      "valve stem",
+      "valve seat",
+      "solenoid valve"
     ],
     "mnemonic": "valv→阀"
   },
@@ -24266,10 +24266,10 @@
       }
     ],
     "phrases": [
-      "pump (待翻译)",
-      "pumping (待翻译)",
-      "centrifugal pump (待翻译)",
-      "hydraulic pump (待翻译)"
+      "pump",
+      "pumping",
+      "centrifugal pump",
+      "hydraulic pump"
     ],
     "mnemonic": "pump→泵"
   },
@@ -24372,10 +24372,10 @@
       }
     ],
     "phrases": [
-      "cylinder (待翻译)",
-      "cylindrical (待翻译)",
-      "cylinder block (待翻译)",
-      "cylinder head (待翻译)"
+      "cylinder",
+      "cylindrical",
+      "cylinder block",
+      "cylinder head"
     ],
     "mnemonic": "cylind→气缸"
   },
@@ -24478,10 +24478,10 @@
       }
     ],
     "phrases": [
-      "piston (待翻译)",
-      "piston ring (待翻译)",
-      "piston rod (待翻译)",
-      "piston pin (待翻译)"
+      "piston",
+      "piston ring",
+      "piston rod",
+      "piston pin"
     ],
     "mnemonic": "piston→活塞"
   },
@@ -24584,10 +24584,10 @@
       }
     ],
     "phrases": [
-      "crank (待翻译)",
-      "crankshaft (待翻译)",
-      "crank mechanism (待翻译)",
-      "crank arm (待翻译)"
+      "crank",
+      "crankshaft",
+      "crank mechanism",
+      "crank arm"
     ],
     "mnemonic": "crank→曲柄"
   },
@@ -24690,10 +24690,10 @@
       }
     ],
     "phrases": [
-      "rod (待翻译)",
-      "connecting rod (待翻译)",
-      "push rod (待翻译)",
-      "tie rod (待翻译)"
+      "rod",
+      "connecting rod",
+      "push rod",
+      "tie rod"
     ],
     "mnemonic": "rod→杆"
   },
@@ -24796,10 +24796,10 @@
       }
     ],
     "phrases": [
-      "spring (待翻译)",
-      "coil spring (待翻译)",
-      "leaf spring (待翻译)",
-      "torsion spring (待翻译)"
+      "spring",
+      "coil spring",
+      "leaf spring",
+      "torsion spring"
     ],
     "mnemonic": "spring→弹簧"
   },
@@ -24902,10 +24902,10 @@
       }
     ],
     "phrases": [
-      "seal (待翻译)",
-      "sealing (待翻译)",
-      "sealer (待翻译)",
-      "oil seal (待翻译)"
+      "seal",
+      "sealing",
+      "sealer",
+      "oil seal"
     ],
     "mnemonic": "seal→密封"
   },
@@ -25008,10 +25008,10 @@
       }
     ],
     "phrases": [
-      "gasket (待翻译)",
-      "sealing gasket (待翻译)",
-      "gasket seal (待翻译)",
-      "gasket material (待翻译)"
+      "gasket",
+      "sealing gasket",
+      "gasket seal",
+      "gasket material"
     ],
     "mnemonic": "gasket→垫片"
   },
@@ -25114,10 +25114,10 @@
       }
     ],
     "phrases": [
-      "bolt (待翻译)",
-      "bolting (待翻译)",
-      "bolt head (待翻译)",
-      "anchor bolt (待翻译)"
+      "bolt",
+      "bolting",
+      "bolt head",
+      "anchor bolt"
     ],
     "mnemonic": "bolt→螺栓"
   },
@@ -25220,10 +25220,10 @@
       }
     ],
     "phrases": [
-      "nut (待翻译)",
-      "nut bolt (待翻译)",
-      "hex nut (待翻译)",
-      "lock nut (待翻译)"
+      "nut",
+      "nut bolt",
+      "hex nut",
+      "lock nut"
     ],
     "mnemonic": "nut→螺母"
   },
@@ -25326,10 +25326,10 @@
       }
     ],
     "phrases": [
-      "screw (待翻译)",
-      "screwdriver (待翻译)",
-      "screw thread (待翻译)",
-      "machine screw (待翻译)"
+      "screw",
+      "screwdriver",
+      "screw thread",
+      "machine screw"
     ],
     "mnemonic": "screw→螺钉"
   },
@@ -25432,10 +25432,10 @@
       }
     ],
     "phrases": [
-      "rivet (待翻译)",
-      "riveting (待翻译)",
-      "riveted joint (待翻译)",
-      "blind rivet (待翻译)"
+      "rivet",
+      "riveting",
+      "riveted joint",
+      "blind rivet"
     ],
     "mnemonic": "rivet→铆钉"
   },
@@ -25538,10 +25538,10 @@
       }
     ],
     "phrases": [
-      "steel (待翻译)",
-      "stainless steel (待翻译)",
-      "carbon steel (待翻译)",
-      "alloy steel (待翻译)"
+      "steel",
+      "stainless steel",
+      "carbon steel",
+      "alloy steel"
     ],
     "mnemonic": "steel→钢"
   },
@@ -25644,10 +25644,10 @@
       }
     ],
     "phrases": [
-      "iron (待翻译)",
-      "cast iron (待翻译)",
-      "wrought iron (待翻译)",
-      "iron ore (待翻译)"
+      "iron",
+      "cast iron",
+      "wrought iron",
+      "iron ore"
     ],
     "mnemonic": "iron→铁"
   },
@@ -25750,10 +25750,10 @@
       }
     ],
     "phrases": [
-      "alloy (待翻译)",
-      "alloying (待翻译)",
-      "aluminum alloy (待翻译)",
-      "copper alloy (待翻译)"
+      "alloy",
+      "alloying",
+      "aluminum alloy",
+      "copper alloy"
     ],
     "mnemonic": "alloy→合金"
   },
@@ -25856,10 +25856,10 @@
       }
     ],
     "phrases": [
-      "metal (待翻译)",
-      "metallic (待翻译)",
-      "metallurgy (待翻译)",
-      "metalworking (待翻译)"
+      "metal",
+      "metallic",
+      "metallurgy",
+      "metalworking"
     ],
     "mnemonic": "metall→金属"
   },
@@ -25962,10 +25962,10 @@
       }
     ],
     "phrases": [
-      "ceramic (待翻译)",
-      "ceramics (待翻译)",
-      "ceramic coating (待翻译)",
-      "advanced ceramics (待翻译)"
+      "ceramic",
+      "ceramics",
+      "ceramic coating",
+      "advanced ceramics"
     ],
     "mnemonic": "ceram→陶瓷"
   },
@@ -26068,10 +26068,10 @@
       }
     ],
     "phrases": [
-      "composite (待翻译)",
-      "composition (待翻译)",
-      "fiber composite (待翻译)",
-      "composite material (待翻译)"
+      "composite",
+      "composition",
+      "fiber composite",
+      "composite material"
     ],
     "mnemonic": "compos→复合材料"
   },
@@ -26174,10 +26174,10 @@
       }
     ],
     "phrases": [
-      "polymer (待翻译)",
-      "polymeric (待翻译)",
-      "polymerization (待翻译)",
-      "synthetic polymer (待翻译)"
+      "polymer",
+      "polymeric",
+      "polymerization",
+      "synthetic polymer"
     ],
     "mnemonic": "polymer→聚合物"
   },
@@ -26280,10 +26280,10 @@
       }
     ],
     "phrases": [
-      "elastomer (待翻译)",
-      "elastomeric (待翻译)",
-      "rubber elastomer (待翻译)",
-      "seal elastomer (待翻译)"
+      "elastomer",
+      "elastomeric",
+      "rubber elastomer",
+      "seal elastomer"
     ],
     "mnemonic": "elast→弹性体"
   },
@@ -26386,10 +26386,10 @@
       }
     ],
     "phrases": [
-      "rubber (待翻译)",
-      "rubber seal (待翻译)",
-      "synthetic rubber (待翻译)",
-      "rubber gasket (待翻译)"
+      "rubber",
+      "rubber seal",
+      "synthetic rubber",
+      "rubber gasket"
     ],
     "mnemonic": "rubber→橡胶"
   },
@@ -26492,10 +26492,10 @@
       }
     ],
     "phrases": [
-      "fiber (待翻译)",
-      "fiber optic (待翻译)",
-      "carbon fiber (待翻译)",
-      "glass fiber (待翻译)"
+      "fiber",
+      "fiber optic",
+      "carbon fiber",
+      "glass fiber"
     ],
     "mnemonic": "fiber→纤维"
   },
@@ -26598,10 +26598,10 @@
       }
     ],
     "phrases": [
-      "coat (待翻译)",
-      "coating (待翻译)",
-      "coated (待翻译)",
-      "protective coating (待翻译)"
+      "coat",
+      "coating",
+      "coated",
+      "protective coating"
     ],
     "mnemonic": "coat→涂层"
   },
@@ -26704,10 +26704,10 @@
       }
     ],
     "phrases": [
-      "plate (待翻译)",
-      "plating (待翻译)",
-      "electroplating (待翻译)",
-      "chrome plating (待翻译)"
+      "plate",
+      "plating",
+      "electroplating",
+      "chrome plating"
     ],
     "mnemonic": "plat→镀层"
   },
@@ -26810,10 +26810,10 @@
       }
     ],
     "phrases": [
-      "harden (待翻译)",
-      "hardening (待翻译)",
-      "hardened (待翻译)",
-      "case hardening (待翻译)"
+      "harden",
+      "hardening",
+      "hardened",
+      "case hardening"
     ],
     "mnemonic": "harden→硬化"
   },
@@ -26916,10 +26916,10 @@
       }
     ],
     "phrases": [
-      "temper (待翻译)",
-      "tempering (待翻译)",
-      "tempered (待翻译)",
-      "tempered steel (待翻译)"
+      "temper",
+      "tempering",
+      "tempered",
+      "tempered steel"
     ],
     "mnemonic": "temper→回火"
   },
@@ -27022,10 +27022,10 @@
       }
     ],
     "phrases": [
-      "quench (待翻译)",
-      "quenching (待翻译)",
-      "quenched (待翻译)",
-      "oil quench (待翻译)"
+      "quench",
+      "quenching",
+      "quenched",
+      "oil quench"
     ],
     "mnemonic": "quench→淬火"
   },
@@ -27128,10 +27128,10 @@
       }
     ],
     "phrases": [
-      "anneal (待翻译)",
-      "annealing (待翻译)",
-      "annealed (待翻译)",
-      "stress relief annealing (待翻译)"
+      "anneal",
+      "annealing",
+      "annealed",
+      "stress relief annealing"
     ],
     "mnemonic": "anneal→退火"
   },
@@ -27234,10 +27234,10 @@
       }
     ],
     "phrases": [
-      "forge (待翻译)",
-      "forging (待翻译)",
-      "forged (待翻译)",
-      "drop forging (待翻译)"
+      "forge",
+      "forging",
+      "forged",
+      "drop forging"
     ],
     "mnemonic": "forge→锻造"
   },
@@ -27340,10 +27340,10 @@
       }
     ],
     "phrases": [
-      "mill (待翻译)",
-      "milling (待翻译)",
-      "milling cutter (待翻译)",
-      "end mill (待翻译)"
+      "mill",
+      "milling",
+      "milling cutter",
+      "end mill"
     ],
     "mnemonic": "mill→铣削"
   },
@@ -27446,10 +27446,10 @@
       }
     ],
     "phrases": [
-      "turn (待翻译)",
-      "turning (待翻译)",
-      "lathe turning (待翻译)",
-      "turning tool (待翻译)"
+      "turn",
+      "turning",
+      "lathe turning",
+      "turning tool"
     ],
     "mnemonic": "turn→车削"
   },
@@ -27552,10 +27552,10 @@
       }
     ],
     "phrases": [
-      "drill (待翻译)",
-      "drilling (待翻译)",
-      "drill bit (待翻译)",
-      "drill press (待翻译)"
+      "drill",
+      "drilling",
+      "drill bit",
+      "drill press"
     ],
     "mnemonic": "drill→钻孔"
   },
@@ -27658,10 +27658,10 @@
       }
     ],
     "phrases": [
-      "motor (待翻译)",
-      "motor drive (待翻译)",
-      "electric motor (待翻译)",
-      "servo motor (待翻译)"
+      "motor",
+      "motor drive",
+      "electric motor",
+      "servo motor"
     ],
     "mnemonic": "motor→电机"
   },
@@ -27764,10 +27764,10 @@
       }
     ],
     "phrases": [
-      "engine (待翻译)",
-      "engineer (待翻译)",
-      "engineering (待翻译)",
-      "combustion engine (待翻译)"
+      "engine",
+      "engineer",
+      "engineering",
+      "combustion engine"
     ],
     "mnemonic": "engin→发动机"
   },
@@ -27870,10 +27870,10 @@
       }
     ],
     "phrases": [
-      "turbine (待翻译)",
-      "turbine blade (待翻译)",
-      "gas turbine (待翻译)",
-      "steam turbine (待翻译)"
+      "turbine",
+      "turbine blade",
+      "gas turbine",
+      "steam turbine"
     ],
     "mnemonic": "turb→涡轮"
   },
@@ -27976,10 +27976,10 @@
       }
     ],
     "phrases": [
-      "turbo (待翻译)",
-      "turbocharger (待翻译)",
-      "turbocharged (待翻译)",
-      "twin turbo (待翻译)"
+      "turbo",
+      "turbocharger",
+      "turbocharged",
+      "twin turbo"
     ],
     "mnemonic": "turbo→涡轮增压"
   },
@@ -28082,10 +28082,10 @@
       }
     ],
     "phrases": [
-      "combust (待翻译)",
-      "combustion (待翻译)",
-      "combustor (待翻译)",
-      "combustion chamber (待翻译)"
+      "combust",
+      "combustion",
+      "combustor",
+      "combustion chamber"
     ],
     "mnemonic": "combust→燃烧"
   },
@@ -28188,10 +28188,10 @@
       }
     ],
     "phrases": [
-      "ignite (待翻译)",
-      "ignition (待翻译)",
-      "igniter (待翻译)",
-      "ignition system (待翻译)"
+      "ignite",
+      "ignition",
+      "igniter",
+      "ignition system"
     ],
     "mnemonic": "ignit→点火"
   },
@@ -28294,10 +28294,10 @@
       }
     ],
     "phrases": [
-      "inject (待翻译)",
-      "injection (待翻译)",
-      "injector (待翻译)",
-      "fuel injection (待翻译)"
+      "inject",
+      "injection",
+      "injector",
+      "fuel injection"
     ],
     "mnemonic": "inject→喷射"
   },
@@ -28400,10 +28400,10 @@
       }
     ],
     "phrases": [
-      "carburetor (待翻译)",
-      "carburetion (待翻译)",
-      "carb (待翻译)",
-      "fuel carburetor (待翻译)"
+      "carburetor",
+      "carburetion",
+      "carb",
+      "fuel carburetor"
     ],
     "mnemonic": "carbur→化油器"
   },
@@ -28506,10 +28506,10 @@
       }
     ],
     "phrases": [
-      "exhaust (待翻译)",
-      "exhaust pipe (待翻译)",
-      "exhaust gas (待翻译)",
-      "exhaust valve (待翻译)"
+      "exhaust",
+      "exhaust pipe",
+      "exhaust gas",
+      "exhaust valve"
     ],
     "mnemonic": "exhaust→排气"
   },
@@ -28612,10 +28612,10 @@
       }
     ],
     "phrases": [
-      "intake (待翻译)",
-      "intake valve (待翻译)",
-      "air intake (待翻译)",
-      "intake manifold (待翻译)"
+      "intake",
+      "intake valve",
+      "air intake",
+      "intake manifold"
     ],
     "mnemonic": "intake→进气"
   },
@@ -28718,10 +28718,10 @@
       }
     ],
     "phrases": [
-      "manifold (待翻译)",
-      "exhaust manifold (待翻译)",
-      "intake manifold (待翻译)",
-      "manifold pressure (待翻译)"
+      "manifold",
+      "exhaust manifold",
+      "intake manifold",
+      "manifold pressure"
     ],
     "mnemonic": "manifold→歧管"
   },
@@ -28824,10 +28824,10 @@
       }
     ],
     "phrases": [
-      "transmission (待翻译)",
-      "transmit (待翻译)",
-      "gear transmission (待翻译)",
-      "automatic transmission (待翻译)"
+      "transmission",
+      "transmit",
+      "gear transmission",
+      "automatic transmission"
     ],
     "mnemonic": "transmiss→传动"
   },
@@ -28930,10 +28930,10 @@
       }
     ],
     "phrases": [
-      "clutch (待翻译)",
-      "clutch plate (待翻译)",
-      "clutch pedal (待翻译)",
-      "clutch mechanism (待翻译)"
+      "clutch",
+      "clutch plate",
+      "clutch pedal",
+      "clutch mechanism"
     ],
     "mnemonic": "clutch→离合器"
   },
@@ -29036,10 +29036,10 @@
       }
     ],
     "phrases": [
-      "brake (待翻译)",
-      "braking (待翻译)",
-      "disc brake (待翻译)",
-      "hydraulic brake (待翻译)"
+      "brake",
+      "braking",
+      "disc brake",
+      "hydraulic brake"
     ],
     "mnemonic": "brak→制动"
   },
@@ -29142,10 +29142,10 @@
       }
     ],
     "phrases": [
-      "differential (待翻译)",
-      "differentiation (待翻译)",
-      "differential gear (待翻译)",
-      "limited slip differential (待翻译)"
+      "differential",
+      "differentiation",
+      "differential gear",
+      "limited slip differential"
     ],
     "mnemonic": "differ→差速器"
   },
@@ -29248,10 +29248,10 @@
       }
     ],
     "phrases": [
-      "drive (待翻译)",
-      "driving (待翻译)",
-      "driven (待翻译)",
-      "drive shaft (待翻译)"
+      "drive",
+      "driving",
+      "driven",
+      "drive shaft"
     ],
     "mnemonic": "driv→驱动"
   },
@@ -29354,10 +29354,10 @@
       }
     ],
     "phrases": [
-      "propel (待翻译)",
-      "propeller (待翻译)",
-      "propulsion (待翻译)",
-      "propulsion system (待翻译)"
+      "propel",
+      "propeller",
+      "propulsion",
+      "propulsion system"
     ],
     "mnemonic": "propel→推进"
   },
@@ -29460,10 +29460,10 @@
       }
     ],
     "phrases": [
-      "hydraulic (待翻译)",
-      "hydraulics (待翻译)",
-      "hydraulic pump (待翻译)",
-      "hydraulic cylinder (待翻译)"
+      "hydraulic",
+      "hydraulics",
+      "hydraulic pump",
+      "hydraulic cylinder"
     ],
     "mnemonic": "hydraul→液压"
   },
@@ -29566,10 +29566,10 @@
       }
     ],
     "phrases": [
-      "pneumatic (待翻译)",
-      "pneumatics (待翻译)",
-      "pneumatic cylinder (待翻译)",
-      "pneumatic valve (待翻译)"
+      "pneumatic",
+      "pneumatics",
+      "pneumatic cylinder",
+      "pneumatic valve"
     ],
     "mnemonic": "pneumat→气动"
   },
@@ -29672,10 +29672,10 @@
       }
     ],
     "phrases": [
-      "actuate (待翻译)",
-      "actuator (待翻译)",
-      "actuation (待翻译)",
-      "linear actuator (待翻译)"
+      "actuate",
+      "actuator",
+      "actuation",
+      "linear actuator"
     ],
     "mnemonic": "actuat→驱动器"
   },
@@ -29778,10 +29778,10 @@
       }
     ],
     "phrases": [
-      "sensor (待翻译)",
-      "sense (待翻译)",
-      "sensing (待翻译)",
-      "pressure sensor (待翻译)"
+      "sensor",
+      "sense",
+      "sensing",
+      "pressure sensor"
     ],
     "mnemonic": "sens→传感器"
   },
@@ -29884,10 +29884,10 @@
       }
     ],
     "phrases": [
-      "actuator (待翻译)",
-      "actuation (待翻译)",
-      "actuate (待翻译)",
-      "electric actuator (待翻译)"
+      "actuator",
+      "actuation",
+      "actuate",
+      "electric actuator"
     ],
     "mnemonic": "actuat→执行器"
   },
@@ -29990,10 +29990,10 @@
       }
     ],
     "phrases": [
-      "servo (待翻译)",
-      "servomotor (待翻译)",
-      "servo system (待翻译)",
-      "servo valve (待翻译)"
+      "servo",
+      "servomotor",
+      "servo system",
+      "servo valve"
     ],
     "mnemonic": "servo→伺服"
   },
@@ -30096,10 +30096,10 @@
       }
     ],
     "phrases": [
-      "feedback (待翻译)",
-      "feedback loop (待翻译)",
-      "feedback control (待翻译)",
-      "negative feedback (待翻译)"
+      "feedback",
+      "feedback loop",
+      "feedback control",
+      "negative feedback"
     ],
     "mnemonic": "feedbak→反馈"
   },
@@ -30202,10 +30202,10 @@
       }
     ],
     "phrases": [
-      "control (待翻译)",
-      "controller (待翻译)",
-      "controlling (待翻译)",
-      "control system (待翻译)"
+      "control",
+      "controller",
+      "controlling",
+      "control system"
     ],
     "mnemonic": "control→控制"
   },
@@ -30308,10 +30308,10 @@
       }
     ],
     "phrases": [
-      "automatic (待翻译)",
-      "automation (待翻译)",
-      "automate (待翻译)",
-      "automatic control (待翻译)"
+      "automatic",
+      "automation",
+      "automate",
+      "automatic control"
     ],
     "mnemonic": "automat→自动"
   },
@@ -30414,10 +30414,10 @@
       }
     ],
     "phrases": [
-      "regulate (待翻译)",
-      "regulator (待翻译)",
-      "regulation (待翻译)",
-      "pressure regulator (待翻译)"
+      "regulate",
+      "regulator",
+      "regulation",
+      "pressure regulator"
     ],
     "mnemonic": "regul→调节"
   },
@@ -30520,10 +30520,10 @@
       }
     ],
     "phrases": [
-      "valve (待翻译)",
-      "valve control (待翻译)",
-      "solenoid valve (待翻译)",
-      "control valve (待翻译)"
+      "valve",
+      "valve control",
+      "solenoid valve",
+      "control valve"
     ],
     "mnemonic": "valv→阀门"
   },
@@ -30626,10 +30626,10 @@
       }
     ],
     "phrases": [
-      "gauge (待翻译)",
-      "pressure gauge (待翻译)",
-      "strain gauge (待翻译)",
-      "thickness gauge (待翻译)"
+      "gauge",
+      "pressure gauge",
+      "strain gauge",
+      "thickness gauge"
     ],
     "mnemonic": "gaug→量规"
   },
@@ -30732,10 +30732,10 @@
       }
     ],
     "phrases": [
-      "meter (待翻译)",
-      "flow meter (待翻译)",
-      "speed meter (待翻译)",
-      "pressure meter (待翻译)"
+      "meter",
+      "flow meter",
+      "speed meter",
+      "pressure meter"
     ],
     "mnemonic": "meter→仪表"
   },
@@ -30838,10 +30838,10 @@
       }
     ],
     "phrases": [
-      "monitor (待翻译)",
-      "monitoring (待翻译)",
-      "condition monitoring (待翻译)",
-      "vibration monitor (待翻译)"
+      "monitor",
+      "monitoring",
+      "condition monitoring",
+      "vibration monitor"
     ],
     "mnemonic": "monitor→监控"
   },
@@ -30944,10 +30944,10 @@
       }
     ],
     "phrases": [
-      "measure (待翻译)",
-      "measurement (待翻译)",
-      "measuring (待翻译)",
-      "precision measurement (待翻译)"
+      "measure",
+      "measurement",
+      "measuring",
+      "precision measurement"
     ],
     "mnemonic": "measur→测量"
   },
@@ -31050,10 +31050,10 @@
       }
     ],
     "phrases": [
-      "calibrate (待翻译)",
-      "calibration (待翻译)",
-      "calibrated (待翻译)",
-      "calibration tool (待翻译)"
+      "calibrate",
+      "calibration",
+      "calibrated",
+      "calibration tool"
     ],
     "mnemonic": "calibr→校准"
   },
@@ -31156,10 +31156,10 @@
       }
     ],
     "phrases": [
-      "align (待翻译)",
-      "alignment (待翻译)",
-      "aligned (待翻译)",
-      "shaft alignment (待翻译)"
+      "align",
+      "alignment",
+      "aligned",
+      "shaft alignment"
     ],
     "mnemonic": "align→对准"
   },
@@ -31262,10 +31262,10 @@
       }
     ],
     "phrases": [
-      "balance (待翻译)",
-      "balancing (待翻译)",
-      "balanced (待翻译)",
-      "dynamic balance (待翻译)"
+      "balance",
+      "balancing",
+      "balanced",
+      "dynamic balance"
     ],
     "mnemonic": "balanc→平衡"
   },
@@ -31368,10 +31368,10 @@
       }
     ],
     "phrases": [
-      "calculate (待翻译)",
-      "calculation (待翻译)",
-      "calculator (待翻译)",
-      "computer aided design (待翻译)"
+      "calculate",
+      "calculation",
+      "calculator",
+      "computer aided design"
     ],
     "mnemonic": "calcul→计算"
   },
@@ -31474,10 +31474,10 @@
       }
     ],
     "phrases": [
-      "simulate (待翻译)",
-      "simulation (待翻译)",
-      "simulator (待翻译)",
-      "computer simulation (待翻译)"
+      "simulate",
+      "simulation",
+      "simulator",
+      "computer simulation"
     ],
     "mnemonic": "simul→模拟"
   },
@@ -31580,10 +31580,10 @@
       }
     ],
     "phrases": [
-      "optimize (待翻译)",
-      "optimization (待翻译)",
-      "optimal (待翻译)",
-      "design optimization (待翻译)"
+      "optimize",
+      "optimization",
+      "optimal",
+      "design optimization"
     ],
     "mnemonic": "optim→优化"
   },
@@ -31686,10 +31686,10 @@
       }
     ],
     "phrases": [
-      "analyze (待翻译)",
-      "analysis (待翻译)",
-      "analyzer (待翻译)",
-      "finite element analysis (待翻译)"
+      "analyze",
+      "analysis",
+      "analyzer",
+      "finite element analysis"
     ],
     "mnemonic": "analyz→分析"
   },
@@ -31792,10 +31792,10 @@
       }
     ],
     "phrases": [
-      "diagnose (待翻译)",
-      "diagnosis (待翻译)",
-      "diagnostic (待翻译)",
-      "fault diagnosis (待翻译)"
+      "diagnose",
+      "diagnosis",
+      "diagnostic",
+      "fault diagnosis"
     ],
     "mnemonic": "diagnos→诊断"
   },
@@ -31898,10 +31898,10 @@
       }
     ],
     "phrases": [
-      "rotate (待翻译)",
-      "rotation (待翻译)",
-      "rotary (待翻译)",
-      "rotor (待翻译)"
+      "rotate",
+      "rotation",
+      "rotary",
+      "rotor"
     ],
     "mnemonic": "rotat→旋转"
   },
@@ -32004,10 +32004,10 @@
       }
     ],
     "phrases": [
-      "friction (待翻译)",
-      "frictional (待翻译)",
-      "frictionless (待翻译)",
-      "frictional resistance (待翻译)"
+      "friction",
+      "frictional",
+      "frictionless",
+      "frictional resistance"
     ],
     "mnemonic": "frict→摩擦"
   },
@@ -32110,10 +32110,10 @@
       }
     ],
     "phrases": [
-      "torsion (待翻译)",
-      "torsional (待翻译)",
-      "torque (待翻译)",
-      "torque wrench (待翻译)"
+      "torsion",
+      "torsional",
+      "torque",
+      "torque wrench"
     ],
     "mnemonic": "tors→扭转"
   },
@@ -32216,10 +32216,10 @@
       }
     ],
     "phrases": [
-      "vibrate (待翻译)",
-      "vibration (待翻译)",
-      "vibrator (待翻译)",
-      "vibrational (待翻译)"
+      "vibrate",
+      "vibration",
+      "vibrator",
+      "vibrational"
     ],
     "mnemonic": "vibr→振动"
   },
@@ -32322,10 +32322,10 @@
       }
     ],
     "phrases": [
-      "compress (待翻译)",
-      "compression (待翻译)",
-      "compressor (待翻译)",
-      "compressed (待翻译)"
+      "compress",
+      "compression",
+      "compressor",
+      "compressed"
     ],
     "mnemonic": "compress→压缩"
   },
@@ -32428,10 +32428,10 @@
       }
     ],
     "phrases": [
-      "tension (待翻译)",
-      "tensile (待翻译)",
-      "tensometer (待翻译)",
-      "tensioner (待翻译)"
+      "tension",
+      "tensile",
+      "tensometer",
+      "tensioner"
     ],
     "mnemonic": "tens→张力"
   },
@@ -32534,10 +32534,10 @@
       }
     ],
     "phrases": [
-      "deform (待翻译)",
-      "deformation (待翻译)",
-      "deformable (待翻译)",
-      "deformed (待翻译)"
+      "deform",
+      "deformation",
+      "deformable",
+      "deformed"
     ],
     "mnemonic": "deform→变形"
   },
@@ -32640,10 +32640,10 @@
       }
     ],
     "phrases": [
-      "elastic (待翻译)",
-      "elasticity (待翻译)",
-      "elastomer (待翻译)",
-      "elastic limit (待翻译)"
+      "elastic",
+      "elasticity",
+      "elastomer",
+      "elastic limit"
     ],
     "mnemonic": "elast→弹性"
   },
@@ -32746,10 +32746,10 @@
       }
     ],
     "phrases": [
-      "plastic (待翻译)",
-      "plasticity (待翻译)",
-      "plastics (待翻译)",
-      "plastic deformation (待翻译)"
+      "plastic",
+      "plasticity",
+      "plastics",
+      "plastic deformation"
     ],
     "mnemonic": "plastic→塑性"
   },
@@ -32852,10 +32852,10 @@
       }
     ],
     "phrases": [
-      "strain (待翻译)",
-      "strain gauge (待翻译)",
-      "straining (待翻译)",
-      "strain hardening (待翻译)"
+      "strain",
+      "strain gauge",
+      "straining",
+      "strain hardening"
     ],
     "mnemonic": "strain→应变"
   },
@@ -32958,10 +32958,10 @@
       }
     ],
     "phrases": [
-      "stress (待翻译)",
-      "stress analysis (待翻译)",
-      "stress relief (待翻译)",
-      "stress concentration (待翻译)"
+      "stress",
+      "stress analysis",
+      "stress relief",
+      "stress concentration"
     ],
     "mnemonic": "stress→应力"
   },
@@ -33064,10 +33064,10 @@
       }
     ],
     "phrases": [
-      "load (待翻译)",
-      "loading (待翻译)",
-      "loaded (待翻译)",
-      "load bearing (待翻译)"
+      "load",
+      "loading",
+      "loaded",
+      "load bearing"
     ],
     "mnemonic": "load→载荷"
   },
@@ -33170,10 +33170,10 @@
       }
     ],
     "phrases": [
-      "bear (待翻译)",
-      "bearing (待翻译)",
-      "load bearing (待翻译)",
-      "bearing capacity (待翻译)"
+      "bear",
+      "bearing",
+      "load bearing",
+      "bearing capacity"
     ],
     "mnemonic": "bear→承受"
   },
@@ -33276,10 +33276,10 @@
       }
     ],
     "phrases": [
-      "lubricate (待翻译)",
-      "lubrication (待翻译)",
-      "lubricant (待翻译)",
-      "lubricator (待翻译)"
+      "lubricate",
+      "lubrication",
+      "lubricant",
+      "lubricator"
     ],
     "mnemonic": "lubric→润滑"
   },
@@ -33382,10 +33382,10 @@
       }
     ],
     "phrases": [
-      "cool (待翻译)",
-      "cooling (待翻译)",
-      "coolant (待翻译)",
-      "cooler (待翻译)"
+      "cool",
+      "cooling",
+      "coolant",
+      "cooler"
     ],
     "mnemonic": "cool→冷却"
   },
@@ -33488,10 +33488,10 @@
       }
     ],
     "phrases": [
-      "heat (待翻译)",
-      "heating (待翻译)",
-      "heater (待翻译)",
-      "heat treatment (待翻译)"
+      "heat",
+      "heating",
+      "heater",
+      "heat treatment"
     ],
     "mnemonic": "heat→加热"
   },
@@ -33594,10 +33594,10 @@
       }
     ],
     "phrases": [
-      "weld (待翻译)",
-      "welding (待翻译)",
-      "welder (待翻译)",
-      "welded (待翻译)"
+      "weld",
+      "welding",
+      "welder",
+      "welded"
     ],
     "mnemonic": "weld→焊接"
   },
@@ -33700,10 +33700,10 @@
       }
     ],
     "phrases": [
-      "cast (待翻译)",
-      "casting (待翻译)",
-      "caster (待翻译)",
-      "cast iron (待翻译)"
+      "cast",
+      "casting",
+      "caster",
+      "cast iron"
     ],
     "mnemonic": "cast→铸造"
   },
@@ -33806,10 +33806,10 @@
       }
     ],
     "phrases": [
-      "machine (待翻译)",
-      "machining (待翻译)",
-      "machined (待翻译)",
-      "machine tool (待翻译)"
+      "machine",
+      "machining",
+      "machined",
+      "machine tool"
     ],
     "mnemonic": "machin→加工"
   },
@@ -33912,10 +33912,10 @@
       }
     ],
     "phrases": [
-      "grind (待翻译)",
-      "grinding (待翻译)",
-      "grinder (待翻译)",
-      "ground (待翻译)"
+      "grind",
+      "grinding",
+      "grinder",
+      "ground"
     ],
     "mnemonic": "grind→磨削"
   },
@@ -34018,10 +34018,10 @@
       }
     ],
     "phrases": [
-      "axle (待翻译)",
-      "axis (待翻译)",
-      "axial (待翻译)",
-      "coaxial (待翻译)"
+      "axle",
+      "axis",
+      "axial",
+      "coaxial"
     ],
     "mnemonic": "ax→轴"
   },
@@ -34124,10 +34124,10 @@
       }
     ],
     "phrases": [
-      "bearing (待翻译)",
-      "ball bearing (待翻译)",
-      "roller bearing (待翻译)",
-      "bearing housing (待翻译)"
+      "bearing",
+      "ball bearing",
+      "roller bearing",
+      "bearing housing"
     ],
     "mnemonic": "bear→轴承"
   },
@@ -34230,10 +34230,10 @@
       }
     ],
     "phrases": [
-      "gear (待翻译)",
-      "gearing (待翻译)",
-      "gearbox (待翻译)",
-      "geared (待翻译)"
+      "gear",
+      "gearing",
+      "gearbox",
+      "geared"
     ],
     "mnemonic": "gear→齿轮"
   },
@@ -34336,10 +34336,10 @@
       }
     ],
     "phrases": [
-      "belt (待翻译)",
-      "belt drive (待翻译)",
-      "conveyor belt (待翻译)",
-      "timing belt (待翻译)"
+      "belt",
+      "belt drive",
+      "conveyor belt",
+      "timing belt"
     ],
     "mnemonic": "belt→带"
   },
@@ -34442,10 +34442,10 @@
       }
     ],
     "phrases": [
-      "chain (待翻译)",
-      "chain drive (待翻译)",
-      "roller chain (待翻译)",
-      "chain sprocket (待翻译)"
+      "chain",
+      "chain drive",
+      "roller chain",
+      "chain sprocket"
     ],
     "mnemonic": "chain→链"
   },
@@ -34548,10 +34548,10 @@
       }
     ],
     "phrases": [
-      "pulley (待翻译)",
-      "pulley block (待翻译)",
-      "belt pulley (待翻译)",
-      "pulley system (待翻译)"
+      "pulley",
+      "pulley block",
+      "belt pulley",
+      "pulley system"
     ],
     "mnemonic": "pulley→滑轮"
   },
@@ -34654,10 +34654,10 @@
       }
     ],
     "phrases": [
-      "cam (待翻译)",
-      "camshaft (待翻译)",
-      "cam profile (待翻译)",
-      "cam mechanism (待翻译)"
+      "cam",
+      "camshaft",
+      "cam profile",
+      "cam mechanism"
     ],
     "mnemonic": "cam→凸轮"
   },
@@ -34760,10 +34760,10 @@
       }
     ],
     "phrases": [
-      "valve (待翻译)",
-      "valve stem (待翻译)",
-      "valve seat (待翻译)",
-      "solenoid valve (待翻译)"
+      "valve",
+      "valve stem",
+      "valve seat",
+      "solenoid valve"
     ],
     "mnemonic": "valv→阀"
   },
@@ -34866,10 +34866,10 @@
       }
     ],
     "phrases": [
-      "pump (待翻译)",
-      "pumping (待翻译)",
-      "centrifugal pump (待翻译)",
-      "hydraulic pump (待翻译)"
+      "pump",
+      "pumping",
+      "centrifugal pump",
+      "hydraulic pump"
     ],
     "mnemonic": "pump→泵"
   },
@@ -34972,10 +34972,10 @@
       }
     ],
     "phrases": [
-      "cylinder (待翻译)",
-      "cylindrical (待翻译)",
-      "cylinder block (待翻译)",
-      "cylinder head (待翻译)"
+      "cylinder",
+      "cylindrical",
+      "cylinder block",
+      "cylinder head"
     ],
     "mnemonic": "cylind→气缸"
   },
@@ -35078,10 +35078,10 @@
       }
     ],
     "phrases": [
-      "piston (待翻译)",
-      "piston ring (待翻译)",
-      "piston rod (待翻译)",
-      "piston pin (待翻译)"
+      "piston",
+      "piston ring",
+      "piston rod",
+      "piston pin"
     ],
     "mnemonic": "piston→活塞"
   },
@@ -35184,10 +35184,10 @@
       }
     ],
     "phrases": [
-      "crank (待翻译)",
-      "crankshaft (待翻译)",
-      "crank mechanism (待翻译)",
-      "crank arm (待翻译)"
+      "crank",
+      "crankshaft",
+      "crank mechanism",
+      "crank arm"
     ],
     "mnemonic": "crank→曲柄"
   },
@@ -35290,10 +35290,10 @@
       }
     ],
     "phrases": [
-      "rod (待翻译)",
-      "connecting rod (待翻译)",
-      "push rod (待翻译)",
-      "tie rod (待翻译)"
+      "rod",
+      "connecting rod",
+      "push rod",
+      "tie rod"
     ],
     "mnemonic": "rod→杆"
   },
@@ -35396,10 +35396,10 @@
       }
     ],
     "phrases": [
-      "spring (待翻译)",
-      "coil spring (待翻译)",
-      "leaf spring (待翻译)",
-      "torsion spring (待翻译)"
+      "spring",
+      "coil spring",
+      "leaf spring",
+      "torsion spring"
     ],
     "mnemonic": "spring→弹簧"
   },
@@ -35502,10 +35502,10 @@
       }
     ],
     "phrases": [
-      "seal (待翻译)",
-      "sealing (待翻译)",
-      "sealer (待翻译)",
-      "oil seal (待翻译)"
+      "seal",
+      "sealing",
+      "sealer",
+      "oil seal"
     ],
     "mnemonic": "seal→密封"
   },
@@ -35608,10 +35608,10 @@
       }
     ],
     "phrases": [
-      "gasket (待翻译)",
-      "sealing gasket (待翻译)",
-      "gasket seal (待翻译)",
-      "gasket material (待翻译)"
+      "gasket",
+      "sealing gasket",
+      "gasket seal",
+      "gasket material"
     ],
     "mnemonic": "gasket→垫片"
   },
@@ -35714,10 +35714,10 @@
       }
     ],
     "phrases": [
-      "bolt (待翻译)",
-      "bolting (待翻译)",
-      "bolt head (待翻译)",
-      "anchor bolt (待翻译)"
+      "bolt",
+      "bolting",
+      "bolt head",
+      "anchor bolt"
     ],
     "mnemonic": "bolt→螺栓"
   },
@@ -35820,10 +35820,10 @@
       }
     ],
     "phrases": [
-      "nut (待翻译)",
-      "nut bolt (待翻译)",
-      "hex nut (待翻译)",
-      "lock nut (待翻译)"
+      "nut",
+      "nut bolt",
+      "hex nut",
+      "lock nut"
     ],
     "mnemonic": "nut→螺母"
   },
@@ -35926,10 +35926,10 @@
       }
     ],
     "phrases": [
-      "screw (待翻译)",
-      "screwdriver (待翻译)",
-      "screw thread (待翻译)",
-      "machine screw (待翻译)"
+      "screw",
+      "screwdriver",
+      "screw thread",
+      "machine screw"
     ],
     "mnemonic": "screw→螺钉"
   },
@@ -36032,10 +36032,10 @@
       }
     ],
     "phrases": [
-      "rivet (待翻译)",
-      "riveting (待翻译)",
-      "riveted joint (待翻译)",
-      "blind rivet (待翻译)"
+      "rivet",
+      "riveting",
+      "riveted joint",
+      "blind rivet"
     ],
     "mnemonic": "rivet→铆钉"
   },
@@ -36138,10 +36138,10 @@
       }
     ],
     "phrases": [
-      "steel (待翻译)",
-      "stainless steel (待翻译)",
-      "carbon steel (待翻译)",
-      "alloy steel (待翻译)"
+      "steel",
+      "stainless steel",
+      "carbon steel",
+      "alloy steel"
     ],
     "mnemonic": "steel→钢"
   },
@@ -36244,10 +36244,10 @@
       }
     ],
     "phrases": [
-      "iron (待翻译)",
-      "cast iron (待翻译)",
-      "wrought iron (待翻译)",
-      "iron ore (待翻译)"
+      "iron",
+      "cast iron",
+      "wrought iron",
+      "iron ore"
     ],
     "mnemonic": "iron→铁"
   },
@@ -36350,10 +36350,10 @@
       }
     ],
     "phrases": [
-      "alloy (待翻译)",
-      "alloying (待翻译)",
-      "aluminum alloy (待翻译)",
-      "copper alloy (待翻译)"
+      "alloy",
+      "alloying",
+      "aluminum alloy",
+      "copper alloy"
     ],
     "mnemonic": "alloy→合金"
   },
@@ -36456,10 +36456,10 @@
       }
     ],
     "phrases": [
-      "metal (待翻译)",
-      "metallic (待翻译)",
-      "metallurgy (待翻译)",
-      "metalworking (待翻译)"
+      "metal",
+      "metallic",
+      "metallurgy",
+      "metalworking"
     ],
     "mnemonic": "metall→金属"
   },
@@ -36562,10 +36562,10 @@
       }
     ],
     "phrases": [
-      "ceramic (待翻译)",
-      "ceramics (待翻译)",
-      "ceramic coating (待翻译)",
-      "advanced ceramics (待翻译)"
+      "ceramic",
+      "ceramics",
+      "ceramic coating",
+      "advanced ceramics"
     ],
     "mnemonic": "ceram→陶瓷"
   },
@@ -36668,10 +36668,10 @@
       }
     ],
     "phrases": [
-      "composite (待翻译)",
-      "composition (待翻译)",
-      "fiber composite (待翻译)",
-      "composite material (待翻译)"
+      "composite",
+      "composition",
+      "fiber composite",
+      "composite material"
     ],
     "mnemonic": "compos→复合材料"
   },
@@ -36774,10 +36774,10 @@
       }
     ],
     "phrases": [
-      "polymer (待翻译)",
-      "polymeric (待翻译)",
-      "polymerization (待翻译)",
-      "synthetic polymer (待翻译)"
+      "polymer",
+      "polymeric",
+      "polymerization",
+      "synthetic polymer"
     ],
     "mnemonic": "polymer→聚合物"
   },
@@ -36880,10 +36880,10 @@
       }
     ],
     "phrases": [
-      "elastomer (待翻译)",
-      "elastomeric (待翻译)",
-      "rubber elastomer (待翻译)",
-      "seal elastomer (待翻译)"
+      "elastomer",
+      "elastomeric",
+      "rubber elastomer",
+      "seal elastomer"
     ],
     "mnemonic": "elast→弹性体"
   },
@@ -36986,10 +36986,10 @@
       }
     ],
     "phrases": [
-      "rubber (待翻译)",
-      "rubber seal (待翻译)",
-      "synthetic rubber (待翻译)",
-      "rubber gasket (待翻译)"
+      "rubber",
+      "rubber seal",
+      "synthetic rubber",
+      "rubber gasket"
     ],
     "mnemonic": "rubber→橡胶"
   },
@@ -37092,10 +37092,10 @@
       }
     ],
     "phrases": [
-      "fiber (待翻译)",
-      "fiber optic (待翻译)",
-      "carbon fiber (待翻译)",
-      "glass fiber (待翻译)"
+      "fiber",
+      "fiber optic",
+      "carbon fiber",
+      "glass fiber"
     ],
     "mnemonic": "fiber→纤维"
   },
@@ -37198,10 +37198,10 @@
       }
     ],
     "phrases": [
-      "coat (待翻译)",
-      "coating (待翻译)",
-      "coated (待翻译)",
-      "protective coating (待翻译)"
+      "coat",
+      "coating",
+      "coated",
+      "protective coating"
     ],
     "mnemonic": "coat→涂层"
   },
@@ -37304,10 +37304,10 @@
       }
     ],
     "phrases": [
-      "plate (待翻译)",
-      "plating (待翻译)",
-      "electroplating (待翻译)",
-      "chrome plating (待翻译)"
+      "plate",
+      "plating",
+      "electroplating",
+      "chrome plating"
     ],
     "mnemonic": "plat→镀层"
   },
@@ -37410,10 +37410,10 @@
       }
     ],
     "phrases": [
-      "harden (待翻译)",
-      "hardening (待翻译)",
-      "hardened (待翻译)",
-      "case hardening (待翻译)"
+      "harden",
+      "hardening",
+      "hardened",
+      "case hardening"
     ],
     "mnemonic": "harden→硬化"
   },
@@ -37516,10 +37516,10 @@
       }
     ],
     "phrases": [
-      "temper (待翻译)",
-      "tempering (待翻译)",
-      "tempered (待翻译)",
-      "tempered steel (待翻译)"
+      "temper",
+      "tempering",
+      "tempered",
+      "tempered steel"
     ],
     "mnemonic": "temper→回火"
   },
@@ -37622,10 +37622,10 @@
       }
     ],
     "phrases": [
-      "quench (待翻译)",
-      "quenching (待翻译)",
-      "quenched (待翻译)",
-      "oil quench (待翻译)"
+      "quench",
+      "quenching",
+      "quenched",
+      "oil quench"
     ],
     "mnemonic": "quench→淬火"
   },
@@ -37728,10 +37728,10 @@
       }
     ],
     "phrases": [
-      "anneal (待翻译)",
-      "annealing (待翻译)",
-      "annealed (待翻译)",
-      "stress relief annealing (待翻译)"
+      "anneal",
+      "annealing",
+      "annealed",
+      "stress relief annealing"
     ],
     "mnemonic": "anneal→退火"
   },
@@ -37834,10 +37834,10 @@
       }
     ],
     "phrases": [
-      "forge (待翻译)",
-      "forging (待翻译)",
-      "forged (待翻译)",
-      "drop forging (待翻译)"
+      "forge",
+      "forging",
+      "forged",
+      "drop forging"
     ],
     "mnemonic": "forge→锻造"
   },
@@ -37940,10 +37940,10 @@
       }
     ],
     "phrases": [
-      "mill (待翻译)",
-      "milling (待翻译)",
-      "milling cutter (待翻译)",
-      "end mill (待翻译)"
+      "mill",
+      "milling",
+      "milling cutter",
+      "end mill"
     ],
     "mnemonic": "mill→铣削"
   },
@@ -38046,10 +38046,10 @@
       }
     ],
     "phrases": [
-      "turn (待翻译)",
-      "turning (待翻译)",
-      "lathe turning (待翻译)",
-      "turning tool (待翻译)"
+      "turn",
+      "turning",
+      "lathe turning",
+      "turning tool"
     ],
     "mnemonic": "turn→车削"
   },
@@ -38152,10 +38152,10 @@
       }
     ],
     "phrases": [
-      "drill (待翻译)",
-      "drilling (待翻译)",
-      "drill bit (待翻译)",
-      "drill press (待翻译)"
+      "drill",
+      "drilling",
+      "drill bit",
+      "drill press"
     ],
     "mnemonic": "drill→钻孔"
   },
@@ -38258,10 +38258,10 @@
       }
     ],
     "phrases": [
-      "motor (待翻译)",
-      "motor drive (待翻译)",
-      "electric motor (待翻译)",
-      "servo motor (待翻译)"
+      "motor",
+      "motor drive",
+      "electric motor",
+      "servo motor"
     ],
     "mnemonic": "motor→电机"
   },
@@ -38364,10 +38364,10 @@
       }
     ],
     "phrases": [
-      "engine (待翻译)",
-      "engineer (待翻译)",
-      "engineering (待翻译)",
-      "combustion engine (待翻译)"
+      "engine",
+      "engineer",
+      "engineering",
+      "combustion engine"
     ],
     "mnemonic": "engin→发动机"
   },
@@ -38470,10 +38470,10 @@
       }
     ],
     "phrases": [
-      "turbine (待翻译)",
-      "turbine blade (待翻译)",
-      "gas turbine (待翻译)",
-      "steam turbine (待翻译)"
+      "turbine",
+      "turbine blade",
+      "gas turbine",
+      "steam turbine"
     ],
     "mnemonic": "turb→涡轮"
   },
@@ -38576,10 +38576,10 @@
       }
     ],
     "phrases": [
-      "turbo (待翻译)",
-      "turbocharger (待翻译)",
-      "turbocharged (待翻译)",
-      "twin turbo (待翻译)"
+      "turbo",
+      "turbocharger",
+      "turbocharged",
+      "twin turbo"
     ],
     "mnemonic": "turbo→涡轮增压"
   },
@@ -38682,10 +38682,10 @@
       }
     ],
     "phrases": [
-      "combust (待翻译)",
-      "combustion (待翻译)",
-      "combustor (待翻译)",
-      "combustion chamber (待翻译)"
+      "combust",
+      "combustion",
+      "combustor",
+      "combustion chamber"
     ],
     "mnemonic": "combust→燃烧"
   },
@@ -38788,10 +38788,10 @@
       }
     ],
     "phrases": [
-      "ignite (待翻译)",
-      "ignition (待翻译)",
-      "igniter (待翻译)",
-      "ignition system (待翻译)"
+      "ignite",
+      "ignition",
+      "igniter",
+      "ignition system"
     ],
     "mnemonic": "ignit→点火"
   },
@@ -38894,10 +38894,10 @@
       }
     ],
     "phrases": [
-      "inject (待翻译)",
-      "injection (待翻译)",
-      "injector (待翻译)",
-      "fuel injection (待翻译)"
+      "inject",
+      "injection",
+      "injector",
+      "fuel injection"
     ],
     "mnemonic": "inject→喷射"
   },
@@ -39000,10 +39000,10 @@
       }
     ],
     "phrases": [
-      "carburetor (待翻译)",
-      "carburetion (待翻译)",
-      "carb (待翻译)",
-      "fuel carburetor (待翻译)"
+      "carburetor",
+      "carburetion",
+      "carb",
+      "fuel carburetor"
     ],
     "mnemonic": "carbur→化油器"
   },
@@ -39106,10 +39106,10 @@
       }
     ],
     "phrases": [
-      "exhaust (待翻译)",
-      "exhaust pipe (待翻译)",
-      "exhaust gas (待翻译)",
-      "exhaust valve (待翻译)"
+      "exhaust",
+      "exhaust pipe",
+      "exhaust gas",
+      "exhaust valve"
     ],
     "mnemonic": "exhaust→排气"
   },
@@ -39212,10 +39212,10 @@
       }
     ],
     "phrases": [
-      "intake (待翻译)",
-      "intake valve (待翻译)",
-      "air intake (待翻译)",
-      "intake manifold (待翻译)"
+      "intake",
+      "intake valve",
+      "air intake",
+      "intake manifold"
     ],
     "mnemonic": "intake→进气"
   },
@@ -39318,10 +39318,10 @@
       }
     ],
     "phrases": [
-      "manifold (待翻译)",
-      "exhaust manifold (待翻译)",
-      "intake manifold (待翻译)",
-      "manifold pressure (待翻译)"
+      "manifold",
+      "exhaust manifold",
+      "intake manifold",
+      "manifold pressure"
     ],
     "mnemonic": "manifold→歧管"
   },
@@ -39424,10 +39424,10 @@
       }
     ],
     "phrases": [
-      "transmission (待翻译)",
-      "transmit (待翻译)",
-      "gear transmission (待翻译)",
-      "automatic transmission (待翻译)"
+      "transmission",
+      "transmit",
+      "gear transmission",
+      "automatic transmission"
     ],
     "mnemonic": "transmiss→传动"
   },
@@ -39530,10 +39530,10 @@
       }
     ],
     "phrases": [
-      "clutch (待翻译)",
-      "clutch plate (待翻译)",
-      "clutch pedal (待翻译)",
-      "clutch mechanism (待翻译)"
+      "clutch",
+      "clutch plate",
+      "clutch pedal",
+      "clutch mechanism"
     ],
     "mnemonic": "clutch→离合器"
   },
@@ -39636,10 +39636,10 @@
       }
     ],
     "phrases": [
-      "brake (待翻译)",
-      "braking (待翻译)",
-      "disc brake (待翻译)",
-      "hydraulic brake (待翻译)"
+      "brake",
+      "braking",
+      "disc brake",
+      "hydraulic brake"
     ],
     "mnemonic": "brak→制动"
   },
@@ -39742,10 +39742,10 @@
       }
     ],
     "phrases": [
-      "differential (待翻译)",
-      "differentiation (待翻译)",
-      "differential gear (待翻译)",
-      "limited slip differential (待翻译)"
+      "differential",
+      "differentiation",
+      "differential gear",
+      "limited slip differential"
     ],
     "mnemonic": "differ→差速器"
   },
@@ -39848,10 +39848,10 @@
       }
     ],
     "phrases": [
-      "drive (待翻译)",
-      "driving (待翻译)",
-      "driven (待翻译)",
-      "drive shaft (待翻译)"
+      "drive",
+      "driving",
+      "driven",
+      "drive shaft"
     ],
     "mnemonic": "driv→驱动"
   },
@@ -39954,10 +39954,10 @@
       }
     ],
     "phrases": [
-      "propel (待翻译)",
-      "propeller (待翻译)",
-      "propulsion (待翻译)",
-      "propulsion system (待翻译)"
+      "propel",
+      "propeller",
+      "propulsion",
+      "propulsion system"
     ],
     "mnemonic": "propel→推进"
   },
@@ -40060,10 +40060,10 @@
       }
     ],
     "phrases": [
-      "hydraulic (待翻译)",
-      "hydraulics (待翻译)",
-      "hydraulic pump (待翻译)",
-      "hydraulic cylinder (待翻译)"
+      "hydraulic",
+      "hydraulics",
+      "hydraulic pump",
+      "hydraulic cylinder"
     ],
     "mnemonic": "hydraul→液压"
   },
@@ -40166,10 +40166,10 @@
       }
     ],
     "phrases": [
-      "pneumatic (待翻译)",
-      "pneumatics (待翻译)",
-      "pneumatic cylinder (待翻译)",
-      "pneumatic valve (待翻译)"
+      "pneumatic",
+      "pneumatics",
+      "pneumatic cylinder",
+      "pneumatic valve"
     ],
     "mnemonic": "pneumat→气动"
   },
@@ -40272,10 +40272,10 @@
       }
     ],
     "phrases": [
-      "actuate (待翻译)",
-      "actuator (待翻译)",
-      "actuation (待翻译)",
-      "linear actuator (待翻译)"
+      "actuate",
+      "actuator",
+      "actuation",
+      "linear actuator"
     ],
     "mnemonic": "actuat→驱动器"
   },
@@ -40378,10 +40378,10 @@
       }
     ],
     "phrases": [
-      "sensor (待翻译)",
-      "sense (待翻译)",
-      "sensing (待翻译)",
-      "pressure sensor (待翻译)"
+      "sensor",
+      "sense",
+      "sensing",
+      "pressure sensor"
     ],
     "mnemonic": "sens→传感器"
   },
@@ -40484,10 +40484,10 @@
       }
     ],
     "phrases": [
-      "actuator (待翻译)",
-      "actuation (待翻译)",
-      "actuate (待翻译)",
-      "electric actuator (待翻译)"
+      "actuator",
+      "actuation",
+      "actuate",
+      "electric actuator"
     ],
     "mnemonic": "actuat→执行器"
   },
@@ -40590,10 +40590,10 @@
       }
     ],
     "phrases": [
-      "servo (待翻译)",
-      "servomotor (待翻译)",
-      "servo system (待翻译)",
-      "servo valve (待翻译)"
+      "servo",
+      "servomotor",
+      "servo system",
+      "servo valve"
     ],
     "mnemonic": "servo→伺服"
   },
@@ -40696,10 +40696,10 @@
       }
     ],
     "phrases": [
-      "feedback (待翻译)",
-      "feedback loop (待翻译)",
-      "feedback control (待翻译)",
-      "negative feedback (待翻译)"
+      "feedback",
+      "feedback loop",
+      "feedback control",
+      "negative feedback"
     ],
     "mnemonic": "feedbak→反馈"
   },
@@ -40802,10 +40802,10 @@
       }
     ],
     "phrases": [
-      "control (待翻译)",
-      "controller (待翻译)",
-      "controlling (待翻译)",
-      "control system (待翻译)"
+      "control",
+      "controller",
+      "controlling",
+      "control system"
     ],
     "mnemonic": "control→控制"
   },
@@ -40908,10 +40908,10 @@
       }
     ],
     "phrases": [
-      "automatic (待翻译)",
-      "automation (待翻译)",
-      "automate (待翻译)",
-      "automatic control (待翻译)"
+      "automatic",
+      "automation",
+      "automate",
+      "automatic control"
     ],
     "mnemonic": "automat→自动"
   },
@@ -41014,10 +41014,10 @@
       }
     ],
     "phrases": [
-      "regulate (待翻译)",
-      "regulator (待翻译)",
-      "regulation (待翻译)",
-      "pressure regulator (待翻译)"
+      "regulate",
+      "regulator",
+      "regulation",
+      "pressure regulator"
     ],
     "mnemonic": "regul→调节"
   },
@@ -41120,10 +41120,10 @@
       }
     ],
     "phrases": [
-      "valve (待翻译)",
-      "valve control (待翻译)",
-      "solenoid valve (待翻译)",
-      "control valve (待翻译)"
+      "valve",
+      "valve control",
+      "solenoid valve",
+      "control valve"
     ],
     "mnemonic": "valv→阀门"
   },
@@ -41226,10 +41226,10 @@
       }
     ],
     "phrases": [
-      "gauge (待翻译)",
-      "pressure gauge (待翻译)",
-      "strain gauge (待翻译)",
-      "thickness gauge (待翻译)"
+      "gauge",
+      "pressure gauge",
+      "strain gauge",
+      "thickness gauge"
     ],
     "mnemonic": "gaug→量规"
   },
@@ -41332,10 +41332,10 @@
       }
     ],
     "phrases": [
-      "meter (待翻译)",
-      "flow meter (待翻译)",
-      "speed meter (待翻译)",
-      "pressure meter (待翻译)"
+      "meter",
+      "flow meter",
+      "speed meter",
+      "pressure meter"
     ],
     "mnemonic": "meter→仪表"
   },
@@ -41438,10 +41438,10 @@
       }
     ],
     "phrases": [
-      "monitor (待翻译)",
-      "monitoring (待翻译)",
-      "condition monitoring (待翻译)",
-      "vibration monitor (待翻译)"
+      "monitor",
+      "monitoring",
+      "condition monitoring",
+      "vibration monitor"
     ],
     "mnemonic": "monitor→监控"
   },
@@ -41544,10 +41544,10 @@
       }
     ],
     "phrases": [
-      "measure (待翻译)",
-      "measurement (待翻译)",
-      "measuring (待翻译)",
-      "precision measurement (待翻译)"
+      "measure",
+      "measurement",
+      "measuring",
+      "precision measurement"
     ],
     "mnemonic": "measur→测量"
   },
@@ -41650,10 +41650,10 @@
       }
     ],
     "phrases": [
-      "calibrate (待翻译)",
-      "calibration (待翻译)",
-      "calibrated (待翻译)",
-      "calibration tool (待翻译)"
+      "calibrate",
+      "calibration",
+      "calibrated",
+      "calibration tool"
     ],
     "mnemonic": "calibr→校准"
   },
@@ -41756,10 +41756,10 @@
       }
     ],
     "phrases": [
-      "align (待翻译)",
-      "alignment (待翻译)",
-      "aligned (待翻译)",
-      "shaft alignment (待翻译)"
+      "align",
+      "alignment",
+      "aligned",
+      "shaft alignment"
     ],
     "mnemonic": "align→对准"
   },
@@ -41862,10 +41862,10 @@
       }
     ],
     "phrases": [
-      "balance (待翻译)",
-      "balancing (待翻译)",
-      "balanced (待翻译)",
-      "dynamic balance (待翻译)"
+      "balance",
+      "balancing",
+      "balanced",
+      "dynamic balance"
     ],
     "mnemonic": "balanc→平衡"
   },
@@ -41968,10 +41968,10 @@
       }
     ],
     "phrases": [
-      "calculate (待翻译)",
-      "calculation (待翻译)",
-      "calculator (待翻译)",
-      "computer aided design (待翻译)"
+      "calculate",
+      "calculation",
+      "calculator",
+      "computer aided design"
     ],
     "mnemonic": "calcul→计算"
   },
@@ -42074,10 +42074,10 @@
       }
     ],
     "phrases": [
-      "simulate (待翻译)",
-      "simulation (待翻译)",
-      "simulator (待翻译)",
-      "computer simulation (待翻译)"
+      "simulate",
+      "simulation",
+      "simulator",
+      "computer simulation"
     ],
     "mnemonic": "simul→模拟"
   },
@@ -42180,10 +42180,10 @@
       }
     ],
     "phrases": [
-      "optimize (待翻译)",
-      "optimization (待翻译)",
-      "optimal (待翻译)",
-      "design optimization (待翻译)"
+      "optimize",
+      "optimization",
+      "optimal",
+      "design optimization"
     ],
     "mnemonic": "optim→优化"
   },
@@ -42286,10 +42286,10 @@
       }
     ],
     "phrases": [
-      "analyze (待翻译)",
-      "analysis (待翻译)",
-      "analyzer (待翻译)",
-      "finite element analysis (待翻译)"
+      "analyze",
+      "analysis",
+      "analyzer",
+      "finite element analysis"
     ],
     "mnemonic": "analyz→分析"
   },
@@ -42392,10 +42392,10 @@
       }
     ],
     "phrases": [
-      "diagnose (待翻译)",
-      "diagnosis (待翻译)",
-      "diagnostic (待翻译)",
-      "fault diagnosis (待翻译)"
+      "diagnose",
+      "diagnosis",
+      "diagnostic",
+      "fault diagnosis"
     ],
     "mnemonic": "diagnos→诊断"
   },
@@ -42498,10 +42498,10 @@
       }
     ],
     "phrases": [
-      "structure (待翻译)",
-      "structural (待翻译)",
-      "structure design (待翻译)",
-      "load bearing structure (待翻译)"
+      "structure",
+      "structural",
+      "structure design",
+      "load bearing structure"
     ],
     "mnemonic": "struct→结构"
   },
@@ -42604,10 +42604,10 @@
       }
     ],
     "phrases": [
-      "frame (待翻译)",
-      "framing (待翻译)",
-      "framework (待翻译)",
-      "chassis frame (待翻译)"
+      "frame",
+      "framing",
+      "framework",
+      "chassis frame"
     ],
     "mnemonic": "fram→框架"
   },
@@ -42710,10 +42710,10 @@
       }
     ],
     "phrases": [
-      "chassis (待翻译)",
-      "chassis frame (待翻译)",
-      "vehicle chassis (待翻译)",
-      "chassis design (待翻译)"
+      "chassis",
+      "chassis frame",
+      "vehicle chassis",
+      "chassis design"
     ],
     "mnemonic": "chassis→底盘"
   },
@@ -42816,10 +42816,10 @@
       }
     ],
     "phrases": [
-      "body (待翻译)",
-      "bodywork (待翻译)",
-      "car body (待翻译)",
-      "body structure (待翻译)"
+      "body",
+      "bodywork",
+      "car body",
+      "body structure"
     ],
     "mnemonic": "bodi→车身"
   },
@@ -42922,10 +42922,10 @@
       }
     ],
     "phrases": [
-      "housing (待翻译)",
-      "house (待翻译)",
-      "gear housing (待翻译)",
-      "bearing housing (待翻译)"
+      "housing",
+      "house",
+      "gear housing",
+      "bearing housing"
     ],
     "mnemonic": "hous→壳体"
   },
@@ -43028,10 +43028,10 @@
       }
     ],
     "phrases": [
-      "case (待翻译)",
-      "casing (待翻译)",
-      "gear case (待翻译)",
-      "crankcase (待翻译)"
+      "case",
+      "casing",
+      "gear case",
+      "crankcase"
     ],
     "mnemonic": "cas→箱体"
   },
@@ -43134,10 +43134,10 @@
       }
     ],
     "phrases": [
-      "cover (待翻译)",
-      "covering (待翻译)",
-      "end cover (待翻译)",
-      "protective cover (待翻译)"
+      "cover",
+      "covering",
+      "end cover",
+      "protective cover"
     ],
     "mnemonic": "cov→罩盖"
   },
@@ -43240,10 +43240,10 @@
       }
     ],
     "phrases": [
-      "support (待翻译)",
-      "supporting (待翻译)",
-      "supported (待翻译)",
-      "structural support (待翻译)"
+      "support",
+      "supporting",
+      "supported",
+      "structural support"
     ],
     "mnemonic": "support→支撑"
   },
@@ -43346,10 +43346,10 @@
       }
     ],
     "phrases": [
-      "mount (待翻译)",
-      "mounting (待翻译)",
-      "mounted (待翻译)",
-      "engine mount (待翻译)"
+      "mount",
+      "mounting",
+      "mounted",
+      "engine mount"
     ],
     "mnemonic": "mount→安装"
   },
@@ -43452,10 +43452,10 @@
       }
     ],
     "phrases": [
-      "fixture (待翻译)",
-      "fixturing (待翻译)",
-      "workpiece fixture (待翻译)",
-      "welding fixture (待翻译)"
+      "fixture",
+      "fixturing",
+      "workpiece fixture",
+      "welding fixture"
     ],
     "mnemonic": "fixtur→夹具"
   },
@@ -43558,10 +43558,10 @@
       }
     ],
     "phrases": [
-      "tool (待翻译)",
-      "tooling (待翻译)",
-      "machine tool (待翻译)",
-      "cutting tool (待翻译)"
+      "tool",
+      "tooling",
+      "machine tool",
+      "cutting tool"
     ],
     "mnemonic": "tool→工具"
   },
@@ -43664,10 +43664,10 @@
       }
     ],
     "phrases": [
-      "die (待翻译)",
-      "dies (待翻译)",
-      "punch die (待翻译)",
-      "casting die (待翻译)"
+      "die",
+      "dies",
+      "punch die",
+      "casting die"
     ],
     "mnemonic": "dies→模具"
   },
@@ -43770,10 +43770,10 @@
       }
     ],
     "phrases": [
-      "mold (待翻译)",
-      "molding (待翻译)",
-      "molded (待翻译)",
-      "injection mold (待翻译)"
+      "mold",
+      "molding",
+      "molded",
+      "injection mold"
     ],
     "mnemonic": "mold→铸模"
   },
@@ -43876,10 +43876,10 @@
       }
     ],
     "phrases": [
-      "assemble (待翻译)",
-      "assembly (待翻译)",
-      "assembling (待翻译)",
-      "assembly line (待翻译)"
+      "assemble",
+      "assembly",
+      "assembling",
+      "assembly line"
     ],
     "mnemonic": "assembl→装配"
   },
@@ -43982,10 +43982,10 @@
       }
     ],
     "phrases": [
-      "fit (待翻译)",
-      "fitting (待翻译)",
-      "fitted (待翻译)",
-      "interference fit (待翻译)"
+      "fit",
+      "fitting",
+      "fitted",
+      "interference fit"
     ],
     "mnemonic": "fit→配合"
   },
@@ -44088,10 +44088,10 @@
       }
     ],
     "phrases": [
-      "tolerance (待翻译)",
-      "tolerant (待翻译)",
-      "dimensional tolerance (待翻译)",
-      "tolerance fit (待翻译)"
+      "tolerance",
+      "tolerant",
+      "dimensional tolerance",
+      "tolerance fit"
     ],
     "mnemonic": "toler→公差"
   },
@@ -44194,10 +44194,10 @@
       }
     ],
     "phrases": [
-      "clearance (待翻译)",
-      "clear (待翻译)",
-      "radial clearance (待翻译)",
-      "axial clearance (待翻译)"
+      "clearance",
+      "clear",
+      "radial clearance",
+      "axial clearance"
     ],
     "mnemonic": "clear→间隙"
   },
@@ -44300,10 +44300,10 @@
       }
     ],
     "phrases": [
-      "interference (待翻译)",
-      "interfere (待翻译)",
-      "interference fit (待翻译)",
-      "wave interference (待翻译)"
+      "interference",
+      "interfere",
+      "interference fit",
+      "wave interference"
     ],
     "mnemonic": "interfer→干涉"
   },
@@ -44406,10 +44406,10 @@
       }
     ],
     "phrases": [
-      "draft (待翻译)",
-      "draft angle (待翻译)",
-      "draft design (待翻译)",
-      "pattern draft (待翻译)"
+      "draft",
+      "draft angle",
+      "draft design",
+      "pattern draft"
     ],
     "mnemonic": "draft→拔模"
   },
@@ -44512,10 +44512,10 @@
       }
     ],
     "phrases": [
-      "taper (待翻译)",
-      "tapered (待翻译)",
-      "taper pin (待翻译)",
-      "taper angle (待翻译)"
+      "taper",
+      "tapered",
+      "taper pin",
+      "taper angle"
     ],
     "mnemonic": "taper→锥度"
   },
@@ -44618,10 +44618,10 @@
       }
     ],
     "phrases": [
-      "join (待翻译)",
-      "joint (待翻译)",
-      "joining (待翻译)",
-      "welded joint (待翻译)"
+      "join",
+      "joint",
+      "joining",
+      "welded joint"
     ],
     "mnemonic": "join→连接"
   },
@@ -44724,10 +44724,10 @@
       }
     ],
     "phrases": [
-      "fasten (待翻译)",
-      "fastener (待翻译)",
-      "fastening (待翻译)",
-      "threaded fastener (待翻译)"
+      "fasten",
+      "fastener",
+      "fastening",
+      "threaded fastener"
     ],
     "mnemonic": "fasten→紧固"
   },
@@ -44830,10 +44830,10 @@
       }
     ],
     "phrases": [
-      "connect (待翻译)",
-      "connection (待翻译)",
-      "connector (待翻译)",
-      "pipe connection (待翻译)"
+      "connect",
+      "connection",
+      "connector",
+      "pipe connection"
     ],
     "mnemonic": "connect→连接"
   },
@@ -44936,10 +44936,10 @@
       }
     ],
     "phrases": [
-      "coupling (待翻译)",
-      "couple (待翻译)",
-      "shaft coupling (待翻译)",
-      "flexible coupling (待翻译)"
+      "coupling",
+      "couple",
+      "shaft coupling",
+      "flexible coupling"
     ],
     "mnemonic": "coupl→联轴器"
   },
@@ -45042,10 +45042,10 @@
       }
     ],
     "phrases": [
-      "spline (待翻译)",
-      "splined (待翻译)",
-      "spline shaft (待翻译)",
-      "involute spline (待翻译)"
+      "spline",
+      "splined",
+      "spline shaft",
+      "involute spline"
     ],
     "mnemonic": "splin→花键"
   },
@@ -45148,10 +45148,10 @@
       }
     ],
     "phrases": [
-      "key (待翻译)",
-      "keyway (待翻译)",
-      "key seat (待翻译)",
-      "feather key (待翻译)"
+      "key",
+      "keyway",
+      "key seat",
+      "feather key"
     ],
     "mnemonic": "key→键"
   },
@@ -45254,10 +45254,10 @@
       }
     ],
     "phrases": [
-      "pin (待翻译)",
-      "pinning (待翻译)",
-      "cotter pin (待翻译)",
-      "dowel pin (待翻译)"
+      "pin",
+      "pinning",
+      "cotter pin",
+      "dowel pin"
     ],
     "mnemonic": "pin→销"
   },
@@ -45360,10 +45360,10 @@
       }
     ],
     "phrases": [
-      "thread (待翻译)",
-      "threading (待翻译)",
-      "threaded (待翻译)",
-      "screw thread (待翻译)"
+      "thread",
+      "threading",
+      "threaded",
+      "screw thread"
     ],
     "mnemonic": "thread→螺纹"
   },
@@ -45466,10 +45466,10 @@
       }
     ],
     "phrases": [
-      "pitch (待翻译)",
-      "thread pitch (待翻译)",
-      "pitch diameter (待翻译)",
-      "circular pitch (待翻译)"
+      "pitch",
+      "thread pitch",
+      "pitch diameter",
+      "circular pitch"
     ],
     "mnemonic": "pitch→螺距"
   },
@@ -45572,10 +45572,10 @@
       }
     ],
     "phrases": [
-      "helix (待翻译)",
-      "helical (待翻译)",
-      "helical gear (待翻译)",
-      "helix angle (待翻译)"
+      "helix",
+      "helical",
+      "helical gear",
+      "helix angle"
     ],
     "mnemonic": "helix→螺旋"
   },
@@ -45678,10 +45678,10 @@
       }
     ],
     "phrases": [
-      "slot (待翻译)",
-      "slotted (待翻译)",
-      "key slot (待翻译)",
-      "t-slot (待翻译)"
+      "slot",
+      "slotted",
+      "key slot",
+      "t-slot"
     ],
     "mnemonic": "slot→槽"
   },
@@ -45784,10 +45784,10 @@
       }
     ],
     "phrases": [
-      "groove (待翻译)",
-      "grooved (待翻译)",
-      "o-ring groove (待翻译)",
-      "seal groove (待翻译)"
+      "groove",
+      "grooved",
+      "o-ring groove",
+      "seal groove"
     ],
     "mnemonic": "groov→沟槽"
   },
@@ -45890,10 +45890,10 @@
       }
     ],
     "phrases": [
-      "recess (待翻译)",
-      "recessed (待翻译)",
-      "recessed area (待翻译)",
-      "recess design (待翻译)"
+      "recess",
+      "recessed",
+      "recessed area",
+      "recess design"
     ],
     "mnemonic": "recess→凹槽"
   },
@@ -45996,10 +45996,10 @@
       }
     ],
     "phrases": [
-      "flange (待翻译)",
-      "flanged (待翻译)",
-      "pipe flange (待翻译)",
-      "flange connection (待翻译)"
+      "flange",
+      "flanged",
+      "pipe flange",
+      "flange connection"
     ],
     "mnemonic": "flang→法兰"
   },
@@ -46102,10 +46102,10 @@
       }
     ],
     "phrases": [
-      "hub (待翻译)",
-      "wheel hub (待翻译)",
-      "hub assembly (待翻译)",
-      "hub bearing (待翻译)"
+      "hub",
+      "wheel hub",
+      "hub assembly",
+      "hub bearing"
     ],
     "mnemonic": "hub→轮毂"
   },
@@ -46208,10 +46208,10 @@
       }
     ],
     "phrases": [
-      "collar (待翻译)",
-      "collared (待翻译)",
-      "shaft collar (待翻译)",
-      "set collar (待翻译)"
+      "collar",
+      "collared",
+      "shaft collar",
+      "set collar"
     ],
     "mnemonic": "collar→轴环"
   },
@@ -46314,10 +46314,10 @@
       }
     ],
     "phrases": [
-      "sleeve (待翻译)",
-      "sleeve bearing (待翻译)",
-      "coupling sleeve (待翻译)",
-      "protective sleeve (待翻译)"
+      "sleeve",
+      "sleeve bearing",
+      "coupling sleeve",
+      "protective sleeve"
     ],
     "mnemonic": "sleeve→套筒"
   },
@@ -46420,10 +46420,10 @@
       }
     ],
     "phrases": [
-      "bush (待翻译)",
-      "bushing (待翻译)",
-      "bronze bushing (待翻译)",
-      "rubber bushing (待翻译)"
+      "bush",
+      "bushing",
+      "bronze bushing",
+      "rubber bushing"
     ],
     "mnemonic": "bush→衬套"
   },
@@ -46526,10 +46526,10 @@
       }
     ],
     "phrases": [
-      "spacer (待翻译)",
-      "spacing (待翻译)",
-      "spaced (待翻译)",
-      "bearing spacer (待翻译)"
+      "spacer",
+      "spacing",
+      "spaced",
+      "bearing spacer"
     ],
     "mnemonic": "spac→垫片"
   },
@@ -46632,10 +46632,10 @@
       }
     ],
     "phrases": [
-      "washer (待翻译)",
-      "wash (待翻译)",
-      "lock washer (待翻译)",
-      "plain washer (待翻译)"
+      "washer",
+      "wash",
+      "lock washer",
+      "plain washer"
     ],
     "mnemonic": "wash→垫圈"
   },
@@ -46738,10 +46738,10 @@
       }
     ],
     "phrases": [
-      "surface (待翻译)",
-      "surfacing (待翻译)",
-      "surface finish (待翻译)",
-      "surface treatment (待翻译)"
+      "surface",
+      "surfacing",
+      "surface finish",
+      "surface treatment"
     ],
     "mnemonic": "surfac→表面"
   },
@@ -46844,10 +46844,10 @@
       }
     ],
     "phrases": [
-      "finish (待翻译)",
-      "finishing (待翻译)",
-      "surface finish (待翻译)",
-      "finish machining (待翻译)"
+      "finish",
+      "finishing",
+      "surface finish",
+      "finish machining"
     ],
     "mnemonic": "finish→表面粗糙度"
   },
@@ -46950,10 +46950,10 @@
       }
     ],
     "phrases": [
-      "polish (待翻译)",
-      "polishing (待翻译)",
-      "polished (待翻译)",
-      "mirror polish (待翻译)"
+      "polish",
+      "polishing",
+      "polished",
+      "mirror polish"
     ],
     "mnemonic": "polish→抛光"
   },
@@ -47056,10 +47056,10 @@
       }
     ],
     "phrases": [
-      "buff (待翻译)",
-      "buffing (待翻译)",
-      "buffer (待翻译)",
-      "polishing buff (待翻译)"
+      "buff",
+      "buffing",
+      "buffer",
+      "polishing buff"
     ],
     "mnemonic": "buff→打磨"
   },
@@ -47162,10 +47162,10 @@
       }
     ],
     "phrases": [
-      "sand (待翻译)",
-      "sanding (待翻译)",
-      "sandblast (待翻译)",
-      "sandblasting (待翻译)"
+      "sand",
+      "sanding",
+      "sandblast",
+      "sandblasting"
     ],
     "mnemonic": "sand→喷砂"
   },
@@ -47268,10 +47268,10 @@
       }
     ],
     "phrases": [
-      "shot (待翻译)",
-      "shot peening (待翻译)",
-      "shot blasting (待翻译)",
-      "peening shot (待翻译)"
+      "shot",
+      "shot peening",
+      "shot blasting",
+      "peening shot"
     ],
     "mnemonic": "shot→喷丸"
   },
@@ -47374,10 +47374,10 @@
       }
     ],
     "phrases": [
-      "etch (待翻译)",
-      "etching (待翻译)",
-      "etched (待翻译)",
-      "chemical etching (待翻译)"
+      "etch",
+      "etching",
+      "etched",
+      "chemical etching"
     ],
     "mnemonic": "etch→蚀刻"
   },
@@ -47480,10 +47480,10 @@
       }
     ],
     "phrases": [
-      "anodize (待翻译)",
-      "anodizing (待翻译)",
-      "anodized (待翻译)",
-      "hard anodized (待翻译)"
+      "anodize",
+      "anodizing",
+      "anodized",
+      "hard anodized"
     ],
     "mnemonic": "anod→阳极氧化"
   },
@@ -47586,10 +47586,10 @@
       }
     ],
     "phrases": [
-      "galvanize (待翻译)",
-      "galvanizing (待翻译)",
-      "galvanized (待翻译)",
-      "hot dip galvanized (待翻译)"
+      "galvanize",
+      "galvanizing",
+      "galvanized",
+      "hot dip galvanized"
     ],
     "mnemonic": "galvan→镀锌"
   },
@@ -47692,10 +47692,10 @@
       }
     ],
     "phrases": [
-      "chrome (待翻译)",
-      "chromium (待翻译)",
-      "chrome plating (待翻译)",
-      "hard chrome (待翻译)"
+      "chrome",
+      "chromium",
+      "chrome plating",
+      "hard chrome"
     ],
     "mnemonic": "chrom→镀铬"
   },
@@ -47798,10 +47798,10 @@
       }
     ],
     "phrases": [
-      "nickel (待翻译)",
-      "nickel plating (待翻译)",
-      "electroless nickel (待翻译)",
-      "nickel alloy (待翻译)"
+      "nickel",
+      "nickel plating",
+      "electroless nickel",
+      "nickel alloy"
     ],
     "mnemonic": "nickel→镀镍"
   },
@@ -47904,10 +47904,10 @@
       }
     ],
     "phrases": [
-      "phosphate (待翻译)",
-      "phosphating (待翻译)",
-      "phosphate coating (待翻译)",
-      "zinc phosphate (待翻译)"
+      "phosphate",
+      "phosphating",
+      "phosphate coating",
+      "zinc phosphate"
     ],
     "mnemonic": "phosphat→磷化"
   },
@@ -48010,10 +48010,10 @@
       }
     ],
     "phrases": [
-      "oxide (待翻译)",
-      "oxidation (待翻译)",
-      "oxidize (待翻译)",
-      "oxide layer (待翻译)"
+      "oxide",
+      "oxidation",
+      "oxidize",
+      "oxide layer"
     ],
     "mnemonic": "oxid→氧化"
   },
@@ -48116,10 +48116,10 @@
       }
     ],
     "phrases": [
-      "corrosion (待翻译)",
-      "corrode (待翻译)",
-      "corrosive (待翻译)",
-      "anti-corrosion (待翻译)"
+      "corrosion",
+      "corrode",
+      "corrosive",
+      "anti-corrosion"
     ],
     "mnemonic": "corros→腐蚀"
   },
@@ -48222,10 +48222,10 @@
       }
     ],
     "phrases": [
-      "rust (待翻译)",
-      "rusting (待翻译)",
-      "rusty (待翻译)",
-      "anti-rust (待翻译)"
+      "rust",
+      "rusting",
+      "rusty",
+      "anti-rust"
     ],
     "mnemonic": "rust→锈蚀"
   },
@@ -48328,10 +48328,10 @@
       }
     ],
     "phrases": [
-      "patina (待翻译)",
-      "patination (待翻译)",
-      "copper patina (待翻译)",
-      "surface patina (待翻译)"
+      "patina",
+      "patination",
+      "copper patina",
+      "surface patina"
     ],
     "mnemonic": "patin→铜绿"
   },
@@ -48434,10 +48434,10 @@
       }
     ],
     "phrases": [
-      "paint (待翻译)",
-      "painting (待翻译)",
-      "painted (待翻译)",
-      "spray painting (待翻译)"
+      "paint",
+      "painting",
+      "painted",
+      "spray painting"
     ],
     "mnemonic": "paint→涂装"
   },
@@ -48540,10 +48540,10 @@
       }
     ],
     "phrases": [
-      "powder (待翻译)",
-      "powder coating (待翻译)",
-      "powder metal (待翻译)",
-      "powder metallurgy (待翻译)"
+      "powder",
+      "powder coating",
+      "powder metal",
+      "powder metallurgy"
     ],
     "mnemonic": "powder→粉末"
   },
@@ -48646,10 +48646,10 @@
       }
     ],
     "phrases": [
-      "coating (待翻译)",
-      "coat (待翻译)",
-      "protective coating (待翻译)",
-      "wear resistant coating (待翻译)"
+      "coating",
+      "coat",
+      "protective coating",
+      "wear resistant coating"
     ],
     "mnemonic": "coat→涂层"
   },
@@ -48752,10 +48752,10 @@
       }
     ],
     "phrases": [
-      "varnish (待翻译)",
-      "varnishing (待翻译)",
-      "varnished (待翻译)",
-      "protective varnish (待翻译)"
+      "varnish",
+      "varnishing",
+      "varnished",
+      "protective varnish"
     ],
     "mnemonic": "varnish→清漆"
   },
@@ -48858,10 +48858,10 @@
       }
     ],
     "phrases": [
-      "EDM (待翻译)",
-      "electrical discharge (待翻译)",
-      "wire EDM (待翻译)",
-      "EDM machining (待翻译)"
+      "EDM",
+      "electrical discharge",
+      "wire EDM",
+      "EDM machining"
     ],
     "mnemonic": "edm→电火花"
   },
@@ -48964,10 +48964,10 @@
       }
     ],
     "phrases": [
-      "laser (待翻译)",
-      "laser cutting (待翻译)",
-      "laser welding (待翻译)",
-      "laser marking (待翻译)"
+      "laser",
+      "laser cutting",
+      "laser welding",
+      "laser marking"
     ],
     "mnemonic": "laser→激光"
   },
@@ -49070,10 +49070,10 @@
       }
     ],
     "phrases": [
-      "plasma (待翻译)",
-      "plasma cutting (待翻译)",
-      "plasma arc (待翻译)",
-      "plasma spraying (待翻译)"
+      "plasma",
+      "plasma cutting",
+      "plasma arc",
+      "plasma spraying"
     ],
     "mnemonic": "plasma→等离子"
   },
@@ -49176,10 +49176,10 @@
       }
     ],
     "phrases": [
-      "waterjet (待翻译)",
-      "water jet cutting (待翻译)",
-      "abrasive waterjet (待翻译)",
-      "waterjet machining (待翻译)"
+      "waterjet",
+      "water jet cutting",
+      "abrasive waterjet",
+      "waterjet machining"
     ],
     "mnemonic": "waterjet→水射流"
   },
@@ -49282,10 +49282,10 @@
       }
     ],
     "phrases": [
-      "ultrasonic (待翻译)",
-      "ultrasonics (待翻译)",
-      "ultrasonic welding (待翻译)",
-      "ultrasonic cleaning (待翻译)"
+      "ultrasonic",
+      "ultrasonics",
+      "ultrasonic welding",
+      "ultrasonic cleaning"
     ],
     "mnemonic": "ultrason→超声"
   },
@@ -49388,10 +49388,10 @@
       }
     ],
     "phrases": [
-      "electrochemical (待翻译)",
-      "electrochemistry (待翻译)",
-      "electrochemical machining (待翻译)",
-      "electrochemical grinding (待翻译)"
+      "electrochemical",
+      "electrochemistry",
+      "electrochemical machining",
+      "electrochemical grinding"
     ],
     "mnemonic": "electrochem→电化学"
   },
@@ -49494,10 +49494,10 @@
       }
     ],
     "phrases": [
-      "ion (待翻译)",
-      "ionic (待翻译)",
-      "ion beam (待翻译)",
-      "ion implantation (待翻译)"
+      "ion",
+      "ionic",
+      "ion beam",
+      "ion implantation"
     ],
     "mnemonic": "ion→离子"
   },
@@ -49600,10 +49600,10 @@
       }
     ],
     "phrases": [
-      "electron (待翻译)",
-      "electronic (待翻译)",
-      "electron beam (待翻译)",
-      "electron microscope (待翻译)"
+      "electron",
+      "electronic",
+      "electron beam",
+      "electron microscope"
     ],
     "mnemonic": "electron→电子"
   },
@@ -49706,10 +49706,10 @@
       }
     ],
     "phrases": [
-      "CNC (待翻译)",
-      "computer numerical control (待翻译)",
-      "CNC machine (待翻译)",
-      "CNC milling (待翻译)"
+      "CNC",
+      "computer numerical control",
+      "CNC machine",
+      "CNC milling"
     ],
     "mnemonic": "cnc→数控"
   },
@@ -49812,10 +49812,10 @@
       }
     ],
     "phrases": [
-      "CAM (待翻译)",
-      "computer aided manufacturing (待翻译)",
-      "CAM software (待翻译)",
-      "CAD/CAM (待翻译)"
+      "CAM",
+      "computer aided manufacturing",
+      "CAM software",
+      "CAD/CAM"
     ],
     "mnemonic": "cam→计算机辅助制造"
   },
@@ -49918,10 +49918,10 @@
       }
     ],
     "phrases": [
-      "CAD (待翻译)",
-      "computer aided design (待翻译)",
-      "CAD software (待翻译)",
-      "3D CAD (待翻译)"
+      "CAD",
+      "computer aided design",
+      "CAD software",
+      "3D CAD"
     ],
     "mnemonic": "cad→计算机辅助设计"
   },
@@ -50024,10 +50024,10 @@
       }
     ],
     "phrases": [
-      "rapid (待翻译)",
-      "rapidity (待翻译)",
-      "rapid prototyping (待翻译)",
-      "rapid manufacturing (待翻译)"
+      "rapid",
+      "rapidity",
+      "rapid prototyping",
+      "rapid manufacturing"
     ],
     "mnemonic": "rapid→快速"
   },
@@ -50130,10 +50130,10 @@
       }
     ],
     "phrases": [
-      "prototype (待翻译)",
-      "prototyping (待翻译)",
-      "rapid prototype (待翻译)",
-      "functional prototype (待翻译)"
+      "prototype",
+      "prototyping",
+      "rapid prototype",
+      "functional prototype"
     ],
     "mnemonic": "prototyp→原型"
   },
@@ -50236,10 +50236,10 @@
       }
     ],
     "phrases": [
-      "additive (待翻译)",
-      "addition (待翻译)",
-      "additive manufacturing (待翻译)",
-      "additive process (待翻译)"
+      "additive",
+      "addition",
+      "additive manufacturing",
+      "additive process"
     ],
     "mnemonic": "addit→增材"
   },
@@ -50342,10 +50342,10 @@
       }
     ],
     "phrases": [
-      "sinter (待翻译)",
-      "sintering (待翻译)",
-      "sintered (待翻译)",
-      "powder sintering (待翻译)"
+      "sinter",
+      "sintering",
+      "sintered",
+      "powder sintering"
     ],
     "mnemonic": "sinter→烧结"
   },
@@ -50448,10 +50448,10 @@
       }
     ],
     "phrases": [
-      "melt (待翻译)",
-      "melting (待翻译)",
-      "molten (待翻译)",
-      "selective laser melting (待翻译)"
+      "melt",
+      "melting",
+      "molten",
+      "selective laser melting"
     ],
     "mnemonic": "melt→熔化"
   },
@@ -50554,10 +50554,10 @@
       }
     ],
     "phrases": [
-      "deposit (待翻译)",
-      "deposition (待翻译)",
-      "deposited (待翻译)",
-      "chemical vapor deposition (待翻译)"
+      "deposit",
+      "deposition",
+      "deposited",
+      "chemical vapor deposition"
     ],
     "mnemonic": "deposit→沉积"
   },
@@ -50660,10 +50660,10 @@
       }
     ],
     "phrases": [
-      "layer (待翻译)",
-      "layering (待翻译)",
-      "layered (待翻译)",
-      "layer by layer (待翻译)"
+      "layer",
+      "layering",
+      "layered",
+      "layer by layer"
     ],
     "mnemonic": "layer→层"
   },
@@ -50766,10 +50766,10 @@
       }
     ],
     "phrases": [
-      "build (待翻译)",
-      "building (待翻译)",
-      "build up (待翻译)",
-      "build plate (待翻译)"
+      "build",
+      "building",
+      "build up",
+      "build plate"
     ],
     "mnemonic": "build→构建"
   },
@@ -50872,10 +50872,10 @@
       }
     ],
     "phrases": [
-      "support (待翻译)",
-      "supporting (待翻译)",
-      "support structure (待翻译)",
-      "removable support (待翻译)"
+      "support",
+      "supporting",
+      "support structure",
+      "removable support"
     ],
     "mnemonic": "support→支撑结构"
   },
@@ -50978,10 +50978,10 @@
       }
     ],
     "phrases": [
-      "fluid (待翻译)",
-      "fluidic (待翻译)",
-      "fluid mechanics (待翻译)",
-      "working fluid (待翻译)"
+      "fluid",
+      "fluidic",
+      "fluid mechanics",
+      "working fluid"
     ],
     "mnemonic": "fluid→流体"
   },
@@ -51084,10 +51084,10 @@
       }
     ],
     "phrases": [
-      "liquid (待翻译)",
-      "liquidity (待翻译)",
-      "liquid cooling (待翻译)",
-      "hydraulic liquid (待翻译)"
+      "liquid",
+      "liquidity",
+      "liquid cooling",
+      "hydraulic liquid"
     ],
     "mnemonic": "liquid→液体"
   },
@@ -51190,10 +51190,10 @@
       }
     ],
     "phrases": [
-      "gas (待翻译)",
-      "gaseous (待翻译)",
-      "gas turbine (待翻译)",
-      "compressed gas (待翻译)"
+      "gas",
+      "gaseous",
+      "gas turbine",
+      "compressed gas"
     ],
     "mnemonic": "gas→气体"
   },
@@ -51296,10 +51296,10 @@
       }
     ],
     "phrases": [
-      "vapor (待翻译)",
-      "vaporize (待翻译)",
-      "vaporization (待翻译)",
-      "water vapor (待翻译)"
+      "vapor",
+      "vaporize",
+      "vaporization",
+      "water vapor"
     ],
     "mnemonic": "vapor→蒸汽"
   },
@@ -51402,10 +51402,10 @@
       }
     ],
     "phrases": [
-      "steam (待翻译)",
-      "steaming (待翻译)",
-      "steam engine (待翻译)",
-      "steam turbine (待翻译)"
+      "steam",
+      "steaming",
+      "steam engine",
+      "steam turbine"
     ],
     "mnemonic": "steam→蒸汽"
   },
@@ -51508,10 +51508,10 @@
       }
     ],
     "phrases": [
-      "air (待翻译)",
-      "airflow (待翻译)",
-      "compressed air (待翻译)",
-      "air pressure (待翻译)"
+      "air",
+      "airflow",
+      "compressed air",
+      "air pressure"
     ],
     "mnemonic": "air→空气"
   },
@@ -51614,10 +51614,10 @@
       }
     ],
     "phrases": [
-      "oil (待翻译)",
-      "oiling (待翻译)",
-      "oil pump (待翻译)",
-      "lubricating oil (待翻译)"
+      "oil",
+      "oiling",
+      "oil pump",
+      "lubricating oil"
     ],
     "mnemonic": "oil→油"
   },
@@ -51720,10 +51720,10 @@
       }
     ],
     "phrases": [
-      "fuel (待翻译)",
-      "fueling (待翻译)",
-      "fossil fuel (待翻译)",
-      "fuel injection (待翻译)"
+      "fuel",
+      "fueling",
+      "fossil fuel",
+      "fuel injection"
     ],
     "mnemonic": "fuel→燃料"
   },
@@ -51826,10 +51826,10 @@
       }
     ],
     "phrases": [
-      "flow (待翻译)",
-      "flowing (待翻译)",
-      "flow rate (待翻译)",
-      "fluid flow (待翻译)"
+      "flow",
+      "flowing",
+      "flow rate",
+      "fluid flow"
     ],
     "mnemonic": "flow→流动"
   },
@@ -51932,10 +51932,10 @@
       }
     ],
     "phrases": [
-      "pressure (待翻译)",
-      "pressurize (待翻译)",
-      "pressurized (待翻译)",
-      "atmospheric pressure (待翻译)"
+      "pressure",
+      "pressurize",
+      "pressurized",
+      "atmospheric pressure"
     ],
     "mnemonic": "pressur→压力"
   },
@@ -52038,10 +52038,10 @@
       }
     ],
     "phrases": [
-      "vacuum (待翻译)",
-      "vacuum pump (待翻译)",
-      "vacuum chamber (待翻译)",
-      "high vacuum (待翻译)"
+      "vacuum",
+      "vacuum pump",
+      "vacuum chamber",
+      "high vacuum"
     ],
     "mnemonic": "vacuum→真空"
   },
@@ -52144,10 +52144,10 @@
       }
     ],
     "phrases": [
-      "turbulent (待翻译)",
-      "turbulence (待翻译)",
-      "turbulent flow (待翻译)",
-      "turbulent boundary (待翻译)"
+      "turbulent",
+      "turbulence",
+      "turbulent flow",
+      "turbulent boundary"
     ],
     "mnemonic": "turbul→湍流"
   },
@@ -52250,10 +52250,10 @@
       }
     ],
     "phrases": [
-      "laminar (待翻译)",
-      "laminar flow (待翻译)",
-      "laminar boundary (待翻译)",
-      "laminar separation (待翻译)"
+      "laminar",
+      "laminar flow",
+      "laminar boundary",
+      "laminar separation"
     ],
     "mnemonic": "laminar→层流"
   },
@@ -52356,10 +52356,10 @@
       }
     ],
     "phrases": [
-      "viscosity (待翻译)",
-      "viscous (待翻译)",
-      "high viscosity (待翻译)",
-      "kinematic viscosity (待翻译)"
+      "viscosity",
+      "viscous",
+      "high viscosity",
+      "kinematic viscosity"
     ],
     "mnemonic": "viscos→粘度"
   },
@@ -52462,10 +52462,10 @@
       }
     ],
     "phrases": [
-      "density (待翻译)",
-      "dense (待翻译)",
-      "power density (待翻译)",
-      "energy density (待翻译)"
+      "density",
+      "dense",
+      "power density",
+      "energy density"
     ],
     "mnemonic": "densit→密度"
   },
@@ -52568,10 +52568,10 @@
       }
     ],
     "phrases": [
-      "buoyancy (待翻译)",
-      "buoyant (待翻译)",
-      "buoyant force (待翻译)",
-      "buoyancy effect (待翻译)"
+      "buoyancy",
+      "buoyant",
+      "buoyant force",
+      "buoyancy effect"
     ],
     "mnemonic": "buoy→浮力"
   },
@@ -52674,10 +52674,10 @@
       }
     ],
     "phrases": [
-      "drag (待翻译)",
-      "dragging (待翻译)",
-      "drag force (待翻译)",
-      "aerodynamic drag (待翻译)"
+      "drag",
+      "dragging",
+      "drag force",
+      "aerodynamic drag"
     ],
     "mnemonic": "drag→阻力"
   },
@@ -52780,10 +52780,10 @@
       }
     ],
     "phrases": [
-      "lift (待翻译)",
-      "lifting (待翻译)",
-      "lift force (待翻译)",
-      "aerodynamic lift (待翻译)"
+      "lift",
+      "lifting",
+      "lift force",
+      "aerodynamic lift"
     ],
     "mnemonic": "lift→升力"
   },
@@ -52886,10 +52886,10 @@
       }
     ],
     "phrases": [
-      "thrust (待翻译)",
-      "thrusting (待翻译)",
-      "thrust bearing (待翻译)",
-      "axial thrust (待翻译)"
+      "thrust",
+      "thrusting",
+      "thrust bearing",
+      "axial thrust"
     ],
     "mnemonic": "thrust→推力"
   },
@@ -52992,10 +52992,10 @@
       }
     ],
     "phrases": [
-      "momentum (待翻译)",
-      "moment (待翻译)",
-      "angular momentum (待翻译)",
-      "linear momentum (待翻译)"
+      "momentum",
+      "moment",
+      "angular momentum",
+      "linear momentum"
     ],
     "mnemonic": "mom→动量"
   },

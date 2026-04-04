@@ -97,10 +97,10 @@
       }
     ],
     "phrases": [
-      "semiconductor industry (待翻译)",
-      "semiconductor device (待翻译)",
-      "semiconductor chip (待翻译)",
-      "semiconductor material (待翻译)"
+      "semiconductor industry",
+      "semiconductor device",
+      "semiconductor chip",
+      "semiconductor material"
     ],
     "mnemonic": "semi（半）+ conduct（传导）+ or → 导电性介于导体和绝缘体之间 → 半导体",
     "meaning": "半导体"
@@ -203,10 +203,10 @@
       }
     ],
     "phrases": [
-      "computer chip (待翻译)",
-      "silicon chip (待翻译)",
-      "memory chip (待翻译)",
-      "chip design (待翻译)"
+      "computer chip",
+      "silicon chip",
+      "memory chip",
+      "chip design"
     ],
     "mnemonic": "chip（碎片）→ 硅片切割成的小片 → 芯片",
     "meaning": "芯片"
@@ -309,10 +309,10 @@
       }
     ],
     "phrases": [
-      "silicon valley (待翻译)",
-      "silicon wafer (待翻译)",
-      "silicon dioxide (待翻译)",
-      "silicon substrate (待翻译)"
+      "silicon valley",
+      "silicon wafer",
+      "silicon dioxide",
+      "silicon substrate"
     ],
     "mnemonic": "silicon（硅）→ 半导体行业最核心的材料 → 硅",
     "meaning": "硅"
@@ -415,10 +415,10 @@
       }
     ],
     "phrases": [
-      "bipolar transistor (待翻译)",
-      "field-effect transistor (待翻译)",
-      "transistor radio (待翻译)",
-      "power transistor (待翻译)"
+      "bipolar transistor",
+      "field-effect transistor",
+      "transistor radio",
+      "power transistor"
     ],
     "mnemonic": "trans（跨越）+ sist（站）+ or → 跨越传递 → 晶体管",
     "meaning": "晶体管"
@@ -521,10 +521,10 @@
       }
     ],
     "phrases": [
-      "light-emitting diode (待翻译)",
-      "Zener diode (待翻译)",
-      "diode laser (待翻译)",
-      "rectifier diode (待翻译)"
+      "light-emitting diode",
+      "Zener diode",
+      "diode laser",
+      "rectifier diode"
     ],
     "mnemonic": "di（二）+ ode（通路）→ 只有两个电极 → 二极管",
     "meaning": "二极管"
@@ -627,10 +627,10 @@
       }
     ],
     "phrases": [
-      "integrated circuit (待翻译)",
-      "large-scale integration (待翻译)",
-      "VLSI (待翻译)",
-      "system integration (待翻译)"
+      "integrated circuit",
+      "large-scale integration",
+      "VLSI",
+      "system integration"
     ],
     "mnemonic": "integr（整体）+ ate → 成为整体 → 集成",
     "meaning": "集成的"
@@ -733,10 +733,10 @@
       }
     ],
     "phrases": [
-      "printed circuit board (待翻译)",
-      "integrated circuit (待翻译)",
-      "circuit design (待翻译)",
-      "open circuit (待翻译)"
+      "printed circuit board",
+      "integrated circuit",
+      "circuit design",
+      "open circuit"
     ],
     "mnemonic": "circ（圆）+ uit → 电流绕行的回路 → 电路",
     "meaning": "电路"
@@ -817,10 +817,10 @@
       }
     ],
     "phrases": [
-      "silicon wafer (待翻译)",
-      "wafer fabrication (待翻译)",
-      "wafer processing (待翻译)",
-      "wafer bonding (待翻译)"
+      "silicon wafer",
+      "wafer fabrication",
+      "wafer processing",
+      "wafer bonding"
     ],
     "mnemonic": "wafer（薄片）→ 硅材料切成的薄片 → 晶圆",
     "meaning": "晶圆"
@@ -923,10 +923,10 @@
       }
     ],
     "phrases": [
-      "wafer fabrication (待翻译)",
-      "semiconductor fabrication (待翻译)",
-      "fabrication process (待翻译)",
-      "fabrication plant (待翻译)"
+      "wafer fabrication",
+      "semiconductor fabrication",
+      "fabrication process",
+      "fabrication plant"
     ],
     "mnemonic": "fabric（制造）→ 制作芯片的过程 → 制造加工",
     "meaning": "制造，加工"
@@ -1029,10 +1029,10 @@
       }
     ],
     "phrases": [
-      "EUV lithography (待翻译)",
-      "lithography machine (待翻译)",
-      "lithography process (待翻译)",
-      "optical lithography (待翻译)"
+      "EUV lithography",
+      "lithography machine",
+      "lithography process",
+      "optical lithography"
     ],
     "mnemonic": "litho（石）+ graph（画）+ y → 在硅片上刻画 → 光刻",
     "meaning": "光刻"
@@ -1135,10 +1135,10 @@
       }
     ],
     "phrases": [
-      "plasma etching (待翻译)",
-      "wet etching (待翻译)",
-      "etch rate (待翻译)",
-      "etch process (待翻译)"
+      "plasma etching",
+      "wet etching",
+      "etch rate",
+      "etch process"
     ],
     "mnemonic": "etch（蚀刻）→ 用化学方法去除材料 → 蚀刻",
     "meaning": "蚀刻"
@@ -1241,10 +1241,10 @@
       }
     ],
     "phrases": [
-      "thin film deposition (待翻译)",
-      "chemical vapor deposition (待翻译)",
-      "atomic layer deposition (待翻译)",
-      "sputter deposition (待翻译)"
+      "thin film deposition",
+      "chemical vapor deposition",
+      "atomic layer deposition",
+      "sputter deposition"
     ],
     "mnemonic": "de（下）+ posit（放）+ ion → 向下放置 → 沉积",
     "meaning": "沉积"
@@ -1347,10 +1347,10 @@
       }
     ],
     "phrases": [
-      "n-type doping (待翻译)",
-      "p-type doping (待翻译)",
-      "ion implantation (待翻译)",
-      "doping concentration (待翻译)"
+      "n-type doping",
+      "p-type doping",
+      "ion implantation",
+      "doping concentration"
     ],
     "mnemonic": "dope（添加）→ 向半导体添加杂质 → 掺杂",
     "meaning": "掺杂"
@@ -1453,10 +1453,10 @@
       }
     ],
     "phrases": [
-      "ion implantation (待翻译)",
-      "ion implanter (待翻译)",
-      "implant energy (待翻译)",
-      "implant dose (待翻译)"
+      "ion implantation",
+      "ion implanter",
+      "implant energy",
+      "implant dose"
     ],
     "mnemonic": "im（入）+ plant（种植）→ 种进去 → 离子注入",
     "meaning": "注入，植入"
@@ -1559,10 +1559,10 @@
       }
     ],
     "phrases": [
-      "silicon oxide (待翻译)",
-      "gate oxide (待翻译)",
-      "thermal oxidation (待翻译)",
-      "oxide layer (待翻译)"
+      "silicon oxide",
+      "gate oxide",
+      "thermal oxidation",
+      "oxide layer"
     ],
     "mnemonic": "oxid（氧）→ 与氧结合 → 氧化物",
     "meaning": "氧化物"
@@ -1665,10 +1665,10 @@
       }
     ],
     "phrases": [
-      "thermal diffusion (待翻译)",
-      "diffusion furnace (待翻译)",
-      "diffusion process (待翻译)",
-      "diffusion layer (待翻译)"
+      "thermal diffusion",
+      "diffusion furnace",
+      "diffusion process",
+      "diffusion layer"
     ],
     "mnemonic": "dif（分开）+ fus（倾倒）→ 向各方向散开 → 扩散",
     "meaning": "扩散"
@@ -1771,10 +1771,10 @@
       }
     ],
     "phrases": [
-      "thermal annealing (待翻译)",
-      "laser annealing (待翻译)",
-      "annealing temperature (待翻译)",
-      "RTA process (待翻译)"
+      "thermal annealing",
+      "laser annealing",
+      "annealing temperature",
+      "RTA process"
     ],
     "mnemonic": "anneal（退火）→ 加热后缓慢冷却消除应力 → 退火",
     "meaning": "退火"
@@ -1877,10 +1877,10 @@
       }
     ],
     "phrases": [
-      "photolithography process (待翻译)",
-      "deep UV photolithography (待翻译)",
-      "photolithography equipment (待翻译)",
-      "photolithography pattern (待翻译)"
+      "photolithography process",
+      "deep UV photolithography",
+      "photolithography equipment",
+      "photolithography pattern"
     ],
     "mnemonic": "photo（光）+ litho（石）+ graphy → 光刻画 → 光刻技术",
     "meaning": "光刻技术"
@@ -1983,10 +1983,10 @@
       }
     ],
     "phrases": [
-      "mask design (待翻译)",
-      "mask aligner (待翻译)",
-      "phase-shift mask (待翻译)",
-      "mask layer (待翻译)"
+      "mask design",
+      "mask aligner",
+      "phase-shift mask",
+      "mask layer"
     ],
     "mnemonic": "mask（面具）→ 光刻中使用的遮罩 → 光罩",
     "meaning": "光罩，掩模"
@@ -2089,10 +2089,10 @@
       }
     ],
     "phrases": [
-      "photoresist coating (待翻译)",
-      "photoresist stripping (待翻译)",
-      "photoresist development (待翻译)",
-      "thick photoresist (待翻译)"
+      "photoresist coating",
+      "photoresist stripping",
+      "photoresist development",
+      "thick photoresist"
     ],
     "mnemonic": "photo（光）+ resist（抵抗）→ 感光抗蚀材料 → 光刻胶",
     "meaning": "光刻胶"
@@ -2195,10 +2195,10 @@
       }
     ],
     "phrases": [
-      "cleanroom class (待翻译)",
-      "cleanroom environment (待翻译)",
-      "cleanroom facility (待翻译)",
-      "cleanroom standard (待翻译)"
+      "cleanroom class",
+      "cleanroom environment",
+      "cleanroom facility",
+      "cleanroom standard"
     ],
     "mnemonic": "clean（洁净）+ room → 无尘环境 → 洁净室",
     "meaning": "洁净室"
@@ -2301,10 +2301,10 @@
       }
     ],
     "phrases": [
-      "chip packaging (待翻译)",
-      "semiconductor packaging (待翻译)",
-      "packaging technology (待翻译)",
-      "BGA package (待翻译)"
+      "chip packaging",
+      "semiconductor packaging",
+      "packaging technology",
+      "BGA package"
     ],
     "mnemonic": "pack（包）+ age → 包装 → 芯片封装",
     "meaning": "封装"
@@ -2407,10 +2407,10 @@
       }
     ],
     "phrases": [
-      "bond pad (待翻译)",
-      "thermocompression bonding (待翻译)",
-      "ultrasonic bonding (待翻译)",
-      "flip-chip bonding (待翻译)"
+      "bond pad",
+      "thermocompression bonding",
+      "ultrasonic bonding",
+      "flip-chip bonding"
     ],
     "mnemonic": "bond（结合）→ 芯片与引线的连接 → 键合",
     "meaning": "键合"
@@ -2513,10 +2513,10 @@
       }
     ],
     "phrases": [
-      "die attach (待翻译)",
-      "die separation (待翻译)",
-      "die yield (待翻译)",
-      "multiple die (待翻译)"
+      "die attach",
+      "die separation",
+      "die yield",
+      "multiple die"
     ],
     "mnemonic": "die（骰子）→ 切割成的小方块 → 裸芯片",
     "meaning": "裸芯片"
@@ -2619,10 +2619,10 @@
       }
     ],
     "phrases": [
-      "yield rate (待翻译)",
-      "manufacturing yield (待翻译)",
-      "yield improvement (待翻译)",
-      "test yield (待翻译)"
+      "yield rate",
+      "manufacturing yield",
+      "yield improvement",
+      "test yield"
     ],
     "mnemonic": "yield（产出）→ 有效产出比例 → 良率",
     "meaning": "良率"
@@ -2725,10 +2725,10 @@
       }
     ],
     "phrases": [
-      "wafer test (待翻译)",
-      "final test (待翻译)",
-      "burn-in test (待翻译)",
-      "ATE (Automated Test Equipment) (待翻译)"
+      "wafer test",
+      "final test",
+      "burn-in test",
+      "ATE (Automated Test Equipment)"
     ],
     "mnemonic": "test（测试）→ 检验芯片功能 → 测试",
     "meaning": "测试"
@@ -2831,10 +2831,10 @@
       }
     ],
     "phrases": [
-      "probe test (待翻译)",
-      "probe needle (待翻译)",
-      "probe pad (待翻译)",
-      "electrical probe (待翻译)"
+      "probe test",
+      "probe needle",
+      "probe pad",
+      "electrical probe"
     ],
     "mnemonic": "probe（探查）→ 接触芯片测试的针 → 探针",
     "meaning": "探针"
@@ -2937,10 +2937,10 @@
       }
     ],
     "phrases": [
-      "semiconductor foundry (待翻译)",
-      "foundry service (待翻译)",
-      "foundry partner (待翻译)",
-      "pure-play foundry (待翻译)"
+      "semiconductor foundry",
+      "foundry service",
+      "foundry partner",
+      "pure-play foundry"
     ],
     "mnemonic": "foundry（铸造厂）→ 专门制造芯片的工厂 → 代工厂",
     "meaning": "代工厂"
@@ -3043,10 +3043,10 @@
       }
     ],
     "phrases": [
-      "fab facility (待翻译)",
-      "semiconductor fab (待翻译)",
-      "fab process (待翻译)",
-      "fab automation (待翻译)"
+      "fab facility",
+      "semiconductor fab",
+      "fab process",
+      "fab automation"
     ],
     "mnemonic": "fab（制造）→ 制造芯片的工厂 → 晶圆厂",
     "meaning": "晶圆厂"
@@ -3149,10 +3149,10 @@
       }
     ],
     "phrases": [
-      "process technology (待翻译)",
-      "process node (待翻译)",
-      "process flow (待翻译)",
-      "process integration (待翻译)"
+      "process technology",
+      "process node",
+      "process flow",
+      "process integration"
     ],
     "mnemonic": "process（过程）→ 制造芯片的工序 → 工艺流程",
     "meaning": "工艺流程"
@@ -3255,10 +3255,10 @@
       }
     ],
     "phrases": [
-      "7nm node (待翻译)",
-      "advanced node (待翻译)",
-      "legacy node (待翻译)",
-      "node scaling (待翻译)"
+      "7nm node",
+      "advanced node",
+      "legacy node",
+      "node scaling"
     ],
     "mnemonic": "node（节点）→ 制造工艺的代际 → 工艺节点",
     "meaning": "工艺节点"
@@ -3361,10 +3361,10 @@
       }
     ],
     "phrases": [
-      "Moore's scaling (待翻译)",
-      "feature scaling (待翻译)",
-      "scaling limit (待翻译)",
-      "scaling law (待翻译)"
+      "Moore's scaling",
+      "feature scaling",
+      "scaling limit",
+      "scaling law"
     ],
     "mnemonic": "scale（缩放）→ 芯片尺寸缩小 → 工艺微缩",
     "meaning": "按比例缩小"
@@ -3467,10 +3467,10 @@
       }
     ],
     "phrases": [
-      "Moore's Law scaling (待翻译)",
-      "end of Moore's Law (待翻译)",
-      "beyond Moore (待翻译)",
-      "Moore era (待翻译)"
+      "Moore's Law scaling",
+      "end of Moore's Law",
+      "beyond Moore",
+      "Moore era"
     ],
     "mnemonic": "Moore（摩尔）→ Intel创始人 → 摩尔定律",
     "meaning": "摩尔定律"
@@ -3573,10 +3573,10 @@
       }
     ],
     "phrases": [
-      "gate dielectric (待翻译)",
-      "gate electrode (待翻译)",
-      "gate stack (待翻译)",
-      "gate leakage (待翻译)"
+      "gate dielectric",
+      "gate electrode",
+      "gate stack",
+      "gate leakage"
     ],
     "mnemonic": "gate（门）→ 控制电流通断的电极 → 栅极",
     "meaning": "栅极"
@@ -3679,10 +3679,10 @@
       }
     ],
     "phrases": [
-      "channel doping (待翻译)",
-      "channel region (待翻译)",
-      "short channel effect (待翻译)",
-      "channel formation (待翻译)"
+      "channel doping",
+      "channel region",
+      "short channel effect",
+      "channel formation"
     ],
     "mnemonic": "channel（通道）→ 电流流动的通道 → 沟道",
     "meaning": "沟道"
@@ -3785,10 +3785,10 @@
       }
     ],
     "phrases": [
-      "substrate material (待翻译)",
-      "glass substrate (待翻译)",
-      "flexible substrate (待翻译)",
-      "substrate bonding (待翻译)"
+      "substrate material",
+      "glass substrate",
+      "flexible substrate",
+      "substrate bonding"
     ],
     "mnemonic": "sub（下）+ strate（层）→ 底层的支撑材料 → 衬底",
     "meaning": "衬底"
@@ -3891,10 +3891,10 @@
       }
     ],
     "phrases": [
-      "epitaxial wafer (待翻译)",
-      "molecular beam epitaxy (待翻译)",
-      "liquid phase epitaxy (待翻译)",
-      "vapor phase epitaxy (待翻译)"
+      "epitaxial wafer",
+      "molecular beam epitaxy",
+      "liquid phase epitaxy",
+      "vapor phase epitaxy"
     ],
     "mnemonic": "epi（上）+ taxi（排列）→ 在晶体上有序生长 → 外延",
     "meaning": "外延"
@@ -3997,10 +3997,10 @@
       }
     ],
     "phrases": [
-      "crystal defect (待翻译)",
-      "point defect (待翻译)",
-      "defect density (待翻译)",
-      "defect inspection (待翻译)"
+      "crystal defect",
+      "point defect",
+      "defect density",
+      "defect inspection"
     ],
     "mnemonic": "de（偏离）+ fect（做）→ 做偏了 → 缺陷",
     "meaning": "缺陷"
@@ -4103,10 +4103,10 @@
       }
     ],
     "phrases": [
-      "particle contamination (待翻译)",
-      "metal contamination (待翻译)",
-      "contamination control (待翻译)",
-      "contamination source (待翻译)"
+      "particle contamination",
+      "metal contamination",
+      "contamination control",
+      "contamination source"
     ],
     "mnemonic": "con（共同）+ tamin（接触）→ 接触弄脏 → 污染",
     "meaning": "污染"
@@ -4209,10 +4209,10 @@
       }
     ],
     "phrases": [
-      "process metrology (待翻译)",
-      "thin film metrology (待翻译)",
-      "metrology equipment (待翻译)",
-      "critical dimension metrology (待翻译)"
+      "process metrology",
+      "thin film metrology",
+      "metrology equipment",
+      "critical dimension metrology"
     ],
     "mnemonic": "metro（测量）+ logy（学）→ 测量技术 → 计量学",
     "meaning": "计量学"
@@ -4315,10 +4315,10 @@
       }
     ],
     "phrases": [
-      "visual inspection (待翻译)",
-      "automated inspection (待翻译)",
-      "wafer inspection (待翻译)",
-      "optical inspection (待翻译)"
+      "visual inspection",
+      "automated inspection",
+      "wafer inspection",
+      "optical inspection"
     ],
     "mnemonic": "in（进入）+ spect（看）+ ion → 深入检查 → 检测",
     "meaning": "检测，检验"
@@ -4421,10 +4421,10 @@
       }
     ],
     "phrases": [
-      "reliability test (待翻译)",
-      "reliability engineering (待翻译)",
-      "device reliability (待翻译)",
-      "long-term reliability (待翻译)"
+      "reliability test",
+      "reliability engineering",
+      "device reliability",
+      "long-term reliability"
     ],
     "mnemonic": "rely（依靠）+ ability → 可依靠的能力 → 可靠性",
     "meaning": "可靠性"
@@ -4527,10 +4527,10 @@
       }
     ],
     "phrases": [
-      "failure mechanism (待翻译)",
-      "premature failure (待翻译)",
-      "failure mode (待翻译)",
-      "failure probability (待翻译)"
+      "failure mechanism",
+      "premature failure",
+      "failure mode",
+      "failure probability"
     ],
     "mnemonic": "fail（失败）+ ure → 失去功能 → 失效",
     "meaning": "失效"
@@ -4633,10 +4633,10 @@
       }
     ],
     "phrases": [
-      "design rule (待翻译)",
-      "design flow (待翻译)",
-      "design for manufacturability (待翻译)",
-      "circuit design (待翻译)"
+      "design rule",
+      "design flow",
+      "design for manufacturability",
+      "circuit design"
     ],
     "mnemonic": "de（加强）+ sign（标记）→ 做好标记 → 设计",
     "meaning": "设计"
@@ -4739,10 +4739,10 @@
       }
     ],
     "phrases": [
-      "chip layout (待翻译)",
-      "layout verification (待翻译)",
-      "layout rule (待翻译)",
-      "automatic layout (待翻译)"
+      "chip layout",
+      "layout verification",
+      "layout rule",
+      "automatic layout"
     ],
     "mnemonic": "lay（放置）+ out → 布局排列 → 版图设计",
     "meaning": "版图设计"
@@ -4845,10 +4845,10 @@
       }
     ],
     "phrases": [
-      "functional verification (待翻译)",
-      "layout verification (待翻译)",
-      "DRC verification (待翻译)",
-      "verification methodology (待翻译)"
+      "functional verification",
+      "layout verification",
+      "DRC verification",
+      "verification methodology"
     ],
     "mnemonic": "ver（真实）+ ify + ication → 确认真实 → 验证",
     "meaning": "验证"
@@ -4951,10 +4951,10 @@
       }
     ],
     "phrases": [
-      "circuit simulation (待翻译)",
-      "process simulation (待翻译)",
-      "device simulation (待翻译)",
-      "Monte Carlo simulation (待翻译)"
+      "circuit simulation",
+      "process simulation",
+      "device simulation",
+      "Monte Carlo simulation"
     ],
     "mnemonic": "simul（相似）+ ate → 使相似 → 仿真模拟",
     "meaning": "仿真，模拟"
@@ -5057,10 +5057,10 @@
       }
     ],
     "phrases": [
-      "power dissipation (待翻译)",
-      "dynamic power (待翻译)",
-      "static power (待翻译)",
-      "power density (待翻译)"
+      "power dissipation",
+      "dynamic power",
+      "static power",
+      "power density"
     ],
     "mnemonic": "power（功率）→ 芯片能耗 → 功耗",
     "meaning": "功率"
@@ -5163,10 +5163,10 @@
       }
     ],
     "phrases": [
-      "RF device (待翻译)",
-      "RF application (待翻译)",
-      "RF circuit (待翻译)",
-      "RF performance (待翻译)"
+      "RF device",
+      "RF application",
+      "RF circuit",
+      "RF performance"
     ],
     "mnemonic": "RF（射频）→ 无线通信频率 → 射频",
     "meaning": "射频"
@@ -5269,10 +5269,10 @@
       }
     ],
     "phrases": [
-      "memory chip (待翻译)",
-      "memory cell (待翻译)",
-      "non-volatile memory (待翻译)",
-      "memory device (待翻译)"
+      "memory chip",
+      "memory cell",
+      "non-volatile memory",
+      "memory device"
     ],
     "mnemonic": "memory（记忆）→ 存储数据的器件 → 存储器",
     "meaning": "存储器"
