@@ -26,7 +26,7 @@ function serveDataPlugin(): Plugin {
 }
 
 export default defineConfig({
-  base: '/beidanci3/',
+  base: '/',
   plugins: [
     serveDataPlugin(),
     react()
