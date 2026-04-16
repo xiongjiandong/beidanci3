@@ -179,17 +179,11 @@ export function SubscribePage() {
       {/* 支付方式说明 */}
       <div className="text-center py-8 border-t">
         <p className="text-muted-foreground text-sm mb-4">
-          支持多种支付方式
+          Secure payment via PayPal
         </p>
-        <div className="flex items-center justify-center gap-4">
-          <div className="px-4 py-2 bg-blue-50 dark:bg-blue-900/20 rounded text-blue-600 dark:text-blue-400 font-semibold text-sm">
+        <div className="flex items-center justify-center">
+          <div className="px-6 py-2 bg-blue-50 dark:bg-blue-900/20 rounded text-blue-600 dark:text-blue-400 font-semibold text-sm">
             PayPal
-          </div>
-          <div className="px-4 py-2 bg-green-50 dark:bg-green-900/20 rounded text-green-600 dark:text-green-400 font-semibold text-sm">
-            微信支付
-          </div>
-          <div className="px-4 py-2 bg-blue-50 dark:bg-blue-900/20 rounded text-blue-600 dark:text-blue-400 font-semibold text-sm">
-            支付宝
           </div>
         </div>
       </div>
