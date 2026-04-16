@@ -9,55 +9,58 @@ declare global {
   }
 }
 
-// 订阅计划配置
+// 订阅计划配置 - 美元定价
 const plans = [
   {
     id: 'monthly',
-    name: '月度会员',
-    price: '¥29',
-    period: '/月',
-    description: '适合短期学习',
+    name: 'Monthly',
+    price: '$4.99',
+    priceValue: 4.99,
+    period: '/month',
+    description: 'Best for short-term learning',
     features: [
-      '解锁全部12个类目',
-      '无限次学习词根',
-      '测验功能无限制',
-      '学习进度云同步',
-      '去除所有广告'
+      'Unlock all 12 categories',
+      'Unlimited word root learning',
+      'Unlimited quiz access',
+      'Cloud sync progress',
+      'Ad-free experience'
     ],
     paypalPlanId: 'P-MONTHLY-PLAN-ID', // 替换为实际的PayPal Plan ID
     popular: false
   },
   {
     id: 'yearly',
-    name: '年度会员',
-    price: '¥199',
-    period: '/年',
-    description: '最受欢迎，省¥149',
+    name: 'Yearly',
+    price: '$29.99',
+    priceValue: 29.99,
+    period: '/year',
+    description: 'Most popular, save $29.89',
     features: [
-      '解锁全部12个类目',
-      '无限次学习词根',
-      '测验功能无限制',
-      '学习进度云同步',
-      '去除所有广告',
-      '专属学习报告',
-      '优先客服支持'
+      'Unlock all 12 categories',
+      'Unlimited word root learning',
+      'Unlimited quiz access',
+      'Cloud sync progress',
+      'Ad-free experience',
+      'Exclusive learning reports',
+      'Priority support'
     ],
     paypalPlanId: 'P-YEARLY-PLAN-ID', // 替换为实际的PayPal Plan ID
     popular: true
   },
   {
     id: 'lifetime',
-    name: '终身会员',
-    price: '¥399',
-    period: '一次性',
-    description: '一次购买，永久使用',
+    name: 'Lifetime',
+    price: '$59.99',
+    priceValue: 59.99,
+    period: 'one-time',
+    description: 'One purchase, lifetime access',
     features: [
-      '永久解锁全部功能',
-      '所有未来更新免费',
-      '专属VIP标识',
-      '1对1学习顾问',
-      '终身免费升级',
-      '专属会员群'
+      'Permanent full access',
+      'All future updates free',
+      'Exclusive VIP badge',
+      '1-on-1 learning advisor',
+      'Lifetime free upgrades',
+      'Exclusive member group'
     ],
     paypalPlanId: 'P-LIFETIME-PLAN-ID', // 替换为实际的PayPal Plan ID
     popular: false
