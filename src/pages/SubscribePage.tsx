@@ -9,7 +9,7 @@ declare global {
   }
 }
 
-// 订阅计划配置 - 美元定价
+// Subscription plans - USD pricing
 const plans = [
   {
     id: 'monthly',
@@ -25,7 +25,7 @@ const plans = [
       'Cloud sync progress',
       'Ad-free experience'
     ],
-    paypalPlanId: 'P-MONTHLY-PLAN-ID', // 替换为实际的PayPal Plan ID
+    paypalPlanId: 'P-MONTHLY-PLAN-ID',
     popular: false
   },
   {
@@ -44,7 +44,7 @@ const plans = [
       'Exclusive learning reports',
       'Priority support'
     ],
-    paypalPlanId: 'P-YEARLY-PLAN-ID', // 替换为实际的PayPal Plan ID
+    paypalPlanId: 'P-YEARLY-PLAN-ID',
     popular: true
   },
   {
@@ -62,7 +62,7 @@ const plans = [
       'Lifetime free upgrades',
       'Exclusive member group'
     ],
-    paypalPlanId: 'P-LIFETIME-PLAN-ID', // 替换为实际的PayPal Plan ID
+    paypalPlanId: 'P-LIFETIME-PLAN-ID',
     popular: false
   }
 ]
@@ -73,27 +73,18 @@ export function SubscribePage() {
   const handleSubscribe = async (planId: string, paypalPlanId: string) => {
     setLoading(planId)
 
-    // 检查PayPal SDK是否加载
     if (!window.paypal) {
-      alert('PayPal服务暂时不可用，请稍后再试')
+      alert('PayPal is temporarily unavailable. Please try again later.')
       setLoading(null)
       return
     }
 
-    // 这里集成PayPal订阅
-    // 实际使用时需要替换为你的PayPal配置
     try {
-      // 模拟订阅流程
-      // 实际部署时需要：
-      // 1. 在后端创建PayPal订阅
-      // 2. 获取订阅链接
-      // 3. 跳转到PayPal完成支付
-
-      console.log('订阅计划:', planId, 'PayPal Plan ID:', paypalPlanId)
-      alert('订阅功能正在配置中，请联系客服完成订阅')
+      console.log('Subscribing to plan:', planId, 'PayPal Plan ID:', paypalPlanId)
+      alert('Subscription is being configured. Please contact support to complete your subscription.')
     } catch (error) {
-      console.error('订阅失败:', error)
-      alert('订阅失败，请稍后再试')
+      console.error('Subscription failed:', error)
+      alert('Subscription failed. Please try again later.')
     } finally {
       setLoading(null)
     }
@@ -101,38 +92,38 @@ export function SubscribePage() {
 
   return (
     <div className="max-w-6xl mx-auto space-y-8">
-      {/* 标题区域 */}
+      {/* Header */}
       <div className="text-center py-8">
         <div className="flex items-center justify-center gap-2 mb-4">
           <Crown className="h-8 w-8 text-yellow-500" />
-          <h1 className="text-3xl font-bold">升级会员</h1>
+          <h1 className="text-3xl font-bold">Upgrade to Premium</h1>
         </div>
         <p className="text-muted-foreground text-lg">
-          解锁全部词根学习功能，让学习更高效
+          Unlock all word root learning features for a better learning experience
         </p>
       </div>
 
-      {/* 会员权益 */}
+      {/* Member Benefits */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         <div className="flex items-center gap-3 p-4 bg-muted/50 rounded-lg">
           <Zap className="h-5 w-5 text-yellow-500" />
-          <span className="text-sm">无限学习</span>
+          <span className="text-sm">Unlimited Learning</span>
         </div>
         <div className="flex items-center gap-3 p-4 bg-muted/50 rounded-lg">
           <Star className="h-5 w-5 text-yellow-500" />
-          <span className="text-sm">进度同步</span>
+          <span className="text-sm">Progress Sync</span>
         </div>
         <div className="flex items-center gap-3 p-4 bg-muted/50 rounded-lg">
           <Shield className="h-5 w-5 text-yellow-500" />
-          <span className="text-sm">无广告</span>
+          <span className="text-sm">Ad-free</span>
         </div>
         <div className="flex items-center gap-3 p-4 bg-muted/50 rounded-lg">
           <Crown className="h-5 w-5 text-yellow-500" />
-          <span className="text-sm">专属服务</span>
+          <span className="text-sm">Premium Support</span>
         </div>
       </div>
 
-      {/* 订阅计划 */}
+      {/* Subscription Plans */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {plans.map((plan) => (
           <Card
@@ -142,7 +133,7 @@ export function SubscribePage() {
             {plan.popular && (
               <div className="absolute -top-3 left-1/2 -translate-x-1/2">
                 <span className="bg-primary text-primary-foreground text-xs px-3 py-1 rounded-full">
-                  最受欢迎
+                  Most Popular
                 </span>
               </div>
             )}
@@ -169,14 +160,14 @@ export function SubscribePage() {
                 onClick={() => handleSubscribe(plan.id, plan.paypalPlanId)}
                 disabled={loading === plan.id}
               >
-                {loading === plan.id ? '处理中...' : '立即订阅'}
+                {loading === plan.id ? 'Processing...' : 'Subscribe Now'}
               </Button>
             </CardFooter>
           </Card>
         ))}
       </div>
 
-      {/* 支付方式说明 */}
+      {/* Payment Method */}
       <div className="text-center py-8 border-t">
         <p className="text-muted-foreground text-sm mb-4">
           Secure payment via PayPal
@@ -188,40 +179,40 @@ export function SubscribePage() {
         </div>
       </div>
 
-      {/* 常见问题 */}
+      {/* FAQ */}
       <div className="space-y-4">
-        <h2 className="text-xl font-bold text-center">常见问题</h2>
+        <h2 className="text-xl font-bold text-center">FAQ</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <Card>
             <CardHeader>
-              <CardTitle className="text-base">如何取消订阅？</CardTitle>
+              <CardTitle className="text-base">How do I cancel my subscription?</CardTitle>
             </CardHeader>
             <CardContent className="text-sm text-muted-foreground">
-              您可以随时在PayPal账户中取消订阅，取消后将在当前计费周期结束后生效。
+              You can cancel your subscription anytime in your PayPal account. Cancellation takes effect at the end of the current billing period.
             </CardContent>
           </Card>
           <Card>
             <CardHeader>
-              <CardTitle className="text-base">支持退款吗？</CardTitle>
+              <CardTitle className="text-base">Do you offer refunds?</CardTitle>
             </CardHeader>
             <CardContent className="text-sm text-muted-foreground">
-              购买后7天内可申请全额退款，请联系客服处理。
+              Yes, you can request a full refund within 7 days of purchase. Please contact support to process your refund.
             </CardContent>
           </Card>
           <Card>
             <CardHeader>
-              <CardTitle className="text-base">会员权益何时生效？</CardTitle>
+              <CardTitle className="text-base">When will my benefits be activated?</CardTitle>
             </CardHeader>
             <CardContent className="text-sm text-muted-foreground">
-              支付成功后立即生效，所有功能即可使用。
+              Benefits are activated immediately after successful payment. All features will be available right away.
             </CardContent>
           </Card>
           <Card>
             <CardHeader>
-              <CardTitle className="text-base">遇到问题怎么办？</CardTitle>
+              <CardTitle className="text-base">What if I have issues?</CardTitle>
             </CardHeader>
             <CardContent className="text-sm text-muted-foreground">
-              请联系客服邮箱：support@xjd123.com，我们会在24小时内回复。
+              Please contact our support team at support@xjd123.com. We will respond within 24 hours.
             </CardContent>
           </Card>
         </div>
