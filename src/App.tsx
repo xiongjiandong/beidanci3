@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Layout } from '@/components/Layout'
 import { Toaster } from '@/components/ui/toaster'
-import { HomePage, LearnPage, QuizPage } from '@/pages'
+import { HomePage, LearnPage, QuizPage, SubscribePage } from '@/pages'
 
 console.log('[DEBUG] App.tsx loading...')
 
@@ -16,6 +16,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/learn" element={<LearnPage />} />
           <Route path="/quiz" element={<QuizPage />} />
+          <Route path="/subscribe" element={<SubscribePage />} />
         </Routes>
       </Layout>
       <Toaster />

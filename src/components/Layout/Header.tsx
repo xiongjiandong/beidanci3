@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { BookOpen, Trophy, Home } from 'lucide-react'
+import { BookOpen, Trophy, Home, Crown } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 
@@ -35,6 +35,16 @@ export function Header() {
               </Button>
             </Link>
           ))}
+          <Link to="/subscribe">
+            <Button
+              variant="default"
+              size="sm"
+              className="gap-1 bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-yellow-600 hover:to-orange-600 text-white"
+            >
+              <Crown className="h-4 w-4" />
+              <span className="hidden sm:inline">会员</span>
+            </Button>
+          </Link>
         </nav>
       </div>
     </header>
