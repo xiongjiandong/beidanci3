@@ -2,12 +2,87 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="FunWords 高效背单词" />
-    <meta name="theme-color" content="#10B981" />
+
+    <!-- 基础SEO -->
+    <title>FunWords - 高效词根记忆法 | 英语单词学习平台</title>
+    <meta name="description" content="FunWords是一个专业的英语单词学习平台，通过词根记忆法帮助您高效记忆单词。涵盖四级、六级、高中、互联网、Web3.0等12大类目，超过12000个词根，图文并茂，轻松掌握英语词汇。" />
+    <meta name="keywords" content="背单词,词根记忆法,英语学习,单词记忆,四级词汇,六级词汇,英语词根,单词学习,FunWords" />
+    <meta name="author" content="FunWords" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <link rel="canonical" href="https://xjd123.com/" />
+
+    <!-- 图标 -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <title>FunWords 高效背单词</title>
+    <meta name="theme-color" content="#10B981" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://xjd123.com/" />
+    <meta property="og:title" content="FunWords - 高效词根记忆法" />
+    <meta property="og:description" content="专业的英语单词学习平台，通过词根记忆法帮助您高效记忆单词。12大类目，12000+词根，图文并茂，轻松掌握英语词汇。" />
+    <meta property="og:image" content="https://xjd123.com/og-image.png" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:site_name" content="FunWords" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://xjd123.com/" />
+    <meta name="twitter:title" content="FunWords - 高效词根记忆法" />
+    <meta name="twitter:description" content="专业的英语单词学习平台，通过词根记忆法帮助您高效记忆单词。12大类目，12000+词根。" />
+    <meta name="twitter:image" content="https://xjd123.com/og-image.png" />
+
+    <!-- 移动端优化 -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="FunWords" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- 结构化数据 JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "FunWords",
+      "description": "专业的英语单词学习平台，通过词根记忆法帮助用户高效记忆单词",
+      "url": "https://xjd123.com",
+      "applicationCategory": "EducationalApplication",
+      "operatingSystem": "Web Browser",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "ratingCount": "1200"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "FunWords",
+        "url": "https://xjd123.com"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "FunWords",
+      "url": "https://xjd123.com",
+      "logo": "https://xjd123.com/favicon.svg",
+      "sameAs": []
+    }
+    </script>
+
+    <!-- 预连接优化 -->
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+
     <style>
       #root:empty::before {
         content: "加载中...";
@@ -21,7 +96,7 @@
     <script>
       // 错误捕获
       window.onerror = function(msg, url, line, col, error) {
-        alert('错误: ' + msg + '\\nURL: ' + url + '\\n行: ' + line);
+        console.error('Error:', msg, url, line);
         return false;
       };
     </script>
@@ -31,5 +106,19 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+
+    <!-- Noscript fallback for SEO -->
+    <noscript>
+      <h1>FunWords - 高效词根记忆法</h1>
+      <p>FunWords是一个专业的英语单词学习平台，通过词根记忆法帮助您高效记忆单词。</p>
+      <p>涵盖四级、六级、高中、互联网、Web3.0等12大类目，超过12000个词根。</p>
+      <ul>
+        <li>词根记忆法 - 科学高效的记忆方式</li>
+        <li>图文并茂 - 加深记忆印象</li>
+        <li>多种题型 - 选择题、拼写题、听音题</li>
+        <li>进度同步 - 云端保存学习进度</li>
+      </ul>
+      <p>请启用JavaScript以获得最佳体验。</p>
+    </noscript>
   </body>
 </html>

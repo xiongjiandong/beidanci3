@@ -12,6 +12,7 @@ import {
 } from '@/components/ui/dialog'
 import { useWordData } from '@/hooks/useWordData'
 import { useQuiz } from '@/hooks/useQuiz'
+import { useSEO } from '@/hooks/useSEO'
 import { ChoiceQuiz, SpellingQuiz, ListeningQuiz } from '@/components/Quiz'
 import type { QuizType, RootLesson } from '@/types'
 
@@ -27,6 +28,14 @@ export function QuizPage() {
   const [words, setWords] = useState<WordForQuiz[]>([])
   const [selectedTypes, setSelectedTypes] = useState<QuizType[]>(['choice', 'spelling', 'listening'])
   const [isStarted, setIsStarted] = useState(false)
+
+  // SEO优化
+  useSEO({
+    title: '单词测试 - 选择题/拼写题/听音题 | FunWords',
+    description: '在线单词测试，包含选择题、拼写题、听音题等多种题型。通过测试巩固词根记忆，提升英语词汇量。挑战最高分！',
+    keywords: '单词测试,英语测试,词汇测试,选择题,拼写题,听音题,FunWords',
+    canonical: 'https://xjd123.com/quiz'
+  })
 
   useEffect(() => {
     async function loadWords() {

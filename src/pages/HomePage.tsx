@@ -4,6 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
 import { useWordData } from '@/hooks/useWordData'
+import { useSEO } from '@/hooks/useSEO'
 import type { Category } from '@/types'
 
 const availableCategories: Category[] = [
@@ -39,6 +40,14 @@ export function HomePage() {
   console.log('[DEBUG] HomePage rendering...')
   const { rootLessons, progress, highScore, lessonsLoading, progressLoading, getCategoryStats } = useWordData()
   console.log('[DEBUG] HomePage lessonsLoading:', lessonsLoading, 'progressLoading:', progressLoading)
+
+  // SEO优化
+  useSEO({
+    title: 'FunWords - 高效词根记忆法 | 英语单词学习平台',
+    description: 'FunWords是专业的英语单词学习平台，通过词根记忆法帮助您高效记忆单词。涵盖四级、六级、高中、互联网、Web3.0等12大类目，12000+词根，图文并茂，轻松掌握英语词汇。',
+    keywords: '背单词,词根记忆法,英语学习,单词记忆,四级词汇,六级词汇,英语词根,FunWords',
+    canonical: 'https://xjd123.com/'
+  })
 
   const totalStudied = progress.filter(p => p.studied).length
   const totalMastered = progress.filter(p => p.masteryLevel >= 4).length

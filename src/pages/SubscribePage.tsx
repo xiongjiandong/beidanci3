@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Crown, Check, Zap, Star, Shield } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
+import { useSEO } from '@/hooks/useSEO'
 
 declare global {
   interface Window {
@@ -69,6 +70,14 @@ const plans = [
 
 export function SubscribePage() {
   const [loading, setLoading] = useState<string | null>(null)
+
+  // SEO优化
+  useSEO({
+    title: 'Premium Subscription - Unlock All Features | FunWords',
+    description: 'Subscribe to FunWords Premium and unlock all word root learning features. Monthly $4.99, Yearly $29.99, Lifetime $59.99. PayPal payment supported.',
+    keywords: 'FunWords subscription, premium membership, word root learning, PayPal subscription',
+    canonical: 'https://xjd123.com/subscribe'
+  })
 
   const handleSubscribe = async (planId: string, paypalPlanId: string) => {
     setLoading(planId)

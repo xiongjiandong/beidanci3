@@ -5,6 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
 import { useWordData } from '@/hooks/useWordData'
+import { useSEO } from '@/hooks/useSEO'
 import { RootLessonCard } from '@/components/Learn'
 import type { RootLesson, Category } from '@/types'
 
@@ -23,6 +24,14 @@ export function LearnPage() {
   const [lessons, setLessons] = useState<RootLesson[]>([])
 
   const { progress, loading, getLessonsByCategory, markLessonStudied, getCategoryStats } = useWordData()
+
+  // SEO优化
+  useSEO({
+    title: `词根学习 - ${selectedCategory} | FunWords`,
+    description: `学习${selectedCategory}词根，通过图文并茂的方式轻松记忆英语单词。按频率排序，由易到难，高效掌握词根记忆法。`,
+    keywords: `${selectedCategory}词根,词根学习,英语词根,背单词,FunWords`,
+    canonical: 'https://xjd123.com/learn'
+  })
 
   useEffect(() => {
     async function loadLessons() {
