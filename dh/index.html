@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>开发导航 — 网站开发常用工具与资源导航</title>
+<meta name="description" content="开发者出海必备网址导航，收录 181+ 建站工具与 AI 资源，涵盖 37 个分类" />>
+<meta name="keywords" content="开发导航,网站开发,建站工具,域名注册,DNS,SEO工具,部署平台,开发者资源,出海建站">
+<meta property="og:title" content="开发导航 — 网站开发常用工具与资源导航">
+<meta property="og:description" content="收录建站全流程166个精选工具，涵盖域名、DNS、部署、后端、SEO、分析、AI等35个分类，持续更新。">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="zh_CN">
+<meta name="twitter:card" content="summary">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://dev-nav.pages.dev/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "开发导航",
+  "url": "https://dev-nav.pages.dev/",
+  "description": "收录建站全流程常用工具与资源",
+  "inLanguage": "zh-CN"
+}
+</script>
+<style>
+:root {
+  --bg: #f8f9fa;
+  --card-bg: #fff;
+  --text: #212529;
+  --text-secondary: #6c757d;
+  --border: #dee2e6;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --tag-bg: #e8f0fe;
+  --tag-text: #1a56db;
+  --shadow: 0 1px 3px rgba(0,0,0,.08);
+  --radius: 8px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+.container { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+header {
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border);
+  padding: 32px 0;
+  text-align: center;
+  margin-bottom: 24px;
+}
+header h1 { font-size: 2rem; font-weight: 700; color: var(--text); }
+header p { color: var(--text-secondary); margin-top: 8px; font-size: .95rem; }
+header .stat { font-size: .85rem; color: var(--text-secondary); margin-top: 4px; }
+
+/* Search */
+.search-bar {
+  max-width: 500px;
+  margin: 0 auto 32px;
+}
+.search-bar input {
+  width: 100%;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: .95rem;
+  outline: none;
+  transition: border-color .2s;
+}
+.search-bar input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(37,99,235,.15); }
+
+/* Category tabs */
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 28px;
+  justify-content: center;
+}
+.tab {
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--card-bg);
+  cursor: pointer;
+  font-size: .82rem;
+  transition: all .15s;
+  user-select: none;
+  white-space: nowrap;
+}
+.tab:hover { border-color: var(--accent); color: var(--accent); }
+.tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* Category sections */
+.category { margin-bottom: 28px; }
+.category-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.category-header h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+.category-header .count { color: var(--text-secondary); font-size: .85rem; }
+
+/* Cards */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  transition: box-shadow .15s, transform .15s;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: var(--text);
+}
+.card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.1); transform: translateY(-1px); border-color: var(--accent); }
+.card-name { font-weight: 600; font-size: .95rem; margin-bottom: 4px; color: var(--accent); }
+.card:hover .card-name { text-decoration: underline; }
+.card-desc { font-size: .82rem; color: var(--text-secondary); flex: 1; }
+.card-domain { font-size: .75rem; color: var(--text-secondary); margin-top: 6px; word-break: break-all; }
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 40px 0;
+  color: var(--text-secondary);
+  font-size: .82rem;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+}
+
+/* Empty state */
+.empty { text-align: center; padding: 60px 20px; color: var(--text-secondary); }
+.empty strong { color: var(--text); }
+
+/* Responsive */
+@media (max-width: 640px) {
+  header h1 { font-size: 1.5rem; }
+  .grid { grid-template-columns: 1fr; }
+  .tabs { gap: 4px; }
+  .tab { font-size: .78rem; padding: 5px 10px; }
+}
+</style>
+</head>
+<body>
+
+<header class="container">
+  <h1>开发导航</h1>
+  <p>收录建站全流程常用工具与资源，覆盖域名、DNS、部署、后端、SEO、分析、AI 等环节</p>
+  <p class="stat" id="stat"></p>
+</header>
+
+<div class="search-bar container">
+  <input type="text" id="search" placeholder="搜索网站名称、描述或域名..." aria-label="搜索网站">
+</div>
+
+<div class="tabs container" id="tabs"></div>
+
+<main class="container" id="content"></main>
+
+<footer>
+  <p>数据来源：知识库（做网站库 + 出海技术栈集成教程 + 养网站防老系列）&middot; 持续更新</p>
+</footer>
+
+<noscript>您的浏览器不支持 JavaScript，请启用后查看完整导航。</noscript>
+
+<script>
+// ============================================================
+// 网站数据 — 增删改只需编辑下面这个数组，无需动 HTML/CSS/JS
+// 字段说明：
+//   name:     网站/工具名称
+//   url:      链接（含 https://）
+//   desc:     一句话描述功能
+//   category: 分类名（与 categories 中的 key 对应）
+// ============================================================
+var categories = [
+  { key:"all",        label:"全部" },
+  { key:"domain",     label:"域名" },
+  { key:"dns",        label:"DNS & CDN" },
+  { key:"hosting",    label:"代码托管" },
+  { key:"deploy",     label:"部署平台" },
+  { key:"builder",    label:"建站平台" },
+  { key:"baas",         label:"BaaS & 数据库" },
+  { key:"payment",      label:"支付" },
+  { key:"email",        label:"邮件发送" },
+  { key:"email-marketing", label:"邮件营销" },
+  { key:"auth",         label:"认证" },
+  { key:"storage",      label:"存储" },
+  { key:"analytics",  label:"分析与数据" },
+  { key:"keyword",     label:"关键词分析" },
+  { key:"seo",        label:"SEO 工具" },
+  { key:"monitor",    label:"网站监控" },
+  { key:"network",    label:"IP & 网络" },
+  { key:"ai-image",   label:"AI 图片" },
+  { key:"ai-video",   label:"AI 视频" },
+  { key:"ai-avatar",  label:"AI 数字人" },
+  { key:"ai-edit",    label:"AI 剪辑" },
+  { key:"ai-model",   label:"AI 模型" },
+  { key:"short-drama",label:"短剧出海" },
+  { key:"freelance",  label:"接单平台" },
+  { key:"ai-coding",  label:"AI 编程" },
+  { key:"ai-general", label:"AI 通用" },
+  { key:"llm-chat",   label:"通用大模型" },
+  { key:"llm-api",    label:"模型API" },
+  { key:"model-switch", label:"模型切换" },
+  { key:"web-ui",      label:"网站UI" },
+  { key:"frontend",   label:"前端框架" },
+  { key:"automation", label:"自动化" },
+  { key:"data-tools", label:"数据工具" },
+  { key:"marketing",  label:"变现 & 产品" },
+  { key:"community",  label:"行业社区" },
+  { key:"competitor", label:"竞品参考" },
+  { key:"i18n",       label:"多语言" },
+  { key:"global",     label:"国外名站" }
+];
+
+
+var sites = [
+
+  // ---- 域名 (4) ----
+  { name:"Domain Traffic", url:"https://domaintraffic.org/", desc:"批量域名查询，查看域名流量数据", category:"domain" },
+  { name:"Instant Domain Search", url:"https://instantdomainsearch.com/", desc:"互联网上最快的域名搜索工具", category:"domain" },
+  { name:"Query Domains", url:"https://query.domains/zh-hans", desc:"即时批量域名可用性检查工具", category:"domain" },
+  { name:"Spaceship", url:"https://spaceship.com/", desc:"域名注册购买平台，价格实惠，支持批量操作", category:"domain" },
+
+  // ---- DNS & CDN (1) ----
+  { name:"Cloudflare", url:"https://cloudflare.com/", desc:"DNS 解析、CDN 加速、DDoS 防护、Turnstile 人机验证一站式平台", category:"dns" },
+
+  // ---- 代码托管 (1) ----
+  { name:"GitHub", url:"https://github.com/", desc:"全球最大的代码托管平台，支持 Pages 静态站点部署", category:"hosting" },
+
+  // ---- 部署平台 (5) ----
+  { name:"Cloudflare Pages", url:"https://pages.cloudflare.com/", desc:"Cloudflare 旗下静态站点托管，与 DNS/CDN 无缝集成", category:"deploy" },
+  { name:"Dokploy", url:"https://dokploy.com/", desc:"开源自托管部署平台，支持 Next.js 等框架一键部署", category:"deploy" },
+  { name:"GitHub Pages", url:"https://pages.github.com/", desc:"GitHub 官方静态站点托管，免费绑定自定义域名", category:"deploy" },
+  { name:"Netlify", url:"https://netlify.com/", desc:"静态站点部署平台，支持表单、函数、分支部署", category:"deploy" },
+  { name:"Vercel", url:"https://vercel.com/", desc:"前端部署平台，支持 GitHub 自动部署、自定义域名绑定，默认 .vercel.app 域名", category:"deploy" },
+
+  // ---- 建站平台 (6) ----
+  { name:"Bubble.io", url:"https://bubble.io/", desc:"无代码应用开发平台，可视化构建 Web 应用", category:"builder" },
+  { name:"Shopify", url:"https://shopify.com/", desc:"全球领先电商独立站建设平台", category:"builder" },
+  { name:"Squarespace", url:"https://squarespace.com/", desc:"设计师友好建站平台，模板精美，适合展示类站点", category:"builder" },
+  { name:"Webflow", url:"https://webflow.com/", desc:"可视化网站设计搭建平台，设计师友好的 CMS", category:"builder" },
+  { name:"Wix", url:"https://wix.com/", desc:"拖拽式建站平台，模板丰富，适合零基础用户", category:"builder" },
+  { name:"WordPress", url:"https://wordpress.com/", desc:"全球最大开源 CMS 内容管理系统，插件生态丰富", category:"builder" },
+
+  // ---- BaaS & 数据库 (4) ----
+  { name:"Firebase", url:"https://firebase.google.com/", desc:"Google 全栈后端服务，数据库、认证、托管一体化", category:"baas" },
+  { name:"Neon", url:"https://neon.com/", desc:"Serverless Postgres 数据库，免费额度充足，支持数据库分支", category:"baas" },
+  { name:"Supabase", url:"https://supabase.com/", desc:"开源 BaaS 后端服务，提供数据库、认证、存储、Edge Functions", category:"baas" },
+  { name:"Upstash", url:"https://upstash.com/", desc:"Serverless Redis 与 Kafka，内置请求限流器", category:"baas" },
+
+  // ---- 支付 (4) ----
+  { name:"Gumroad", url:"https://gumroad.com/", desc:"创作者数字产品售卖平台，简单易用", category:"payment" },
+  { name:"Lemon Squeezy", url:"https://lemonsqueezy.com/", desc:"数字产品全球支付 MOR，处理税费合规", category:"payment" },
+  { name:"Paddle", url:"https://paddle.com/", desc:"SaaS 全球支付与税务合规平台", category:"payment" },
+  { name:"Stripe", url:"https://stripe.com/", desc:"全球支付集成平台，支持订阅、一次性付款、发票", category:"payment" },
+
+  // ---- 邮件发送 (4) ----
+  { name:"Amazon SES", url:"https://aws.amazon.com/ses/", desc:"AWS 低成本邮件发送服务", category:"email" },
+  { name:"Mailgun", url:"https://mailgun.com/", desc:"开发者邮件发送平台，支持批量发送与邮件追踪", category:"email" },
+  { name:"Resend", url:"https://resend.com/", desc:"开发者友好的邮件发送 API 服务", category:"email" },
+  { name:"SendGrid", url:"https://sendgrid.com/", desc:"事务邮件 API 服务，Twilio 旗下，免费额度 100封/天", category:"email" },
+
+  // ---- 邮件营销 (3) ----
+  { name:"Beehiiv", url:"https://beehiiv.com/", desc:"Newsletter 发布与增长平台，内容变现工具", category:"email-marketing" },
+  { name:"ConvertKit", url:"https://convertkit.com/", desc:"面向创作者的邮件营销平台，简洁高效", category:"email-marketing" },
+  { name:"Mailchimp", url:"https://mailchimp.com/", desc:"邮件营销平台，自动化邮件与受众管理", category:"email-marketing" },
+
+  // ---- 认证 (2) ----
+  { name:"Auth0", url:"https://auth0.com/", desc:"企业级身份认证与授权平台", category:"auth" },
+  { name:"Clerk", url:"https://clerk.com/", desc:"现代 React 身份认证服务，开箱即用", category:"auth" },
+
+  // ---- 存储 (2) ----
+  { name:"AWS S3", url:"https://aws.amazon.com/s3/", desc:"云端对象存储服务，全球领先的静态文件托管方案", category:"storage" },
+  { name:"Uploadthing", url:"https://uploadthing.com/", desc:"文件上传 API 服务，支持拖拽上传", category:"storage" },
+
+  // ---- 分析与数据 (8) ----
+  { name:"Google Ads Transparency", url:"https://adstransparency.google.com/", desc:"查看所有投放某关键词广告的网站", category:"analytics" },
+  { name:"Google Analytics", url:"https://analytics.google.com/", desc:"网站流量分析与用户行为追踪（GA4），养网站防老第8步必装", category:"analytics" },
+  { name:"Google Search Console", url:"https://search.google.com/search-console", desc:"搜索引擎收录状态监控、搜索表现分析、Sitemap 提交", category:"analytics" },
+  { name:"Hotjar", url:"https://hotjar.com/", desc:"用户行为热力图与录屏分析平台", category:"analytics" },
+  { name:"Microsoft Clarity", url:"https://clarity.microsoft.com/", desc:"微软免费热力图与用户行为分析工具", category:"analytics" },
+  { name:"Plausible", url:"https://plausible.io/", desc:"轻量隐私友好网站分析，GDPR 合规无需 Cookie", category:"analytics" },
+  { name:"PostHog", url:"https://posthog.com/", desc:"开源产品分析平台，事件追踪与功能开关一体化", category:"analytics" },
+  { name:"SimilarWeb", url:"https://www.similarweb.com/zh/", desc:"流量与市场情报分析，查看竞争对手流量来源与月活数据", category:"analytics" },
+
+  // ---- 关键词分析 (3) ----
+  { name:"Ahrefs", url:"https://ahrefs.com/", desc:"反向链接分析、关键词研究、免费 SEO 工具集（Webmaster Tools）", category:"keyword" },
+  { name:"Google Trends", url:"https://trends.google.com/trends/explore", desc:"关键词搜索趋势查询，对比不同关键词热度变化", category:"keyword" },
+  { name:"SEMrush", url:"https://www.semrush.com/", desc:"全能 SEO + 数字营销工具，关键词分析、竞品研究、Sitemap 抓取", category:"keyword" },
+
+  // ---- SEO 工具 (1) ----
+  { name:"Screaming Frog", url:"https://www.screamingfrog.co.uk/", desc:"网站 SEO 爬虫工具，检测技术 SEO 问题，定位 Sitemap 文件", category:"seo" },
+
+  // ---- 网站监控 (2) ----
+  { name:"ChangeTower", url:"https://changetower.com/", desc:"网站内容变更监控与告警，支持 Sitemap URL 监控", category:"monitor" },
+  { name:"Visualping", url:"https://visualping.io/", desc:"网页变化监控，自动截图对比并发送通知，可监控 Sitemap 更新", category:"monitor" },
+
+  // ---- IP & 网络 (3) ----
+  { name:"icanhazip", url:"https://icanhazip.com/", desc:"获取公网 IP 地址，适合命令行调用（curl/wget）", category:"network" },
+  { name:"ifconfig.me", url:"https://ifconfig.me/", desc:"查看当前网络公网 IP 地址，命令行 curl 即可", category:"network" },
+  { name:"ipinfo.io", url:"https://ipinfo.io/", desc:"IP 地址信息查询，含地理位置、运营商、ASN", category:"network" },
+
+  // ---- AI 图片 (5) ----
+  { name:"Canva", url:"https://canva.com/", desc:"在线设计平台，AI 图片编辑与模板设计", category:"ai-image" },
+  { name:"Jimeng", url:"https://jimeng.jianying.com/", desc:"字节跳动即梦 AI，支持 AI 图片和视频生成", category:"ai-image" },
+  { name:"Leonardo AI", url:"https://leonardo.ai/", desc:"AI 图像生成平台，提供丰富模型和编辑功能", category:"ai-image" },
+  { name:"Midjourney", url:"https://midjourney.com/", desc:"AI 图像生成工具，Discord 内使用，艺术风格出色", category:"ai-image" },
+  { name:"Stability AI", url:"https://stability.ai/", desc:"Stable Diffusion 母公司，开源图像生成模型", category:"ai-image" },
+
+  // ---- AI 视频 (12) ----
+  { name:"Genmo", url:"https://www.genmo.ai/", desc:"AI 创意内容生成平台，支持视频和 3D 内容创作", category:"ai-video" },
+  { name:"Hailuo AI", url:"https://hailuoai.com/", desc:"MiniMax 推出的 AI 视频生成平台，支持文本/图片生成视频", category:"ai-video" },
+  { name:"Haiper", url:"https://haiper.ai/", desc:"AI 视频生成与编辑平台，支持文生视频和图生视频", category:"ai-video" },
+  { name:"Kaiber", url:"https://kaiber.ai/", desc:"AI 创意视频生成平台，支持多种风格和音乐同步", category:"ai-video" },
+  { name:"Kling", url:"https://klingai.com/", desc:"快手可灵 AI 视频生成，支持文生视频/图生视频", category:"ai-video" },
+  { name:"Luma Dream Machine", url:"https://lumalabs.ai/dream-machine", desc:"AI 视频生成平台，支持文本和图片快速生成视频", category:"ai-video" },
+  { name:"Moonvalley", url:"https://moonvalley.ai/", desc:"AI 视频生成平台，专注于高质量短视频生成", category:"ai-video" },
+  { name:"Pika", url:"https://pika.art/", desc:"AI 视频生成工具，文字/图片转视频", category:"ai-video" },
+  { name:"PixVerse", url:"https://pixverse.ai/", desc:"AI 视频生成平台，支持多种风格转换", category:"ai-video" },
+  { name:"Runway", url:"https://runwayml.com/", desc:"AI 视频生成与编辑平台，Gen-3 模型领先", category:"ai-video" },
+  { name:"Sora", url:"https://openai.com/sora", desc:"OpenAI 推出的 AI 视频生成模型，支持文本/图片生成高质量视频", category:"ai-video" },
+  { name:"Vidu", url:"https://www.vidu.com/", desc:"生数科技推出的 AI 视频生成大模型，支持长视频生成", category:"ai-video" },
+
+  // ---- AI 数字人 (3) ----
+  { name:"D-ID", url:"https://www.d-id.com/", desc:"AI 数字人视频生成，支持图片转说话视频和面部动画", category:"ai-avatar" },
+  { name:"HeyGen", url:"https://www.heygen.com/", desc:"AI 数字人视频生成平台，支持多语言口播和虚拟形象", category:"ai-avatar" },
+  { name:"Synthesia", url:"https://www.synthesia.io/", desc:"AI 虚拟人视频创作平台，支持 140+ 语言和多种虚拟形象", category:"ai-avatar" },
+
+  // ---- AI 剪辑 (6) ----
+  { name:"CapCut", url:"https://capcut.com/", desc:"剪映海外版，AI 视频编辑与剪辑工具", category:"ai-edit" },
+  { name:"Descript", url:"https://www.descript.com/", desc:"AI 视频/音频编辑平台，支持文本式编辑和 AI 配音", category:"ai-edit" },
+  { name:"Fliki", url:"https://fliki.ai/", desc:"AI 视频和语音生成工具，支持文本转视频和配音", category:"ai-edit" },
+  { name:"InVideo", url:"https://invideo.io/", desc:"AI 视频创作平台，支持模板化快速生成营销视频", category:"ai-edit" },
+  { name:"Opus Clip", url:"https://www.opus.pro/", desc:"AI 视频剪辑工具，自动将长视频剪辑为短视频片段", category:"ai-edit" },
+  { name:"Veed.io", url:"https://www.veed.io/", desc:"在线 AI 视频编辑平台，支持字幕生成、翻译和简单剪辑", category:"ai-edit" },
+
+  // ---- AI 模型 (3) ----
+  { name:"Fal.ai", url:"https://fal.ai/", desc:"AI 媒体生成 API，图片/视频/音频推理", category:"ai-model" },
+  { name:"Hugging Face", url:"https://huggingface.co/", desc:"AI 模型社区与 Hub，机器学习协作平台", category:"ai-model" },
+  { name:"Replicate", url:"https://replicate.com/", desc:"AI 模型托管与 API 平台，一键运行开源模型", category:"ai-model" },
+
+  // ---- 短剧出海 (5) ----
+  { name:"DramaBox", url:"https://dramabox.com/", desc:"海外短剧平台，AI短剧内容分发渠道", category:"short-drama" },
+  { name:"FlexTV", url:"https://flextv.com/", desc:"海外短剧平台，AI短剧出海分发渠道", category:"short-drama" },
+  { name:"GoodShort", url:"https://goodshort.com/", desc:"海外短剧平台，AI短剧出海变现渠道", category:"short-drama" },
+  { name:"ReelShort", url:"https://reelshort.com/", desc:"海外短剧平台，AI短剧出海变现主阵地", category:"short-drama" },
+  { name:"ShortMax", url:"https://shortmax.com/", desc:"海外短剧平台，支持AI短剧上线与变现", category:"short-drama" },
+
+  // ---- 接单平台 (4) ----
+  { name:"Fiverr", url:"https://fiverr.com/", desc:"海外AI视频制作接单平台，自由职业服务市场", category:"freelance" },
+  { name:"Upwork", url:"https://upwork.com/", desc:"海外自由职业平台，AI视频定制服务接单", category:"freelance" },
+  { name:"一品威客", url:"https://epwk.com/", desc:"国内威客平台，AI视频代做服务接单", category:"freelance" },
+  { name:"猪八戒", url:"https://zbj.com/", desc:"国内威客服务平台，AI视频制作接单渠道", category:"freelance" },
+
+  // ---- AI 编程 (7) ----
+  { name:"Bolt.new", url:"https://bolt.new/", desc:"AI 全栈应用一键生成，浏览器内即时构建部署", category:"ai-coding" },
+  { name:"Claude Code", url:"https://claude.ai/code", desc:"Anthropic AI 编程助手，支持自动化与 Plan 模式", category:"ai-coding" },
+  { name:"Cursor", url:"https://cursor.com/", desc:"AI 原生代码编辑器，基于 VS Code 深度集成 AI", category:"ai-coding" },
+  { name:"Lovable.dev", url:"https://lovable.dev/", desc:"AI 驱动应用构建平台，自然语言描述即可生成应用", category:"ai-coding" },
+  { name:"Replit", url:"https://replit.com/", desc:"在线 AI 编程协作平台，浏览器内即时开发部署", category:"ai-coding" },
+  { name:"V0.dev", url:"https://v0.dev/", desc:"Vercel AI UI 组件生成工具，用文字描述生成前端代码", category:"ai-coding" },
+  { name:"Windsurf", url:"https://windsurf.com/", desc:"AI 集成开发环境，支持多文件上下文编辑", category:"ai-coding" },
+
+  // ---- AI 工具 (4) ----
+  { name:"Monica", url:"https://monica.im/", desc:"集成多种 AI 模型的浏览器助手", category:"ai-general" },
+  { name:"OpenRouter", url:"https://openrouter.ai/", desc:"大模型 API 汇总站，统一接口调用各种 LLM", category:"ai-general" },
+  { name:"Tavily", url:"https://www.tavily.com/", desc:"专为 AI 设计的搜索引擎，一个 API Key 搜全网", category:"ai-general" },
+  { name:"Toolify.ai", url:"https://www.toolify.ai/", desc:"AI 工具导航站，发现最新的 AI 产品与趋势", category:"ai-general" },
+
+  // ---- 通用大模型 (8) ----
+  { name:"ChatGPT", url:"https://chatgpt.com/", desc:"OpenAI 对话 AI，GPT-4 可用于网页生成、SEO 内容、多语言翻译", category:"llm-chat" },
+  { name:"Claude", url:"https://claude.ai/", desc:"Anthropic 大模型，长文本处理与代码能力突出", category:"llm-chat" },
+  { name:"DeepSeek", url:"https://chat.deepseek.com/", desc:"深度求索大模型，开源强推理能力，性价比极高", category:"llm-chat" },
+  { name:"Gemini", url:"https://gemini.google.com/", desc:"Google 大模型，多模态理解能力强，深度整合 Google 生态", category:"llm-chat" },
+  { name:"智谱清言", url:"https://chatglm.cn/", desc:"智谱 AI 大模型 ChatGLM，国产开源模型代表", category:"llm-chat" },
+  { name:"豆包", url:"https://www.doubao.com/chat/", desc:"字节跳动大模型，国内速度快、多模态能力强", category:"llm-chat" },
+  { name:"豆包视频模型", url:"https://www.doubao.com/chat/", desc:"字节跳动视频生成模型，文生视频/图生视频", category:"llm-chat" },
+  { name:"通义千问", url:"https://tongyi.aliyun.com/", desc:"阿里云大模型 Qwen，开源生态丰富", category:"llm-chat" },
+
+  // ---- 模型API (8) ----
+  { name:"Anthropic Console", url:"https://console.anthropic.com/", desc:"Anthropic Claude API 管理控制台", category:"llm-api" },
+  { name:"DeepSeek API", url:"https://platform.deepseek.com/", desc:"DeepSeek API 管理平台，超低价格推理接口", category:"llm-api" },
+  { name:"Google AI Studio", url:"https://aistudio.google.com/", desc:"Google Gemini API 免费开发平台，含 API Key", category:"llm-api" },
+  { name:"OpenAI Platform", url:"https://platform.openai.com/", desc:"OpenAI API 管理平台，GPT-4/4o 等模型接口", category:"llm-api" },
+  { name:"智谱AI开放平台", url:"https://open.bigmodel.cn/", desc:"智谱 AI GLM 系列模型 API，国产开源模型接口", category:"llm-api" },
+  { name:"火山引擎", url:"https://console.volcengine.com/", desc:"字节跳动云服务平台，豆包/豆包视频模型 API", category:"llm-api" },
+  { name:"火山引擎视频", url:"https://console.volcengine.com/", desc:"字节跳动视频生成模型 API，文生视频/图生视频接口", category:"llm-api" },
+  { name:"阿里云百炼", url:"https://bailian.aliyun.com/", desc:"阿里云大模型平台，通义千问 Qwen API 入口", category:"llm-api" },
+
+  // ---- 模型切换 (1) ----
+  { name:"CC-Switch", url:"https://github.com/farion1231/cc-switch/releases", desc:"切换 Claude Code 底层模型的桌面工具", category:"model-switch" },
+
+  // ---- 网站UI (9) ----
+  { name:"21st.dev", url:"https://21st.dev/home", desc:"网站 UI 组件美化资源，复制粘贴即用", category:"web-ui" },
+  { name:"Aceternity UI", url:"https://ui.aceternity.com/", desc:"现代动画 React 组件库，炫酷交互动效", category:"web-ui" },
+  { name:"Ant Design", url:"https://ant.design/", desc:"蚂蚁集团出品，国内最主流 React UI 组件库", category:"web-ui" },
+  { name:"DaisyUI", url:"https://daisyui.com/", desc:"Tailwind CSS 组件库，语义化 class 名开箱即用", category:"web-ui" },
+  { name:"Headless UI", url:"https://headlessui.com/", desc:"Tailwind 团队出品，无样式无障碍 React/Vue 组件", category:"web-ui" },
+  { name:"MUI", url:"https://mui.com/", desc:"Material Design React 组件库，下载量最大、企业级首选", category:"web-ui" },
+  { name:"Radix UI", url:"https://www.radix-ui.com/", desc:"React 无样式组件原语，shadcn/ui 底层依赖", category:"web-ui" },
+  { name:"Tailwind UI", url:"https://tailwindui.com/", desc:"Tailwind CSS 官方组件库，600+ 专业设计模板", category:"web-ui" },
+  { name:"shadcn/ui", url:"https://ui.shadcn.com/", desc:"现代 React 组件库，复制粘贴即用，2024 年最热门 UI 方案", category:"web-ui" },
+
+  // ---- 前端框架 (2) ----
+  { name:"Next.js", url:"https://nextjs.org/", desc:"React 全栈框架，出海网站开发主流技术栈", category:"frontend" },
+  { name:"NextAuth.js", url:"https://next-auth.js.org/", desc:"Next.js 开源认证库，支持多种登录方式", category:"frontend" },
+
+  // ---- 自动化 (3) ----
+  { name:"Make", url:"https://make.com/", desc:"自动化集成平台（原Integromat），AI视频工作流", category:"automation" },
+  { name:"Zapier", url:"https://zapier.com/", desc:"自动化集成平台，连接AI视频工具与应用", category:"automation" },
+  { name:"n8n", url:"https://n8n.io/", desc:"开源AI视频自动化工作流平台，连接各种AI服务", category:"automation" },
+
+  // ---- 数据工具 (4) ----
+  { name:"Apify", url:"https://apify.com/", desc:"网页数据抓取自动化平台，提供预构建爬虫", category:"data-tools" },
+  { name:"Bright Data", url:"https://brightdata.com/", desc:"商业数据采集平台，代理网络与结构化数据", category:"data-tools" },
+  { name:"Google Tag Manager", url:"https://tagmanager.google.com/", desc:"统一管理网站各类跟踪标签，无需改代码", category:"data-tools" },
+  { name:"IFrame Extractor", url:"https://iframe-ex.netlify.app/", desc:"批量提取链接内的 iframe 信息，支持多链接", category:"data-tools" },
+
+  // ---- 变现 & 产品 (14) ----
+  { name:"Amazon Associates", url:"https://affiliate-program.amazon.com/", desc:"Amazon 联盟营销，全球最大 affiliate 平台", category:"marketing" },
+  { name:"BetaList", url:"https://betalist.com/", desc:"初创产品曝光平台，获取早期种子用户", category:"marketing" },
+  { name:"BuySellAds", url:"https://buysellads.com/", desc:"广告位直卖交易市场，直接对接广告主", category:"marketing" },
+  { name:"CJ Affiliate", url:"https://cj.com/", desc:"全球联盟营销网络，知名品牌 affiliate 合作", category:"marketing" },
+  { name:"Carbon Ads", url:"https://carbonads.net/", desc:"面向开发者的广告平台，技术社区广告投放", category:"marketing" },
+  { name:"Ezoic", url:"https://ezoic.com/", desc:"AI 驱动广告优化平台，自动测试广告位提升收入", category:"marketing" },
+  { name:"Google AdSense", url:"https://adsense.google.com/", desc:"网站广告变现平台，通过展示广告获取被动收入", category:"marketing" },
+  { name:"Google Ads", url:"https://ads.google.com/", desc:"Google 付费广告平台，精准投放搜索与展示广告", category:"marketing" },
+  { name:"Hacker News", url:"https://news.ycombinator.com/", desc:"技术社区与产品发布，Y Combinator 旗下", category:"marketing" },
+  { name:"Impact.com", url:"https://impact.com/", desc:"合作伙伴管理平台，品牌合作与联盟营销", category:"marketing" },
+  { name:"Media.net", url:"https://media.net/", desc:"Yahoo/Bing 上下文广告网络，AdSense 替代方案", category:"marketing" },
+  { name:"PartnerStack", url:"https://partnerstack.com/", desc:"B2B 联盟营销平台，SaaS 产品推广合作", category:"marketing" },
+  { name:"ProductHunt", url:"https://www.producthunt.com/", desc:"产品发布与发现平台，获取早期用户与市场验证", category:"marketing" },
+  { name:"ShareASale", url:"https://shareasale.com/", desc:"联盟营销平台，丰富的商家与推广者网络", category:"marketing" },
+
+  // ---- 行业社区 (1) ----
+  { name:"web.cafe", url:"https://new.web.cafe/", desc:"网站建设与 SEO 行业社区，养网站防老系列教程出处", category:"community" },
+
+  // ---- 竞品参考 (8) ----
+  { name:"Addicting Games", url:"https://www.addictinggames.com/", desc:"月活 400万+，老牌休闲站，轻量街机/益智，广告少", category:"competitor" },
+  { name:"Armor Games", url:"https://armorgames.com/", desc:"月活 500万+，精品向，精选策略/RPG/射击，无垃圾广告", category:"competitor" },
+  { name:"Cool Math Games", url:"https://www.coolmathgames.com/", desc:"月活 1000万+，欧美校园流量极高，益智/逻辑/轻度策略", category:"competitor" },
+  { name:"CrazyGames", url:"https://crazygames.com/", desc:"月活 3000万+，全球顶级网页小游戏平台，7000+款游戏", category:"competitor" },
+  { name:"Friv", url:"https://www.friv.com/", desc:"月活 600万+，极简入口型，首页全图标，全品类休闲游戏", category:"competitor" },
+  { name:"Kongregate", url:"https://www.kongregate.com/", desc:"月活 800万+，老牌社区向平台，侧重 RPG/塔防/策略类游戏", category:"competitor" },
+  { name:"Poki", url:"https://poki.com/", desc:"月活 2500万+，欧美学生/休闲用户多，数万款 HTML5 游戏", category:"competitor" },
+  { name:"Y8", url:"https://www.y8.com/", desc:"月活 1500万+，老牌平台（2006年），10万+款游戏，社区成熟", category:"competitor" },
+
+  // ---- 多语言 (4) ----
+  { name:"Crowdin", url:"https://crowdin.com/", desc:"本地化翻译管理平台，支持团队协作翻译", category:"i18n" },
+  { name:"DeepL", url:"https://deepl.com/", desc:"AI 精准翻译引擎，翻译质量业内领先", category:"i18n" },
+  { name:"Lokalise", url:"https://lokalise.com/", desc:"多语言翻译协作平台，面向开发者的本地化方案", category:"i18n" },
+  { name:"Weglot", url:"https://weglot.com/", desc:"网站一键多语言翻译，无需代码即可国际化", category:"i18n" },
+
+  // ---- 国外名站 (17) ----
+  { name:"Amazon", url:"https://www.amazon.com/", desc:"全球最大电商平台，AWS 云服务， affiliate 变现渠道", category:"global" },
+  { name:"Bing", url:"https://www.bing.com/", desc:"微软搜索引擎，第二大搜索流量来源", category:"global" },
+  { name:"Discord", url:"https://discord.com/", desc:"社群/游戏社区平台，用户互动和粉丝运营渠道", category:"global" },
+  { name:"Facebook", url:"https://www.facebook.com/", desc:"全球最大社交平台，Meta 旗下，社交流量来源", category:"global" },
+  { name:"Google", url:"https://www.google.com/", desc:"全球最大搜索引擎，SEO 流量核心来源", category:"global" },
+  { name:"Instagram", url:"https://www.instagram.com/", desc:"图片/短视频社交平台，Meta 旗下，品牌展示必备", category:"global" },
+  { name:"LinkedIn", url:"https://www.linkedin.com/", desc:"职业社交平台，B2B 营销和招聘核心渠道", category:"global" },
+  { name:"Medium", url:"https://medium.com/", desc:"全球写作平台，内容分发和外链建设渠道", category:"global" },
+  { name:"Pinterest", url:"https://www.pinterest.com/", desc:"图片灵感社交平台，SEO 图片流量来源", category:"global" },
+  { name:"Quora", url:"https://www.quora.com/", desc:"全球问答社区，SEO 长尾关键词流量来源", category:"global" },
+  { name:"Reddit", url:"https://www.reddit.com/", desc:"全球最大社区/论坛，SEO 流量来源，用户讨论聚集地", category:"global" },
+  { name:"TikTok", url:"https://www.tiktok.com/", desc:"全球短视频平台，流量巨大，内容病毒传播首选", category:"global" },
+  { name:"WhatsApp", url:"https://www.whatsapp.com/", desc:"全球即时通讯应用，Meta 旗下，商务沟通渠道", category:"global" },
+  { name:"Wikipedia", url:"https://www.wikipedia.org/", desc:"全球最大百科，SEO 高权重外链来源", category:"global" },
+  { name:"X (Twitter)", url:"https://x.com/", desc:"全球实时信息社交平台，新闻/话题传播核心渠道", category:"global" },
+  { name:"Yahoo", url:"https://www.yahoo.com/", desc:"老牌门户网站，仍有一定搜索和邮箱用户群", category:"global" },
+  { name:"YouTube", url:"https://www.youtube.com/", desc:"全球最大视频平台，Google 旗下，内容营销主阵地", category:"global" },
+
+];
+
+// ============================================================
+// 渲染逻辑 — 无需修改
+// ============================================================
+var currentCategory = "all";
+var currentSearch = "";
+
+function renderTabs() {
+  var tabs = document.getElementById("tabs");
+  tabs.innerHTML = categories.map(function(c) {
+    var cls = c.key === currentCategory ? "tab active" : "tab";
+    return '<span class="' + cls + '" data-key="' + c.key + '">' + c.label + '</span>';
+  }).join("");
+}
+
+function getVisibleSites() {
+  return sites.filter(function(s) {
+    if (currentCategory !== "all" && s.category !== currentCategory) return false;
+    if (currentSearch) {
+      var q = currentSearch.toLowerCase();
+      return (s.name + s.desc + s.url).toLowerCase().indexOf(q) !== -1;
+    }
+    return true;
+  });
+}
+
+function renderContent() {
+  var visible = getVisibleSites();
+  var content = document.getElementById("content");
+
+  if (visible.length === 0) {
+    content.innerHTML = '<div class="empty"><strong>没有匹配的结果</strong><p style="margin-top:8px">试试换个关键词或切换分类</p></div>';
+    document.getElementById("stat").textContent = "共收录 " + sites.length + " 个网站，当前无匹配";
+    return;
+  }
+
+  if (currentCategory === "all") {
+    var order = categories.filter(function(c) { return c.key !== "all"; });
+    var html = "";
+    order.forEach(function(cat) {
+      var items = visible.filter(function(s) { return s.category === cat.key; });
+      if (items.length === 0) return;
+      html += '<section class="category">';
+      html += '<div class="category-header"><h2>' + cat.label + '</h2><span class="count">' + items.length + ' 个</span></div>';
+      html += '<div class="grid">';
+      items.forEach(function(s) { html += cardHtml(s); });
+      html += '</div></section>';
+    });
+    content.innerHTML = html;
+  } else {
+    var html = '<div class="grid">';
+    visible.forEach(function(s) { html += cardHtml(s); });
+    html += '</div>';
+    content.innerHTML = html;
+  }
+
+  document.getElementById("stat").textContent = "共收录 " + sites.length + " 个网站，当前显示 " + visible.length + " 个";
+}
+
+function cardHtml(s) {
+  var host = s.url.replace(/^https?:\/\//, "").replace(/\/.*$/, "");
+  return (
+    '<a href="' + s.url + '" target="_blank" rel="noopener noreferrer" class="card">' +
+    '<div class="card-name">' + esc(s.name) + '</div>' +
+    '<div class="card-desc">' + esc(s.desc) + '</div>' +
+    '<div class="card-domain">' + esc(host) + '</div>' +
+    '</a>'
+  );
+}
+
+function esc(str) {
+  var d = document.createElement("div");
+  d.appendChild(document.createTextNode(str));
+  return d.innerHTML;
+}
+
+// Event bindings
+document.getElementById("tabs").addEventListener("click", function(e) {
+  if (e.target.classList.contains("tab")) {
+    currentCategory = e.target.dataset.key;
+    renderTabs();
+    renderContent();
+  }
+});
+
+var searchTimer;
+document.getElementById("search").addEventListener("input", function(e) {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(function() {
+    currentSearch = e.target.value.trim();
+    renderContent();
+  }, 200);
+});
+
+// Init
+renderTabs();
+renderContent();
+</script>
+
+</body>
+</html>
